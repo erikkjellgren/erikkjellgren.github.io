@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Erik Kjellgren
+url:                 http://erikkjellgren.com
+baseurl:             ''
+paginate:            5
+paginate_path:       "/blog/page:num"
+markdown:            kramdown 
+kramdown:
+  parse_block_html: true
+highlighter:         rouge
+
+# Add pages here to add to header
+pages_list:       
+  Blog: '/blog'
+  Archive: '/archive'
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate

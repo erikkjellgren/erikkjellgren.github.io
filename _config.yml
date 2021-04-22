@@ -16,7 +16,7 @@ highlighter:         rouge
 
 # Add pages here to add to header
 pages_list:
-  Financial Analysis: '/Financial Analysis'
+  dkfinance-models: '/dkfinance-models'
   Blog: '/blog'
   Archive: '/archive'
 

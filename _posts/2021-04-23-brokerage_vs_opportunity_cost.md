@@ -3,6 +3,8 @@ layout: post
 title: Brokerage vs. oppertunity cost
 ---
 
+*Do not use this as financial advice. If in need of financial advice seek professional guidance.*
+
 Many brokers (at least in Denmark), have a pricing model of $$q\%$$ of the trading amount or minimum $$q$$ Euro.
 Given a fixed amount to invest every month, we might think it is best to accumulate the cash to reach the minimum brokerage of $$q\%$$.
 But then we lose the [oppertunity cost](https://en.wikipedia.org/wiki/Opportunity_cost), let us try to find the point where brokerage outweighs opportunity cost.
@@ -64,7 +66,7 @@ Now let us graph the results for different expected returns.
 
 In the above figure, CAGR is [compound annual growth rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate), i.e. the expected yearly return. 
 
-Alternatively the capital needed for the return to outweigh the brokerage can be graphed, as a function of the expected monthly return:
+Alternatively, the capital needed for the return to outweigh the brokerage can be graphed, as a function of the expected monthly return:
 
 <p align="center">
 <img src="{{ site.baseurl }}/assets/plots/capital_vs_return.svg"> 
@@ -74,7 +76,7 @@ In the above graph the minimum capital required for the monthly return to outwei
 
 <!-- python_split -->
 
-### Python details
+## Python details
 
 Importing was is needed.
 

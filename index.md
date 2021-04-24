@@ -26,9 +26,11 @@ tbody tr:nth-child(odd) th {
 <p>Hi!</p>
 
 <center>
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="{{ site.data.social-media.email.title }}"><i class="fa {{ site.data.social-media.email.fa-icon }} fa-3x"></i></a>
 <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}" title="{{ site.data.social-media.github.title }}"><i class="fa {{ site.data.social-media.github.fa-icon }} fa-3x"></i></a>
-<a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="{{ site.data.social-media.linkedin.title }}"><i class="fa {{ site.data.social-media.linkedin.fa-icon }} fa-3x"></i></a>
+<a href="{{ site.data.social-media.reddit.href }}{{ site.data.social-media.reddit.id }}" title="{{ site.data.social-media.reddit.title }}"><i class="fa {{ site.data.social-media.reddit.fa-icon }} fa-3x"></i></a>
+<a href="{{ site.data.social-media.twitter.href }}{{ site.data.social-media.twitter.id }}" title="{{ site.data.social-media.twitter.title }}"><i class="fa {{ site.data.social-media.twitter.fa-icon }} fa-3x"></i></a>
 <a href="{{ site.data.social-media.stackexchange.href }}{{ site.data.social-media.stackexchange.id }}" title="{{ site.data.social-media.stackexchange.title }}"><i class="fa {{ site.data.social-media.stackexchange.fa-icon }} fa-3x"></i></a>
+<a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="{{ site.data.social-media.linkedin.title }}"><i class="fa {{ site.data.social-media.linkedin.fa-icon }} fa-3x"></i></a>
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="{{ site.data.social-media.email.title }}"><i class="fa {{ site.data.social-media.email.fa-icon }} fa-3x"></i></a>
 </center>
 

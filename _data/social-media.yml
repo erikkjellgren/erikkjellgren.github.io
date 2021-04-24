@@ -10,3 +10,26 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
+twitter:
+  id: 'Erik_Kjellgren'
+  href: 'https://twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+reddit:
+  id: 'ErikRK'
+  href: 'https://reddit.com/user/'
+  title: 'Reddit'
+  fa-icon: 'fa-reddit-square'
+
+linkedin:
+  id: 'erik-kjellgren-19108a184'
+  href: 'https://linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+stackexchange:
+  id: '5374673/erik-kjellgren'
+  href: 'https://stackexchange.com/users/'
+  title: 'StackExchange'
+  fa-icon: 'fa-stack-exchange'

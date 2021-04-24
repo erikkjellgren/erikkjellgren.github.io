@@ -4,8 +4,16 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
-  {% include adsense.html %}
+          {% if content contains "<!-- python_split -->" %}
+            {{ content | split:"<!-- python_split -->" | first }}
+              <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
+              {% include adsense.html %}
+            {{ content | split:"<!-- python_split -->" | last }}
+          {% else %}
+              {{ content }}
+              <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
+              {% include adsense.html %}
+          {% endif %}
 </div>
 
 <div class="related">

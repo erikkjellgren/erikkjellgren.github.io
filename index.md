@@ -23,7 +23,11 @@ tbody tr:nth-child(odd) th {
 </style>
 
 
-<p>Hi!</p>
+<p>Hi, I am Erik.</p>
+
+<p>Currently I am working on my PhD in Quantum Chemistry at <a href="SDU.dk">SDU</a>.</p>
+
+<p>I like to use mathematical and nummerical tools to solve different problems or questions, which is what can be seen in the different posts on this blog.</p>
 
 <center>
 <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}" title="{{ site.data.social-media.github.title }}"><i class="fa {{ site.data.social-media.github.fa-icon }} fa-3x"></i></a>

@@ -58,7 +58,7 @@ The optimal frequency of investing (assuming monthly) can now found:
 $$N_\mathrm{opt} = \left\lceil\frac{p+\frac{p}{r_{m}}}{k}\right\rceil$$
 
 Here the special brackets specify rounding up to nearest integer.
-Now let us graph the results for different expected returns.
+Now let us graph the results for different expected returns and $$p=2$$ Euro.
 
 <p align="center">
 <img src="{{ site.baseurl }}/assets/plots/brokerage_vs_oppertunity_cost.svg"> 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Constructing $$\left<\phi_i\left|\nabla^x r^{-1}\right|\phi_j\right>$$ by partial integration
+title: Constructing molecular integrals with derivative on the r_inv operator by partial integration
 ---
 
 In quantum chemstry integrals of the following form are sometimes needed:

@@ -5,25 +5,28 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <!a href="{{ site.baseurl }}/{{ post.url }}">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-          {% if post.content contains "<!-- python_split -->" %}
-            {{ post.content | split:"<!-- python_split -->" | first }}
-              <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
-              {% include adsense.html %}
-            {{ post.content | split:"<!-- python_split -->" | last }}
-          {% else %}
-              {{ post.content }}
-              <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
-              {% include adsense.html %}
-          {% endif %}
-  </div>
-  {{ post.aside }}
+    {% if post.title contains "(OUT-DATED)" %}
+    {% else %}
+      <div class="post">
+        <h1 class="post-title">
+          <!a href="{{ site.baseurl }}/{{ post.url }}">
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        {% if post.content contains "<!-- python_split -->" %}
+          {{ post.content | split:"<!-- python_split -->" | first }}
+          <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
+          {% include adsense.html %}
+          {{ post.content | split:"<!-- python_split -->" | last }}
+        {% else %}
+          {{ post.content }}
+          <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
+          {% include adsense.html %}
+        {% endif %}
+      </div>
+      {{ post.aside }}
+    {% endif %}
   {% endfor %}
 </div>
 

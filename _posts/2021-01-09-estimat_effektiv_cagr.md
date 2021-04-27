@@ -65,7 +65,8 @@ $$ \begin{eqnarray}
 
 Slut udtrykket er nu:
 
-$$ \mathrm{CAGR_{effektiv}}=\left(\left(1-q_{\mathrm{effektiv}}\right)\cdot\left(1+\bar{a}-\mathrm{åop}\right)^{y}+q_{\mathrm{effektiv}}\right)^{1/y}-1 \label{eq1}\tag{1} $$
+$$ \mathrm{CAGR_{effektiv}}=\left(\left(1-q_{\mathrm{effektiv}}\right)\cdot\left(1+\bar{a}-\mathrm{åop}\right)^{y}+q_{\mathrm{effektiv}}\right)^{1/y}-1
+\label{eq3}\tag{1} $$
 
 ## Lagerbeskatning udledning
 
@@ -124,7 +125,7 @@ $$ \widetilde{\mathrm{CAGR}}_{\mathrm{effektiv}}=\left(\bar{a}-\mathrm{åop}\rig
 
 ## Diskussion af ligninger
 
-I ligningerne (\ref{eq1}) og (\ref{eq2}) er $$\bar{a}$$ forventet gennemsnitligt årligt afkast før skat og ÅOP,
+I ligningerne (\ref{eq3}) og (\ref{eq2}) er $$\bar{a}$$ forventet gennemsnitligt årligt afkast før skat og ÅOP,
 og $$q_{\mathrm{effektiv}}$$ er den effektiv skatteprocent, vil være mellem 27% og 42% for et normalt aktiedepot.
 
 Det kan ses at ligningen for den effektive CAGR efter skat for et realisationsbeskattet depot er afhængig af antal år.
@@ -134,7 +135,7 @@ Lad os se hvordan den effektive CAGR afhænger af antal år for et givent afkast
 <img src="{{ site.baseurl }}/assets/plots/cagr7.svg"> 
 </p>
 
-Ovenstående graf viser ligningerne (\ref{eq1}) og (\ref{eq2}).
+Ovenstående graf viser ligningerne (\ref{eq3}) og (\ref{eq2}).
 De stiplede linjer er 27% skat og 42% skat.
 Det kan ses at den effektive CAGR for lagerbeskatning altid er mindre end den for realisationsbeskatning, hvilket er som forventet.
 For et realisationsbeskattet depot vil den effektive CAGR gå mod CAGR før skat jo flere år der passere.
@@ -165,7 +166,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 {% endhighlight %}
 
-Definere en funktion for ligning (\ref{eq1}):
+Definere en funktion for ligning (\ref{eq3}):
 
 {% highlight python %}
 def effektiv_cagr_realisation(cagr: float, skatteprocent: float, åop: float, år: int) -> float:

@@ -8,6 +8,12 @@ Topics for modeling mostly arises from discussions on [/r/dkfinance](https://www
 
 ---
 
+### [Model for the price of Danish investment funds]({% post_url 2021-05-09-model_price_of_danish_funds %})
+
+Model for the price of Danish investment funds over time.
+
+---
+
 ### [Danske investeringsforeninger vs. ETFer beskatning (In Danish)]({% post_url 2020-11-23-lager_vs_realisation %})
 
 Model til at sammenligne Danske investeringsforeninger med ETF'er.

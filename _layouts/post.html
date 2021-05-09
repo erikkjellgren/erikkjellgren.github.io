@@ -9,6 +9,8 @@ layout: default
     <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
     {% include adsense.html %}
     {{ content | split:"<!-- python_split -->" | last }}
+  {% else if post.title contains "(OUT-DATED)" %}
+    {{ content }}
   {% else %}
     {{ content }}
     <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>

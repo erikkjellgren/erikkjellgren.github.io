@@ -1,0 +1,5475 @@
+Microsoft Corp:MSFT
+Taiwan Semiconductor Manufacturing Co Ltd:TSM
+UnitedHealth Group Inc:UNH
+Nestle SA:NSRGY
+ASML Holding NV:ASML
+Roche Holding AG:RHHBY
+Adobe Inc:ADBE
+Cisco Systems Inc/Delaware:CSCO
+Novartis AG:NVS
+Abbott Laboratories:ABT
+salesforce.com Inc:CRM
+AbbVie Inc:ABBV
+Amgen Inc:AMGN
+Linde PLC:LIN
+SAP SE:SAP
+Siemens AG:SIEGY
+Toronto-Dominion Bank/The:TD.TO
+Caterpillar Inc:CAT
+AstraZeneca PLC:AZN
+TOTAL SE:VTI
+Unilever PLC:UL
+Sanofi:SNY
+CVS Health Corp:CVS
+Anthem Inc:ANTM
+Canadian National Railway Co:CNR.TO
+Cigna Corp:CI
+Mondelez International Inc:MDLZ
+Iberdrola SA:IBE.MC
+Enel SpA:ENIC
+Prologis Inc:PLD
+Colgate-Palmolive Co:CL
+Zurich Insurance Group AG:ZURN.SW
+Infosys Ltd:INFY
+National Australia Bank Ltd:NAB.AX
+Schneider Electric SE:SU.PA
+GlaxoSmithKline PLC:GSK
+General Motors Co:GM
+BNP Paribas SA:BNP.PA
+UBS Group AG:UBS
+Ecolab Inc:ECL
+Humana Inc:HUM
+Daiichi Sankyo Co Ltd:DSNKY
+Koninklijke Philips NV:PHG
+Waste Management Inc:WM
+Illumina Inc:ILMN
+Honda Motor Co Ltd:HMC
+Regeneron Pharmaceuticals Inc:REGN
+Infineon Technologies AG:IFNNY
+Fast Retailing Co Ltd:FRCOY
+Edwards Lifesciences Corp:EW
+STMicroelectronics NV:STM
+ITOCHU Corp:ITOCY
+Newmont Corp:NEM
+Dow Inc:DOW
+Wesfarmers Ltd:WES.AX
+Intesa Sanpaolo SpA:ISP.MI
+Danone SA:BN.PA
+Kering SA:KER.PA
+Baxter International Inc:BAX
+Industria de Diseno Textil SA:ITX.VI
+HP Inc:HP
+Sempra Energy:SRE
+General Mills Inc:GIS
+Biogen Inc:BIIB
+Agilent Technologies Inc:A
+Barrick Gold Corp:GOLD
+AXA SA:AXTA
+Deutsche Boerse AG:DB1.DE
+Coca-Cola HBC AG:CCH.L
+Mitsui & Co Ltd:SMFG
+Yum China Holdings Inc:YUMC
+Banco Bilbao Vizcaya Argentaria SA:BBVA
+ASE Technology Holding Co Ltd:ASX
+Transurban Group:TCL.AX
+International Flavors & Fragrances Inc:IFF
+Tokio Marine Holdings Inc:TKOMY
+RELX PLC:RELX
+Shinhan Financial Group Co Ltd:SHG
+Amadeus IT Group SA:AMS.MC
+Bayerische Motoren Werke AG:BMW.DE
+United Microelectronics Corp:UMC
+Kao Corp:KAOOY
+Welltower Inc:WELL
+Samsung SDI Co Ltd:006400.KS
+Fujitsu Ltd:FJTSY
+Komatsu Ltd:KMTUY
+Stanley Black & Decker Inc:SWK
+Sandvik AB:SAND.ST
+Swiss Re AG:SREN.SW
+State Street Corp:STT
+KB Financial Group Inc:KB
+Chugai Pharmaceutical Co Ltd:CHGCY
+ONEOK Inc:OKE
+CBRE Group Inc:CBRE
+Credit Suisse Group AG:CS
+Itau Unibanco Holding SA:ITUB
+Fortescue Metals Group Ltd:FMG.AX
+Hershey Co/The:HSY
+Neste Oyj:NESTE.HE
+Republic Services Inc:RSG
+Engie SA:ENGI.PA
+NN Group NV:NN.AS
+Woodside Petroleum Ltd:WPL.AX
+Societe Generale SA:GLE.PA
+Banco Bradesco SA:BBD
+UPM-Kymmene Oyj:UPM.HE
+Alstom SA:ALSMY
+Ventas Inc:VTR
+Swedbank AB:SWED-A.ST
+H & M Hennes & Mauritz AB:HM-B.ST
+Kellogg Co:K
+Brambles Ltd:BMBLF
+CapitaLand Ltd:C38U.SI
+Nomura Holdings Inc:NMR
+Hewlett Packard Enterprise Co:HPE
+Sysmex Corp:SSMXY
+SGS SA:SGSVF
+NortonLifeLock Inc:NLOK
+AU Optronics Corp:AUOTY
+CNH Industrial NV:CNHI
+NEC Corp:NECB
+MS&AD Insurance Group Holdings Inc:MS
+Sekisui House Ltd:SKHSY
+Dexus:DXS.AX
+Sonova Holding AG:SONVY
+CaixaBank SA:CABK.MC
+Red Electrica Corp SA:REE.MC
+EDP - Energias de Portugal SA:EDP.LS
+LG Electronics Inc:066570.KS
+Siemens Energy AG:ENR.DE
+Omron Corp:OMRNY
+Z Holdings Corp:AMC
+Ferrovial SA:FER.MC
+SK Holdings Co Ltd:034730.KS
+Ono Pharmaceutical Co Ltd:OPHLY
+Westrock Co:WRK
+LG Household & Health Care Ltd:051900.KS
+Nomura Research Institute Ltd:4307.T
+Endesa SA:ELE.MC
+Smith & Nephew PLC:SNN
+Enagas SA:ENG.MC
+Naturgy Energy Group SA:NTGY.MC
+Burberry Group PLC:BRBY.L
+Castellum AB:CAST.ST
+Host Hotels & Resorts Inc:HST
+SK Innovation Co Ltd:096770.KS
+Ajinomoto Co Inc:AJINY
+Sydney Airport:SYD.AX
+LANXESS AG:LXS.DE
+Mitsubishi Chemical Holdings Corp:4188.T
+Sekisui Chemical Co Ltd:SKSUF
+ASR Nederland NV:ASRNL.AS
+VMware Inc:VMW
+Galp Energia SGPS SA:GALP.LS
+Banco do Brasil SA:BBAS3.SA
+Teck Resources Ltd:TECK
+Terna Rete Elettrica Nazionale SpA:TRN.MI
+Veolia Environnement SA:VEOEY
+Nippon Prologis REIT Inc:3283.T
+Daiwa Securities Group Inc:DSEEY
+DaVita Inc:DVA
+Moncler SpA:MONC.MI
+Sojitz Corp:2768.T
+Stockland:SGP.AX
+Siemens Gamesa Renewable Energy SA:GCTAY
+Kesko Oyj:KESKOB.HE
+Samsung C&T Corp:028260.KS
+Temenos AG:TEMN.SW
+NTT Data Corp:NTDTY
+GPT Group/The:GPT.AX
+Kilroy Realty Corp:KRC
+Lixil Corp:JSGRY
+Royal Mail PLC:RMG.L
+Owens Corning:OC
+Gap Inc/The:GPS
+Toppan Printing Co Ltd:TOPPY
+Norsk Hydro ASA:NHY.OL
+Carrefour SA:CA.PA
+ABN AMRO Bank NV:ABN.AS
+Signify NV:SGFY
+Clariant AG:CLN.SW
+Nokian Renkaat Oyj:TYRES.HE
+Swire Properties Ltd:1972.HK
+Bancolombia SA:CIB
+Gold Fields Ltd:GFI
+Standard Life Aberdeen PLC:SLA.L
+OMV AG:OMV.VI
+Electrolux AB:ELUX-B.ST
+Atos SE:ATOS
+Polymetal International PLC:POLY.L
+Randstad NV:RAND.AS
+ANA Holdings Inc:9202.T
+Saipem SpA:SPM.MI
+Sodexo SA:SW.PA
+Hyundai Engineering & Construction Co Ltd:000720.KS
+Valeo SA:FR.PA
+TOTO Ltd:TOTO.JK
+Valmet Oyj:VALMT.HE
+Ricoh Co Ltd:RICOY
+Air France-KLM:AF.PA
+Marui Group Co Ltd:8252.T
+Electricite de France SA:ECIFY
+Prysmian SpA:PRY.MI
+Kimco Realty Corp:KIM
+BillerudKorsnas AB:BLRDF
+Teradata Corp:TDC
+METRO AG:MILE
+Vicinity Centres:VCX.AX
+HUGO BOSS AG:BOSS.DE
+Nissin Foods Holdings Co Ltd:2897.T
+Samsung Fire & Marine Insurance Co Ltd:000810.KS
+Nabtesco Corp:6268.T
+Pearson PLC:PSO
+PostNL NV:PNL.AS
+Samsung Electro-Mechanics Co Ltd:009150.KS
+Yokogawa Electric Corp:6841.T
+Mapfre SA:MAP.MC
+Storebrand ASA:STB.OL
+Bankinter SA:BKT.MC
+Konica Minolta Inc:KNCAY
+Arkema SA:AKE.PA
+HOCHTIEF AG:HOT.DE
+Italgas SpA:IG.MI
+Deutsche Telekom AG:DTEGY
+Verizon Communications Inc:VZ
+NextEra Energy Inc:NEE
+Johnson & Johnson:JNJ
+PepsiCo Inc:PEP
+Vertex Pharmaceuticals Inc:VRTX
+Duke Energy Corp:DUK
+McDonald's Corp:MCD
+Visa Inc:V
+Franco-Nevada Corp:FNV
+Merck & Co Inc:MRK
+Gilead Sciences Inc:GILD
+Southern Co/The:SCCO
+Eli Lilly and Co:LLY
+Consolidated Edison Inc:ED
+Hermes International:HESAY
+SoftBank Corp:9984.T
+Keysight Technologies Inc:KEYS
+Keyence Corp:6861.T
+Walmart Inc:WMT
+Procter & Gamble Co/The:PG
+Accenture PLC:ACN
+Paychex Inc:PAYX
+Public Storage:PSA
+Coloplast A/S:COLO-B.CO
+Wheaton Precious Metals Corp:WPM
+Kroger Co/The:KR
+T-Mobile US Inc:TMUS
+Xcel Energy Inc:XEL
+Citrix Systems Inc:CTXS
+Tyler Technologies Inc:TYL
+Hormel Foods Corp:HRL
+Agnico Eagle Mines Ltd:AEM
+American Electric Power Co Inc:AEP
+Danaher Corp:DHR
+Medtronic PLC:MDT
+Canon Inc:CAJ
+Marsh & McLennan Cos Inc:MSN.SG
+Swisscom AG:SCMN.SW
+Jardine Matheson Holdings Ltd:J36.SI
+Allstate Corp/The:ALL
+Starbucks Corp:SBUX
+Givaudan SA:GIVN.SW
+Hang Seng Bank Ltd:0011.HK
+Fidelity National Information Services Inc:FIS
+WEC Energy Group Inc:WEC
+Link REIT:0823.HK
+Electronic Arts Inc:EA
+Jack Henry & Associates Inc:JKHY
+Dollar General Corp:DG
+Telenor ASA:TEL.OL
+AT&T Inc:AT
+Black Knight Inc:BKI
+Aon PLC:AON
+Newcrest Mining Ltd:NCM.AX
+Stryker Corp:SYK
+EssilorLuxottica SA:EL.PA
+Berkshire Hathaway Inc:BRK-B
+Crown Castle International Corp:CCI
+Oracle Corp:ORCL
+Pfizer Inc:PFE
+MTR Corp Ltd:MTR
+Dominion Energy Inc:D
+Fiserv Inc:FISV
+Western Union Co/The:WU
+Walt Disney Co/The:DIS
+Automatic Data Processing Inc:ADP
+Travelers Cos Inc/The:PA9.DU
+Take-Two Interactive Software Inc:TTWO
+Activision Blizzard Inc:ATVI
+Obic Co Ltd:4684.T
+Waste Connections Inc:WCN
+Coca-Cola Co/The:KO
+Beiersdorf AG:BEI.DE
+Broadridge Financial Solutions Inc:BR
+Oriental Land Co Ltd/Japan:4661.T
+Church & Dwight Co Inc:CHD
+McCormick & Co Inc/MD:MKC
+Oversea-Chinese Banking Corp Ltd:O39.SI
+Vonovia SE:VNA.DE
+Elisa Oyj:ELISA.HE
+Kerry Group PLC:KRZ.IR
+Markel Corp:MKL
+Japan Real Estate Investment Corp:8952.T
+TJX Cos Inc/The:TJX.MU
+Everest Re Group Ltd:RE
+Nippon Building Fund Inc:8951.T
+KDDI Corp:9433.T
+CME Group Inc:CME
+FUJIFILM Holdings Corp:FUJIY
+Amphenol Corp:APH
+Groupe Bruxelles Lambert SA:GBLB.BR
+Deutsche Wohnen SE:DWNI.DE
+Clorox Co/The:CLX
+Singapore Telecommunications Ltd:Z74.SI
+J M Smucker Co/The:SJM
+Novo Nordisk A/S:NVO
+F5 Networks Inc:FFIV
+Evergy Inc:EVRG
+Koninklijke Ahold Delhaize NV:AD.AS
+Eversource Energy:ES
+Kirkland Lake Gold Ltd:KL
+Japan Post Holdings Co Ltd:6178.T
+AutoZone Inc:AZO
+CH Robinson Worldwide Inc:CHRW
+International Business Machines Corp:IBM
+Juniper Networks Inc:JNPR
+Telefonica SA:TEF
+Swiss Prime Site AG:SPSN.SW
+Extra Space Storage Inc:EXR
+Nintendo Co Ltd:NTDOY
+Progressive Corp/The:PGR
+Chubb Ltd:CB
+Equity Residential:EQR
+Brown & Brown Inc:BRO
+Booz Allen Hamilton Holding Corp:BAH
+Home Depot Inc/The:HD
+American Tower Corp:AMT
+RenaissanceRe Holdings Ltd:RNR
+Pan Pacific International Holdings Corp:7532.T
+Comcast Corp:CMCSA
+Bank Leumi Le-Israel BM:BLMIF
+Geberit AG:GEBN.SW
+Secom Co Ltd:SOMLY
+Masimo Corp:MASI
+Aena SME SA:ANNSF
+Cognizant Technology Solutions Corp:CTSH
+Spark New Zealand Ltd:SPK.NZ
+Suntory Beverage & Food Ltd:STBFY
+Akamai Technologies Inc:AKAM
+Becton Dickinson and Co:BDX
+Pinnacle West Capital Corp:PNW
+Air Liquide SA:AI.PA
+Kinross Gold Corp:KGC
+Nagoya Railroad Co Ltd:9048.T
+CMS Energy Corp:CMS
+Siemens Healthineers AG:SHL.DE
+Intercontinental Exchange Inc:ICE
+Koninklijke KPN NV:KPN.AS
+DBS Group Holdings Ltd:D05.SI
+AMERCO:UHAL
+W R Berkley Corp:WRB
+Keihan Holdings Co Ltd:9045.T
+Merck KGaA:MRK.DE
+MonotaRO Co Ltd:3064.T
+Kimberly-Clark Corp:KMB
+TE Connectivity Ltd:TEL
+Yamada Holdings Co Ltd:9831.T
+Symrise AG:SY1.DE
+United Overseas Bank Ltd:U11.SI
+Mizuho Financial Group Inc:MFG
+Honeywell International Inc:HON
+Japan Post Bank Co Ltd:7182.T
+Kyushu Railway Co:9142.T
+Cboe Global Markets Inc:CBOE
+Quest Diagnostics Inc:DGX
+Bio-Rad Laboratories Inc:BIO
+Telefonaktiebolaget LM Ericsson:ERIC
+Vodafone Group PLC:VOD
+Apple Inc:AAPL
+Campbell Soup Co:CPB
+Incyte Corp:INCY
+Daiwa House REIT Investment Corp:8984.T
+Dassault Systemes SE:DSY.PA
+Nitori Holdings Co Ltd:NCLTF
+SG Holdings Co Ltd:9143.T
+Asahi Intecc Co Ltd:7747.T
+UCB SA:UCB.BR
+Odakyu Electric Railway Co Ltd:9007.T
+Bristol-Myers Squibb Co:BMY
+Telefonica Deutschland Holding AG:0QAL.IL
+Nippon Paint Holdings Co Ltd:4612.T
+Air Products and Chemicals Inc:APD
+Genuine Parts Co:GPC
+BCE Inc:BCE
+Ameren Corp:AEE
+Dollar Tree Inc:DLTR
+L3Harris Technologies Inc:LHX
+Bridgestone Corp:BRDCY
+PCCW Ltd:0008.HK
+Henry Schein Inc:HSIC
+Target Corp:TGT
+ABC-Mart Inc:2670.T
+NIKE Inc:NKE
+Japan Airlines Co Ltd:9201.T
+Santen Pharmaceutical Co Ltd:SNPHY
+Omnicom Group Inc:OMC
+Equity LifeStyle Properties Inc:ELS
+Toyo Suisan Kaisha Ltd:TSUKY
+Amcor PLC:AMCR
+Palo Alto Networks Inc:PANW
+Welcia Holdings Co Ltd:3141.T
+O'Reilly Automotive Inc:ORLY
+Singapore Exchange Ltd:S68.SI
+Singapore Airlines Ltd:C6L.SI
+Azbil Corp:YMK.F
+Kuehne + Nagel International AG:KNIN.SW
+Cooper Cos Inc/The:COO
+FleetCor Technologies Inc:FLT
+DiaSorin SpA:DIA.MI
+PeptiDream Inc:4587.T
+Entergy Corp:ETR
+American Water Works Co Inc:AWK
+Lawson Inc:LAWS
+Nissan Motor Co Ltd:NSANY
+Telia Co AB:TELIA1.HE
+Domino's Pizza Inc:DPZ
+Cabot Oil & Gas Corp:COG
+Toho Gas Co Ltd:THOGF
+DENTSPLY SIRONA Inc:XRAY
+VeriSign Inc:VRSN
+Texas Instruments Inc:TXN
+Takeda Pharmaceutical Co Ltd:TAK
+Hirose Electric Co Ltd:HROEY
+BioMarin Pharmaceutical Inc:BMRN
+Chr Hansen Holding A/S:CHR.CO
+Erie Indemnity Co:ERIE
+Broadcom Inc:AVGO
+Costco Wholesale Corp:COST
+Nokia Oyj:NOK
+Orkla ASA:ORK.OL
+Rinnai Corp:RINIF
+Jeronimo Martins SGPS SA:JRONY
+Keio Corp:9008.T
+MEIJI Holdings Co Ltd:2269.T
+H Lundbeck A/S:LUN.CO
+Zoom Video Communications Inc:ZM
+Sun Communities Inc:SUI
+Toho Co Ltd/Tokyo:9602.T
+ICA Gruppen AB:ICA.ST
+LINE Corp:NCLH
+Seagen Inc:SGEN
+Advance Auto Parts Inc:AAP
+BOC Hong Kong Holdings Ltd:2388.HK
+Amazon.com Inc:AMZN
+Alphabet Inc:GOOG
+Facebook Inc:FB
+Tesla Inc:TSLA
+JPMorgan Chase & Co:JPM
+Samsung Electronics Co Ltd:005930.KS
+Alibaba Group Holding Ltd:BABA
+Tencent Holdings Ltd:TCEHY
+NVIDIA Corp:NVDA
+Mastercard Inc:MA
+Bank of America Corp:BAC
+PayPal Holdings Inc:PYPL
+Exxon Mobil Corp:XOM
+Intel Corp:INTC
+Netflix Inc:NFLX
+Chevron Corp:CVX
+Airbus SE:AIR.PA
+Lowe's Cos Inc:LWE.BE
+BHP Group Ltd:BHP
+Thermo Fisher Scientific Inc:TMO
+Union Pacific Corp:UNP
+LafargeHolcim Ltd:HCMLY
+Boeing Co/The:BA
+Toyota Motor Corp:TM
+Ford Motor Co:F
+Commonwealth Bank of Australia:CBA.AX
+ICICI Bank Ltd:IBN
+Meituan:3690.HK
+QUALCOMM Inc:QCOM
+Reliance Industries Ltd:RELIANCE.NS
+Daimler AG:DAI.DE
+Intuit Inc:ISRG
+Applied Materials Inc:AMAT
+HSBC Holdings PLC:HSBC
+Sony Group Corp:SONY
+Citigroup Inc:C
+Morgan Stanley:MS
+Allianz SE:ALV.DE
+Bank of Nova Scotia/The:BNS.TO
+ServiceNow Inc:NOW
+Shopify Inc:SHOP
+Wells Fargo & Co:WFC
+Raytheon Technologies Corp:RTX
+JD.com Inc:JD
+APERAM SA:APAM.AS
+Eurofins Scientific SE:ERF.PA
+General Electric Co:GE
+MercadoLibre Inc:MELI
+United Parcel Service Inc:UPS
+Experian PLC:EXPN.L
+CSX Corp:CSX
+Ferguson PLC:FERG
+SoftBank Group Corp:9984.T
+3M Co:MMM
+AIA Group Ltd:1299.HK
+Deere & Co:DE
+Booking Holdings Inc:BKNG
+Micron Technology Inc:MU
+Georg Fischer AG:0QP4.IL
+Royal Bank of Canada:RY.TO
+Yulon Finance Corp:9941A.TW
+Bank of Montreal:BMO.TO
+Royal Dutch Shell PLC:RDS-B
+Industrivarden AB:IDDTF
+Cadence Design Systems Inc:CDNS
+Baidu Inc:BIDU
+Morneau Shepell Inc:6M8.SG
+BASF SE:BAS.DE
+Naspers Ltd:NPSNY
+Advanced Micro Devices Inc:AMD
+Ferrari NV:RACE
+American Express Co:AXP
+Dr Reddy's Laboratories Ltd:RDY
+Square Inc:SQ
+Celanese Corp:CE
+Lam Research Corp:LRCX
+PNC Financial Services Group Inc/The:PNC
+Goldman Sachs Group Inc/The:GS
+Hongkong Land Holdings Ltd:H78.SI
+Canadian Imperial Bank of Commerce:CM.TO
+AMETEK Inc:AME
+Fortis Inc/Canada:FTS.TO
+Sika AG:SIKA.SW
+Cofinimmo SA:COFB.BR
+ArcelorMittal SA:MT
+Zoetis Inc:ZTS
+Man Group PLC/Jersey:GMG.V
+Autodesk Inc:ADSK
+WPP PLC:WPP
+Illinois Tool Works Inc:ITW
+CSL Ltd:CSL
+Constellation Software Inc/Canada:CSU.TO
+adidas AG:ADDYY
+Blackstone Mortgage Trust Inc:BXMT
+Nicolet Bankshares Inc:NCBS
+Eastman Chemical Co:EMN
+Glencore PLC:GLNCY
+Lonza Group AG:LONN.SW
+Truist Financial Corp:TFC
+ConocoPhillips:COP
+Canadian Pacific Railway Ltd:CP
+ZTO Express Cayman Inc:ZTO
+Alexandria Real Estate Equities Inc:ARE
+Macquarie Group Ltd:MQG.AX
+Ross Stores Inc:ROST
+Emerson Electric Co:EMR
+Estee Lauder Cos Inc/The:EL
+Charles Schwab Corp/The:SCHW
+Deutsche Post AG:DPW.DE
+Husqvarna AB:HSQVY
+Volkswagen AG:VWAGY
+Charter Communications Inc:CHTR
+Tokyo Electron Ltd:8035.T
+Atlas Copco AB:ATLC
+Petroleo Brasileiro SA:PBR
+POSCO:PKX
+Global Payments Inc:GPN
+Sun Life Financial Inc:SLF.TO
+Recruit Holdings Co Ltd:6098.T
+Curtiss-Wright Corp:CW
+Aedifica SA:AED.BR
+Westpac Banking Corp:WBC.AX
+Hong Kong Exchanges & Clearing Ltd:HKXCY
+Boston Scientific Corp:BSX
+Diageo PLC:DEO
+Intuitive Surgical Inc:ISRG
+Synopsys Inc:SNPS
+Schlumberger NV:SLB
+Reckitt Benckiser Group PLC:RBGLY
+Hyundai Motor Co:HYMTF
+IDEXX Laboratories Inc:IDXX
+Bayer AG:BAYN.DE
+US Bancorp:USB.BA
+Capital One Financial Corp:COF
+Ube Industries Ltd:UBEOY
+Jardine Strategic Holdings Ltd:JSL.SG
+Zions Bancorp NA:ZION
+FedEx Corp:FDX
+Trip.com Group Ltd:TCOM
+Sugi Holdings Co Ltd:7649.T
+Mettler-Toledo International Inc:MTD
+LUKOIL PJSC:LUKOY
+Realty Income Corp:O
+Barclays PLC:BCS
+Mid-America Apartment Communities Inc:MAA
+NetEase Inc:NTES
+Huazhu Group Ltd:HTHT
+Rio Tinto Ltd:RIO
+DuPont de Nemours Inc:DD
+Goodman Group:GMG.AX
+Hartford Financial Services Group Inc/The:HIG
+Constellation Brands Inc:STZ
+HCA Healthcare Inc:HCA
+Norfolk Southern Corp:NSC
+Workday Inc:WDAY
+Qube Holdings Ltd:QUB.AX
+AvalonBay Communities Inc:AVB
+NXP Semiconductors NV:NXPI
+China Construction Bank Corp:0939.HK
+Skyworks Solutions Inc:SWKS
+Novatek PJSC:NVTK.ME
+Akzo Nobel NV:AKZA.AS
+Sumitomo Mitsui Financial Group Inc:SMFG
+Microchip Technology Inc:MCHP
+Weibo Corp:WB
+Carrier Global Corp:CARR
+Cerner Corp:CERN
+LG Chem Ltd:051910.KS
+Rogers Communications Inc:RCI-B.TO
+Trelleborg AB:TREL-B.ST
+Algonquin Power & Utilities Corp:AQN.TO
+Vestas Wind Systems A/S:VWS.CO
+Arrow Financial Corp:AROW
+TC Energy Corp:TRP
+Southern Copper Corp:SCCO
+Thule Group AB:THULE.ST
+Brookfield Asset Management Inc:BAM
+Eaton Corp PLC:ETN
+Hanover Insurance Group Inc/The:THG
+Garmin Ltd:GRMN
+Hubbell Inc:HUBB
+Vale SA:VALE
+Allreal Holding AG:ALLN.SW
+Lululemon Athletica Inc:LULU
+Heineken Holding NV:HKHHY
+United Rentals Inc:URI
+Boston Properties Inc:BXP
+Shin-Etsu Chemical Co Ltd:SHECY
+Daikin Industries Ltd:DKILY
+Analog Devices Inc:ADI
+Martin Marietta Materials Inc:MLM
+VF Corp:VFF
+Hitachi Ltd:HTHIY
+DSV PANALPINA A/S:DSV.CO
+Millicom International Cellular SA:TIGO
+LyondellBasell Industries NV:LYB
+Teijin Ltd:TINLY
+Moody's Corp:MCO
+SVB Financial Group:SIVB
+Prudential Financial Inc:PRU
+Pembina Pipeline Corp:PBA
+Nidec Corp:NJDCY
+Rosneft Oil Co PJSC:ROSN.ME
+EMIS Group PLC:EMIS.L
+American Financial Group Inc/OH:AFG
+Heineken NV:HEIA.AS
+Roper Technologies Inc:ROP
+Tata Motors Ltd:TTM
+Parker-Hannifin Corp:PH
+Vinci SA:VINP
+ANSYS Inc:ANSS
+Sherwin-Williams Co/The:SHW
+Mobimo Holding AG:MOBN.SW
+United Community Banks Inc/GA:UCBI
+Rockwell Automation Inc:ROK
+RWE AG:RWE.DE
+Equinix Inc:EQIX
+ING Groep NV:ING
+Unibail-Rodamco-Westfield:URW.AS
+Sberbank of Russia PJSC:SBER.ME
+Canadian Tire Corp Ltd:CTC-A.TO
+Mitsubishi Logistics Corp:MIB.F
+Alexion Pharmaceuticals Inc:ALXN
+Snap Inc:SNAP
+Marriott International Inc/MD:MAR
+KLA Corp:KLAC
+Kamigumi Co Ltd:9364.T
+PPG Industries Inc:PPG
+Grupo Catalana Occidente SA:GCO.MC
+Nagase & Co Ltd:8012.T
+American International Group Inc:AIG
+Walgreens Boots Alliance Inc:WBA
+Ito En Ltd:2593.T
+New Oriental Education & Technology Group Inc:EDU
+Fifth Third Bancorp:FITB
+NIO Inc:NIO
+BP PLC:BP
+Koninklijke DSM NV:DSM.AS
+Charter Hall Group:CHC.AX
+TaiDoc Technology Corp:4736.TWO
+Xilinx Inc:XLNX
+Playtech Plc:PTEC.L
+Kinnevik AB:KINV-B.ST
+Ally Financial Inc:ALLY
+Panasonic Corp:PCRFY
+Tripod Technology Corp:3044.TW
+Elior Group SA:ELIOR.PA
+Adyen NV:ADYEN.AS
+T Rowe Price Group Inc:TROW
+Wintrust Financial Corp:WTFC
+Intact Financial Corp:IFC.TO
+Simon Property Group Inc:SPG
+EOG Resources Inc:EOG
+Rio Tinto PLC:RIO
+Vulcan Materials Co:VMC
+Regal Beloit Corp:RBC
+Prosus NV:PRX.AS
+Hilton Worldwide Holdings Inc:HLT
+DTE Energy Co:DTE
+FANUC Corp:FANUY
+AEON Thana Sinsap Thailand PCL:AEONTS.BK
+Aptiv PLC:APTV
+Sysco Corp:SYY
+Baloise Holding AG:BLHEY
+Samsung Engineering Co Ltd:028050.KS
+Hysan Development Co Ltd:0014.HK
+Ameriprise Financial Inc:AMP
+Solvay SA:SOLB.BR
+MSCI Inc:MSCI
+Gazprom PJSC:OGZPY
+Prosperity Bancshares Inc:PB
+Align Technology Inc:ALGN
+Tencent Music Entertainment Group:TME
+Twitter Inc:TWTR
+Verisk Analytics Inc:VRSK
+Pioneer Natural Resources Co:PXD
+Alcon Inc:ALC
+Littelfuse Inc:LFUS
+Horiba Ltd:HRIBF
+Lasertec Corp:6920.T
+China Merchants Bank Co Ltd:3968.HK
+Cintas Corp:CTAS
+Cummins Inc:CMI
+Commercial International Bank Egypt SAE:CIBEY
+ResMed Inc:RMD
+Buzzi Unicem SpA:BZU.MI
+Leggett & Platt Inc:LEG
+Okta Inc:OKTA
+Sumitomo Chemical Co Ltd:SUMICHEM.NS
+CDW Corp/DE:CDW
+Entain PLC:ENT.L
+Stanley Electric Co Ltd:STAEF
+Oracle Corp Japan:4716.T
+McDonald's Holdings Co Japan Ltd:MDNDF
+Hoya Corp:7741.T
+Ping An Insurance Group Co of China Ltd:2318.HK
+Packaging Corp of America:PKG
+Murata Manufacturing Co Ltd:MRAAY
+Radware Ltd:RDWR
+Orsted AS:ORSTED.CO
+SK Hynix Inc:000660.KS
+Match Group Inc:MTCH
+Wyndham Hotels & Resorts Inc:WH
+Kajima Corp:KAJMY
+Lancashire Holdings Ltd:LRE.L
+First Republic Bank/CA:FRC
+Liberty Broadband Corp:LBRDK
+Veeva Systems Inc:VEEV
+Uber Technologies Inc:UBER
+Burlington Stores Inc:BURL
+Pinterest Inc:PINS
+Wipro Ltd:WIT
+Celltrion Inc:068270.KS
+Avery Dennison Corp:AVY
+Anheuser-Busch InBev SA/NV:BUD
+Kyocera Corp:KYOCY
+Zebra Technologies Corp:ZBRA
+Healthpeak Properties Inc:PEAK
+First Horizon Corp:FHN
+Osisko Gold Royalties Ltd:OR
+Discovery Inc:DISCA
+Pinduoduo Inc:PDD
+Intershop Holding AG:ISN.SW
+Chipotle Mexican Grill Inc:CMG
+Carnival PLC:CCL
+DocuSign Inc:DOCU
+Ulta Beauty Inc:ULTA
+West Pharmaceutical Services Inc:WST
+GDS Holdings Ltd:GDS
+Twilio Inc:TWLO
+Mitsubishi UFJ Financial Group Inc:MUFG
+Western Digital Corp:WDC
+TAL Education Group:TAL
+Bank of Marin Bancorp:BMRC
+Magna International Inc:MGA
+Hiscox Ltd:HSX.L
+Trade Desk Inc/The:TTD
+Sumitomo Osaka Cement Co Ltd:SUCEF
+M3 Inc:2413.T
+Financial Products Group Co Ltd:7148.T
+Lear Corp:LEA
+Essex Property Trust Inc:ESS
+Sawai Pharmaceutical Co Ltd:7WS.SG
+Halliburton Co:HAL
+Ascendas India Trust:CY6U.SI
+IQVIA Holdings Inc:IQV
+Microbio Co Ltd:4128.TWO
+SSAB AB:SSAB-B.ST
+Vipshop Holdings Ltd:VIPS
+Euskaltel SA:EKT.MC
+MongoDB Inc:MDB
+Xiaomi Corp:1810.HK
+Otis Worldwide Corp:OTIS
+NAVER Corp:035420.KS
+Asahi Group Holdings Ltd:2502.T
+Abcam PLC:ABCM
+Oji Holdings Corp:3861.T
+Carlsberg AS:CARL-B.CO
+Horizon Therapeutics Plc:HZNP
+Marubeni Corp:MARUY
+Comerica Inc:CMA
+Digital Realty Trust Inc:DLR
+Crowdstrike Holdings Inc:CRWD
+DCC PLC:DCC.AX
+Shoei Foods Corp:8079.T
+Coupa Software Inc:COUP
+Tatneft PJSC:TATN.ME
+Galaxy Entertainment Group Ltd:0027.HK
+Synovus Financial Corp:SNV
+Alleghany Corp:Y
+State Bank of India:SBIN.NS
+ENEOS Holdings Inc:5020.T
+WD-40 Co:WDFC
+Inter Pipeline Ltd:IPL.TO
+Fulton Financial Corp:FULT
+Teledyne Technologies Inc:TDY
+Grainger PLC:GWW
+Alnylam Pharmaceuticals Inc:ALNY
+Origin Energy Ltd:ORG.AX
+Zillow Group Inc:Z
+Blackstone Group Inc/The:BX
+Bank Central Asia Tbk PT:BBCA.JK
+Spire Inc:SR
+Taisei Corp:1801.T
+Moderna Inc:MRNA
+Dai-ichi Life Holdings Inc:8750.T
+Check Point Software Technologies Ltd:CHKP
+CoStar Group Inc:CSGP
+Acciona SA:ANA.MC
+Safran SA:SAF.PA
+America Movil SAB de CV:AMX
+Cathay Real Estate Development Co Ltd:2501.TW
+Digital Arts Inc:2326.T
+NewMarket Corp:NEU
+Merlin Properties Socimi SA:MRL.MC
+Alimentation Couche-Tard Inc:ATD-B.TO
+Royal Unibrew A/S:RBREW.CO
+RingCentral Inc:RNG
+Fox Corp:FOX
+Lion Corp:4912.T
+Intertek Group PLC:ITRK.L
+Biesse SpA:BSS.MI
+AptarGroup Inc:ATR
+Ciena Corp:CIEN
+SBA Communications Corp:SBAC
+DyDo Group Holdings Inc:2590.T
+Yaoko Co Ltd:8279.T
+Corteva Inc:CTVA
+Amada Co Ltd:6113.T
+Danske Bank A/S:DANSKE.CO
+Meridian Energy Ltd:MEL.NZ
+RBC Bearings Inc:ROLL
+Dexcom Inc:DXCM
+Aalberts NV:AALB.AS
+Kusuri no Aoki Holdings Co Ltd:3549.T
+Melco Resorts & Entertainment Ltd:MLCO
+Kuraray Co Ltd:KURRF
+Texas Capital Bancshares Inc:TCBI
+Exact Sciences Corp:EXAS
+Devon Energy Corp:DVN
+Roku Inc:ROKU
+BeiGene Ltd:BGNE
+National Grid PLC:NGG
+Valero Energy Corp:VLO
+Woodward Inc:WWD
+Etsy Inc:ETSY
+Huntington Ingalls Industries Inc:HII
+Hawaiian Electric Industries Inc:HE
+CryoLife Inc:CRY
+Autohome Inc:ATHM
+WHA Corp PCL:WHA.BK
+Obayashi Corp:1802.T
+EVERTEC Inc:EVTC
+Baker Hughes Co:BKR
+CTT-Correios de Portugal SA:CTT.LS
+Peloton Interactive Inc:PTON
+Splunk Inc:SPLK
+Marudai Food Co Ltd:2288.T
+Baozun Inc:BZUN
+Nippon Gas Co Ltd:8174.T
+Addus HomeCare Corp:ADUS
+Grupo Financiero Banorte SAB de CV:GFNORTEO.MX
+Credicorp Ltd:BAP
+ViacomCBS Inc:VIAC
+Innoviva Inc:INVA
+Amphastar Pharmaceuticals Inc:AMPH
+Zimmer Biomet Holdings Inc:ZBH
+Lar Espana Real Estate Socimi SA:LAREF
+Futu Holdings Ltd:FUTU
+Northwest Natural Holding Co:NWN
+WSP Global Inc:WSP.TO
+Pool Corp:POOL
+Schroders PLC:SEMTX
+Continental AG:CLR
+Prudential PLC:PRU
+Faurecia SE:EO.PA
+Shimizu Corp:SHMUY
+MMC Norilsk Nickel PJSC:NILSY
+Zai Lab Ltd:ZLAB
+Cogeco Inc:CCA.TO
+Travel + Leisure Co:TNL
+Lagardere SCA:MMB.PA
+Prestige Consumer Healthcare Inc:PBH
+Brighthouse Financial Inc:BHF
+Viatris Inc:VTRS
+AngloGold Ashanti Ltd:AU
+Covetrus Inc:CVET
+Brighton-Best International Taiwan Inc:8415.TWO
+Ageas SA/NV:AGS.BR
+Bilibili Inc:BILI
+KE Holdings Inc:BEKE
+Woolworths Group Ltd:WOW.AX
+Ion Beam Applications:IBAB.BR
+JOYY Inc:JOYY
+InterContinental Hotels Group PLC:IHG
+Penn National Gaming Inc:PENN
+Wix.com Ltd:WIX
+Finnair Oyj:FIA1S.HE
+Teleflex Inc:TFX
+Vermilion Energy Inc:VET
+Centene Corp:CNC
+Wangfujing Group Co Ltd:600859.SS
+Occidental Petroleum Corp:OXY
+Enphase Energy Inc:ENPH
+Doutor Nichires Holdings Co Ltd:3087.T
+Singapore Press Holdings Ltd:T39.SI
+Aristocrat Leisure Ltd:ALL.AX
+Willis Towers Watson PLC:WLTW
+Evotec SE:EVT.DE
+Vedanta Ltd:VEDL
+Barnes Group Inc:B
+Haitong Securities Co Ltd:6837.HK
+XPENG INC - ADR:XPEV
+China Everbright Ltd:0257.HK
+GoDaddy Inc:GDDY
+Ensign Group Inc/The:ENSG
+Elanco Animal Health Inc:ELAN
+BYD Co Ltd:BYDDF
+Axis Capital Holdings Ltd:AXS
+Teladoc Health Inc:TDOC
+Wayfair Inc:W
+Breedon Group PLC:BREE.L
+Retail Properties of America Inc:RPAI
+Westinghouse Air Brake Technologies Corp:WAB
+International Paper Co:IP
+Beyondspring Inc:BYSI
+Nihon Chouzai Co Ltd:3341.T
+Deutsche EuroShop AG:DEQ.DE
+Myriad Genetics Inc:MYGN
+W R Grace & Co:GRA
+Plug Power Inc:PLUG
+Mimecast Ltd:MIME
+Chefs' Warehouse Inc/The:CHEF
+Zur Rose Group AG:ROSE.SW
+Kweichow Moutai Co Ltd:600519.SS
+Modern Times Group MTG AB:MTG-B.ST
+MultiChoice Group:MCHOY
+Pacira BioSciences Inc:PCRX
+Spirit Airlines Inc:SAVE
+Tabula Rasa HealthCare Inc:TRHC
+Cronos Group Inc:CRON
+Pacific Biosciences of California Inc:PACB
+QIAGEN NV:QGEN
+Royal Gold Inc:RGLD
+Dongwon Systems Corp:014825.KS
+Scentre Group:SCG.AX
+Nordic Entertainment Group AB:NENT-B.ST
+Intersect ENT Inc:XENT
+UniCredit SpA:UCG.MI
+EPR Properties:EPR
+Atara Biotherapeutics Inc:ATRA
+Gol Linhas Aereas Inteligentes SA:GOL
+Sibanye Stillwater Ltd:SBSW
+Western Areas Ltd:WSA.AX
+LivaNova PLC:LIVN
+Andersons Inc/The:ANDE
+Chatwork Co Ltd:4448.T
+Hon Hai Precision Industry Co Ltd:HNHPF
+Pennant Group Inc/The:PNTG
+Via Varejo S/A:VVAR3.SA
+Carvana Co:CVNA
+JETEMA Co Ltd:216080.KQ
+Yoshinoya Holdings Co Ltd:9861.T
+Engie Brasil Energia SA:EGIE3.SA
+Novavax Inc:NVAX
+MediaTek Inc:2454.TW
+Smith & Wesson Brands Inc:SWBI
+Pabrik Kertas Tjiwi Kimia Tbk PT:TKIM.JK
+BioMerieux:BIM.PA
+Hecla Mining Co:HL
+Daqo New Energy Corp:DQ
+Rsupport Co Ltd:131370.KQ
+Clicks Group Ltd:CLS.JO
+Chalice Mining Ltd:CHN.AX
+Scholar Rock Holding Corp:SRRK
+Frontline Ltd/Bermuda:FRO
+Inhibrx Inc:INBX
+Tricida Inc:TCDA
+Golden Agri-Resources Ltd:E5H.SI
+Housing Development Finance Corp Ltd:HDFC.NS
+Tata Consultancy Services Ltd:TCS.NS
+Wuxi Biologics Cayman Inc:2269.HK
+Qatar National Bank QPSC:QNBK.QA
+Hindustan Unilever Ltd:HINDUNILVR.NS
+Bank of China Ltd:3988.HK
+Delta Electronics Inc:DELTA.BK
+Kakao Corp:035720.KS
+OTP Bank Nyrt:OTP.BD
+Quanta Computer Inc:2382.TW
+Nan Ya Plastics Corp:1303.TW
+Chunghwa Telecom Co Ltd:CHT
+Shenzhou International Group Holdings Ltd:2313.HK
+China Mengniu Dairy Co Ltd:2319.HK
+ANTA Sports Products Ltd:2020.HK
+Grupo Mexico SAB de CV:GMEXICOB.MX
+Chailease Holding Co Ltd:5871.TW
+Kia Corp:000270.KS
+Country Garden Services Holdings Co Ltd:6098.HK
+Havells India Ltd:HAVELLS.NS
+Asian Paints Ltd:ASIANPAINT.NS
+CP ALL PCL:CPALL.BK
+Li Ning Co Ltd:2331.HK
+Mega Financial Holding Co Ltd:2886.TW
+China Steel Corp:2002.TW
+Wal-Mart de Mexico SAB de CV:WALMEX.MX
+Sunny Optical Technology Group Co Ltd:2382.HK
+UltraTech Cement Ltd:ULTRACEMCO.NS
+Lite-On Technology Corp:2301.TW
+Yuanta Financial Holding Co Ltd:2885.TW
+Masraf Al Rayan QSC:QATR.QA
+ENN Energy Holdings Ltd:2688.HK
+Bharti Airtel Ltd:BHARTIARTL.NS
+FirstRand Ltd:FSR.JO
+PTT PCL:PTTRX
+Bank Rakyat Indonesia Persero Tbk PT:BBRI.JK
+HCL Technologies Ltd:HCLTECH.NS
+China Resources Beer Holdings Co Ltd:0291.HK
+China Development Financial Holding Corp:2883.TW
+Hellenic Telecommunications Organization SA:HTO.AT
+Longfor Group Holdings Ltd:0960.HK
+China Petroleum & Chemical Corp:SNP
+Agricultural Bank of China Ltd:1288.HK
+Siam Cement PCL/The:SCC.BK
+Lenovo Group Ltd:0992.HK
+Gerdau SA:GGB
+Geely Automobile Holdings Ltd:0175.HK
+WPG Holdings Ltd:3702.TW
+Maruti Suzuki India Ltd:MARUTI.NS
+Bajaj Finance Ltd:BAJFINANCE.NS
+First Financial Holding Co Ltd:2892.TW
+E.Sun Financial Holding Co Ltd:2884.TW
+Uni-President Enterprises Corp:1216.TW
+Axis Bank Ltd:AXISBANK.NS
+China Resources Land Ltd:1109.HK
+Fomento Economico Mexicano SAB de CV:FEMSAUBD.MX
+Fubon Financial Holding Co Ltd:2881.TW
+Pidilite Industries Ltd:PIDILITIND.NS
+Compal Electronics Inc:2324.TW
+Great Wall Motor Co Ltd:2333.HK
+Cemex SAB de CV:CX
+Anhui Conch Cement Co Ltd:0914.HK
+CTBC Financial Holding Co Ltd:2891.TW
+BIM Birlesik Magazalar AS:BIMAS.IS
+Abu Dhabi Commercial Bank PJSC:EGS60051C017-EGP.CA
+Advantech Co Ltd:2395.TW
+Cathay Financial Holding Co Ltd:2882.TW
+Hyundai Mobis Co Ltd:012330.KS
+China Gas Holdings Ltd:0384.HK
+China Pacific Insurance Group Co Ltd:2601.HK
+BTS Group Holdings PCL:BTS.BK
+Hindalco Industries Ltd:HINDALCO.NS
+Enel Americas SA:ENIA
+Globant SA:GLOB
+Sino Biopharmaceutical Ltd:1177.HK
+Chicony Electronics Co Ltd:2385.TW
+China Life Insurance Co Ltd:LFC
+Banco de Chile:BCH
+Powszechna Kasa Oszczednosci Bank Polski SA:P9O.F
+Formosa Plastics Corp:1301.TW
+Grupo Bimbo SAB de CV:BIMBOA.MX
+Sun Pharmaceutical Industries Ltd:SUNPHARMA.NS
+NCSoft Corp:036570.KS
+Bank of Communications Co Ltd:3328.HK
+China Conch Venture Holdings Ltd:0586.HK
+Standard Bank Group Ltd:SBK.JO
+Telkom Indonesia Persero Tbk PT:TLKM.JK
+Samsung Biologics Co Ltd:207940.KS
+Haier Smart Home Co Ltd:6690.HK
+Eicher Motors Ltd:EICHERMOT.NS
+OPAP SA:OPAP.AT
+Impala Platinum Holdings Ltd:IMPUY
+Kotak Mahindra Bank Ltd:KOTAKBANK.NS
+Samsung SDS Co Ltd:018260.KS
+Largan Precision Co Ltd:3008.TW
+Formosa Chemicals & Fibre Corp:1326.TW
+Wuliangye Yibin Co Ltd:000858.SZ
+Country Garden Holdings Co Ltd:2007.HK
+Sichuan Chuantou Energy Co Ltd:600674.SS
+Kingdee International Software Group Co Ltd:0268.HK
+China Overseas Land & Investment Ltd:0688.HK
+CSPC Pharmaceutical Group Ltd:1093.HK
+Tata Steel Ltd:TATASTEEL.NS
+Taiwan Mobile Co Ltd:3045.TW
+Chang Hwa Commercial Bank Ltd:2801.TW
+China Merchants Port Holdings Co Ltd:0144.HK
+Zijin Mining Group Co Ltd:2899.HK
+SM Prime Holdings Inc:SPHXF
+Sunac China Holdings Ltd:1918.HK
+Intouch Holdings PCL:INTUCH.BK
+Kasikornbank PCL:KBANK.BK
+CITIC Securities Co Ltd:600030.SS
+Polski Koncern Naftowy ORLEN SA:PKN.PR
+Magazine Luiza SA:MGLU3.SA
+WuXi AppTec Co Ltd:2359.HK
+Magnit PJSC:MGNI
+Cia Siderurgica Nacional SA:CQWA.SG
+Mobile TeleSystems PJSC:MBT
+Innovent Biologics Inc:1801.HK
+Alibaba Health Information Technology Ltd:0241.HK
+Kalbe Farma Tbk PT:KLBF.JK
+Amorepacific Corp:090430.KS
+MOL Hungarian Oil & Gas PLC:MGYOY
+Dabur India Ltd:DABUR.NS
+Jiangxi Copper Co Ltd:0358.HK
+COSCO SHIPPING Holdings Co Ltd:1919.HK
+Mahindra & Mahindra Ltd:M&M.NS
+Sasol Ltd:SSL
+Polyus PJSC:OPYGY
+Bangkok Dusit Medical Services PCL:BDMS.BK
+MTN Group:MTN.JO
+PhosAgro PJSC:PHOR.ME
+Banco Santander Chile:BSAC
+Ayala Land Inc:AYAAF
+Lojas Renner SA:LREN3.SA
+WEG SA:WEGE3.SA
+China CITIC Bank Corp Ltd:0998.HK
+Advanced Info Service PCL:ADVANC.BK
+Airports of Thailand PCL:AOT.BK
+Surgutneftegas PJSC:SNGSP.ME
+Reinet Investments SCA:REVNF
+Suzano SA:SUZ
+Hana Financial Group Inc:086790.KS
+PetroChina Co Ltd:PTR
+Unilever Indonesia Tbk PT:UNVR.JK
+Jason Furniture Hangzhou Co Ltd:603816.SS
+Li Auto Inc:LI
+Adani Green Energy Ltd:ADANIGREEN.NS
+Anglo American Platinum Ltd:ANGPY
+JUMBO SA:BELA.AT
+Tsingtao Brewery Co Ltd:0168.HK
+Wanhua Chemical Group Co Ltd:600309.SS
+China Tower Corp Ltd:0788.HK
+Tenaga Nasional Bhd:TNABY
+Al Rajhi Bank:1120.SR
+Trent Ltd:SVT.L
+China Minsheng Banking Corp Ltd:1988.HK
+Telefonica Brasil SA:VIV
+CGN Power Co Ltd:1816.HK
+Itausa SA:ITSA4.SA
+President Chain Store Corp:2912.TW
+Hotai Motor Co Ltd:2207.TW
+Capitec Bank Holdings Ltd:CPI.JO
+Central Pattana PCL:CPN.BK
+Kingsoft Corp Ltd:3888.HK
+Bank Polska Kasa Opieki SA:BKPKF
+Ruentex Development Co Ltd:9945.TW
+Bid Corp Ltd:BID.JO
+Hyundai Glovis Co Ltd:086280.KS
+Yihai International Holding Ltd:1579.HK
+PLDT Inc:PHI
+LG Corp:003550.KS
+Catcher Technology Co Ltd:2474.TW
+Hyundai Heavy Industries Holdings Co Ltd:267250.KS
+X5 Retail Group NV:FIVE.ME
+Shoprite Holdings Ltd:SHP.JO
+DaShenLin Pharmaceutical Group Co Ltd:603233.SS
+China Resources Gas Group Ltd:1193.HK
+21Vianet Group Inc:VNET
+Sime Darby Bhd:SMEBF
+Lotte Shopping Co Ltd:023530.KS
+YTO Express Group Co Ltd:600233.SS
+Ultrapar Participacoes SA:UGP
+China Tourism Group Duty Free Corp Ltd:601888.SS
+Weichai Power Co Ltd:2338.HK
+Ayala Corp:AYALY
+Shimao Group Holdings Ltd:0813.HK
+Contemporary Amperex Technology Co Ltd:300750.SZ
+CITIC Ltd:0267.HK
+Rumo SA:RAIL3.SA
+Want Want China Holdings Ltd:0151.HK
+Ping An Healthcare and Technology Co Ltd:1833.HK
+iQIYI Inc:IQ
+Severstal PAO:RTS2.SG
+China Railway Group Ltd:0390.HK
+Taiwan Cooperative Financial Holding Co Ltd:5880.TW
+Woori Financial Group Inc:WF
+REC Ltd:REC
+Ambev SA:ABEV
+East Money Information Co Ltd:300059.SZ
+Bajaj Finserv Ltd:BAJAJFINSV.NS
+Home Product Center PCL:HMPRO.BK
+Grupo Televisa SAB:TLEVISACPO.MX
+COSCO SHIPPING Ports Ltd:1199.HK
+Korea Shipbuilding & Offshore Engineering Co Ltd:009540.KS
+Grupo Aeroportuario del Pacifico SAB de CV:PAC
+DB Insurance Co Ltd:005830.KS
+BB Seguridade Participacoes SA:BBSEY
+Indofood Sukses Makmur Tbk PT:INDF.JK
+51job Inc:JOBS
+Enel Chile SA:ENIC
+Celltrion Healthcare Co Ltd:091990.KQ
+Brilliance China Automotive Holdings Ltd:BCAUY
+Astra International Tbk PT:ASII.JK
+United Tractors Tbk PT:UNTR.JK
+Globe Telecom Inc:GTMEY
+SK Telecom Co Ltd:SKM
+Lakala Payment Co Ltd:300773.SZ
+Cosan SA:CSAN
+Hua Nan Financial Holdings Co Ltd:2880.TW
+Shandong Weigao Group Medical Polymer Co Ltd:1066.HK
+PTT Exploration & Production PCL:PEXNY
+TCL Technology Group Corp:000100.SZ
+People's Insurance Co Group of China Ltd/The:1339.HK
+Santander Bank Polska SA:BZI.F
+Bank Mandiri Persero Tbk PT:BMRI.JK
+Sinopec Shanghai Petrochemical Co Ltd:SHI
+Hengan International Group Co Ltd:1044.HK
+SF Holding Co Ltd:3198.T
+Remgro Ltd:REM.JO
+Momo Inc:MOMO
+TIM SA/Brazil:WFG
+LONGi Green Energy Technology Co Ltd:601012.SS
+Beijing Oriental Yuhong Waterproof Technology Co Ltd:002271.SZ
+S-1 Corp:DS.TO
+Samsung Heavy Industries Co Ltd:010140.KS
+Hutchison China MediTech Ltd:H7T1.SG
+Osotspa PCL:OSP.BK
+Luxshare Precision Industry Co Ltd:002475.SZ
+Top Glove Corp Bhd:TGLVY
+Coca-Cola Femsa SAB de CV:KOF
+Guangdong Investment Ltd:0270.HK
+Huaneng Power International Inc:HNP
+Turkiye Garanti Bankasi AS:GARAN.IS
+Bank of Hangzhou Co Ltd:600926.SS
+Chifeng Jilong Gold Mining Co Ltd:600988.SS
+AAC Technologies Holdings Inc:2018.HK
+SPAR Group Ltd/The:SGRP
+LPP SA:LPPF.JK
+Xinyi Solar Holdings Ltd:0968.HK
+Noah Holdings Ltd:NOAH
+Sime Darby Plantation Bhd:SDPNF
+Synnex Technology International Corp:2347.TW
+Equatorial Energia SA:EQTL3.SA
+Bangkok Commercial Asset Management PCL:BAM-R.BK
+Lojas Americanas SA:LAME4.SA
+PICC Property & Casualty Co Ltd:PPCCF
+China Evergrande Group:3333.HK
+China Oilfield Services Ltd:2883.HK
+Genting Bhd:3182.KL
+Orbia Advance Corp SAB de CV:ORBIA.MX
+Ganfeng Lithium Co Ltd:GNENF
+East Group Co Ltd:300376.SZ
+Berli Jucker PCL:BJC.BK
+Eve Energy Co Ltd:300014.SZ
+Accton Technology Corp:2345.TW
+China Communications Services Corp Ltd:0552.HK
+Tianjin 712 Communication & Broadcasting Co Ltd:603712.SS
+PTT Global Chemical PCL:PTTGC.BK
+Ping An Bank Co Ltd:000001.SZ
+BRF SA:BRF
+Sinopharm Group Co Ltd:1099.HK
+Coway Co Ltd:021240.KS
+Tingyi Cayman Islands Holding Corp:0322.HK
+Ecopetrol SA:EC
+Industrial Bank of Korea:024110.KS
+LUFAX HOLDING LTD:LU
+Metropolitan Bank & Trust Co:MTPOY
+Aspen Pharmacare Holdings Ltd:APN.JO
+Dino Polska SA:DNOPY
+Sanlam Ltd:SLM.JO
+Tianjin Zhonghuan Semiconductor Co Ltd:002129.SZ
+Tiger Brands Ltd:TBS.JO
+Turkcell Iletisim Hizmetleri AS:TKC
+Yunnan Energy New Material Co Ltd:002812.SZ
+Cyfrowy Polsat SA:CYFWF
+Bank of Ningbo Co Ltd:002142.SZ
+Sanquan Food Co Ltd:002216.SZ
+Tongwei Co Ltd:600438.SS
+Microport Scientific Corp:0853.HK
+Centrais Eletricas Brasileiras SA:EBR-B
+Aboitiz Equity Ventures Inc:ABOIF
+SSY Group Ltd:2005.HK
+Walsin Technology Corp:2492.TW
+Sanan Optoelectronics Co Ltd:600703.SS
+Huayu Automotive Systems Co Ltd:600741.SS
+Hanmi Pharm Co Ltd:128940.KS
+China Youzan Ltd:8083.HK
+Lens Technology Co Ltd:300433.SZ
+CD Projekt SA:OTGLY
+Yes Bank Ltd:YESBANK.NS
+Genting Malaysia Bhd:GMALY
+GSX Techedu Inc:GOTU
+Orange Polska SA:TPA1.F
+Bidvest Group Ltd/The:BVT.JO
+Vodacom Group Ltd:VOD.JO
+NAURA Technology Group Co Ltd:002371.SZ
+CanSino Biologics Inc:6185.HK
+Delta Electronics Thailand PCL:DELTA.BK
+Hithink RoyalFlush Information Network Co Ltd:300033.SZ
+Everbright Securities Co Ltd:601788.SS
+GoerTek Inc:002241.SZ
+Universal Robina Corp:UVRBF
+AMOREPACIFIC Group:002790.KS
+Korea Electric Power Corp:KEP
+New China Life Insurance Co Ltd:1336.HK
+CSC Financial Co Ltd:6066.HK
+Smoore International Holdings Ltd:6969.HK
+China Resources Pharmaceutical Group Ltd:3320.HK
+Samsung Life Insurance Co Ltd:032830.KS
+VTB Bank PJSC:VTBR.ME
+Industrias Penoles SAB de CV:PE&OLES.MX
+Equities:ARE
+TCS Group Holding PLC:TCSG.ME
+ITC Ltd:ITC.NS
+Powszechny Zaklad Ubezpieczen SA:7PZ.F
+L'Oreal SA:OR.PA
+ABB Ltd:ABB
+Sumitomo Mitsui Trust Holdings Inc:8309.T
+eBay Inc:EBAY
+Fastenal Co:FAST
+Johnson Controls International plc:JCI
+Fortive Corp:FTV
+Investor AB:OHI
+Hydro One Ltd:H.TO
+Swiss Life Holding AG:SLHN.SW
+IHS Markit Ltd:INFO
+Nordea Bank Abp:NDA-FI.HE
+Principal Financial Group Inc:PFG
+Volvo AB:VOLV-B.ST
+Banco Santander Brasil SA:BSBR
+China Vanke Co Ltd:2202.HK
+London Stock Exchange Group PLC:LSEG.L
+Legrand SA:LR.PA
+Mitsui Fudosan Co Ltd:8801.T
+Compass Group PLC:CPG.L
+LG Display Co Ltd:LPL
+Svenska Cellulosa AB SCA:SCA-B.ST
+Shiseido Co Ltd:4911.T
+Sohgo Security Services Co Ltd:2331.T
+Fisher & Paykel Healthcare Corp Ltd:FPH.NZ
+National Bank of Canada:NA.TO
+KBC Group NV:KBC.BR
+Arch Capital Group Ltd:ACGL
+Svenska Handelsbanken AB:SHB-A.ST
+Next PLC:NEXT
+Genmab A/S:GMAB.CO
+Fortune Brands Home & Security Inc:FBHS
+Discover Financial Services:DFS
+Aflac Inc:AFL
+Citizens Financial Group Inc:CFG
+DNB ASA:DNB
+PACCAR Inc:PCAR
+UOL Group Ltd:U14.SI
+Maxim Integrated Products Inc:MXIM
+East Japan Railway Co:9020.T
+Astellas Pharma Inc:ALPMY
+Wolters Kluwer NV:WKL.AS
+ON Semiconductor Corp:ON
+Yum! Brands Inc:YUM
+Northern Trust Corp:NTRS
+Skandinaviska Enskilda Banken AB:SEB-A.ST
+Mitsubishi Estate Co Ltd:8802.T
+Bank of New York Mellon Corp/The:BK
+Novozymes A/S:NZYM-B.CO
+Assa Abloy AB:ASSA-B.ST
+TransUnion:TRU
+CGI Inc:GIB-A.TO
+Kubota Corp:KUBTY
+CarMax Inc:KMX
+Regions Financial Corp:RF
+3i Group PLC:III.L
+Insulet Corp:PODD
+Capcom Co Ltd:CCOEY
+TMX Group Ltd:X.TO
+USS Co Ltd:USSJF
+Best Buy Co Inc:BBY
+Kurita Water Industries Ltd:6370.T
+Huntington Bancshares Inc/OH:HBAN
+Tele2 AB:TEL2-B.ST
+PulteGroup Inc:PHM
+Erste Group Bank AG:EBS.VI
+DR Horton Inc:DHI
+Manulife Financial Corp:MFC.TO
+BT Group PLC:BT-A.L
+ASX Ltd:ASX
+Aegon NV:AEG
+NVR Inc:NVR
+Catalent Inc:CTLT
+Lloyds Banking Group PLC:LYG
+KeyCorp:KEY
+Lennar Corp:LEN
+BorgWarner Inc:BWA
+Advantest Corp:6857.T
+Lincoln National Corp:LNC
+Open Text Corp:OTEX
+Mirvac Group:MGR.AX
+Trimble Inc:TRMB
+Natura & Co Holding SA:NTCO
+Waters Corp:WAT
+Sartorius AG:SRT3.DE
+Xylem Inc/NY:XYL
+IDEX Corp:IEX
+SM Investments Corp:SVTMF
+Auckland International Airport Ltd:AIA.NZ
+TDK Corp:TTDKY
+KKR & Co Inc:KKR
+Delivery Hero SE:DHER.DE
+Aeon Co Ltd:8267.T
+Straumann Holding AG:STMN.SW
+WW Grainger Inc:0IZI.L
+China Southern Airlines Co Ltd:ZNH
+Partners Group Holding AG:PGHN.SW
+Kobayashi Pharmaceutical Co Ltd:4967.T
+Cochlear Ltd:COH.AX
+Hologic Inc:HOLX
+Synchrony Financial:SYF
+Old Dominion Freight Line Inc:ODFL
+Indorama Ventures PCL:IVL.BK
+Tractor Supply Co:TSCO
+Dollarama Inc:DOL.TO
+Vifor Pharma AG:VIFN.SW
+City Developments Ltd:C09.SI
+Nitto Denko Corp:NDEKY
+QBE Insurance Group Ltd:QBE.AX
+Cognex Corp:CGNX
+UDR Inc:UDR
+Resona Holdings Inc:RSNHF
+Copart Inc:CPRT
+Shionogi & Co Ltd:4507.T
+Expeditors International of Washington Inc:EXPD
+PerkinElmer Inc:PKI
+ABIOMED Inc:ABMD
+Zalando SE:ZAL.DE
+LKQ Corp:LKQ
+Bumrungrad Hospital PCL:BH.BK
+FactSet Research Systems Inc:FDS
+Rakuten Group Inc:RKUNY
+Royal Caribbean Cruises Ltd:RCL
+Newell Brands Inc:NWL
+Daifuku Co Ltd:6383.T
+Gildan Activewear Inc:GIL
+Ionis Pharmaceuticals Inc:IONS
+Vail Resorts Inc:MTN
+Ubisoft Entertainment SA:UBI.PA
+STERIS PLC:STE
+WP Carey Inc:WPC
+KGHM Polska Miedz SA:KGHPF
+Daiwa House Industry Co Ltd:1925.T
+PTC Inc:PTC
+Gecina SA:GFC.PA
+Argenx SE:ARGX
+Johnson Matthey PLC:JMAT.L
+Masco Corp:MAS
+Seiko Epson Corp:SEKEY
+Eisai Co Ltd:ESALY
+Japan Metropolitan Fund Invest:8953.T
+Lendlease Corp Ltd:LLESY
+Kansas City Southern:KSU
+Sarepta Therapeutics Inc:SRPT
+MarketAxess Holdings Inc:MKTX
+Laboratory Corp of America Holdings:LH
+JB Hunt Transport Services Inc:JBHT
+Ambu A/S:AMBU-B.CO
+Demant A/S:DEMANT.CO
+Carl Zeiss Meditec AG:AFX.DE
+Hasbro Inc:HAS
+Afterpay Ltd:APT.AX
+Snap-on Inc:SNA
+Trane Technologies PLC:TT
+Nasdaq Inc:^IXIC
+Whirlpool Corp:WHR
+Onex Corp:ONEX.TO
+Segro PLC:SGRO.L
+Canopy Growth Corp:CGC
+GN Store Nord AS:GN.CO
+Pandora A/S:PNDORA.CO
+West Japan Railway Co:WJRYY
+Voya Financial Inc:VOYA
+Mowi ASA:MOWI.OL
+Lennox International Inc:LII
+BlackBerry Ltd:BB
+FirstService Corp:FSV
+Hulic Co Ltd:3003.T
+Umicore SA:UMI.BR
+Nomura Real Estate Master Fund Inc:3462.T
+Sompo Holdings Inc:8630.T
+GLP J-Reit:3281.T
+Yaskawa Electric Corp:YASKY
+Molina Healthcare Inc:MOH
+CCL Industries Inc:CCL-B.TO
+James Hardie Industries PLC:JHX
+Rollins Inc:ROL
+ROCKWOOL International A/S:ROCK-B.CO
+SimCorp A/S:SIM.CO
+Netcompany Group A/S:NETC.CO
+ISS A/S:ISS.CO
+Bavarian Nordic A/S:BAVA.CO
+FLSmidth & Co A/S:FLS.CO
+BHP Group PLC:BHP
+Banco Santander SA:SAN
+Anglo American PLC:AAL.L
+Pernod Ricard SA:RI.PA
+CRH PLC:CRH
+Eni SpA:ENIC
+E.ON SE:EOAN.DE
+Capgemini SE:CAP.PA
+Tesco PLC:TSCO.L
+Vivendi SE:VIV.PA
+BAE Systems PLC:BAESY
+Assicurazioni Generali SpA:G.MI
+Aviva PLC:AV.L
+Legal & General Group PLC:LGEN.L
+SSE PLC:000001.SS
+Sampo Oyj:SAMPO.HE
+Equinor ASA:EQNR
+Repsol SA:REP.MC
+Credit Agricole SA:ACA.PA
+Brenntag SE:BNR.DE
+HeidelbergCement AG:HEI.DE
+Mondi PLC:MNVN
+Persimmon PLC:PSN.L
+Publicis Groupe SA:PUB.PA
+Covestro AG:1COV.DE
+Associated British Foods PLC:ABF.L
+Stora Enso Oyj:STERV.HE
+Flutter Entertainment PLC:PDYPY
+Informa PLC:VGT
+Standard Chartered PLC:STAN.L
+Adecco Group AG:AHEXY
+SKF AB:SKF
+Stellantis NV:STLA
+Barratt Developments PLC:BDEV.L
+Antofagasta PLC:ANTO.L
+Boliden AB:BOL.ST
+Fortum Oyj:FORTUM.HE
+Hannover Rueck SE:HNR1.DE
+Taylor Wimpey PLC:TW.L
+Admiral Group PLC:ADM.L
+Thales SA:HO.PA
+Bouygues SA:EN.PA
+Natwest Group PLC:NWG
+Kingfisher PLC:KFR.V
+Snam SpA:SRG.MI
+Smiths Group PLC:SMGZY
+United Utilities Group PLC:UU.L
+Tenaris SA:TS
+Yara International ASA:YARIY
+Kone Oyj:KNEBV.HE
+Skanska AB:SKA-B.ST
+Whitbread PLC:WTB.L
+Evonik Industries AG:EVK.DE
+EXOR NV:EXO.MI
+Severn Trent PLC:SVT.L
+Rolls-Royce Holdings PLC:RYCEY
+Porsche Automobil Holding SE:POAHY
+Wm Morrison Supermarkets PLC:MRW.L
+Commerzbank AG:CBK.DE
+Telecom Italia SpA/Milano:TIT.MI
+Deutsche Bank AG:DB
+Direct Line Insurance Group PLC:DLG.L
+British Land Co PLC/The:BLND.L
+Uniper SE:UN01.DE
+Suez SA:SEV.PA
+Mediobanca Banca di Credito Finanziario SpA:MB.MI
+Ocado Group PLC:OCDO.L
+Lundin Energy AB:LUNE.ST
+J Sainsbury PLC:SBRY.L
+Berkeley Group Holdings PLC:BKG.L
+Renault SA:RNO.PA
+MTU Aero Engines AG:MTX.DE
+Alfa Laval AB:ALFA.ST
+Swatch Group AG/The:UHR.SW
+Securitas AB:SECU-B.ST
+Phoenix Group Holdings PLC:PHNX.L
+Hargreaves Lansdown PLC:HL.L
+EMS-Chemie Holding AG:EMSN.SW
+Natixis SA:KN.PA
+Land Securities Group PLC:LAND.L
+voestalpine AG:VOE.VI
+CNP Assurances:CNP.PA
+RSA Insurance Group PLC:RSA.L
+Covivio:COV.PA
+Koninklijke Vopak NV:VOPKF
+Deutsche Lufthansa AG:LHA.DE
+Klepierre SA:LI.PA
+Melrose Industries PLC:MRO.L
+Orion Oyj:OESX
+FUCHS PETROLUB SE:FPE3.DE
+Intermediate Capital Group PLC:ICP.L
+IMCD NV:IMCD.AS
+DS Smith PLC:SMDS.L
+Rightmove PLC:RMV.L
+VAT Group AG:VACN.SW
+Spectris PLC:SXS.L
+Metso Outotec Oyj:MOCORP.HE
+Indutrade AB:INDT.ST
+BE Semiconductor Industries NV:BESI.AS
+Howden Joinery Group PLC:HWDN.L
+SIG Combibloc Group AG:SIGN.SW
+Bellway PLC:BWY.L
+AerCap Holdings NV:AER
+Electrocomponents PLC:ECM.L
+Getinge AB:GETI-B.ST
+Weir Group PLC/The:WEGRY
+Tritax Big Box REIT PLC:BBOX.L
+UNITE Group PLC/The:UNH
+HomeServe PLC:HSV.L
+Embracer Group AB:EMBRAC-B.ST
+Close Brothers Group PLC:CBG.L
+IG Group Holdings PLC:IGG.L
+Sinch AB:SINCH.ST
+Tecan Group AG:TECN.SW
+TOMRA Systems ASA:TOM.OL
+ASOS PLC:ASC.L
+Travis Perkins PLC:TPK.L
+Rotork PLC:RTOXF
+thyssenkrupp AG:TKA.DE
+Diploma PLC:DPLM.L
+Euronext NV:ENX.PA
+Pennon Group PLC:PNN.L
+Dechra Pharmaceuticals PLC:DPH.L
+Games Workshop Group PLC:GAW.L
+Elekta AB:EKTA-B.ST
+Tate & Lyle PLC:TATE.L
+Inchcape PLC:INCH.L
+Wienerberger AG:WIE.VI
+Dialog Semiconductor PLC:DLG.DE
+PSP Swiss Property AG:PSPN.SW
+Genus PLC:GNS.L
+Avast PLC:AVST.L
+Derwent London PLC:DLN.L
+Avanza Bank Holding AB:AZA.ST
+Banco BPM SpA:BAMI.MI
+TietoEVRY Oyj:TIETO.HE
+ConvaTec Group PLC:CNVVF
+Balfour Beatty PLC:BBY.L
+boohoo Group PLC:BOO.L
+Lifco AB:LIFCO-B.ST
+Meggitt PLC:MGGT.L
+Dometic Group AB:DOM.ST
+ams AG:AMS
+Hays PLC:HAS.L
+Countryside Properties PLC:CSP.L
+Interpump Group SpA:IP.MI
+Rheinmetall AG:RHM.DE
+Rexel SA:RXL.PA
+Gerresheimer AG:GXI.DE
+NEL ASA:NEL.OL
+Helvetia Holding AG:HELN.SW
+Bakkafrost P/F:6BF.F
+Cembra Money Bank AG:CMBN.SW
+Salmar ASA:SALM.OL
+Renishaw PLC:RSW.L
+Holmen AB:HOLM-B.ST
+AAK AB:AAK.ST
+Corbion NV:CRBN.AS
+Freenet AG:FNTN.DE
+Siltronic AG:WAF.DE
+Kindred Group PLC:KIND-SDB.ST
+Huhtamaki Oyj:0K9W.IL
+Bucher Industries AG:BUCN.SW
+Rubis SCA:RUI.PA
+Fabege AB:FABG.ST
+Signature Aviation PLC:BBAVY
+Centrica PLC:CNA.L
+Siegfried Holding AG:SFZN.SW
+AddTech AB:ADDT-B.ST
+Sweco AB:SWEC-B.ST
+Vistry Group PLC:VTY.L
+Victrex PLC:VCT.L
+TUI AG:TUI1.DE
+WH Smith PLC:SMWH.L
+William Hill PLC:WHI.BE
+G4S PLC:GFSZY
+IWG PLC:IWG.L
+ProSiebenSat.1 Media SE:PSM.DE
+Bravida Holding AB:BRAV.ST
+UDG Healthcare PLC:UDG.L
+Swedish Orphan Biovitrum AB:SOBI.ST
+Aggreko PLC:AGK.L
+Grafton Group PLC:GFTU.L
+Savills PLC:SVLPF
+Belimo Holding AG:BEAN.SW
+Beazley PLC:BEZ.L
+RHI Magnesita NV:RHIM.VI
+Arcadis NV:ARCAD.AS
+SSP Group Plc:SSPG.L
+TAG Immobilien AG:TEG.DE
+Elis SA:ELISA.HE
+Hexpol AB:HPOL-B.ST
+Entra ASA:EVC
+OC Oerlikon Corp AG:OERL.SW
+Serco Group PLC:SRP.L
+Ackermans & van Haaren NV:ACKB.BR
+De' Longhi SpA:0E5M.IL
+MorphoSys AG:MOR
+Subsea 7 SA:SUBCY
+Nordic Semiconductor ASA:NOD.OL
+Dufry AG:DUFN.SW
+Stillfront Group AB:SF.ST
+Virgin Money UK PLC:VMUK.L
+Wihlborgs Fastigheter AB:WIHL.ST
+A2A SpA:A2A.MI
+Konecranes Oyj:KCR.HE
+Flughafen Zurich AG:FLGZY
+CVS Group PLC:CVSG.L
+Greggs PLC:GRG.L
+RWS Holdings PLC:RWS.L
+Britvic PLC:BVIC.L
+Rathbone Brothers PLC:RAT.L
+KBC Ancora:KBCA.BR
+Fevertree Drinks PLC:FEVR.L
+Banca Popolare di Sondrio SCPA:0NWJ.IL
+CA Immobilien Anlagen AG:CAI.VI
+Keywords Studios PLC:KWS.L
+Pets at Home Group Plc:PETS.L
+Hill & Smith Holdings PLC:HILS.L
+Trainline PLC:TRN.L
+Bodycote PLC:BOY.L
+Jyske Bank A/S:JYSK.CO
+Pagegroup PLC:MPGPF
+ASTM SpA:0K82.L
+Beijer Ref AB:BEIJ-B.ST
+Ultra Electronics Holdings PLC:ULE.L
+Scatec ASA:SCATC.OL
+EVN AG:EVN
+888 Holdings PLC:888.L
+SBM Offshore NV:SBMO.AS
+Shop Apotheke Europe NV:SAE.DE
+Alten SA:ATE.PA
+Hera SpA:HERA
+Peab AB:BTU
+Grand City Properties SA:GYC.DE
+Azimut Holding SpA:AZM.MI
+John Wood Group PLC:WG.L
+Daily Mail & General Trust PLC:DMGT.L
+S4 Capital PLC:SFOR.L
+Metsa Board Oyj:MTSAF
+Intrum AB:INTRUM.ST
+BAWAG Group AG:BG.VI
+Dfds A/S:DFDS.CO
+Paragon Banking Group PLC:PAG.L
+Ratos AB:RATO-B.ST
+Nordex SE:NDX1.DE
+SOITEC:SOI.PA
+Korian SA:KORI.PA
+Inmobiliaria Colonial Socimi SA:COL.MC
+Albioma SA:ABIO.PA
+Kungsleden AB:KLED.ST
+Idorsia Ltd:IDIA.SW
+Vontobel Holding AG:0QKE.IL
+CANCOM SE:COK.DE
+Unipol Gruppo SpA:UNI.MI
+TP ICAP Group PLC:TCAPF
+J D Wetherspoon PLC:JDW.L
+Moneysupermarket.com Group PLC:MONY.L
+KAZ Minerals PLC:KZMYY
+Sixt SE:TSLX
+Domino's Pizza Group PLC:DPUKY
+Viscofan SA:VIS.MC
+NSI NV:NSIT
+Inficon Holding AG:IFCN.SW
+National Express Group PLC:NEX.L
+Aurubis AG:NDA.DE
+TKH Group NV:TWEKA.AS
+MIPS AB:MIPS.ST
+Lindab International AB:LIAB.ST
+Cargotec Oyj:CGCBV.HE
+Indra Sistemas SA:IDR.MC
+TGS NOPEC Geophysical Co ASA:TGS.OL
+Forbo Holding AG:FORN.SW
+Duerr AG:DUE.DE
+Interroll Holding AG:INRN.SW
+ALK-Abello A/S:AKABY
+Saab AB:SAAB-B.ST
+SPIE SA:SPIEMIKL.CO
+JET2 PLC:DRTGF
+AIXTRON SE:AIXA.DE
+Hamborner REIT AG:0MCG.L
+Lenzing AG:LNZ.VI
+Workspace Group PLC:WKP.L
+Cerved Group SpA:CERV.MI
+Bachem Holding AG:BANB.SW
+Hypoport SE:HYQ.DE
+Outokumpu Oyj:OUT1V.HE
+Trigano SA:TRI.PA
+Dunelm Group PLC:DNLM.L
+Varta AG:VAR1.DE
+ITM Power PLC:ITMPF
+Nyfosa AB:NYF.ST
+Gaztransport Et Technigaz SA:GZPZY
+IMMOFINANZ AG:IIA.VI
+Freni Brembo SpA:0RPV.IL
+Anima Holding SpA:ANIM.MI
+Shaftesbury PLC:SHABF
+Plus500 Ltd:PLUS.L
+dormakaba Holding AG:DRMKY
+Uponor Oyj:UPONOR.HE
+Neoen SA:NEOEN.PA
+Galenica AG:GALE.SW
+NKT A/S:NKTR
+Banco de Sabadell SA:SAB.MC
+Austevoll Seafood ASA:AUSS.OL
+Atea ASA:AVIR
+Drax Group PLC:DRX.L
+UNIQA Insurance Group AG:UQA.VI
+Vesuvius PLC:VSVS.L
+Vectura Group PLC:VEC.L
+Jungheinrich AG:JUN3.DE
+Reply SpA:REY.MI
+Spirent Communications PLC:SPT.L
+QinetiQ Group PLC:QQ.L
+Bossard Holding AG:BOSN.SW
+AGFA-Gevaert NV:AGFB.BR
+SFS Group AG:SFSN.SW
+Jenoptik AG:JEN.DE
+Software AG:DOC.V
+Banca Mediolanum SpA:BMED.MI
+FFP:XXFPL
+Interparfums SA:ITP.PA
+Arbonia AG:0QKR.L
+Leroy Seafood Group ASA:LYSFY
+BKW AG:BKW.SW
+Softwareone Holding AG:SWON.SW
+Firstgroup PLC:FGP.L
+Iren SpA:IRE.MI
+BPER Banca:BPE.MI
+Sydbank AS:SYDB.CO
+Halfords Group PLC:HFD.L
+Sacyr SA:SCYR.MC
+ADLER Group SA:ADJ.DE
+Great Portland Estates PLC:GPOR.L
+YIT Oyj:YIT.HE
+Valiant Holding AG:VATN.SW
+Kloeckner & Co SE:KCO.DE
+Television Francaise 1:TVFCF
+Aker ASA:KERN
+Zehnder Group AG:ZEHN.SW
+Euromoney Institutional Investor PLC:ERM.L
+Burford Capital Ltd:BUR
+Kambi Group PLC:KAMBI.ST
+Credito Valtellinese SpA:CVAL.MI
+Pharma Mar SA:PHM.MC
+Hufvudstaden AB:HUFV-A.ST
+Centamin PLC:CEY.L
+Deutsche Beteiligungs AG:DBAN.DE
+Inwido AB:INWI.ST
+Oesterreichische Post AG:OERCF
+Essentra PLC:ESNT.L
+Banca Generali SpA:BGN.MI
+Zumtobel Group AG:ZAG.VI
+Gimv NV:GIMB.BR
+Huber + Suhner AG:HUBN.SW
+Vastned Retail NV:VASTN.AS
+Mobilezone Holding AG:MOZN.SW
+Applus Services SA:APPS.MC
+Avon Rubber PLC:AVON.L
+Gurit Holding AG:GUR.SW
+Citycon Oyj:CTY1S.HE
+Loomis AB:LSBRX
+Capital & Counties Properties PLC:CAPC.L
+Piaggio & C SpA:PIA.MI
+Schouw & Co A/S:SCHO.CO
+Telecom Plus PLC:TEP.L
+Axfood AB:AXFO.ST
+Matas A/S:MATAS.CO
+OSRAM Licht AG:OSR.DE
+PATRIZIA AG:PAT.DE
+K+S AG:AF.PA
+Ebro Foods SA:EBRO.MC
+Flow Traders:FLOW.AS
+Meyer Burger Technology AG:MBTN.SW
+zooplus AG:ZO1.DE
+Fagron:FAGR.BR
+ITV PLC:ITV.L
+DNO ASA:DNOW
+SkiStar AB:SKIS-B.ST
+Greencore Group PLC:GNC.L
+AMG Advanced Metallurgical Group NV:AMG
+IPSOS:IPS.PA
+Falck Renewables SpA:FKR.MI
+Topdanmark AS:TOP.CO
+flatexDEGIRO AG:FTK.DE
+Italmobiliare SpA:ITM.MI
+Indus Holding AG:CF
+Blue Prism Group plc:PRSM.L
+Capita PLC:CCIV
+Ceres Power Holdings PLC:CWR.L
+Premier Foods PLC:PRRFY
+Banco Comercial Portugues SA:BPCGF
+TomTom NV:TOM2.AS
+Marston's PLC:MARS.L
+Orior AG:ORON.SW
+Nobia AB:NOBI.ST
+bpost SA:BPOST.BR
+Befimmo SA:BEFB.BR
+Crest Nicholson Holdings plc:CRST.L
+Immobiliare Grande Distribuzione SIIQ SpA:IGD.MI
+D/S Norden A/S:DNORD.CO
+BioGaia AB:BIOG-B.ST
+EFG International AG:EFGN.SW
+Euronav NV:EURN
+Deutz AG:DEZ.DE
+Cineworld Group PLC:CINE.L
+Clas Ohlson AB:CLAS-B.ST
+Leonteq AG:LEON.SW
+ABC arbitrage:ABCA.PA
+Indivior PLC:INVVY
+Emmi AG:EMMN.SW
+NCC AB:NCC.NS
+Virbac SA:VIRP.PA
+Salvatore Ferragamo SpA:SFER.MI
+NOS SGPS SA:NOS.LS
+Mediaset SpA:MS.MI
+OCI NV:OCI.AS
+Aareal Bank AG:ARL.DE
+Mediaset Espana Comunicacion SA:GETVF
+Quadient SA:QDT.PA
+Wallenstam AB:WALL-B.ST
+Betsson AB:BETS-B.ST
+Pfeiffer Vacuum Technology AG:PFFVF
+Tullow Oil PLC:TLW.L
+Vitrolife AB:VITR.ST
+Ontex Group NV:ONTEX.BR
+Barco NV:BAR.BR
+Klovern AB:0R4G.IL
+Bank of Georgia Group PLC:BGEO.L
+Spire Healthcare Group PLC:SPI.L
+Tod's SpA:TOD.MI
+GRENKE AG:GLJ.DE
+Tobii AB:TOBII.ST
+Spar Nord Bank A/S:SPNO.CO
+McPhy Energy SA:MCPHY.PA
+Webuild SpA:WBD.MI
+PowerCell Sweden AB:PCELL.ST
+Hunting PLC:HBAN
+CGG SA:CGG.TO
+Network International Holdings PLC:NETW.L
+Cairn Energy PLC:CRNCY
+Senior PLC:SUNS
+Restaurant Group PLC/The:RAVE
+Cellectis SA:CLLS
+Nilfisk Holding A/S:NLFSK.CO
+Norma Group SE:NOEJ.DE
+Basilea Pharmaceutica AG:BSLN.SW
+Hansa Biopharma AB:HNSA.ST
+Stagecoach Group PLC:SGC.L
+Schoeller-Bleckmann Oilfield Equipment AG:SBO.VI
+Fugro NV:FUR.AS
+Banca IFIS SpA:IF.MI
+Koninklijke BAM Groep NV:BAMNB.AS
+APG SGA SA:APGN.SW
+Solutions 30 SE:S30.PA
+Bobst Group SA:BOBNN.SW
+ElringKlinger AG:ZIL2.DE
+Go-Ahead Group PLC/The:GOG.L
+Aryzta AG:ARYN.SW
+Van de Velde NV:VDEVF
+Tecnicas Reunidas SA:TRE.MC
+Eurocommercial Properties NV:ECMPA.AS
+Mota-Engil SGPS SA:EGL.LS
+u-blox Holding AG:UBXN.SW
+Valneva SE:VLA.PA
+GAM Holding AG:EGLX
+Fingerprint Cards AB:FING-B.ST
+Novacyt SA:ALNOV.PA
+Bonava AB:BONAV-B.ST
+Mitie Group PLC:MTO.L
+Scandic Hotels Group AB:SHOT.ST
+Guerbet:GBT.PA
+Relief Therapeutics Holding AG:RLFTF
+IMI PLC:IMIN.V
+Abengoa SA:ABGOF
+Ashtead Group PLC:AHT.L
+Hexagon AB:HPUR.OL
+Teleperformance:TEP.PA
+Worldline SA/France:WLN.PA
+Evolution Gaming Group AB:EVVTY
+Logitech International SA:LOGI
+Cellnex Telecom SA:CLNX.MC
+Essity AB:ESSITY-B.ST
+Kingspan Group PLC:KRX.IR
+Edenred:EDEN.PA
+FinecoBank Banca Fineco SpA:FBK.MI
+Schindler Holding AG:SCHN.SW
+Halma PLC:HLMA.L
+HelloFresh SE:HFG.DE
+Epiroc AB:EPOKY
+Just Eat Takeaway.com NV:TKWY.AS
+Croda International PLC:CRDA.L
+Rentokil Initial PLC:RTOKY
+Spirax-Sarco Engineering PLC:SPX.L
+Sartorius Stedim Biotech:DIM.PA
+Nibe Industrier AB:NIBE-B.ST
+St James's Place PLC:STJ.L
+Grifols SA:GRFS
+Nexi SpA:NEXI
+JD Sports Fashion PLC:JD.L
+EQT AB:EQT
+Auto Trader Group PLC:AUTO.L
+GEA Group AG:G1A.DE
+Knorr-Bremse AG:KBX.DE
+LEG Immobilien SE:LEG.DE
+TeamViewer AG:TMV.DE
+Davide Campari-Milano NV:CPR.MI
+Scout24 AG:G24.DE
+Sage Group PLC/The:SGE.L
+KION Group AG:KGX.DE
+Puma SE:PBYI
+Barry Callebaut AG:BARN.SW
+Bechtle AG:BC8.DE
+AVEVA Group PLC:AVV.L
+Verbund AG:VER.VI
+Accor SA:AC.PA
+Getlink SE:GET.PA
+Bureau Veritas SA:BVI.PA
+Orpea SA:ORP.PA
+Elia Group SA/NV:ELI.BR
+Remy Cointreau SA:RCO.PA
+Galapagos NV:GLPG
+JDE Peet's NV:JDEP.AS
+Adevinta ASA:ADE.OL
+Sofina SA:SOF.BR
+Iliad SA:ILD.PA
+Fresnillo PLC:FNLPF
+Rational AG:RAA.DE
+Nemetschek SE:NEM.DE
+Investment AB Latour:0RQP.IL
+Ipsen SA:IPN.PA
+Schibsted ASA:SCHA.OL
+Aroundtown SA:AT1.DE
+SEB SA:SEB
+L E Lundbergforetagen AB:0GWB.IL
+NMC Health PLC:NMHLY
+Eiffage SA:FGR.PA
+Amplifon SpA:AMP.MI
+Poste Italiane SpA:PST.MI
+Hikma Pharmaceuticals PLC:HIK.L
+Amundi SA:GLUX.MI
+Gjensidige Forsikring ASA:GJF.OL
+Smurfit Kappa Group PLC:SMFKY
+Charles River Laboratories International Inc:CRL
+Signature Bank/New York NY:SBNY
+Starwood Property Trust Inc:STWD
+Caesars Entertainment Inc:CZR
+L Brands Inc:GNUS
+Darling Ingredients Inc:DAR
+Entegris Inc:ENTG
+Bio-Techne Corp:TECH
+National Retail Properties Inc:NNN
+Chimera Investment Corp:CIM
+Apartment Income REIT Corp:AIRC
+Diamondback Energy Inc:FANG
+Lithia Motors Inc:LAD
+Cree Inc:CREE
+STORE Capital Corp:STOR
+AECOM:ACM
+Agree Realty Corp:ADC
+LPL Financial Holdings Inc:LPLA
+Cousins Properties Inc:CUZ
+Nuance Communications Inc:NUAN
+Williams-Sonoma Inc:WSM
+American Campus Communities Inc:ACC
+Boston Beer Co Inc/The:SAM
+Old Republic International Corp:ORI
+Lamar Advertising Co:LAMR
+Terreno Realty Corp:TRNO
+Popular Inc:BPOP
+Stifel Financial Corp:SF
+Five Below Inc:FIVE
+Quanta Services Inc:PWR
+Pacific Premier Bancorp Inc:PPBI
+Trex Co Inc:TREX
+Carlisle Cos Inc:CSL
+Inphi Corp:IN0.DE
+Corporate Office Properties Trust:OFC
+Cullen/Frost Bankers Inc:CFR
+Jones Lang LaSalle Inc:JLL
+TCF Financial Corp:TCF
+Scotts Miracle-Gro Co/The:SMG
+Universal Display Corp:OLED
+People's United Financial Inc:PBCT
+East West Bancorp Inc:EWBC
+Oshkosh Corp:OSK
+MKS Instruments Inc:MKSI
+RH:RH
+Guardant Health Inc:GH
+Gentex Corp:GNTX
+Community Trust Bancorp Inc:CTBI
+Brookline Bancorp Inc:BRKL
+Repligen Corp:RGEN
+Polaris Inc:PII
+Commerce Bancshares Inc/MO:CBSH
+Black Hills Corp:BKH
+First Financial Corp/IN:THFF
+Chegg Inc:CHGG
+Builders FirstSource Inc:BLDR
+Aspen Technology Inc:AZPN
+Tapestry Inc:TPR
+SLM Corp:SLM
+Bright Horizons Family Solutions Inc:BFAM
+Brunswick Corp/DE:BC
+PacWest Bancorp:PACW
+Applied Industrial Technologies Inc:AIT
+Penumbra Inc:PEN
+Getty Realty Corp:GTY
+National Health Investors Inc:NHI
+Huntsman Corp:HUN
+Deckers Outdoor Corp:DECK
+CyrusOne Inc:CONE
+Kohl's Corp:KSS
+Berry Global Group Inc:BERY
+Floor & Decor Holdings Inc:FND
+Texas Pacific Land Corp:TPL
+Choice Hotels International Inc:CHH
+Churchill Downs Inc:CHDN
+New York Community Bancorp Inc:NYCB
+Graco Inc:GGG
+US Foods Holding Corp:USFD
+Brooks Automation Inc:BRKS
+Gentherm Inc:THRM
+IDACORP Inc:IDA
+Timken Co/The:TMST
+TopBuild Corp:BLD
+Omnicell Inc:OMCL
+United Therapeutics Corp:UTHR
+Eagle Materials Inc:EXP
+WSFS Financial Corp:WSFS
+Norwegian Cruise Line Holdings Ltd:NCLH
+Watsco Inc:WSO
+Lincoln Electric Holdings Inc:LECO
+KBR Inc:KBR
+Donaldson Co Inc:DCI
+Louisiana-Pacific Corp:LPX
+PotlatchDeltic Corp:PCH
+Encompass Health Corp:EHC
+Toro Co/The:TTC
+Acceleron Pharma Inc:XLRN
+MDU Resources Group Inc:MDU
+Cleveland-Cliffs Inc:CLF
+Tetra Tech Inc:TTI
+Retail Opportunity Investments Corp:ROIC
+Tempur Sealy International Inc:TPX
+Affiliated Managers Group Inc:AMG
+Western Alliance Bancorp:WAL
+Simmons First National Corp:SFNC
+Exelixis Inc:EXEL
+Hancock Whitney Corp:HWC
+PVH Corp:PVH
+Targa Resources Corp:TRGP
+AGCO Corp:AGCO
+Euronet Worldwide Inc:EEFT
+Hill-Rom Holdings Inc:HRC
+Marriott Vacations Worldwide Corp:VAC
+Ultragenyx Pharmaceutical Inc:RARE
+PRA Health Sciences Inc:PRAH
+Zynga Inc:ZNGA
+Axon Enterprise Inc:AXON
+Alcoa Corp:AA
+City Holding Co:CHCO
+Performance Food Group Co:PFGC
+Park Hotels & Resorts Inc:PK
+South State Corp:SSB
+Amedisys Inc:AMED
+Skechers USA Inc:SKX
+Toll Brothers Inc:TOL
+Five9 Inc:FIVN
+Bruker Corp:BRKR
+Minerals Technologies Inc:MTX
+First Solar Inc:FSLR
+Nexstar Media Group Inc:NXST
+CoreSite Realty Corp:COR
+Middleby Corp/The:MIDD
+Ralph Lauren Corp:RL
+Thor Industries Inc:THO
+Mattel Inc:MAT
+Proofpoint Inc:PFPT
+Ovintiv Inc:OVV
+Viavi Solutions Inc:VIAV
+Under Armour Inc:UA
+MAXIMUS Inc:MMS
+APA Corp:APA
+FLIR Systems Inc:FL4.SG
+Hanesbrands Inc:HBI
+Penske Automotive Group Inc:PAG
+Post Holdings Inc:POST
+Capri Holdings Ltd:CPRI
+Lattice Semiconductor Corp:LSCC
+Valmont Industries Inc:VMI
+Freshpet Inc:FRPT
+CMC Materials Inc:CCMP
+Southside Bancshares Inc:SBSI
+Radian Group Inc:RDN
+Element Solutions Inc:ESI
+Lumentum Holdings Inc:LITE
+Air Lease Corp:AL
+National Instruments Corp:NATI
+Paylocity Holding Corp:PCTY
+Manhattan Associates Inc:MANH
+SYNNEX Corp:SNX
+DXC Technology Co:DXC
+Jabil Inc:JBL
+Saul Centers Inc:BFS
+Concentrix Corp:CNXC
+Flex Ltd:FLEX
+Essent Group Ltd:ESNT
+Helen of Troy Ltd:HELE
+Rexnord Corp:RXN
+Kemper Corp:KMPR
+CIT Group Inc:CIT
+II-VI Inc:IIVI
+WEX Inc:WEX
+YETI Holdings Inc:YETI
+WESCO International Inc:WCC
+Clean Harbors Inc:CLH
+First American Financial Corp:FAF
+Chemed Corp:CHE
+Service Corp International/US:SCI
+Pure Storage Inc:PSTG
+Brady Corp:BRC
+SiteOne Landscape Supply Inc:SITE
+ManpowerGroup Inc:MAN
+Casey's General Stores Inc:CASY
+Webster Financial Corp:WBS
+Natera Inc:NTRA
+BancFirst Corp:BANF
+Bank OZK:OZK
+Mack-Cali Realty Corp:CLI
+Kennedy-Wilson Holdings Inc:KW
+ASGN Inc:ASGN
+SITE Centers Corp:SITC
+Inspire Medical Systems Inc:INSP
+Ryman Hospitality Properties Inc:RHP
+Bryn Mawr Bank Corp:BMTC
+CACI International Inc:CACI
+Ares Management Corp:ARES
+Marathon Oil Corp:MRO
+IAA Inc:IAA
+NCR Corp:NCR
+Acadia Healthcare Co Inc:ACHC
+Stericycle Inc:SRCL
+Cirrus Logic Inc:CRUS
+Change Healthcare Inc:CHNG
+Pebblebrook Hotel Trust:PEB
+Avista Corp:AVA
+Digital Turbine Inc:APPS
+Universal Health Realty Income Trust:UHT
+Halozyme Therapeutics Inc:HALO
+Iridium Communications Inc:IRDM
+Washington Trust Bancorp Inc:WASH
+Lakeland Financial Corp:LKFN
+Hexcel Corp:HXL
+Cracker Barrel Old Country Store Inc:CBRL
+Planet Fitness Inc:PLNT
+Silicon Laboratories Inc:SLAB
+Terex Corp:TEX
+Umpqua Holdings Corp:UMPQ
+MGIC Investment Corp:MTG
+MDC Holdings Inc:MDC
+Arrowhead Pharmaceuticals Inc:ARWR
+Colfax Corp:CFX
+Elastic NV:ESTC
+Korn Ferry:KFY
+Envista Holdings Corp:NVST
+NOV Inc:NOV
+Exponent Inc:EXPO
+Reliance Steel & Aluminum Co:RS
+Provident Financial Services Inc:PFS
+United States Steel Corp:X
+Preferred Bank/Los Angeles CA:PFBC
+National Fuel Gas Co:NFG
+Casella Waste Systems Inc:CWST
+Alexander's Inc:ALX
+LHC Group Inc:LHCG
+Six Flags Entertainment Corp:SIX
+New Jersey Resources Corp:NJR
+TripAdvisor Inc:TRIP
+Dick's Sporting Goods Inc:DKS
+Kadant Inc:KAI
+Haemonetics Corp:HAE
+Smartsheet Inc:SMAR
+OSI Systems Inc:OSIS
+Anaplan Inc:PLAN
+Chemours Co/The:CC
+Cimarex Energy Co:XEC
+CoreLogic Inc/United States:CLGX
+Foot Locker Inc:FL
+Piper Sandler Cos:PJR.F
+Varonis Systems Inc:VRNS
+Mirati Therapeutics Inc:MRTX
+Globus Medical Inc:GMED
+Brink's Co/The:BCO
+John Bean Technologies Corp:JBT
+Quaker Chemical Corp:KWR
+Fox Factory Holding Corp:FOXF
+BWX Technologies Inc:BWXT
+Chart Industries Inc:GTLS
+Science Applications International Corp:SAIC
+CRISPR Therapeutics AG:CRSP
+Pegasystems Inc:PEGA
+Harley-Davidson Inc:HOG
+Qurate Retail Inc:QRTEA
+Blueprint Medicines Corp:BPMC
+NeoGenomics Inc:NEO
+Dime Community Bancshares Inc:DCOM
+Fate Therapeutics Inc:FATE
+Safety Insurance Group Inc:SAFT
+Tandem Diabetes Care Inc:TNDM
+Sailpoint Technologies Holdings Inc:SAIL
+Bill.com Holdings Inc:BILL
+Ambarella Inc:AMBA
+Acuity Brands Inc:AYI
+MGE Energy Inc:MGEE
+Saia Inc:SAIA
+Nevro Corp:NVRO
+Neogen Corp:NEOG
+Texas Roadhouse Inc:TXRH
+John Wiley & Sons Inc:JW-A
+KB Home:KBH
+New York Times Co/The:NYT
+Blackline Inc:BL
+ICU Medical Inc:ICUI
+Spirit AeroSystems Holdings Inc:SPR
+McGrath RentCorp:MGRC
+Invitae Corp:NVTA
+Tenet Healthcare Corp:THC
+Arcosa Inc:ACA
+PennyMac Financial Services Inc:PFSI
+WillScot Mobile Mini Holdings Corp:WSC
+Ollie's Bargain Outlet Holdings Inc:OLLI
+Kennametal Inc:KMT
+Terminix Global Holdings Inc:TMX
+Box Inc:BOX
+DiamondRock Hospitality Co:DRH
+Howard Hughes Corp/The:HHC
+Berkshire Hills Bancorp Inc:BHLB
+BJ's Wholesale Club Holdings Inc:BJ
+Ryder System Inc:R
+Sabre Corp:SABR
+Advanced Drainage Systems Inc:WMS
+Balchem Corp:BCPC
+MACOM Technology Solutions Holdings Inc:MTSI
+Assured Guaranty Ltd:AGO
+Middlesex Water Co:MSEX
+CommVault Systems Inc:CVLT
+Coherent Inc:COHR
+MSA Safety Inc:MSA
+Shake Shack Inc:SHAK
+Camden National Corp:CAC
+Syneos Health Inc:SYNH
+Credit Acceptance Corp:CACC
+Taylor Morrison Home Corp:TMHC
+Grubhub Inc:GRUB
+Murphy USA Inc:MUSA
+EQT Corp:EQT
+Qualys Inc:QLYS
+Q2 Holdings Inc:QTWO
+Intellia Therapeutics Inc:NTLA
+Nutanix Inc:NTNX
+Wendy's Co/The:WEN
+TG Therapeutics Inc:TGTX
+Waddell & Reed Financial Inc:WDDA.SG
+Carter's Inc:CRI
+Trinity Industries Inc:TRN
+Redfin Corp:RDFN
+Shockwave Medical Inc:SWAV
+Avis Budget Group Inc:CAR
+Olin Corp:OLN
+Chatham Lodging Trust:CLDT
+Sage Therapeutics Inc:SAGE
+Meritage Homes Corp:MTH
+Arena Pharmaceuticals Inc:ARNA
+Envestnet Inc:ENV
+FireEye Inc:FEYE
+Interactive Brokers Group Inc:IBKR
+White Mountains Insurance Group Ltd:WTM
+Agios Pharmaceuticals Inc:AGIO
+Crocs Inc:CROX
+ZoomInfo Technologies Inc:ZI
+Fastly Inc:FSLY
+J2 Global Inc:JCOM
+Belden Inc:BDC
+NMI Holdings Inc:NMIH
+Emergent BioSolutions Inc:EBS
+EnPro Industries Inc:NPO
+Insperity Inc:NSP
+Hain Celestial Group Inc/The:HAIN
+Perficient Inc:PRFT
+Chesapeake Utilities Corp:CPK
+HealthEquity Inc:HQY
+National HealthCare Corp:NHC
+Vontier Corp:VNT
+Albany International Corp:AIN
+Ormat Technologies Inc:ORA
+Sprouts Farmers Market Inc:SFM
+Denali Therapeutics Inc:DNLI
+American Eagle Outfitters Inc:AEO
+Insmed Inc:INSM
+Premier Inc:AWP
+Domtar Corp:UFS
+FTI Consulting Inc:FCN
+Mercury Systems Inc:MRCY
+Synaptics Inc:SYNA
+NOW Inc:NOW
+Yelp Inc:YELP
+Banc of California Inc:BANC
+Ambac Financial Group Inc:AMBC
+Quidel Corp:QDEL
+Biohaven Pharmaceutical Holding Co Ltd:BHVN
+GCP Applied Technologies Inc:GCP
+TriMas Corp:TRS
+frontdoor Inc:FTDR
+World Fuel Services Corp:INT
+Allegheny Technologies Inc:ATI
+Lindsay Corp:LNN
+Stamps.com Inc:STMP
+AMERISAFE Inc:AMSF
+Nordstrom Inc:JWN
+Resideo Technologies Inc:REZI
+Sally Beauty Holdings Inc:SBH
+Sleep Number Corp:SNBR
+Madison Square Garden Sports Corp:MSGS
+Bed Bath & Beyond Inc:BBBY
+Alliance Data Systems Corp:ADS
+Brinker International Inc:EAT
+Alteryx Inc:AYX
+Sonos Inc:SONO
+Kratos Defense & Security Solutions Inc:KTOS
+Ligand Pharmaceuticals Inc:LGND
+Helmerich & Payne Inc:HP
+Turning Point Therapeutics Inc:TPTX
+Perspecta Inc:1Z5.MU
+Novanta Inc:NOVT
+Stock Yards Bancorp Inc:SYBT
+Insteel Industries Inc:IIIN
+Vertiv Holdings Co:VRT
+Herbalife Nutrition Ltd:HLF
+Valvoline Inc:VVV
+Equitrans Midstream Corp:ETRN
+Astec Industries Inc:ASTE
+Steven Madden Ltd:SHOO
+NIC Inc:NICE
+Masonite International Corp:DOOR
+Merit Medical Systems Inc:MMSI
+PDC Energy Inc:PDCE
+LivePerson Inc:LPSN
+California Water Service Group:CWT
+Grand Canyon Education Inc:LOPE
+Everbridge Inc:EVBG
+Signet Jewelers Ltd:SIG
+Southwestern Energy Co:SWN
+Covanta Holding Corp:CVA
+Big Lots Inc:BIG
+PTC Therapeutics Inc:PTCT
+Appian Corp:APPN
+Lancaster Colony Corp:LANC
+New Relic Inc:NEWR
+MicroStrategy Inc:MSTR
+Virgin Galactic Holdings Inc:SPCE
+ABM Industries Inc:ABM
+iRhythm Technologies Inc:IRTC
+Twist Bioscience Corp:TWST
+Kinsale Capital Group Inc:KNSL
+Cannae Holdings Inc:CNNE
+FibroGen Inc:FGEN
+Nu Skin Enterprises Inc:NUS
+CNX Resources Corp:CNX
+STAAR Surgical Co:STAA
+ChampionX Corp:CHX
+LiveRamp Holdings Inc:RAMP
+RealPage Inc:1R1.SG
+Forestar Group Inc:FOR
+Virtu Financial Inc:VIRT
+Global Blood Therapeutics Inc:GBT
+Kodiak Sciences Inc:KOD
+8x8 Inc:EGHT
+FirstCash Inc:FCFS
+Macy's Inc:M
+AMN Healthcare Services Inc:AMN
+WisdomTree Investments Inc:WETF
+Wingstop Inc:WING
+O-I Glass Inc:OI
+Enerpac Tool Group Corp:EPAC
+Apellis Pharmaceuticals Inc:APLS
+Beyond Meat Inc:BYND
+Proto Labs Inc:PRLB
+Allegiant Travel Co:ALGT
+FuelCell Energy Inc:FCEL
+Iovance Biotherapeutics Inc:IOVA
+Cerence Inc:CRNC
+3D Systems Corp:DDD
+National Vision Holdings Inc:EYE
+Bandwidth Inc:BAND
+World Wrestling Entertainment Inc:WWE
+Nektar Therapeutics:NKTR
+CareDx Inc:CDNA
+KAR Auction Services Inc:KAR
+US Physical Therapy Inc:USPH
+Sanderson Farms Inc:SAFM
+Schrodinger Inc/United States:SDGR
+Magnite Inc:MGNI
+Range Resources Corp:RRC
+REGENXBIO Inc:RGNX
+Murphy Oil Corp:MUR
+ADTRAN Inc:ADTN
+Editas Medicine Inc:EDIT
+iRobot Corp:IRBT
+2U Inc:TWOU
+Cloudera Inc:CLDR
+Green Dot Corp:GDOT
+Appfolio Inc:APPF
+Bridgebio Pharma Inc:BBIO
+Comtech Telecommunications Corp:CMTL
+Amicus Therapeutics Inc:FOLD
+Allakos Inc:ALLK
+Theravance Biopharma Inc:TBPH
+Upwork Inc:UPWK
+Adaptive Biotechnologies Corp:ADPT
+Flushing Financial Corp:FFIC
+Arvinas Inc:ARVN
+ACADIA Pharmaceuticals Inc:ACAD
+Triumph Group Inc:TGI
+Greenbrier Cos Inc/The:G90.F
+Neenah Inc:NP
+Bluebird Bio Inc:BLUE
+NuVasive Inc:NUVA
+Winmark Corp:WINA
+ChemoCentryx Inc:CCXI
+Alarm.com Holdings Inc:ALRM
+Cardlytics Inc:CDLX
+HNI Corp:HNI
+Graham Holdings Co:GHC
+SunPower Corp:SPWR
+Schnitzer Steel Industries Inc:SCHN
+Infinera Corp:INFN
+Renewable Energy Group Inc:REGI
+Veracyte Inc:VCYT
+Hyster-Yale Materials Handling Inc:HY
+Harsco Corp:HSC
+Cogent Communications Holdings Inc:CCOI
+American Axle & Manufacturing Holdings Inc:AXL
+Tootsie Roll Industries Inc:TR
+Brookdale Senior Living Inc:BKD
+Uniti Group Inc:UNIT
+Reata Pharmaceuticals Inc:RETA
+LendingTree Inc:TREE
+Healthcare Services Group Inc:HCSG
+Manitowoc Co Inc/The:MTW
+WW International Inc:WW
+Coeur Mining Inc:CDE
+ODP Corp/The:ODP
+Supernus Pharmaceuticals Inc:SUPN
+GrowGeneration Corp:GRWG
+PRA Group Inc:PRAA
+Itron Inc:ITRI
+Atrion Corp:ATRI
+ProAssurance Corp:PRA
+Matador Resources Co:MTDR
+Verint Systems Inc:VRNT
+Trupanion Inc:TRUP
+Cimpress PLC:CMPR
+Abercrombie & Fitch Co:ANF
+Scientific Games Corp:SGMS
+Xperi Holding Corp:XPER
+Bloom Energy Corp:BE
+Vista Outdoor Inc:VSTO
+Kosmos Energy Ltd:KOS
+OPKO Health Inc:OPK
+Transocean Ltd:RIG
+Macquarie Infrastructure Corp:MIC
+eXp World Holdings Inc:EXPI
+ExlService Holdings Inc:EXLS
+Camping World Holdings Inc:CWH
+Amneal Pharmaceuticals Inc:AMRX
+US Ecology Inc:ECOL
+World Acceptance Corp:WRLD
+McEwen Mining Inc:MUX
+Kirby Corp:KEX
+Viasat Inc:VSAT
+Radius Health Inc:RDUS
+Energizer Holdings Inc:ENR
+Community Health Systems Inc:CYH
+Genworth Financial Inc:GNW
+Maxar Technologies Inc:MAXR
+1Life Healthcare Inc:ONEM
+Tenneco Inc:TEN
+Carpenter Technology Corp:CRS
+BioCryst Pharmaceuticals Inc:BCRX
+Plantronics Inc:POLY
+United Natural Foods Inc:UNFI
+Lemonade Inc:LMND
+Navistar International Corp:NAV
+CryoPort Inc:CYRX
+Cardtronics PLC:CATM
+Overstock.com Inc:OSTK
+Pitney Bowes Inc:PBI
+Tilray Inc:TLRY
+MBIA Inc:MBI
+Puma Biotechnology Inc:PBYI
+Inovio Pharmaceuticals Inc:INO
+AMC Networks Inc:AMCX
+Brigham Minerals Inc:MNRL
+PBF Energy Inc:PBF
+Stitch Fix Inc:SFIX
+Owens & Minor Inc:OMI
+Workhorse Group Inc:WKHS
+Sorrento Therapeutics Inc:SRNE
+Antero Resources Corp:AR
+Amyris Inc:AMRS
+Intercept Pharmaceuticals Inc:ICPT
+Groupon Inc:GRPN
+Madison Square Garden Entertainment Corp:MSGE
+Nikola Corp:NKLA
+MSG Networks Inc:MSGN
+GameStop Corp:GME
+Nielsen Holdings PLC:NLSN
+Exelon Corp:EXC
+MetLife Inc:MET
+Corning Inc:GLW
+Kinder Morgan Inc:KMI
+Nucor Corp:NUE
+McKesson Corp:MCK
+Williams Cos Inc/The:WMB
+Archer-Daniels-Midland Co:ADM
+Dell Technologies Inc:DELL
+Ingersoll Rand Inc:IR
+Public Service Enterprise Group Inc:PEG
+Weyerhaeuser Co:WY
+Jacobs Engineering Group Inc:J
+Qorvo Inc:QRVO
+Annaly Capital Management Inc:NLY
+Pentair PLC:PNR
+AmerisourceBergen Corp:ABC
+MGM Resorts International:MGM
+Kraft Heinz Co/The:KHC
+FirstEnergy Corp:FE
+Hess Corp:HES
+Leidos Holdings Inc:LDOS
+Conagra Brands Inc:CAG
+Alliant Energy Corp:LNT
+Seagate Technology PLC:STX
+Cincinnati Financial Corp:CINF
+PG&E Corp:PG
+Tyson Foods Inc:TSN
+Howmet Aerospace Inc:HWM
+Bunge Ltd:BG
+Invesco Ltd:QQQ
+NetApp Inc:NTAP
+Edison International:EIX
+PPL Corp:PPL
+Albemarle Corp:ALB
+UGI Corp:UGI
+Carnival Corp:CCL
+Cardinal Health Inc:CAH
+IAC/InterActiveCorp:IAC
+Molson Coors Beverage Co:TAP
+Wynn Resorts Ltd:WYNN
+Lumen Technologies Inc:LUMN
+Mosaic Co/The:MOS
+Loews Corp:L
+Liberty Global PLC:LBTYA
+Vornado Realty Trust:VNO
+Equifax Inc:EFX
+Monster Beverage Corp:MNST
+Ball Corp:BLL
+Marvell Technology Group Ltd:MRVL
+Fortinet Inc:FTNT
+Generac Holdings Inc:GNRC
+HEICO Corp:HEI
+EPAM Systems Inc:EPAM
+Las Vegas Sands Corp:LVS
+Slack Technologies Inc:WORK
+Expedia Group Inc:EXPE
+Arista Networks Inc:ANET
+Teradyne Inc:TER
+Paycom Software Inc:PAYC
+RPM International Inc:RPM
+Gartner Inc:IT
+Darden Restaurants Inc:DRI
+HubSpot Inc:HUBS
+Cheniere Energy Inc:LNG
+Monolithic Power Systems Inc:MPWR
+Zendesk Inc:ZEN
+SolarEdge Technologies Inc:SEDG
+Datadog Inc:DDOG
+Zscaler Inc:ZS
+Avantor Inc:AVTR
+Brown-Forman Corp:BF-B
+Fair Isaac Corp:FICO
+Live Nation Entertainment Inc:LYV
+Cloudflare Inc:NET
+Ceridian HCM Holding Inc:CDAY
+Novocure Ltd:NVCR
+FMC Corp:FMC
+Lamb Weston Holdings Inc:LW
+Dynatrace Inc:DT
+Allegion plc:ALLE
+Avalara Inc:AVLR
+10X Genomics Inc:TXG
+Airbnb Inc:ABNB
+XPO Logistics Inc:XPO
+Neurocrine Biosciences Inc:NBIX
+IPG Photonics Corp:IPGP
+Snowflake Inc:SNOW
+Altice USA Inc:ATUS
+Sirius XM Holdings Inc:SIRI
+Nordson Corp:NDSN
+Sunrun Inc:RUN
+Tradeweb Markets Inc:TW
+Chewy Inc:CHWY
+Dropbox Inc:DBX
+Guidewire Software Inc:GWRE
+Southwest Airlines Co:LUV
+Cable One Inc:CABO
+Robert Half International Inc:RHI
+Reinsurance Group of America Inc:RGA
+Globe Life Inc:GL
+Iron Mountain Inc:IRM
+Taiyo Yuden Co Ltd:TYOYY
+Advance Residence Investment Corp:3269.T
+Haseko Corp:1808.T
+Sekisui House Reit Inc:3309.T
+Ebara Corp:EBCOY
+Activia Properties Inc:3279.T
+Aozora Bank Ltd:8304.T
+Frontier Real Estate Investment Corp:8964.T
+BayCurrent Consulting Inc:6532.T
+Tokyo Tatemono Co Ltd:TYTMF
+Mitsui OSK Lines Ltd:MILA.F
+SCREEN Holdings Co Ltd:7735.T
+Nifco Inc/Japan:7988.T
+COMSYS Holdings Corp:1721.T
+Showa Denko KK:SHWDY
+Kenedix Office Investment Corp:8972.T
+Denka Co Ltd:DENKF
+Japan Logistics Fund Inc:8967.T
+Kyowa Exeo Corp:1951.T
+NOF Corp:NOF.MU
+Nippon Accommodations Fund Inc:3226.T
+Sumitomo Forestry Co Ltd:1911.T
+Cosmo Energy Holdings Co Ltd:5021.T
+Anritsu Corp:AITUY
+Sanwa Holdings Corp:5929.T
+ADEKA Corp:4401.T
+Tokai Carbon Co Ltd:5301.T
+Fancl Corp:4921.T
+Hanwa Co Ltd:8078.T
+Kobe Steel Ltd:5406.T
+Nikon Corp:NINOY
+Inaba Denki Sangyo Co Ltd:9934.T
+JAFCO Group Co ltd:8595.T
+Matsumotokiyoshi Holdings Co Ltd:3088.T
+Penta-Ocean Construction Co Ltd:1893.T
+Invesco Office J-Reit Inc:3298.T
+GS Yuasa Corp:6674.T
+Autobacs Seven Co Ltd:AB6.F
+K's Holdings Corp:8282.T
+Sankyu Inc:9065.T
+Kagome Co Ltd:2811.T
+Kyudenko Corp:1959.T
+NIPPON REIT Investment Corp:3296.T
+Tokyu REIT Inc:8957.T
+Open House Co Ltd:3288.T
+Relo Group Inc:8876.T
+Ulvac Inc:6728.T
+Nichirei Corp:2871.T
+TechnoPro Holdings Inc:TCCPY
+Sumitomo Warehouse Co Ltd/The:9303.T
+Japan Hotel REIT Investment Corp:NIPOF
+Meitec Corp:MJ1.MU
+Takara Holdings Inc:2531.T
+IHI Corp:7013.T
+Zenkoku Hosho Co Ltd:7164.T
+Rohto Pharmaceutical Co Ltd:4527.T
+NET One Systems Co Ltd:7518.T
+Okumura Corp:1833.T
+Tokyo Seimitsu Co Ltd:7729.T
+Alps Alpine Co Ltd:APELY
+Nippon Soda Co Ltd:4041.T
+Amano Corp:6436.T
+Skylark Holdings Co Ltd:3197.T
+Sato Holdings Corp:6287.T
+Mitsui Mining & Smelting Co Ltd:MMSMY
+DMG Mori Co Ltd:6141.T
+DIC Corp:DICCF
+Nihon Unisys Ltd:8056.T
+Zensho Holdings Co Ltd:7550.T
+Nisshinbo Holdings Inc:3105.T
+Tokuyama Corp:TKYMY
+H.U. Group Holdings Inc:4544.T
+Nipro Corp:8086.T
+NTN Corp:6472.T
+Invincible Investment Corp:8963.T
+Resorttrust Inc:4681.T
+Credit Saison Co Ltd:8253.T
+Kewpie Corp:2809.T
+Mizuno Corp:8022.T
+Lintec Corp:7966.T
+Toagosei Co Ltd:4045.T
+Awa Bank Ltd/The:8388.T
+Benefit One Inc:2412.T
+Dowa Holdings Co Ltd:DWMNF
+Outsourcing Inc:2427.T
+Sapporo Holdings Ltd:2501.T
+Daiseki Co Ltd:DSKIF
+NSD Co Ltd:9759.T
+Aica Kogyo Co Ltd:4206.T
+OSG Corp:6136.T
+Toyo Tire Corp:5105.T
+Ship Healthcare Holdings Inc:5EZ.F
+Juroku Bank Ltd/The:8356.T
+Nishimatsu Construction Co Ltd:1820.T
+Duskin Co Ltd:4665.T
+Nankai Electric Railway Co Ltd:9044.T
+SMS Co Ltd:2175.T
+Tokai Tokyo Financial Holdings Inc:8616.T
+Kisoji Co Ltd:8160.T
+Izumi Co Ltd:8273.T
+KYB Corp:7242.T
+Kadokawa Corp:9468.T
+Tokai Rika Co Ltd:6995.T
+Asics Corp:ASCCF
+Hokuhoku Financial Group Inc:8377.T
+Kiyo Bank Ltd/The:8370.T
+Furukawa Electric Co Ltd:FUWAY
+TS Tech Co Ltd:7313.T
+Trusco Nakayama Corp:9830.T
+Morinaga Milk Industry Co Ltd:2264.T
+Gunze Ltd:3002.T
+Nihon Kohden Corp:NHNKY
+NHK Spring Co Ltd:NHK.F
+Hitachi Zosen Corp:7004.T
+GMO internet Inc:GMOYF
+Toyo Ink SC Holdings Co Ltd:TO5.F
+J Front Retailing Co Ltd:3086.T
+Central Glass Co Ltd:4044.T
+As One Corp:7476.T
+Nippon Kayaku Co Ltd:4272.T
+Fujitsu General Ltd:6755.T
+Seino Holdings Co Ltd:9076.T
+Ricoh Leasing Co Ltd:8566.T
+Maeda Corp:1824.T
+Heiwa Real Estate Co Ltd:8803.T
+Shochiku Co Ltd:9601.T
+Kokuyo Co Ltd:KOK.F
+H2O Retailing Corp:8242.T
+FP Corp:7947.T
+Digital Garage Inc:DLGEF
+Hiday Hidaka Corp:7611.T
+Park24 Co Ltd:PKCOY
+Kanematsu Corp:8020.T
+Ogaki Kyoritsu Bank Ltd/The:8361.T
+Shikoku Electric Power Co Inc:9507.T
+Idec Corp/Japan:6652.T
+Tamura Corp:6768.T
+Nippon Light Metal Holdings Co Ltd:5703.T
+Hokuetsu Corp:HPE.F
+Japan Steel Works Ltd/The:JPSWY
+SHIFT Inc:SFT
+Menicon Co Ltd:7780.T
+Makino Milling Machine Co Ltd:6135.T
+Pacific Metals Co Ltd:NEWP
+Daiichikosho Co Ltd:7458.T
+cocokara fine Inc:4HN.F
+Asahi Holdings Inc:5857.T
+Nakanishi Inc:5941.T
+Daiwabo Holdings Co Ltd:3107.T
+Nippon Paper Industries Co Ltd:3863.T
+JCR Pharmaceuticals Co Ltd:4552.T
+Marusan Securities Co Ltd:8613.T
+Belluna Co Ltd:9997.T
+Nippon Suisan Kaisha Ltd:1332.T
+Jaccs Co Ltd:8584.T
+Valor Holdings Co Ltd:9956.T
+Infomart Corp:2492.T
+Star Micronics Co Ltd:2ZN.SG
+Katitas Co Ltd:8919.T
+Nikkon Holdings Co Ltd:9072.T
+Systena Corp:2317.T
+Milbon Co Ltd:4919.T
+Justsystems Corp:JSY.MU
+San-In Godo Bank Ltd/The:8381.T
+Nachi-Fujikoshi Corp:6474.T
+Shiga Bank Ltd/The:8366.T
+Aida Engineering Ltd:6118.T
+Fuji Co Ltd/Ehime:FJTCY
+Fuji Oil Holdings Inc:2607.T
+Maruha Nichiro Corp:1333.T
+Okasan Securities Group Inc:8609.T
+Key Coffee Inc:2594.T
+Seria Co Ltd:2782.T
+Tokyu Construction Co Ltd:TCW.F
+Topcon Corp:TOPCF
+Kawasaki Kisen Kaisha Ltd:KAIKY
+Press Kogyo Co Ltd:7246.T
+Ines Corp:IE7.F
+Shinmaywa Industries Ltd:7224.T
+Kitz Corp:6498.T
+Toyo Construction Co Ltd:1890.T
+Fuji Seal International Inc:7864.T
+Mani Inc:MTW
+Wacoal Holdings Corp:WACLY
+Oki Electric Industry Co Ltd:OKIEY
+Kaken Pharmaceutical Co Ltd:4521.T
+Alpha Systems Inc:AN5.MU
+Ain Holdings Inc:9627.T
+Toyobo Co Ltd:3101.T
+Rakus Co Ltd:3923.T
+Goldwin Inc:2208.HK
+Pilot Corp:7846.T
+Japan Lifeline Co Ltd:7575.T
+San-Ai Oil Co Ltd:8097.T
+Colowide Co Ltd:7616.T
+Money Forward Inc:3994.T
+Yamazen Corp:8051.T
+en-japan Inc:4849.T
+TOC Co Ltd:T3O.F
+Hokkaido Electric Power Co Inc:9509.T
+Sotetsu Holdings Inc:9003.T
+Morinaga & Co Ltd/Japan:2201.T
+Sosei Group Corp:SOLTF
+Aeon Delight Co Ltd:9787.T
+Meidensha Corp:6508.T
+BML Inc:BML-PL
+Nissan Shatai Co Ltd:7222.T
+ZERIA Pharmaceutical Co Ltd:4559.T
+Okinawa Electric Power Co Inc/The:9511.T
+Ryoyo Electro Corp:8068.T
+Wacom Co Ltd:6727.T
+CKD Corp:6407.T
+Kyoritsu Maintenance Co Ltd:9616.T
+Japan Pulp & Paper Co Ltd:8032.T
+Ryosan Co Ltd:8140.T
+Megmilk Snow Brand Co Ltd:6MG.BE
+PALTAC Corp:8283.T
+Raiznext Corp:6379.T
+Ezaki Glico Co Ltd:2206.T
+Change Inc:CLII
+Atom Corp:GLO.TO
+GungHo Online Entertainment Inc:3765.T
+JTOWER Inc:4485.T
+Japan Material Co Ltd:6055.T
+Kansai Super Market Ltd:9919.T
+AnGes Inc:4563.T
+BASE Inc:DBB
+Nichi-iko Pharmaceutical Co Ltd:4541.T
+IR Japan Holdings Ltd:6035.T
+Medley Inc:MDLY
+Mitsubishi Corp:8058.T
+Mitsubishi Electric Corp:MIELY
+Central Japan Railway Co:9022.T
+ORIX Corp:IX
+Sumitomo Corp:8053.T
+Otsuka Holdings Co Ltd:OTSKY
+Asahi Kasei Corp:AHKSY
+Toyota Industries Corp:6201.T
+Sumitomo Realty & Development Co Ltd:8830.T
+Nippon Steel Corp:5401.T
+Subaru Corp:FUJHY
+Sumitomo Electric Industries Ltd:5802.T
+Sumitomo Metal Mining Co Ltd:SMMYY
+Mitsubishi Heavy Industries Ltd:7011.T
+Daito Trust Construction Co Ltd:DIFTY
+Toray Industries Inc:TRYIY
+Toyota Tsusho Corp:8015.T
+Tokyo Gas Co Ltd:TKGSY
+AGC Inc:AGC
+Hankyu Hanshin Holdings Inc:9042.T
+Chubu Electric Power Co Inc:9502.T
+Suzuki Motor Corp:SZKMY
+Koito Manufacturing Co Ltd:7276.T
+Osaka Gas Co Ltd:9532.T
+Kansai Electric Power Co Inc/The:9503.T
+Yamaha Motor Co Ltd:YAMHF
+Tokyu Corp:9005.T
+Dentsu Group Inc:4324.T
+T&D Holdings Inc:T
+Aisin Corp:ASEKY
+JSR Corp:4185.T
+SBI Holdings Inc/Japan:8473.T
+Mitsui Chemicals Inc:4183.T
+Isuzu Motors Ltd:ISUZY
+JFE Holdings Inc:5411.T
+Kyowa Kirin Co Ltd:4151.T
+Nippon Express Co Ltd:9062.T
+SUMCO Corp:3436.T
+Fuji Electric Co Ltd:6504.T
+Tosoh Corp:TOSCF
+Dai Nippon Printing Co Ltd:DNPCF
+Brother Industries Ltd:BRTHY
+NGK Insulators Ltd:NGKIF
+Fukuoka Financial Group Inc:FKKFY
+Mitsubishi HC Capital Inc:MIUFY
+Idemitsu Kosan Co Ltd:5019.T
+Taiheiyo Cement Corp:THYCY
+Mazda Motor Corp:MZDAY
+Nisshin Seifun Group Inc:2002.T
+Tokyo Electric Power Co Holdings Inc:9501.T
+Shimamura Co Ltd:8227.T
+Japan Post Insurance Co Ltd:7181.T
+Orix JREIT Inc:8954.T
+Tohoku Electric Power Co Inc:9506.T
+Concordia Financial Group Ltd:7186.T
+NH Foods Ltd:2282.T
+Medipal Holdings Corp:MEPDF
+Shinsei Bank Ltd:SKLKY
+Casio Computer Co Ltd:CSIOY
+NSK Ltd:6471.T
+United Urban Investment Corp:8960.T
+Trend Micro Inc/Japan:TMICY
+Kyushu Electric Power Co Inc:9508.T
+Chugoku Electric Power Co Inc/The:9504.T
+Rohm Co Ltd:ROHCY
+Alfresa Holdings Corp:ARHCF
+Hitachi Construction Machinery Co Ltd:6305.T
+Kintetsu Group Holdings Co Ltd:KKI.F
+Tokyu Fudosan Holdings Corp:3289.T
+Bank of Kyoto Ltd/The:8369.T
+Chiba Bank Ltd/The:8331.T
+Shizuoka Bank Ltd/The:8355.T
+Makita Corp:MKTAY
+Inpex Corp:1605.T
+Suzuken Co Ltd/Aichi Japan:ZU1.F
+Tokyo Century Corp:8439.T
+Taisho Pharmaceutical Holdings Co Ltd:4581.T
+Japan Tobacco Inc:JAPAY
+SMC Corp:SMCAY
+Denso Corp:DNZOY
+Olympus Corp:OCPNY
+Terumo Corp:4543.T
+Shimano Inc:SMNNY
+Kirin Holdings Co Ltd:KNBWY
+Unicharm Corp:UNICY
+Nexon Co Ltd:3659.T
+Bandai Namco Holdings Inc:NCBDF
+Toshiba Corp:TOSBF
+Kikkoman Corp:KIKOF
+Japan Exchange Group Inc:JPXGY
+MINEBEA MITSUMI Inc:MNBEY
+Yamato Holdings Co Ltd:YATRY
+Renesas Electronics Corp:6723.T
+Nihon M&A Center Inc:NHMAF
+MISUMI Group Inc:MSSMY
+Shimadzu Corp:7701.T
+CyberAgent Inc:4751.T
+Nissan Chemical Corp:NNCHY
+Yakult Honsha Co Ltd:2267.T
+Hikari Tsushin Inc:9435.T
+GMO Payment Gateway Inc:3769.T
+Ryohin Keikaku Co Ltd:7453.T
+Konami Holdings Corp:9766.T
+TIS Inc:TISI
+Square Enix Holdings Co Ltd:SQNXF
+Otsuka Corp:4768.T
+Yamaha Corp:YAMCY
+Miura Co Ltd:6005.T
+Ibiden Co Ltd:4062.T
+Disco Corp:HDVY
+Kansai Paint Co Ltd:4613.T
+Kose Corp:KSRYY
+THK Co Ltd:6481.T
+Mercari Inc:MCARY
+Hoshizaki Corp:6465.T
+Pigeon Corp:PGENY
+Sharp Corp/Japan:SHCAY
+Tsuruha Holdings Inc:TSUSF
+Persol Holdings Co Ltd:2181.T
+Tobu Railway Co Ltd:9001.T
+SCSK Corp:SCSKF
+Nippon Shinyaku Co Ltd:NPPNY
+Kakaku.com Inc:KKKUF
+Kobe Bussan Co Ltd:3038.T
+ZOZO Inc:3092.T
+Harmonic Drive Systems Inc:6324.T
+Itochu Techno-Solutions Corp:4739.T
+Koei Tecmo Holdings Co Ltd:3635.T
+Keisei Electric Railway Co Ltd:9014.T
+Coca-Cola Bottlers Japan Holdings Inc:CCOJY
+Cosmos Pharmaceutical Corp:3349.T
+Sundrug Co Ltd:9989.T
+Seibu Holdings Inc:9024.T
+Keikyu Corp:9006.T
+Toyoda Gosei Co Ltd:7282.T
+Acom Co Ltd:AK5.F
+Japan Airport Terminal Co Ltd:JTTRY
+Calbee Inc:2229.T
+Yamazaki Baking Co Ltd:2212.T
+Taiwan Semiconductor Manufacturing Co.:TSM
+Alibaba Group Holding Ltd ADR:BABA
+Tencent Holdings Ltd.:TCEHY
+Samsung Electronics:005930.KS
+SK Hynix Inc.:000660.KS
+MediaTek Inc.:2454.TW
+Meituan Dianping:9MD.SG
+Reliance Industries (GDR):RELIANCE.NS
+Impala Platinum Holdings Ltd.:IMPUY
+JD.com Inc ADR:JD
+China Construction Bank Corporation H:0939.HK
+Shenzhen Mindray Bio-Medical Electronics Co., Ltd.:300760.SZ
+XPeng Inc ADR:XPEV
+LG Chem Ltd.:051910.KS
+Sberbank (USD):SBER.ME
+Midea Group Co Ltd A:000333.SZ
+China Merchants Bank - H:3968.HK
+Samsung SDI:006400.KS
+Bharti Airtel Limited:BHARTIARTL.NS
+New Oriental Education & Technology Group ADR:EDU
+HDFC Bank Ltd:HDB
+Li Ning Company Ltd.:2331.HK
+China Jushi Co. Ltd.:600176.SS
+Shriram Transport Finance Co Ltd:SRTRANSFIN.NS
+WuXi AppTec Co., Ltd. Class H:2359.HK
+PT Bank Central Asia Tbk:BBCA.JK
+Housing Development Finance:HDFC.NS
+CP ALL Public Co Ltd (Foreign):CPALL.BK
+Thai Beverage Public Co Ltd. (SGD):Y92.SI
+Bilibili Inc ADR Z:BILI
+Yandex NV A (USD):YNDX
+Absa Group Limited:ABG.JO
+Shenzhou International Group Ltd:2313.HK
+China Gas Holding Ltd:0384.HK
+eMemory Technology Inc:3529.TWO
+Cemex (ADR):CX
+Airtac International Group:1590.TW
+Pharmaron Beijing Co., Ltd. Class H:3759.HK
+Largan Precision Co. Ltd.:3008.TW
+China Life Insurance:LFC
+HANSOL CHEMICAL CO LTD (KR):014680.KS
+Zhejiang Sanhua Intelligent Co.:002050.SZ
+Hyundai Mobis:012330.KS
+Capitec Bank Holdings Limited:CPI.JO
+Petroleo Brasileiro S.A. (ADR) (ord.):PBR
+Angel Yeast Co Ltd A:600298.SS
+Realtek Semiconductor Corp:2379.TW
+Siam Commercial Bank (Foreign):SCB.BK
+Unimicron Technology Corp.:3037.TW
+LG Household & Health Care Ltd.:051900.KS
+JOYY Inc (ADR):JOYY
+Banco Bradesco S.A. (Pref.):BBD
+Shenzhen Inovance Technology Co Ltd A:300124.SZ
+E.Sun Financial Holding Co.:2884.TW
+Indraprastha Gas Ltd:IGL.NS
+Infosys Ltd. (ADR):INFY
+Reliance Industries:RELIANCE.NS
+AngloGold Ashanti:AU
+Bank Mandiri (Persero):BMRI.JK
+Tech Mahindra Ltd:TECHM.NS
+China Yongda Automobiles Services Holdings Ltd:3669.HK
+Hangzhou Tigermed Consulting Co Ltd H:3347.HK
+Grupo Aeroportuario del Sureste SAB de CV:ASR
+Shinhan Financial Group:SHG
+Baidu Inc (ADR):BIDU
+JD Health International Inc.:6618.HK
+NovaTek GDR (GB):NVTK.IL
+International Games System Co Ltd:3293.TWO
+KUAISHOU TECHNOLOGY B (HK):1024.HK
+Grupo Aeroportuario del Centro Norte SAB de CV:OMAB
+OTP Bank:OTP.BD
+Hansoh Pharmaceutical Group Co:3692.HK
+LG Innotek Co Ltd:011070.KS
+Xiaomi Corporation B:1810.HK
+Contemporary Amperex Technology Co., Ltd. Class A:300750.SZ
+TAL Education Group - ADR:TAL
+New Oriental Education & Technology Group (HK):EDU
+China Oilfield Services:2883.HK
+Axis Bank Ltd (GDR):AXISBANK.NS
+Bank Rakyat Indonesia (Persero) Tbk:BBRI.JK
+Guangzhou Automobile Group Co., Ltd:2238.HK
+Yantai Jereh Oilfield Services:002353.SZ
+Silergy Corp:6415.TW
+Azul SA ADR:AZUL
+ZTO Express (Cayman) Inc:ZTO
+Gazprom ADR (GB):OGZPY
+Tatneft (USD):TATN.ME
+MMC Norilsk Nickel PJSC ADR (GB):NILSY
+Mobile Telesystems PJSC (USD):MBT
+PKO Bank Polski S.A.:P9O.F
+Rosneft Oil Company (USD):ROSN.ME
+Magnit PJSC (USD):MGNI
+Polymetal International Plc:POLY.L
+Mail.Ru Group Ltd. (USD):MAIL.ME
+KGHM Polska Miedz S.A.:KGHA.F
+Bank Zachodni WBK S.A.:0DVR.IL
+Grupa Kety S.A.:GQ2.F
+Wirtualna Polska Holding S.A.:9DE.F
+Koc Holding AS:KCHOL.IS
+Mytilineos Holdings SA:MYH.SG
+Eurobank Ergasias SA (GR):EUROB.AT
+Asseco Poland S.A.:SFB1.F
+NATIONAL BANK OF GREECE:ETE.AT
+Polski Koncern Naftowy S.A.:PKN.PR
+Jumbo SA:BELA.AT
+Turkiye Garanti Bankasi A.S.:GARAN.IS
+Fondul Proprietatea S.A.:FP-.IL
+BRD-Groupe Societe Generale:0KVH.IL
+Allegro.eu S.A.:ALEGF
+Samsung Electronics (Pref.):005930.KS
+Hong Kong Exchanges & Clearing Ltd.:HKXCY
+China Resources Land Ltd.:1109.HK
+Hindustan Unilever Limited:HINDUNILVR.NS
+Tata Consultancy Services Ltd.:TCS.NS
+Fortis Healthcare Ltd:FORTIS.NS
+NetEase Inc. (ADR):NTES
+DBS Group Holding:D05.SI
+Centre Testing International Group LTD A:300012.SZ
+Siam Cement Public Co. (Foreign):SCC.BK
+Oversea-Chinese Banking Corp. Ltd:O39.SI
+SBI Life Insurance Co Ltd S:SBILIFE.NS
+Yunnan Energy New Material Co.:002812.SZ
+Sands China Ltd.:1928.HK
+NARI Technology Co., Ltd. Class A:600406.SS
+Chroma Ate Inc.:2360.TW
+LONGi Green Energy Technology Co Ltd Class A:601012.SS
+Budweiser Brewing Company APAC Limited:1876.HK
+Conch Cement Ltd (HK):0914.HK
+Shanghai International Airport Co Ltd. - A:600009.SS
+Accton Technology Corp.:2345.TW
+Glodon Company Limited A:002410.SZ
+Wanhua Chemical Group Co. Ltd. Class A:600309.SS
+CapitaLand:C38U.SI
+City Developments:C09.SI
+Central Pattana Public Co Ltd (Foreign):CPN.BK
+ASM International:ASM.AS
+Sea A Ltd ADR:SE
+Hangzhou Tigermed Consulting Co Ltd A:3347.HK
+KE Holdings, Inc. Sponsored ADR Class A:BEKE
+NIO Inc. ADR A:NIO
+Bank of China Ltd H:3988.HK
+Celltrion Inc.:068270.KS
+United Overseas Bank:U11.SI
+Techtronic Industries Co. Ltd.:TTNDY
+CK Hutchison Holdings Ltd:0001.HK
+Delta Electronics Inc.:2308.TW
+United Microelectronics Corp.:UMC
+Galaxy Entertainment Group Ltd.:0027.HK
+Fubon Financial Holding Co.:2881.TW
+Anta Sports Products Ltd:2020.HK
+BYD Company Ltd. H:BYDDF
+Nan Ya Plastic Corp.:1303.TW
+Chunghwa Telecom Co. Ltd.:CHT
+China Mengniu Dairy Company Ltd:2319.HK
+Country Garden Services Holdings Company Ltd:6098.HK
+BeiGene Ltd ADR:BGNE
+LG Electronics Inc.:066570.KS
+MTR Corp. Ltd.:0066.HK
+CK Asset Holdings Limited:1113.HK
+Intouch Holdings Public Co Ltd (Foreign):INTUCH.BK
+Maruti Suzuki India Ltd.:MARUTI.NS
+NCsoft Corp.:036570.KS
+Uni-President Enterprises Corp.:1216.TW
+Telekomunikasi Indonesia:TLKM.JK
+Novatek Microelectronics Corp. Ltd.:3034.TW
+Hang Seng Bank:0011.HK
+Agricultural Bank of China:1288.HK
+Henderson Land Development:HLDCY
+Vipshop Holdings Ltd (ADR):VIPS
+Mega Financial Holding Co. Ltd.:2886.TW
+Quanta Computer Inc.:2382.TW
+ZTO Express Cayman Inc ADR:ZTO
+Asustek Computer Inc.:2357.TW
+Mahindra & Mahindra Ltd.:M&M.NS
+CSPC Pharmaceutical Group Ltd (HK):1093.HK
+Lenovo Group:0992.HK
+Kasikornbank (Foreign):KBANK.BK
+Great Wall Motor Co. Ltd.:2333.HK
+China Resources Beer Holdings Co. Ltd:0291.HK
+Samsung Electro Mechanics:009150.KS
+Zai Lab Ltd ADR:ZLAB
+SK Telecom:SKM
+Wuliangye Yibin Co Ltd A:000858.SZ
+China Overseas Land & Investment:0688.HK
+Samsung C&T Corporation:028260.KS
+Tata Steel Ltd.:TATASTEEL.NS
+Sino Biopharmaceutical Ltd.:1177.HK
+Innovent Biologics Inc. (HK):1801.HK
+Sm Prime Holdings Inc.:SPHXF
+BOC Hong Kong Holdings:2388.HK
+Grasim Industries Ltd.:GRASIM.NS
+Micro-Star International Co Ltd:2377.TW
+Wharf Real Estate Investment Company Limited:1997.HK
+PetroChina Company Ltd.:PTR
+Bank of Communications Ltd:3328.HK
+LG Corp.:003550.KS
+Yageo Corp.:2327.TW
+China Merchants Bank Co., Ltd. Class A:3968.HK
+Hindalco Industries Ltd.:HINDALCO.NS
+Total Access Communicat. Pub. Co Ltd (foreign):DTAC.BK
+WH Group Ltd:WHGRF
+Gulf Energy Development PCL:GULF.BK
+Postal Savings Bank of China H:1658.HK
+Nestle India Ltd.:NESTLEIND.NS
+Formosa Petrochemical Corp:6505.TW
+Tata Motors Ltd.:TTM
+Innolux Corp.:3481.TW
+Celltrion Healthcare Co., Ltd.:091990.KQ
+Lite-On Technology Corp.:2301.TW
+HAIER SMART HOME CO LTD H (HK):6690.HK
+Power Grid Corp of India Ltd.:POWERGRID.NS
+CITIC Limited:0267.HK
+China Vanke Co Ltd. H:2202.HK
+AU Optronics Corp.:AUOTY
+Titan Company Ltd:TITAN.NS
+President Chain Store Corp.:2912.TW
+JSW Steel Ltd.:JSWSTEEL.NS
+Shin Kong Financial Holding Co. Ltd.:2888.TW
+New World Development Co Ltd:0017.HK
+Tencent Music Entertainment Group ADR A:TME
+Keppel Corporation Ltd (SG):BN4.SI
+Dr. Reddys Laboratories Ltd.:RDY
+Samsung SDS Co. Ltd.:018260.KS
+First Financial Holding Co:2892.TW
+Bangkok Bank Public (Foreign):BBL.BK
+SM Investments Corp.:SVTMF
+Catcher Technology Co. Ltd.:2474.TW
+Xinyi Solar Holdings Ltd.:0968.HK
+Wipro Ltd.:WIT
+Venture:BBIG
+Acer Inc.:ACER
+Samsung Fire & Marine Insurance:000810.KS
+GF Securities Co Ltd:1776.HK
+Divi's Laboratories Ltd:DIVISLAB.NS
+Xinyi Glass Holdings Ltd.:XYIGF
+Ascendas Real Estate Investment Trust (A-REIT):A17U.SI
+China Tower Corp. Ltd. Class H:0788.HK
+B Grimm Power PCL:ABPIF.BK
+Krungthai Card Public Company Ltd (Foreign):KTC.BK
+Ping An Healthcare and Technology Company Ltd:1833.HK
+Adani Green Energy Limited:ADANIGREEN.NS
+Taiwan High Speed Rail Corp:2633.TW
+S-Oil Corp.:SPOC
+Pegatron Corp.:4938.TW
+Srisawad Corp PCL:SAWAD.BK
+GS Holdings Corp.:078930.KS
+Compal Electronics Inc.:2324.TW
+Swire Pacific A:0019.HK
+Asia Cement Corp:1102.TW
+Kingsoft Corporation Ltd:3888.HK
+Hyundai Steel Company:004020.KS
+Singapore Exchange:S68.SI
+Avenue Supermarts Ltd.:DMART.NS
+Hyundai Heavy Industries:267250.KS
+Advantech Co. Ltd.:2395.TW
+Malayan Banking Berhad:MLYBY
+Top Glove Corporation Bhd:TGLVY
+Samsung Heavy Industries:010140.KS
+Globalwafers Co Ltd:6488.TWO
+IHH Healthcare Bhd:IHHHF
+Hong Kong Land Holdings:HKLD.L
+LG Display Co. Ltd.:LPL
+UOL Group Ltd.:U14.SI
+Yuhan Corp:000100.KS
+China National Building Material Co. Ltd H:3323.HK
+Hero Motocorp Ltd:HEROMOTOCO.NS
+ESR Cayman Ltd.:1821.HK
+Jiangsu Hengrui Medicine Co Ltd A:600276.SS
+Tsingtao Brewery Company Ltd.:0168.HK
+Lotte Chemical Corporation:011170.KS
+Nanya Technology Corp:2408.TW
+CK Infrastructure Holdings Ltd:1038.HK
+Phison Electronics Corp:8299.TWO
+Korea Zinc Co. Ltd:010130.KS
+Kunlun Energy Company Ltd:0135.HK
+Indian Oil Corp. Ltd.:IOC.NS
+Synnex Technology International Corp.:2347.TW
+Hua Nan Financial Holding Co. Ltd.:2880.TW
+China Yangtze Power Co., Ltd. Class A:600900.SS
+UPL Ltd:UPLD
+Bharat Petroleum:BPCL.NS
+Haidilao International Holding Ltd:6862.HK
+PetroChina Co Ltd A:PTR
+Weichai Power Co. Ltd:2338.HK
+Genting Malaysia Berhad:GMALY
+Hengtong Optic-electric Co Ltd A:600487.SS
+Industrial Bank Co Ltd - A:601166.SS
+Cipla Ltd.:CIPLA.NS
+Fosun International Ltd:0656.HK
+Pidilite Industries Limited:PIDILITIND.NS
+Ayala Corp.:AYALY
+Haitong Securities Co Ltd - H:6837.HK
+COSCO SHIPPING Holdings Co Ltd H:1919.HK
+Korea Air Lines Co. Ltd:003490.KS
+Wistron Corporation:3231.TW
+Autohome Inc ADR:ATHM
+MicroPort Scientific Corp:0853.HK
+Unilever Indonesia TBK:UNVR.JK
+Bajaj Auto Limited:BAJAJ-AUTO.NS
+Melco Resorts + Entertainment Ltd. ADR:MLCO
+Walsin Technology Corporation:2492.TW
+iQIYI Inc A (ADR):IQ
+Fuyao Glass Industry Group Co Ltd H:FYGGY
+Hyundai Engineering & Construction Co. Ltd.:000720.KS
+JG Summit Holdings Inc.:JGSHF
+Jiumaojiu International Holdin:9922.HK
+Yihai International Holding Ltd.:1579.HK
+Financial Street Holding Co Ltd A:000402.SZ
+Taiwan Mobile Co. Ltd.:3045.TW
+Sany Heavy Industry Co Ltd A:600031.SS
+Shanghai Commercial & Savings Bank, Ltd.:5876.TW
+ICICI Lombard General Insurance Co. Ltd.:ICICIGI.NS
+Li Auto Inc.:LI
+BDO Unibank Inc.:BDOUY
+Zhongsheng Group Holdings Ltd.:0881.HK
+Jiangsu Yanghe Brewery Joint-Stock Co Ltd A:002304.SZ
+Apollo Hospitals Enterprise Ltd:APOLLOHOSP.NS
+Samsung Securities:016360.KS
+GAIL India Ltd.:GAIL.NS
+Win Semiconductors Corp:3105.TWO
+ORION Corp:ORNBV.HE
+Hiwin Technologies Corp:2049.TW
+Muangthai Capital Public Company Ltd (Foreign):MTC.BK
+Hang Lung Properties:0101.HK
+Wharf Holdings:0004.HK
+Singapore Technologies Engineering:S63.SI
+Godrej Consumer Products Ltd.:GODREJCP.NS
+AmoreG:002790.KS
+Brilliance China Automotive Holdings:BCAUY
+Shandong Weigao Gr. Medical Polymer Comp. Ltd:1066.HK
+China Taiping Insurance Holdings Co.:0966.HK
+Genting Singapore Limited :G13.SI
+Taishin Financial Holding:2887.TW
+Wynn Macau Ltd:1128.HK
+Hyundai Glovis Co. Ltd:086280.KS
+CJ CheilJedang Corp.:097950.KS
+East Money Information Co., Ltd Class A:300059.SZ
+Petronet LNG Ltd:PETRONET.NS
+Mirae Asset Daewoo Co. Ltd:520014.KS
+Aurobindo Pharma Ltd:AUROPHARMA.NS
+Foshan Haitian Flavouring and Food Comp Ltd A:603288.SS
+Info Edge India Ltd.:NAUKRI.NS
+Nan Ya Printed Circuit Board Corp.:8046.TW
+Hanon Systems:018880.KS
+Beijing Enterprises Water Group Ltd:0371.HK
+Pou Chen Corp.:9904.TW
+Shinsegae Co. Ltd:037710.KS
+CJ Logistics Corp:000120.KS
+ASM Pacific Technology:0522.HK
+Zhejiang Expressway Co. H:0576.HK
+Inventec Corp.:2356.TW
+Jubilant Foodworks Ltd:JUBLFOOD.NS
+Foxconn Industrial Internet Co., Ltd. Class A:601138.SS
+Minth Group Ltd:0425.HK
+Zhangzhou Pientzehuang Pharmaceutical A:600436.SS
+HLB Co., Ltd.:028300.KQ
+Air China Ltd. H:0753.HK
+Daqo New Energy Corp. (ADR):DQ
+Winbond Electronics Corp.:2344.TW
+BYD Company Limited Class A:BYDDF
+NH Investment & Securities Co Ltd:005940.KS
+Motherson Sumi Systems Ltd:MOTHERSUMI.NS
+Shanghai Pudong Development Bank Co Ltd A:600000.SS
+Zoomlion Heavy Industry Science and Technology:1157.HK
+WuXi AppTec Co., Ltd. Class A:2359.HK
+Kangwon Land Inc.:035250.KS
+PT Charoen Pokphand Indonesia Tbk:CPIN.JK
+Yadea Group Holdings Ltd.:1585.HK
+Vanguard International Semiconductor Corp.:5347.TWO
+Ping An Bank Co Ltd A:000001.SZ
+China Railway Group Ltd - H:0390.HK
+Korea Gas Corp.:036460.KS
+Far Eastern New Century Corporation:1402.TW
+China CITIC Bank:0998.HK
+Mapletree Logistics Trust:M44U.SI
+Hindustan Petroleum Corp.:HINDPETRO.NS
+Bank Negara Indonesia Tbk:BBNI.JK
+Shanxi Xinghuacun Fen Wine Factory Co. Ltd. Class:600809.SS
+Weimob Inc.:2013.HK
+Shandong Hualu Hengsheng Chemi:600426.SS
+LG Chem Ltd (Pfd):051910.KS
+Hua Hong Semiconductor Ltd:1347.HK
+MRF Limited:MRF.NS
+Sino Land Co. Ltd:0083.HK
+Jinxin Fertility Group Limited:1951.HK
+Doosan Bobcat Inc:241560.KS
+Zee Entertainment Enterprises Ltd:ZEEL.NS
+Hopson Development Holdings Ltd.:0754.HK
+Foxconn Technology Co. Ltd:2354.TW
+Yunnan Baiyao Group Co Ltd:000538.SZ
+Pan Ocean Co Ltd:028670.KS
+Ambuja Cements Ltd.:AMBUJACEM.NS
+Chang Hwa Commercial Bank:2801.TW
+Lotte Shopping Co. Ltd.:023530.KS
+China Hongqiao Group Ltd:1378.HK
+BOE Technology Group Co Ltd A:000725.SZ
+SJM Holdings Ltd (HK):0880.HK
+Seazen Group Limited:1030.HK
+Zhuzhou CRRC Times Electric Co Ltd:3898.HK
+Marico Ltd:MARICO.NS
+Bandhan Bank Ltd:BANDHANBNK.NS
+Aluminum Corporation of China Ltd.:ACH
+DB INSURANCE CO. LTD:005830.KS
+Muthoot Finance Ltd:MUTHOOTFIN.NS
+21Vianet Group Inc.:VNET
+Eclat Textile Co Ltd:1476.TW
+Hanmi Pharm Co Ltd.:128940.KS
+Samsung Engineering Co. Ltd:028050.KS
+Beijing Capital International Airport H:0694.HK
+INDAH KIAT PULP&PA:INKP.JK
+iflytek Co., Ltd. Class A:002230.SZ
+Inner Mongolia Yili Industrial Group Co Ltd A:600887.SS
+Petronas Dagangan Berhad:PNADF
+Seegene, Inc.:096530.KQ
+Sime Darby Plantation Bhd (SDPL):SDPNF
+Zhongan Online P&C Insurance Co., Ltd. Class H:6060.HK
+Zhejiang Chint Electrics Co Ltd A:601877.SS
+Far East Horizon Ltd:3360.HK
+Ming Yuan Cloud Group Holdings Limited:0909.HK
+Haitian International Holdings Ltd:1882.HK
+Nine Dragons Paper Holdings Ltd.:2689.HK
+Sarana Menara Nusantara Tbk PT:TOWR.JK
+GS Engineering & Construction Corp.:006360.KS
+SK Biopharmaceuticals Co., Ltd.:326030.KS
+CJ Corp.:001045.KS
+Chongqing Zhifei Biological Products Co., Ltd. Cla:300122.SZ
+Power Construction Corporation of China A:601669.SS
+Hunan Valin Steel Co. Ltd.:000932.SZ
+Larsen & Toubro Infotech Ltd:LTI.NS
+Bank of East Asia:0023.HK
+Aier Eye Hospital Group Co., Ltd. Class A:300015.SZ
+Coway Co. Ltd.:021240.KS
+PT Merdeka Copper Gold Tbk:MDKA.JK
+GSX Techedu Inc. (US) (ADR) (ADR):GOTU
+Hengli Petrochemical Co., Ltd. Class A:600346.SS
+China Resources Cement Holdings Ltd:1313.HK
+Bharat Forge Ltd.:BHARATFORG.NS
+Baozun Inc ADR:BZUN
+Giant Manufacturing Co. Ltd.:9921.TW
+China Literature Limited:0772.HK
+Sinotruk Hong Kong Ltd.:3808.HK
+IPCA Laboratories Limited:IPCALAB.NS
+Bank of Communications Co., Ltd. Class A:3328.HK
+China Cinda Asset Management Co Ltd:1359.HK
+Powertech Technology Inc.:6239.TW
+Wiwynn Corp.:6669.TW
+Lupin Ltd.:LUPIN.NS
+Kingsoft Cloud Holdings Ltd ADR:KC
+China Molybdenum Co. Ltd. - H:3993.HK
+LG Uplus Corp:032640.KS
+S.F. Holding Co., Ltd. Class A:002352.SZ
+Colgate-Palmolive India Ltd.:COLPAL.NS
+China Merchants Port Holdings Company Ltd:0144.HK
+China Minsheng Banking Corp., Ltd. Class A:1988.HK
+Hotel Shilla Co Ltd:008770.KS
+Suntec Real Estate Investment Trust:T82U.SI
+Aneka Tambang Tbk PT:ANTM.JK
+Luxshare Precision Industry Co Ltd A:002475.SZ
+Celltrion Pharm Inc.:068760.KQ
+Offshore Oil Engineering Co Ltd A:600583.SS
+Oneness Biotech Co., Ltd.:4743.TWO
+Changchun High & New Technolog:000661.SZ
+Cheil Worldwide Inc.:030000.KS
+Doosan Heavy Industries & Construction Co. Ltd:034020.KS
+Greentown Service Group Co. Ltd.:2869.HK
+Indocement Tunggal Prakarsa:INTP.JK
+Universal Robina Corporation:UVRBF
+Kingboard Laminates Holdings Ltd:1888.HK
+Focus Media Information Technology Co Ltd A:002027.SZ
+Far EasTone Telecommunications Co.:4904.TW
+Berger Paints India Ltd:BERGEPAINT.NS
+Piramal Enterprises Ltd:PEL.NS
+ASMedia Technology Inc.:5269.TW
+Bank of the Philippine Islands:BPHLY
+Axiata Group BHD:AXXTF
+Will Semiconductor Ltd.:603501.SS
+Nongfu Spring Co Ltd H:9633.HK
+Tongcheng-Elong Holdings Limited:0780.HK
+PI Industries Limited:PIDILITIND.NS
+Tongling Nonferrous Metals Group Co Ltd A:000630.SZ
+Ever Sunshine Lifestyle Servic:1995.HK
+Weichai Power Co., Ltd. Class A:2338.HK
+Henan Shuanghui Investment & Development Co., Ltd.:000895.SZ
+PT Kalbe Farma Tbk:KLBF.JK
+GOME Retail Holdings Limited:0493.HK
+Eve Energy Co. Ltd.:300014.SZ
+Mango Excellent Media Co., Ltd. Class A:300413.SZ
+Mapletree Commercial Trust:N2IU.SI
+Yes Bank Limited:YESBANK.NS
+Jointown Pharmaceutical Group Co., Ltd. Class A:600998.SS
+AECC Aviation Power Co Ltd Class A:600893.SS
+Beijing Oriental Yuhong Waterp:002271.SZ
+Yonyou Network Technology Co. Ltd. Class A:600588.SS
+COSCO SHIPPING Energy Transpor:600026.SS
+China Lesso Group Holdings Ltd (HK):2128.HK
+Torrent Pharmaceuticals Ltd:TORNTPHARM.NS
+BOC Aviation Ltd:BCVVF
+Shanghai Construction Group Co., Ltd. Class A:600170.SS
+China Jinmao Holdings Group Ltd:0817.HK
+Baoshan Iron & Steel Co Ltd:600019.SS
+ALTEOGEN Inc.:196170.KQ
+China Medical System Holdings Ltd:0867.HK
+Zhaojin Mining Industry Company Ltd H (HK):1818.HK
+SK Chemicals Co., Ltd.:285130.KS
+Feng Tay Enterprise Co. Ltd.:9910.TW
+DLF Ltd:DLF.NS
+Xinjiang Goldwind Science & Technology Co Ltd:2208.HK
+Topsports International Holdings Limited:6110.HK
+Semen Indonesia (Persero):SMGR.JK
+Travelsky Technology Ltd H:0696.HK
+GS Retail Co Ltd:007070.KS
+Momo Inc (ADR):MOMO
+ICICI Prudential Life Insurance Company Ltd:ICICIPRULI.NS
+InterGlobe Aviation Ltd:INDIGO.NS
+China Life Insurance Co Ltd A:LFC
+Sungrow Power Supply Co. Ltd.:300274.SZ
+Sichuan Chuantou Energy Co Ltd A:600674.SS
+S-1 Corp.:DS.TO
+Shandong Nanshan Aluminium Co., Ltd. Class A:600219.SS
+Shanghai Pharmaceuticals Holding Co Ltd:2607.HK
+Nien Made Enterprise Co Ltd:8464.TW
+Guangdong Haid Group Co. Ltd.:002311.SZ
+Bank of Chengdu Co., Ltd. Class A:601838.SS
+Anhui Conch Cement Co Ltd A:0914.HK
+Sime Darby Berhad:SMEBF
+PT Barito Pacific Tbk:BRPT.JK
+Biocon Ltd.:BIOCON.NS
+ACC Limited:ACC.NS
+Siemens India Ltd.:SIEMENS.NS
+Metropolitan Bank & Trust Company:MTPOY
+HUAYU Automotive Systems Company Limited Class A:600741.SS
+China Vanke Co., Ltd Class A:2202.HK
+GEM Co Ltd A:GMZP
+Inner Mongolia Baotou Steel Union Co. Ltd. Class A:600010.SS
+Bank of Jiangsu Co., Ltd. Class A:600919.SS
+HLB Co., Ltd. Temp 20210312:028300.KQ
+Globe Telecom Inc.:GTMEY
+Jiangsu Hengli Hydraulic Co. Lt:601100.SS
+51job Inc (ADR):JOBS
+Guangzhou R&F Properties - H:2777.HK
+Bank of Beijing Co Ltd A:601169.SS
+Wuxi Lead Intelligent Equipment Co. Ltd. Class A:300450.SZ
+Bank Of Shanghai A:601229.SS
+Indofood CBP Sukses Makmur TBK:ICBP.JK
+Trent Limited:TRENT.NS
+Tongwei Co Ltd A:600438.SS
+China Molybdenum Co., Ltd. Class A:3993.HK
+China Education Group Holdings Limited:0839.HK
+China Everbright Bank Co Ltd:6818.HK
+Beijing Enterprises Holdings Ltd.:0392.HK
+Aluminum Corporation of China Limited Class A:ACH
+Shanxi Meijin Energy Co. Ltd.:000723.SZ
+Shandong Gold Mining Co Ltd A:1787.HK
+Kingfa Sci. & Tech. Co., Ltd. Class A:600143.SS
+Alibaba Pictures Group Ltd:1060.HK
+Ottogi Corp:007310.KS
+Shandong Gold Mining Co., Ltd. Class H:1787.HK
+Zhejiang Huayou Cobalt Co Ltd A:603799.SS
+Maxis Bhd:6012.KL
+Yuexiu Property Company Ltd:YUEXF
+Topchoice Medical Corp.:600763.SS
+Bank of China Ltd A:3988.HK
+Suning.com Co., Ltd. A:002024.SZ
+Balkrishna Industries Limited:BALKRISIND.NS
+Container Corporation of India Ltd:CONCOR.NS
+China East Education Holdings:0667.HK
+Vinda International Holdings Ltd:3331.HK
+Jollibee Foods Corp.:JBFCF
+Genscript Biotech Corporation:1548.HK
+HUYA Inc A ADR:HUYA
+Zhongjin Gold Co Ltd A:600489.SS
+China State Construction International Holding:3311.HK
+China Railway Group Ltd A:0390.HK
+China Southern Airlines:ZNH
+DouYu International Holdings Ltd ADR:DOYU
+RLX Technology, Inc. Sponsored ADR Class A:RLX
+Taiwan Business Bank:2834.TW
+Hyundai Marine & Fire Insurance Co.:001450.KS
+Tianjin Zhonghuan Semiconducto:002129.SZ
+Fujian Anjoy Foods Co. Ltd. Class A:603345.SS
+Agricultural Bank of China Limited Class A:1288.HK
+BGF Retail CO. LTD.:282330.KS
+NAURA Technology Group Co. Ltd.:002371.SZ
+Lomon Billions Group Co. Ltd.:002601.SZ
+Daqin Railway Co Ltd. - A:601006.SS
+Guangdong Kinlong Hardware Products Co., Ltd. Clas:002791.SZ
+Greentown China Holdings Ltd.:3900.HK
+Shenzhen International Holdings Ltd.:0152.HK
+Sanan Optoelectronics Co., Ltd. Class A:600703.SS
+Bosideng International Holdings Ltd:3998.HK
+Yonghui Superstores Co., Ltd. Class A:601933.SS
+China Merchants Energy Shippin:601872.SS
+Kuang-Chi Technologies Co., Ltd. Class A:002625.SZ
+Hualan Biological Engineering:002007.SZ
+China Bohai. Bank Co., Ltd. Class H:9668.HK
+Uni-President China Holdings Ltd:0220.HK
+Maxscend Microelectronics Company Limited Class A:300782.SZ
+Kaisa Group Holdings Ltd:1638.HK
+Daewoo Shipbuilding & Marine Engineering Co.:042660.KS
+Douzone Bizon Co Ltd:012510.KS
+Wingtech Technology Co., Ltd. Class A:600745.SS
+3SBio Inc.:1530.HK
+Sangfor Technologies Inc.:300454.SZ
+Lens Technology Co. Ltd. Class A:300433.SZ
+BBMG Corporation Class A:BBMPY
+China Everbright:0257.HK
+Unigroup Guoxin Microelectroni:002049.SZ
+Yihai Kerry Arawana Holdings C:300999.SZ
+Yantai Eddie Precision Machinery Co., Ltd. Class A:603638.SS
+Goertek Inc A:002241.SZ
+Wens Foodstuff Group Co., Ltd. Class A:300498.SZ
+JA Solar Technology Co., Ltd. Class A:002459.SZ
+GUANGZHOU TINCI MATERIALS TECHNOLOGY CO LTD Class:002709.SZ
+Jiangsu Shagang Co., Ltd. Class A:002075.SZ
+China Aoyuan Group Limited:3883.HK
+AK Medical Holdings Ltd:1789.HK
+Tatung Co. Ltd.:2371.TW
+Dali Foods Group Co Ltd:3799.HK
+Intco Medical Technology Co., Ltd. Class A:300677.SZ
+AVIC Shenyang Aircraft Company Limited Class A:600760.SS
+China Traditional Chinese Medicine Holdings Co:0570.HK
+Chongqing Changan Automobile Co Ltd A:000625.SZ
+Beijing Tiantan Biological Pro:600161.SS
+China Everbright Bank Co Ltd - H:6818.HK
+Lee & Man Paper Manufacturing Ltd:LMPMY
+New Hope Liuhe Co Ltd A:000876.SZ
+Highwealth Construction Corp:2542.TW
+Walvax Biotechnology Co., Ltd. Class A:300142.SZ
+Jiangsu Expressway Company Ltd.:0177.HK
+Shenzhen Goodix Technology Co.:603160.SS
+Chongqing Rural Commercial Bank Co Ltd:3618.HK
+China Communication Services Corporation Ltd.:0552.HK
+Gigadevice Semiconductor Beiji:603986.SS
+Celltrion Healthcare Co., Ltd. Temp 20201228:091990.KQ
+8,49 NTPC 25/3-2015/2025:EEENF
+Novo Nordisk B:NVO
+DSV:DSV.CO
+Carlsberg B:CARL-B.CO
+Vestas Wind Systems:VWS.CO
+Coloplast B:COLO-B.CO
+GN Store Nord:GN.CO
+Danske Bank:DANSKE.CO
+William Demant Holding A/S:0RGT.IL
+Genmab:GMAB.CO
+Chr. Hansen Holding:CHR.CO
+Pandora:PNDORA.CO
+Royal Unibrew:RBREW.CO
+Novozymes B:NZYM-B.CO
+Rockwool International B:ROCK-B.CO
+DFDS A/S:DFDS.CO
+Topdanmark:TOP.CO
+Nordea Bank AB (DK):NDA-FI.HE
+ISS:ISS.CO
+SimCorp:SIM.CO
+Ambu B:AMBU-B.CO
+Per Aarsleff Holding A/S:PAAL-B.CO
+FLSmidth & Co.:FLS.CO
+Bavarian Nordic:BAVA.CO
+H. Lundbeck:LUN.CO
+Ossur hf (DKK):OSSFF
+Zealand Pharma A/S:ZEAL.CO
+Huscompagniet A/S:HUSCO.CO
+Orphazyme A/S:ORPHA.CO
+Carlsberg A:CARL-B.CO
+Rockwool International A:ROCK-B.CO
+ALK-Abello B:AKABY
+Jyske Bank:JYSK.CO
+Schouw & Co.:SCHO.CO
+Jeudan A/S:JDAN.CO
+Alm. Brand:ALMB.CO
+ChemoMetec:CHEMM.CO
+Sydbank:SYDB.CO
+The Drilling Company of 1972:DRLCO.CO
+Spar Nord Bank:SPNO.CO
+D/S Norden:DNORD.CO
+cBrain:CBRAIN.CO
+Tivoli A/S:TIV.CO
+Vestjysk Bank A/S:VJBA.CO
+Bang & Olufsen:BO.CO
+Solar A/S B:ASTI
+H+H International:1472.HK
+NNIT A/S:NNIT.CO
+North Media:NORTHM.CO
+Danske Andelskassers Bank:DAB.CO
+Jutlander Bank A/S:JUTBK.CO
+Columbus A/S:COLUM.CO
+TCM Group A/S:TCM.CO
+RTX:RTX
+Boozt AB (DK):BOOZT.ST
+Gyldendal A:GYLD-A.CO
+BankNordik:BNORDIK-CSE.CO
+Gabriel Holding:1GH.SG
+BioPorto:BIOPOR.CO
+FirstFarms:FFARMS.CO
+Fynske Bank:FYNBK.CO
+Djurslands Bank:DJUR.CO
+Skjern Bank:SKJE.CO
+Prime Office:POPF.BK
+Kreditbanken:KRE.CO
+German High Street Properties B:GERHSP.CO
+Lollands Bank:LOLB.CO
+Strategic Investments A/S:GESI
+PARKEN Sport & Entertainment:PARKEN.CO
+Gyldendal B:GYLD-A.CO
+Harboes Bryggeri B:HARB-B.CO
+Roblon B:RBLN-B.CO
+Fast Ejendom Danmark A/S:FED.CO
+SKAKO:SKAKO.CO
+DLH:DLHC
+Totalbanken:TOTA.CO
+Cemat A/S:CVX.V
+RIAS B:RIAS-B.CO
+NTR Holding A/S B:NTR-B.CO
+Nordfyns Bank A/S:NRDF.CO
+Hvidbjerg Bank:HVID.CO
+EAC Invest A/S:EAC.CO
+Dantax:DANT.CO
+Nordic Shipholding:NORDIC.CO
+Glunz & Jensen Holding:GJ.CO
+Beluga Group (USD):BELU.ME
+Pacific Basin Shipping Ltd.:2343.HK
+GeoPark Ltd (USD):GPRK
+POYA International Co Ltd:5904.TWO
+MAKALOT INDUSTRIAL CO LTD (TW):1477.TW
+Nanofilm Technologies International Limited:MZH.SI
+Xiabuxiabu Catering Management:0520.HK
+Parque Arauco S.A.:PARAUCO.SN
+Prestige Estates Projects Ltd:PRESTIGE.NS
+Koh Young Technology Inc:098460.KQ
+Syngene International Ltd:SYNGENE.NS
+Logo Yazilim Sanayi Ve Ticar:LOGO.IS
+Sinbon Electronics Co. Ltd.:3023.TW
+Yanlord Land Group Ltd.:Z25.SI
+Affle India Ltd.:AFFLE.NS
+Dino Polska S.A.:5Y2.F
+HeadHunter Group PLC - ADR:HHR
+PT Ace Hardware Indonesia Tbk:ACES.JK
+Guaranty Trust Bank PLC:37G1.F
+Totvs SA:TOTS3.SA
+WONIK IPS CO. LTD.:240810.KQ
+JOINN LABORATORIES CHINA CO LTD H (HK):6127.HK
+Mahanagar Gas Ltd.:MGL.NS
+Afya Ltd. (US) (A) (A):AFYA
+TAIWAN UNION TECHNOLOGY CORP (TW):6274.TWO
+MOBLY SA:MBLY3.SA
+CHUNBO CO LTD (KR):278280.KQ
+Leeno Industrial Inc:058470.KQ
+ASPEED Technology Inc:5274.TWO
+TISCO Financial Group Public Company (Foreign):TISCO.BK
+Kansai Nerolac Paints Ltd:KANSAINER.BO
+Sporton International Inc:6146.TWO
+Cleopatra Hospital Company:EGS729J1C018.CA
+Venustech Group Inc A:002439.SZ
+ASA International Group Plc:AIG
+Ujjivan Financial Services Ltd:UJJIVAN.NS
+Ujjivan Small Finance Bank Ltd:UJJIVANSFB.NS
+Gazprom PJSC (USD):OGZPY
+MMC Norilsk Nickel-$:NILSY
+Masraf Al Rayan (Q.S.C.):QATR.QA
+Weg SA:WEGE3.SA
+Sibanye Stillwater Limited:SBSW
+Commercial International Bank:CIBEY
+Globant S.A. (US):GLOB
+Qatar Electricity and Water:QEWS.QA
+Inter RAO UES (USD):IRAO.ME
+Airports of Thailand Public Co Ltd (Foreign):AOT.BK
+Chailease Holding Company Limited:5871.TW
+Banco Bradesco S.A.:BBD
+Standard Bank Group Ltd.:SBK.JO
+Anglo American Platinum Limited:ANGPY
+Industries Qatar QSC:IQCD.QA
+Gerdau S.A. (pref.):GGB
+The Commercial Bank (Q.S.C.):CBQK.QA
+Credicorp:BAP
+Qatar Gas Transport Company Ltd:QGTS.QA
+Gold Fields (ZAR):GFI
+Raia Drogasil SA:RADL3.SA
+Arca Continental SAB de CV:AC.MX
+Northam Platinum Ltd:NHM.JO
+Empresas Copec SA:COPEC.SN
+Bid Corporation Limited:BID.JO
+Companhia Siderurgica Nacional:SID
+Sanlam Limited:SLM.JO
+Bangkok Dusit Medical Services:BDMS.BK
+Klabin SA (Pref):KLBN11.SA
+Shoprite Holdings Ltd.:SHP.JO
+Grupo Bimbo SAB de CV A:BIMBOA.MX
+Advanced Info Service (Foreign):ADVANC.BK
+Qatar International Islamic Bank:QIIK.QA
+MultiChoice Group Ltd.:MCHOY
+Central Retail Corporation Public Co (Foreign):CRC.BK
+Telefonica Brasil S.A.:VIV
+Barwa Real Estate Company:BRES.QA
+CPFL Energia SA:CPFE3.SA
+Energy Absolute PCL:EA.BK
+Old Mutual Ltd.:OMU.JO
+VTB Bank PJSC (USD):VTBR.ME
+Cencosud SA:CENCOSUD.SN
+Banco Santander Chile SA:BSAC
+Korea Investment Holdings Co. Ltd.:071055.KS
+Discovery Limited:DSY.JO
+Empresas CMPC SA:CMPC.SN
+Huatai Securities Co Ltd:6886.HK
+Aspen Pharmacare Holdings Ltd.:APN.JO
+Banco Inter S.A.:BIDI4.SA
+Ooredoo QSC:ORDS.QA
+NEPI Rockcastle PLC:NRP.JO
+Kumba Iron Ore Ltd.:KIROY
+Vodacom Group Limited:VOD.JO
+Cyfrowy Polsat S.A.:CYFWF
+CITIC Securities Co Ltd A:600030.SS
+Woolworths Holdings Ltd.:WHL.JO
+China Galaxy Securities Co Ltd (HK):6881.HK
+African Rainbow Minerals Limited:ARI.JO
+The Spar Group Ltd:SPP.JO
+HDFC Asset Management Co. Ltd.:HDFCAMC.NS
+Zoomlion Heavy Industry Science and Techno. H:1157.HK
+Berli Jucker Public Company Ltd (Foreign):BJC.BK
+Abu Dhabi Islamic Bank:EGS60111C019.CA
+Ford Otomotiv Sanayi AS:FROTO.IS
+Beijing-Shanghai High-Speed Railway Co., Ltd. Clas:601816.SS
+Via Varejo SA:VVAR3.SA
+CCR SA:CCRN
+Petrobras Distribuidora SA:PETRY
+B2W Companhia Digital:BTOW3.SA
+Megacable Holdings SAB de CV:MEGACPO.MX
+Akbank T.A.S.:AKBNK.IS
+Bangkok Expressway and Metro PCL (Foreign):BEM.BK
+Infraestructura Energetica Nova SAB de CV:IENOVA.MX
+Shenwan Hongyuan Group Co., Ltd. Class A:000166.SZ
+Turkcell Iletisim Hizmetleri A.S.:TKC
+Nedbank Group Ltd.:NED.JO
+Meritz Securities Co., Ltd:008560.KS
+YPF S.A. ADR:YPF
+COSCO SHIPPING Holdings Co Ltd A:1919.HK
+Mr Price Group Ltd:MRP.JO
+Bidvest Group Ltd:BVT.JO
+Compania de Minas Buenaventura (ADR):BVN
+Hundsun Technologies Inc. Class A:600570.SS
+Noah Holdings Ltd. ADR:NOAH
+Guotai Junan Securities Co Ltd A:601211.SS
+Telecom Argentina S.A. (ADR):TEO
+China Merchants Securities Co., Ltd. Class A:6099.HK
+Nippon Telegraph & Telephone Corp:NTTYY
+Arthur J Gallagher & Co:AJG
+Hamamatsu Photonics KK:HPHTF
+Chocoladefabriken Lindt & Spruengli AG:LISN.SW
+Recordati Industria Chimica e Farmaceutica SpA:REC.MI
+Industrial & Commercial Bank of China Ltd:^DJI
+Seven & i Holdings Co Ltd:SVNDY
+Land & Houses PCL:LAND
+Localiza Rent a Car SA:RENT3.SA
+Henkel AG & Co KGaA:HEN3.DE
+Fresenius SE & Co KGaA:FRE.DE
+Fresenius Medical Care AG & Co KGaA:FMS
+CTS Eventim AG & Co KGaA:EVD.DE
+SpareBank 1 SMN:MING.OL
+CompuGroup Medical SE & Co KgaA:COP.DE
+Stroeer SE & Co KGaA:SAX.DE
+AURELIUS Equity Opportunities SE & Co KGaA:AR4.DE
+KWS Saat SE & Co KGaA:KWS.F
+Construcciones y Auxiliar de Ferrocarriles SA:CAF.MC
+Draegerwerk AG & Co KGaA:DRW3.DE
+Miquel y Costas & Miquel SA:MCM.MC
+Ence Energia y Celulosa SA:ENC.MC
+Food & Life Cos Ltd:BGS
+Freee KK:4478.T
+Nippon Yusen KK:9101.T
+China Petroleum & Chemical H Sinopec:SNP
+Industrial & Commercial Bank of China Ltd. H:^DJI
+Magnitogorsk Iron & Steel Works CLS (USD):MAGN.ME
+Hong Kong & China Gas:0388.HK
+PICC Property & Casualty -H:2328.HK
+PTT OIL & RETAIL BUS-FOREIGN (TH):OR.BK
+LG Household & Health Care Ltd Pref:051900.KS
+China Petroleum & Chemical Corp Sinopec A:SNP
+Gamuda Berhad:5398.KL
+MISC Berhad:3816.KL
+Fraser & Neave Holdings Berhad:WFG
+Lån & Spar Bank:LNTH
+PTT Exploration & Production Pub.Co. (Foreign):PTTEP.BK
+Industrias Penoles S.A. de C.V.:PE&OLES.MX
+Grupo Financiero Inbursa SAB de C.V.:GFINBURO.MX
+Land & Houses Pub. (Foreign):LAND
+Ecovacs Robotics Co. Ltd.:603486.SS
+Bumrungrad Hospital Public Co. Ltd. (Foreign):BH.BK
+CSC Financial Co. Ltd.:6066.HK
+Huatai Securities Co Ltd A:6886.HK
+Yapi ve Kredi Bankasi A.S.:YKBNK.IS
+Offcn Education Technology Co., Ltd. Class A:002607.SZ
+SKSHU Paint Co., Ltd. Class A:603737.SS
+GF Securities Co., Ltd. Class A:9GF.F
+Zhejiang Dahua Technology Co. Ltd. Class A:002236.SZ
+Bank of Hangzhou Co Ltd A:600926.SS
+Shanghai Baosight Software Co.:600845.SS
+360 Security Technology, Inc. Class A:601360.SS
+Yifeng Pharmacy Chain Co. Ltd.:603939.SS
+Winning Health Technology Grou:300253.SZ
+China Overseas Property Holdings Ltd:2669.HK
+Puregold Price Club Inc:PGCMF
+Thunder Software Technology Co., Ltd. Class A:300496.SZ
+Rand Merchant Investment Holdings Ltd:RMI.JO
+Thai Union Group PCL (Foreign):TU.BK
+Air China Ltd A:0753.HK
+Haitong Securities Co., Ltd. Class A:6837.HK
+China Southern Airlines Co Ltd A:ZNH
+Oppein Home Group Inc A:603833.SS
+Qianhe Condiment & Food Co., Ltd. Class A:603027.SS
+New China Life Insurance Co., Ltd. Class A:1336.HK
+Zhejiang Dingli Machinery Co. L:603338.SS
+Guosen Securities Co Ltd A:002736.SZ
+Giant Network Group Co. Ltd. Class A:002558.SZ
+AVIC Jonhon Optronic Technolog:002179.SZ
+Hithink RoyalFlush Information Network Co., Ltd. C:300033.SZ
+Fuyao Glass Industry Group Co., Ltd. Class A:FYGGY
+Luenmei Quantum Co. Ltd.:600167.SS
+Beijing New Building Materials:000786.SZ
+Guolian Securities Co., Ltd. Class A:34V.F
+Shanghai Pharmaceuticals Holding Co Ltd A:2607.HK
+BGI Genomics Co. Ltd.:300676.SZ
+Yunda Holding Co., Ltd. Class A:002120.SZ
+Jiangxi Zhengbang Technology C:002157.SZ
+YTO Express Group Co.,Ltd. Class A:600233.SS
+Zhejiang Longsheng Group Co Ltd A:600352.SS
+G-bits Network Technology Xiam:603444.SS
+Shanghai Fosun Pharmaceutical (Group) Co., Ltd. Cl:CL
+Juewei Food Co. Ltd.:603517.SS
+Jonjee Hi-Tech Industrial & Commercial Holding:600872.SS
+Great Wall Motor Co., Ltd. Class A:2333.HK
+Beijing Enlight Media Co. Ltd.:300251.SZ
+Shanghai Electric Group Co Ltd A:2727.HK
+Tongkun Group Co. Ltd.:601233.SS
+Sul America SA:SULA11.SA
+Hengyi Petrochemical Co., Ltd. Class A:000703.SZ
+FF Group:FLLIY
+Guangzhou Shiyuan Electronic T:002841.SZ
+China Eastern Airlines Corporation Limited Class A:CEA
+Zhejiang Century Huatong Group Co Ltd A:002602.SZ
+GRG Banking Equipment Co Ltd A:002152.SZ
+Central Retail Corporation Public Co Ltd:CRC.BK
+Perfect World Co Ltd A:002624.SZ
+Jiangsu Zhongtian Technology C:600522.SS
+Beijing E-Hualu Information Te:300212.SZ
+Jafron Biomedical Co. Ltd.:300529.SZ
+Pangang Group Vanadium Titaniu:000629.SZ
+Jiangsu Yangnong Chemical Co. L:600486.SS
+DaShenLin Pharmaceutical Group Co., Ltd. Class A:603233.SS
+Megaworld Corp.:MGAWY
+Xiamen Intretech Inc. Class A:002925.SZ
+Shanghai M&G Stationery Inc.:002269.SZ
+Sinoma Science & Technology Co.:002080.SZ
+Spring Airlines Co Ltd A:601021.SS
+Toly Bread Co. Ltd.:603866.SS
+Chongqing Fuling Zhacai Group:002507.SZ
+Guangzhou Kingmed Diagnostics:603882.SS
+Hua Xia Bank Co., Limited Class A:600015.SS
+Unisplendour Co., Ltd. Class A:000938.SZ
+Founder Securities Co Ltd A:601901.SS
+Shanghai Jahwa United Co Ltd:600315.SS
+Oriental Pearl Group Co., Ltd. A:600637.SS
+China Construction Bank Corporation Class A:0939.HK
+Leo Group Co. Ltd. Class A:002131.SZ
+China International Capital Co.:3908.HK
+Shandong Sinocera Functional M:300285.SZ
+China Yuhua Education Corp Ltd:6169.HK
+Yango Group Co. Ltd.:000671.SZ
+Proya Cosmetics Co. Ltd.:603605.SS
+NanJi E-Commerce Co. Ltd.:002127.SZ
+Ninestar Corporation A:002180.SZ
+Chifeng Jilong Gold Mining Co., Ltd. Class A:600988.SS
+China Film Co., Ltd. Class A:600977.SS
+Meinian Onehealth Healthcare Holdings Co Ltd Class:002044.SZ
+Sinopec Shanghai Petrochemical Co Ltd A:SHI
+Da An Gene Co., Ltd. of Sun Yat-Sen University Cla:002030.SZ
+Guangdong Xinbao Electrical Appliances Holdings Co:002705.SZ
+China Galaxy Securities Co., Ltd. Class A:6881.HK
+Beijing Dabeinong Technology Group Co Ltd A:002385.SZ
+China Greatwall Technology Gro:000066.SZ
+HANGZHOU FIRST APPLIED MATERIAL CO.,LTD. Class A:603806.SS
+Beijing Shiji Information Technology Co Ltd  A:002153.SZ
+Shanghai Putailai New Energy T:603659.SS
+Guangdong HEC Technology Holdi:600673.SS
+East Group Co., Ltd. Class A:300376.SZ
+Universal Scientific Industria:601231.SS
+China TransInfo Technology Co.:002373.SZ
+Jiangsu Zhongnan Construction:000961.SZ
+Gemdale Corporation Class A:600383.SS
+Shanghai RAAS Blood Products Co., Ltd. Class A:002252.SZ
+Tianma Microelectronics Co., Ltd Class A:000050.SZ
+Sunwoda Electronic Co. Ltd.:300207.SZ
+Zhongji Innolight Co. Ltd.:300308.SZ
+Everbright Securities Co Ltd A:601788.SS
+Grupo de Inversiones Suramericana SA:GIVSY
+Shengyi Technology Co. Ltd.:600183.SS
+DHC Software Co Ltd A:002065.SZ
+FangDa Carbon New Material Co., Ltd. Class A:600516.SS
+Suzhou Dongshan Precision Manufacturing Co., Ltd C:002384.SZ
+Huadong Medicine Co Ltd A:000963.SZ
+Nestle (Regd):NSRGY
+Roche Holding (genusscheine):RHHBY
+Novartis (Regd) (CHF):NVS
+Unilever Plc Ord:UL
+AstraZeneca Ord (GBP):AZN
+SAP SE (Ord):SAP
+Siemens AG (Regd):SIEGY
+Royal Dutch Shell Plc A Ord:RDS-B
+Total S.A. (FR):VTI
+HSBC Holdings Plc Ord (UK Reg):HSBC
+Sanofi (FR):SNY
+L Oreal:OR.VI
+Rio Tinto Ord:RIO
+GlaxoSmithKline Plc Ord (GBP):GSK
+Schneider Electric:SU.PA
+ENEL SpA:ENIC
+BP Plc:BP
+Air Liquide SA (FR):AI.PA
+BNP Paribas S.A.:BNP.PA
+Reckitt Benckiser Group Plc:RBGLY
+BHP GROUP PLC:BHP
+Zurich Insurance Group Regd (CH):ZURN.SW
+Kering:KER.PA
+Deutsche Telekom AG (Regd):DTEGY
+AXA SA (FR):AXTA
+Atlas Copco AB B:ATLC
+Prudential Plc Ord:PRU
+Essilor International SA:EI.VI
+UBS Group Inc:UBS
+ABB (Regd):ABB
+Volkswagen AG (Pref):VWAGY
+Vodafone Group Plc (GB):VOD
+Danone:BN.PA
+National Grid Plc:NGG
+Barclays Plc Ord:BCS
+CRH (IE):CRH
+Munich RE (Regd):MUV2.MI
+Lonza Group (Regd):LONN.SW
+Compass Group:CPG.L
+Lloyds Banking Group Plc Ord:LYG
+Industria de Diseno Textil SA (INDITEX):ITX.VI
+Investor AB B:OHI
+Sika Ltd:SIKA.SW
+Volvo B:VOLV-B.ST
+Ericsson, Telefon AB LM B:ERIC
+Stellantis N.V. (IT):STLA
+Amadeus IT Group S.A:AMS.MC
+Alcon Inc. (CH):ALC
+Dassault Systemes SA:DSY.PA
+London Stock Exchange Group Plc:LSEG.L
+Vivendi SA (FR):VIV.PA
+Ashtead Group:AHT.L
+Aviva Plc (GB):AV.L
+Givaudan (Regd) (CHF):GIVN.SW
+Swiss Re (Regd):SREN.SW
+Legal & General Group (Ord 2.5p):LGEN.L
+Assa Abloy AB B:ASSA-B.ST
+Michelin B:ML.PA
+STMicroelectronics - (FR):STM
+Ferrari NV (IT):RACE
+Kerry Group A:KRZ.IR
+Koninklijke Ahold Delhaize N.V.:AD.AS
+Hexagon AB B:HPUR.OL
+Credit Suisse Group (Reg):CS
+SSE Plc Ord:000001.SS
+Telefonica S.A. (ES):TEF
+ArcelorMittal (NL):MT
+RWE AG (Ord):RWE.DE
+Roche Holding (Bearer) (CHF):RHHBY
+Worldline SA:WLN.PA
+Kone Oyj B:KNEBV.HE
+Royal Dutch Shell Plc B Ord:RDS-B
+Segro Plc (REIT):SGRO.L
+Essity AB B:ESSITY-B.ST
+Nokia Oyj (FI):NOK
+BT Group Ord (GB):BT-A.L
+Smith & Nephew Plc Ord USD0.20:SWBI
+EDP-Energias de Portugal S.A.:EDP.LS
+Deutsche Bank AG (Regd.):DB
+KBC Groep NV:KBCSY
+Sampo Oyj A:SAMPO.HE
+Aena SA:AENA.MC
+Societe Generale:GLE.PA
+Unicredit SpA:UCG.MI
+Burberry Group Plc Ord:BRBY.L
+Moncler SPA:MONRF
+Cellnex Telecom S.A.:CLNX.MC
+Swatch Group (Regd):UHR.SW
+Hennes & Mauritz AB B:MC.PA
+Repsol S.A.:REP.MC
+Fresenius SE & Co. KGaA:FRE.DE
+Partners Group (Reg):PGHN.SW
+Standard Chartered Plc (GBP):STAN.L
+Intertek Group:ITRK.L
+DnB ASA:DNB
+Sodexo:SW.PA
+3i Group Plc Ord:III.L
+Sartorius AG Pref.:0NIR.IL
+Smurfit Kappa Group Plc (EUR):SK3.IR
+Edenred SA:EDEN.PA
+Whitbread Plc:WTB.L
+Associated British Foods Plc Ord:ABF.L
+Henkel AG & Co. KGaA (Pref):HEN3.DE
+Skandinaviska Enskilda Banken AB A:SEB-A.ST
+SGS (Regd):SGSVF
+Kuehne & Nagel International AG (Regd):KNIN.SW
+Delivery Hero AG:DHER.DE
+Mondi Plc:MNVN
+Publicis Groupe:PUB.PA
+Logitech International S.A. (Regd):LOGI
+Informa Plc:VGT
+CNH Industrial NV (IT):CNHI
+Persimmon Plc Ord:PSN.L
+Veolia Environnement (FR):VEOEY
+Kingspan Group:KRX.IR
+UCB S.A.:UCB.BR
+Fresenius Medical Care AG & Co. KgaA:FMS
+Sonova Holding AG (Regd):SOON.SW
+Porsche Automobil Holding (Pref.):POAHY
+Swiss Life Holding (Regd.):SLHN.SW
+Alstom:ALSMY
+Rentokil Initial Plc Ord:RTOKY
+Henkel AG & Co. KGaA (Ord):HEN3.DE
+Antofagasta:ANTO.L
+Straumann Holding (Regd):STMN.SW
+Volkswagen (Ord):VWAGY
+Lindt & Spruengli AG - REG:LISN.SW
+Ageas NV (BE):AGS.BR
+Next Plc Ord:NEXT
+Barratt Developments Plc Ord:BDEV.L
+Handelsbanken AB A:SHB-A.ST
+Halma Plc Ord:HLMA.L
+Swedbank AB A:SWED-A.ST
+Geberit AG (Regd):GEBN.SW
+Gecina:GFC.PA
+Spirax-Sarco Engineering Plc:SPX.L
+Atlantia SpA:ATL.MI
+Taylor Wimpey Plc Ord:TW.L
+Bunzl Plc Ord:BNZL.L
+Hannover Rueck SE (Regd):HNR1.DE
+Sage Group Plc Ord:SGE.L
+Caixabank SA:CABK.MC
+Adecco (Regd.) (CHF):AHEXY
+Endesa S.A.:ELE.MC
+ACS Actividades de Const. Y Servicios SA:ACS.MC
+Skanska AB B:SKA-B.ST
+Brenntag AG:BNR.DE
+DCC Plc (GBP):DCC.AX
+Koninklijke KPN:KPN.AS
+Deutsche Lufthansa AG (Regd)(Vink):LHA.DE
+British Land Company Plc Ord:BLND.L
+St. James Place Plc:STJ.L
+Carrefour SA (FR):CA.PA
+Qiagen (DE):QGEN
+S-Oil Corp:SPOC
+SKF AB B:SKF
+Electricite de France (EDF):ECIFY
+Temenos Group (Regd):0QOA.IL
+RSA Insurance Group Plc:RSA.L
+Kingfisher Plc Ord:KFR.V
+United Utilities Group Plc. Ord.:UU.L
+Nexi S.p.A.:NEXI.MI
+Johnson Matthey Plc:JMAT.L
+Stora Enso Oyj R:ENUS.F
+Terna SpA:TRN.MI
+Pearson Plc Ord:PSO
+NIBE Industrier AB B:NIBE-B.ST
+Erste Group Bank AG (AT) (EUR):EBS.VI
+UBISOFT Entertainment:UBI.PA
+Admiral Group Plc:ADM.L
+Grifols SA A:GRFS
+Bollore:BOIVF
+Aeroports de Paris (ADP):ADP.PA
+Poste Italiane SPA:PST.MI
+Latour Investment AB B:LATO-B.ST
+Voestalpine AG:VOE.VI
+Barry Callebaut AG (regd):BARN.SW
+Valeo:FR.PA
+Severn Trent Plc (GB):SVT.L
+Evraz Plc:EVR.L
+GALP Energia, SGPS, SA:GALP.LS
+LEG Immobilien AG:LEG.DE
+Aveva Group Plc:AVV.L
+Yara International ASA (NO):YARIY
+Lindt & Spruengli AG-PC:LISN.SW
+Schibsted ASA B:SCHA.OL
+Schindler Holding AG (Regd):SCHN.SW
+Orpea:ORP.PA
+Renault:RNO.PA
+SCOR SE:SCOR
+Aroundtown SA (DE):AT1.DE
+Red Electrica Corporacion SA:REE.MC
+bioMerieux SA:BIM.PA
+Hikma Pharmaceuticals Plc:HIK.L
+FAURECIA SE (IT):EO.PA
+Electrolux AB B:ELUX-B.ST
+Carl Zeiss Meditec:AFX.DE
+Telia Company AB:TELIA1.HE
+Baloise Holding AG (Regd.):BLHEY
+Elia System Operator SA/NV:0NTU.IL
+Husqvarna AB B:HUSQ-B.ST
+Verbund AG A:VER.VI
+Lundin Petroleum AB:0NNR.IL
+Bechtle:BC8.DE
+Klepierre:LI.PA
+Swisscom (Regd):SCMN.SW
+Vifor Pharma:VIFN.SW
+Mediobanca:MB.MI
+Sainsbury (J) Plc Ord:SBRY.L
+Eurazeo SA:RF.PA
+Natixis:KN.PA
+Swiss Prime Site AG (Regd):SPSN.SW
+Telecom Italia (ord.):TIT.MI
+Kesko Oyj B:KESKOB.HE
+Amplifon S.p.A.:AMP.MI
+Recordati SpA:REC.MI
+Fresnillo Plc:FNLPF
+Lanxess AG:LXS.DE
+Wendel SA:WNDLF
+Proximus SA (DE):PROX.BR
+Enagas S.A.:ENG.MC
+JDE Peets BV:JDE.DU
+Iliad S.A.:ILD.PA
+DiaSorin SPA:DSRLF
+Elisa Oyj A:ELISA.HE
+Galapagos NV (NL):GLPG
+Jeronimo Martins SGPS S.A.:JRONY
+Hochtief AG:HOT.DE
+Telecom Italia (di Risp):TIT.MI
+Adevinta ASA (B) (B):ADE.OL
+Securitas AB B:SECU-B.ST
+Infrastrutture Wireless Italiane S.p.A.:INW.MI
+Tele2 AB B:TEL2-B.ST
+United Internet AG:UTDI.DE
+Rational:RAA.DE
+Colruyt SA:COLR.BR
+Ems-Chemie Holding (Regd):EMSN.SW
+Tenaris SA (IT):TS
+Raiffeisen Bank International AG:RBI.VI
+Orion Oyj B:OESX
+Schibsted ASA A:SCHA.OL
+Swatch Group (bearer):UHR.SW
+Heineken:HEIA.AS
+Marlowe PLC:MRL.L
+Boku Inc (GB):BOKU.L
+GB GROUP:GBG.L
+Arrow Global Group PLC:ARW.L
+Dermapharm Holding SE:DMP.DE
+Uniphar PLC:UPR.IR
+Ergomed PLC:ERGO.L
+Eco Animal Health Group PLC:EAH.L
+Treatt PLC:TET.L
+AB Dynamics plc:ABDP.L
+XP Power Ltd:XPPLF
+YouGov Plc:YOU.L
+Craneware PLC:CRW.L
+Volution Group Plc:FAN.L
+DISCOVERIE GROUP PLC:DSCV.L
+EQS GROUP AG (DE):EQS.DE
+Learning Technologies Group PL:LTG.L
+Ideagen PLC:IDEA.L
+Games Workshop Group:GAW.L
+Judges Scientific PLC:JDG.L
+Victoria PLC:VGCX.TO
+Asiakastieto Group Oyj:0R6B.L
+JTC PLC (GB):JTC.V
+Diploma Plc:DPLM.L
+Tristel PLC:TSTL.L
+FRP ADVISORY GROUP LTD:FRP.L
+ATOSS Software AG:AOF.DE
+JDC Group AG:JDC.DE
+Focusrite Plc:TUNE.L
+Robertet SA:RBT.PA
+Medistim ASA:MEDI.OL
+Carel Industries SpA:CRL.MI
+Fabasoft (DE):FAA.F
+Vitec Software Group AB B:VIT-B.ST
+Fashionette AG:FSNT.F
+AddLife AB B:ALIF-B.ST
+Genovis AB:GENO.ST
+MJ HUDSON GROUP PLC:MJR.F
+Exasol AG:EXL.DE
+Bioventix PLC:BVXP.L
+Diaceutics Plc:DXRX.L
+Revenio Group Oyj:REG1V.HE
+Diageo Plc (GB):DEO
+Pernod Ricard:RI.PA
+GVC Holdings Plc:GVC.VI
+Smiths Group Plc Ord:SMGZY
+Davide Campari-Milano N.V. (IT):CPR.MI
+Atlas Copco AB A:ATLC
+La Francaise des Jeux SA:LFDJF
+Remy Cointreau:RCO.PA
+Clariant (Reg.):CLN.SW
+Fuchs Petrolub SE (Pref):FPE3.DE
+Banco Espirito Santo S.A. (Reg):BKESF
+IMI Plc:IMIN.V
+Microsoft Corp.:MSFT
+Apple Inc.:AAPL
+Amazon.com:AMZN
+Facebook Inc A (US):FB
+Alphabet Inc A:GOOG
+Alphabet Inc C:GOOGL.MI
+Visa Inc Class A:V
+Nvidia Corp. (US):NVDA
+PayPal Holdings Inc (US):PYPL
+Intel Corp.:INTC
+Adobe Systems Inc. (US):ADBE
+Cisco Systems Inc.:CSCO
+Salesforce.com Inc.:CRM
+Accenture Plc A (USD):ACN
+Texas Instruments (USD):TXN
+QUALCOMM Inc. (US):QCOM
+Oracle Corp.:ORCL
+Shopify Inc A (US):SHOP
+Applied Materials Inc.:AMAT
+IBM:IBM
+Intuit Inc.:ISRG
+Micron Technology:MU
+ServiceNow Inc.:NOW
+Booking Holding Inc:BKNG
+Advanced Micro Devices Inc.:AMD
+Fidelity National Information:FIS
+Square Inc A:SQ
+Lam Research Corp.:LRCX
+Activision Blizzard Inc.:ATVI
+Fiserv Inc.:FISV
+Zoom Video Communications Inc. (A) (A):ZM
+Global Payments Inc.:GPN
+Autodesk Inc.:ADSK
+NXP Semiconductors N.V. (USD):NXPI
+Twilio Inc A:TWLO
+Snap Inc A:SNAP
+HP Inc (US):HP
+TE Connectivity Ltd (USD):TEL
+Cognizant Technology Solutions Corp.:CTSH
+Amphenol Corp. A:APH
+Microchip Technology Inc.:MCHP
+Pinterest Inc. (A) (A):PINS
+Cadence Design Systems Inc.:CDNS
+Synopsys Inc.:SNPS
+DocuSign Inc  :DOCU
+Match Grou:MTCH
+Corning Inc.:GLW
+Crowdstrike Holdings Inc. (A) (A):CRWD
+Paychex:PAYX
+Marvell Technology Group (USD):MRVL
+Skyworks Solutions Inc.:SWKS
+ANSYS Inc.:ANSS
+Okta Inc A:OKTA
+Zebra Technologies Corp. A:ZBRA
+Maxim Integrated Products Inc.:MXIM
+RingCentral Inc A:RNG
+Fleetcor Technologies Inc:FLT
+VeriSign Inc.:VRSN
+Hewlett Packard Enterprise Co.:HPE
+CGI Group Inc. A (USD):GIB
+Take-Two Interactive Software Inc.:TTWO
+Western Digital Corp.:WDC
+Teradyne Inc.:TER
+Slack Technologies Inc A:WORK
+Broadridge Financial Solutions LLC:BR
+Citrix Systems Inc.:CTXS
+Seagate Technology:STX
+Coupa Software, Inc.:COUP
+Paycom Software Inc.:PAYC
+Akamai Technologies Inc.:AKAM
+Datadog Inc. A:DDOG
+Gartner Inc. A:IT
+ON Semiconductor Corp.:ON
+NetApp Inc.:NTAP
+Zillow Group Inc C:0ZG2.F
+Entegris Inc.:ENTG
+Monolithic Power Systems Inc.:MPWR
+F5 Networks Inc.:FFIV
+Cognex Corp.:CGNX
+Open Text Corp. (USD):OTEX
+Fair Isaac Corp.:FICO
+SNOWFLAKE INC-CLASS A (US):SNWF.VI
+GoDaddy Inc A:GDDY
+Cloudflare Inc A:NET
+Cree Inc. (USD):CREE
+VMWARE Inc:VMW
+Jack Henry & Associates Inc.:JKHY
+Nuance Communications Inc.:NUAN
+Avalara In:AVLR
+Ceridian HCM Holding, Inc.:CDAY
+Western Union Comp.:WU
+MKS Instruments Inc.:MKSI
+Zynga Inc Class A:ZNGA
+Universal Display Corp.:OLED
+Ciena Corp.:CIEN
+Aspen Technology Inc. (US):AZPN
+Zillow Group Inc A:Z
+Arrow Electronics Inc.:ARW
+Dynatrace:DT
+Bill.com Holdings, Inc.:BILL
+Genpact Ltd.:G
+FLIR Systems Inc.:FL4.SG
+DXC Technology Company:DXC
+Euronet Worldwide Inc.:EEFT
+Dropbox Inc A:DBX
+Manhattan Associates Inc.:MANH
+IPG Photonics Corp.:IPGP
+First Solar Inc.:FSLR
+Littelfuse Inc.:LFUS
+II-VI Inc.:IIVI
+CDK Global Inc:CDK
+Smartsheet Inc A:SMAR
+Jabil Inc.:JBL
+Chewy Inc A:CHWY
+Dolby Laboratories Inc. Class A:DLB
+Paylocity Holding Corp.:PCTY
+Concentrix:CNXC
+Maximus Inc.:MMS
+National Instruments Corp.:NATI
+Coherent Inc.:COHR
+Silicon Laboratories Inc.:SLAB
+Brooks Automation Inc.:BRKS
+Fastly, Inc. Class A:FSLY
+GrubHub Inc:GRUB
+Blackline Inc (US):BL
+Lattice Semiconductor Corp.:LSCC
+Alliance Data Systems Corp.:ADS
+Q2 Holdings, Inc.:QTWO
+Novanta Inc (USD):NOVT
+Descartes Systems Group Inc. (USD):DSGX
+Synnex Corp:SNX
+NCR Corp.:NCR
+MicroStrategy Inc. A:MSTR
+Appian Corp A:APPN
+Magnite Inc.:MGNI
+Varonis Systems, Inc.:VRNS
+Semtech Corp.:SMTC
+Synaptics Inc.:SYNA
+Avnet Inc.:AVT
+Alteryx Inc A:AYX
+ACI Worldwide Inc.:ACIW
+Xerox Holdings Corporation (US):XRX
+PERSPECTA INC:1Z5.MU
+Cirrus Logic Inc.:CRUS
+Sabre Corporation:SABR
+Advanced Energy Industries Inc.:AEIS
+BlackBerry Ltd (USD):BB
+Mantech International Corp.:MANT
+Qurate Ret:QRTEA
+Power Integrations Inc.:POWI
+SailPoint Technologies Holdings, Inc.:SAIL
+Everbridge, Inc.:EVBG
+Fabrinet:FN
+Rogers Corp.:ROG
+Itron Inc.:ITRI
+Stamps.com Inc.:STMP
+Rapid7 Inc.:RPD
+SPS Commerce Inc.:SPSC
+New Relic Inc.:NEWR
+Sanmina Corp.:SANM
+3D Systems Corp.:DDD
+Workiva, Inc. Class A:WK
+Insight Enterprises Inc.:NSIT
+Blackbaud Inc:BLKB
+Vishay Intertechnology Inc.:VSH
+FormFactor Inc.:FORM
+NetScout Systems Inc.:NTCT
+LiveRamp H:RAMP
+Cerence In:CRNC
+8x8 Inc.:EGHT
+Plexus Corp.:PLXS
+Liveperson Inc:LPSN
+Stitch Fix Inc A:SFIX
+Commscope Holding Co Inc:COMM
+Shutterstock Inc:SSTK
+Commvault Systems Inc.:CVLT
+Diodes Inc.:DIOD
+Altair Engineering Inc A:ALTR
+Kulicke & Soffa Industries Inc.:KLIC
+Box Inc A:BOX
+Ubiquiti I:UI
+Macom Technology Solutions Holdings Inc:MTSI
+Overstock.com Inc.:OSTK
+CSG Systems International Inc.:CSGS
+AppFolio Inc A:APPF
+Badger Meter Inc.:BMI
+Cornerstone OnDemand Inc:CSOD
+Perficient, Inc.:PRFT
+Shift4 Payments Inc:FOUR
+Evertec Inc:EVTC
+Knowles Corporation:KN
+SunPower Corp. A:SPWR
+Progress Software Corp:PRGS
+Mimecast Limited:MIME
+Tenable Holdings, Inc.:TENB
+Methode Electronics:MEI
+Belden Inc.:BDC
+Sykes Enterprises Inc.:SYKE
+NETGEAR Inc.:NTGR
+Calix Inc:CALX
+CarGurus I:CARG
+Pagerduty Inc.:PD
+TTM Technologies Inc.:TTMI
+SVMK, Inc.:SVMK
+OSI Systems Inc.:OSIS
+Verra Mobility Corp. (A) (A):VRRM
+EchoStar Corp. A:SATS
+Medallia, Inc.:MDLA
+InterDigital Inc.:IDCC
+Bottomline Technologies Inc.:EPAY
+XPERI HOLDING CORP:XPER
+Infinera Corp.:INFN
+Repay Holdings Corp. Class A:RPAY
+Amkor Technology Inc.:AMKR
+MaxLinear Inc:MXL
+SolarWinds:SWI
+Rambus Inc.:RMBS
+Avaya Holdings Corp:AVYA
+Benchmark Electronics Inc.:BHE
+Yext Inc:YEXT
+Switch, Inc. Class A:SWCH
+Sprout Social Inc:SPT
+Harmonic Inc.:HLIT
+Super Micro Computer Inc.:SMCI
+Plantronics Inc.:POLY
+PROS Holdings Inc:2168.HK
+Celestica Inc. (US):CLS
+Jamf Holding Corp:JAMF
+Groupon Inc.:GRPN
+SiTime Corporation:SITM
+Inseego Corp:INSG
+Ping Identity Holding Corp.:PING
+Zuora Inc A:ZUO
+Shopify Inc A:SHOP
+Toronto-Dominion Bank (CA):TD.TO
+BHP Billiton Ltd:0HN3.L
+CSL Ltd.:CSL
+Canadian National Railway Co. (CA):CNR.TO
+Bank of Nova Scotia:BNS.TO
+Bank of Montreal (CAD):BMO.TO
+Canadian Pacific Railway:CP
+Manulife Financial Corp.:MFC.TO
+Pembina Pipeline Corporation:PBA
+Woodside Petroleum:WPL.AX
+Macquarie Group Ltd.:MQG.AX
+Sun Life Financial Inc. (CA):SLF.TO
+Nutrien Ltd :NTR
+Alimentation Couche-Tard Inc.:ATD-B.TO
+Franco-Nevada Corp.:FNV
+Constellation Software Inc:CSU.TO
+Fortescue Metals Group Ltd.:FMG.AX
+Restaurant Brands International Inc:QSR
+Keyera Corp:KEY.TO
+Fortis Inc.:FTS.TO
+Ampol Ltd:ALD.AX
+CGI Inc A:GIB
+Wheaton Precious Metals Corp (CAD):WPM
+Rogers Communications Inc. B:RCI-B.TO
+Parkland Corporation:PKI.TO
+Intact Financial Corp.:IFC.TO
+Power Corporation of Canada:POW.TO
+Shaw Communications Inc. B:SJR
+Agnico Eagle Mines (CAD):AEM
+Newcrest Mining:NCM.AX
+Coles Group Ltd:COL.AX
+Oil Search Ltd. (AUD):OSH.AX
+Thomson Reuters Corp. (CA):TRI
+Open Text Corp. (CA):OTEX
+Fairfax Financial Holdings:FFH.TO
+BCE Inc (CAD):BCE
+Metro Inc:MILE
+Loblaw Companies:L.TO
+Cameco Corp. (CA):CCJ
+QBE Insurance Group:QBE.AX
+James Hardie Industries se:JHX
+Telus Corp.:T.TO
+First Quantum Minerals Ltd.:FM.TO
+Bausch Health Companies Inc. (CAD):BHC
+Xero Ltd (AUD):XRX
+Fisher & Paykel Healthcare Corp.:TMO
+APA Group:APA.AX
+Suncorp Group Ltd:SUN.AX
+Kinross Gold Corp (CAD):KGC
+Sonic Healthcare:SHL.AX
+Telstra:TLS.AX
+Cochlear:COH.AX
+Telus Corp:T.TO
+Algonquin Power & Utilities Co.:AQN.TO
+Weston (george):LW
+AltaGas Ltd.:ALA.TO
+Northland Power Inc:NPI.TO
+Great-West Lifeco Inc.:GWO.TO
+Lundin Mining Corp.:LUN.TO
+Aurizon Holdings Ltd:AZJ.AX
+Saputo Inc.:SAP.TO
+iA Financial Corporation Inc:IAG.TO
+Ramsay Health Care Ltd.:RHC.AX
+Insurance Australia Group:IAG.AX
+Northern Star Resources Ltd:NST.AX
+BlueScope Steel Ltd.:BSL.AX
+Onex Corp.:ONEX.TO
+Canadian Tire Corp. A:CTC-A.TO
+ASX Ltd.:ASX
+Pan American Silver Corp. (CA):PAAS
+Ritchie Bros. Auctioneers Inc. (CAD):RBA
+Riocan Real Estate Investment Trust:REI-UN.TO
+Yamana Gold Inc.:AUY
+GFL Environmental Inc:GFL
+Gildan Activewear Inc.:GIL
+Evolution Mining Ltd:EVN.AX
+GPT Group:GPT.AX
+IGM Financial Inc. (CAD):IGM.TO
+West Fraser Timber Co.Ltd:WFC.F
+Quebecor Inc. Class B:QBR-B.TO
+Seek Ltd:SEEK
+Ballard Power Systems Inc (CAD):BLDP
+TMX Group Ltd.:X.TO
+SSR Mining Inc (CA):SSRM
+Orica:ORI.AX
+Toromont Industries Ltd.:TIH.TO
+Computershare:CPU.AX
+Magellan Financial Group Ltd:MFG.AX
+Air Canada:AC.TO
+Brookfield Renewable Corporation:BEPC
+Canadian Utilities Limited A:CU.TO
+BlackBerry Ltd (CAD):BB
+a2 Milk Co Ltd:A2M.AX
+REA Group Ltd:KRG
+Atco Ltd - (Class 1 Non-Voting):ACO-X.TO
+AMP:AMP
+Qantas Airways:QAN.AX
+Medibank Private Ltd:MPL.AX
+Ryman Healthcare Ltd:RYM.NZ
+Mercury NZ Ltd:MCY.NZ
+WiseTech Global Ltd:WTC.AX
+CIMIC Group Ltd:CIM.AX
+Canadian Apartment Properties Real Estate Inve:CAR-UN.TO
+TPG Telecom Ltd:TPG.AX
+CCL Industries Inc - Class B (CA):CCL-B.TO
+AusNet Services:AST.AX
+Morningstar Inc:MOAT
+JPMorgan Chase & Co.:JPM
+Ecolab Inc.:ECL
+NextEra Energy Inc.:NEE
+Colgate-Palmolive Co.:CL
+Avangrid Inc:AGR
+Cerner Corp.:CERN
+Xylem Inc:XYL
+Trane Technologies plc:TT
+Agilent Technologies Inc.:A
+Rockwell Automation Inc.:ROK
+BorgWarner Inc.:BWA
+Tesla Inc (US):TSLA
+Berkshire Hathaway Inc. B:BRK-B
+UnitedHealth Group Inc.:UNH
+Procter & Gamble Co.:PG
+Walt Disney (USD):DIS
+Home Depot Inc.:HD
+Bank of America Corp.:BAC
+Exxon Mobil Corp.:XOM
+Comcast Corp. A:CMCSA
+Verizon Communications Inc. (US):VZ
+Chevron Corp.:CVX
+NetFlix Inc:NFLX
+AT&T Inc.:AT
+Coca Cola Co (US):KO
+Abbott Laboratories (US):ABT
+Pfizer Inc. (US):PFE
+PepsiCo Inc.:PEP
+Merck & Co. Inc. (US):MRK
+Wal-Mart Stores Inc.:GJO
+Nike Inc B:NKE
+Toyota Motor Corp.:TM
+McDonalds Corp.:MCD
+Eli Lilly & Co.:LLY
+Union Pacific Corp.:UNP
+Wells Fargo Co. (US):WFC
+Citigroup Inc. (US):C
+Costco Wholesale Corp.:COST
+Linde PLC (US):LIN
+Amgen Inc.:AMGN
+Bristol-Myers Squibb Co. (US):BMY
+Danaher Corp. (US):DHR
+Lowes Co.:LOW
+Softbank Group Corp (JP):9984.T
+Sony Corp.:SON1.SG
+Caterpillar Inc.:CAT
+3M Co.:MMM
+General Electric Co. (US):GE
+Goldman Sachs Group Inc.:GS
+American Express:AXP
+CVS Health Corp.:CVS
+Charles Schwab Corp.:SCHW
+Anthem Inc.:ANTM
+Intuitive Surgical Inc.:ISRG
+Cigna Corporation:CI
+Stryker Corp.:SYK
+CSX Corp.:CSX
+Keyence Corp.:6861.T
+Gilead Sciences Inc.:GILD
+ProLogis Inc.:PLD
+Truist Financial Corporation:TFC
+U.S. Bancorp:USB
+TJX Co. Inc.:TJX
+Zoetis Inc A:ZTS
+Illinois Tool Works Inc.:ITW
+PNC Financial Services Group Inc.:PNC
+General Motors Co.:GM
+Chubb Ltd (USD):CB
+Recruit Holdings Co.Ltd.:1RH.BE
+Becton Dickinson & Co.:BDX
+Estee Lauder Co. A:EL
+FedEx Corp.:FDX
+Mitsubishi UFJ Financial Group:MUFG
+Marsh & McLennan Co. Inc.:MMC
+TransDigm Group, Inc.:TDG
+Tokyo Electron:8035.T
+Capital One Financial Corp.:COF
+Air Products & Chemicals Inc:APD
+Nintendo:NTDOY
+Eaton Corporation Plc (USD):ETN
+Equinix Inc (US):EQIX
+Shin-Etsu Chemical Co:SHECY
+Sherwin-Williams Co.:SHW
+Teledyne Technologies Inc.:TDY
+Humana Inc.:HUM
+Takeda Pharmaceutical:TAK
+Illumina Inc.:ILMN
+Emerson Electric Co.:EMR
+Vertex Pharmaceuticals Inc. (USD):VRTX
+Boston Scientific Corp.:BSX
+Nidec Corp.:NJDCY
+Progressive Corp:PGR
+Kimberly-Clark Corp.:KMB
+MetLife Inc.:MET
+Newmont Mining Corp.:0R28.IL
+HEICO Corp A:HEI
+Exelon Corp.:EXC
+Waste Management Inc.:WM
+Edwards Lifesciences Corp.:EW
+Moodys Corp.:MCO
+KDDI Corp.:9433.T
+Honda Motor Co. Ltd.:HMC
+Daiichi Sankyo Co. Ltd.:DSNKY
+Daikin Industries:DKILY
+Ford Motor Co. (US):F
+Regeneron Pharmaceuticals Inc.:REGN
+EOG Resources Inc.:EOG
+Sumitomo Mitsui Financial Group Inc.:SMFG
+Prudential Financial Inc.:PRU
+Parker-Hannifin Corp.:PH
+Fanuc Corporation:FANUY
+Johnson Controls International PLC (USD):JCI
+Itochu Corp.:ITOCY
+Hitachi:HTHIY
+American International Group Inc.:AIG
+Xcel Energy Inc.:XEL
+Dollar General Corp.:DG
+Ross Stores Inc.:ROST
+Fast Retailing:FRCOY
+Schlumberger (USD):SLB
+IDEXX Laboratories Inc.:IDXX
+Hoya Corp.:7741.T
+AFLAC Inc.:AFL
+Mitsubishi Corp.:8058.T
+Baxter International Inc.:BAX
+Sysco Corp.:SYY
+T. Rowe Price Group Inc.:TROW
+Travelers Companies Inc.:TRV
+Cummins Inc.:CMI
+Marriott International Inc. A:MAR
+Bank of New York Mellon Corp.:BK
+WOOLWORTHS GROUP LIMITED:WOW.AX
+Align Technology Inc.:ALGN
+General Mills Inc.:GIS
+Pioneer Natural Resources Co.:PXD
+SoftBank Corp.:9434.T
+Public Service Enterprise Group:PEG
+Williams Co. Inc.:WMB
+Digital Realty Trust Inc.:DLR
+Mitsui and Co:MITSY
+Arconic Inc:ARNC
+Nippon Telegraph & Telephone:NTTYY
+Allstate Corp.:ALL
+Valero Energy Corp.:VLO
+PPG Industries Inc.:PPG
+Chipotle Mexican Grill Inc. Class A:CMG
+Moderna Inc.:MRNA
+SMC Corp.:SMCAY
+Stanley Black & Decker Inc.:SWK
+PACCAR Inc.:PCAR
+Roku Inc A:ROKU
+Mizuho Financial Group Inc.:MFG
+Hilton Inc:HLT
+Yum Brands:YUM
+Veeva Systems Inc A:VEEV
+Carrier Global Corporation:CARR
+Dexcom Inc.:DXCM
+D.R. Horton Inc.:DHI
+Zimmer Biomet Holdings Inc (USD):ZBH
+Kao Corp.:KAOOY
+O Reilly Automotive Inc:ORLY.VI
+Lyondellbasell Industries NV A (USD):LYB
+Verisk Analytics Inc. Class A:VRSK
+Nucor Corp.:NUE
+Tokio Marine Holdings Inc.:TKOMY
+The Kraft Heinz Company (US):KHC
+State Street Corp.:STT
+ONEOK Inc.:OKE
+Ametek Inc.:AME
+Ameriprise Financial Inc.:AMP
+Seven & I Holdings Co. Ltd.:SVNDY
+Astellas Pharma Inc. (JP):ALPMY
+McKesson Corp.:MCK
+Fifth Third Bancorp.:FITB
+Cintas Corp.:CTAS
+International Flavors & Fragrances Inc.:IFF
+Avalonbay Communities Inc.:AVB
+SBA Communications Corporation:SBAC
+Ball Corp.:BLL
+Lennar:LEN
+Fastenal Company:FAST
+Otis Worldwide Corporation:OTIS
+Willis Towers Watson Plc:WLTW
+Mettler-Toledo International Inc.:MTD
+Mitsubishi Electric:MIELY
+Hartford Financial Services Group Inc.:HIG
+Dover Corp.:DOV
+Consolidated Edison Inc.:ED
+Panasonic Corp.:PCRFY
+AutoZone Inc.:AZO
+ResMed Inc.:RMD
+Komatsu:KMTUY
+Chugai Pharmaceutical:4519.T
+Fujitsu:FJTSY
+CAE Inc.:CAE
+Waste Connections Inc (USD):WCN
+Entergy Corp.:ETR
+Oriental Land:4661.T
+First Republic Bank:FRC
+Denso Corporation:DNZOY
+Canon Inc.:CAJ
+Shiseido:4911.T
+Kroger Co:KR
+Central Japan Railway Co.:9022.T
+Realty Income Corp.:O
+Orix (JP):IX
+Tyson Foods Inc. A:TSN
+Peloton Interactive Inc A:PTON
+Arthur J. Gallagher & Co:AJG
+United Rentals Inc.:URI
+Hess Corp.:HES
+Laboratory Corp. of America Holdings:LH
+CMS Energy Corp.:CMS
+East Japan Railway:9020.T
+McCormick & Co. Inc.:MKC
+ViacomCBS Inc B:VIAC
+Clorox Co.:CLX
+Equifax Inc.:EFX
+Olympus Corp.:7733.T
+Principal Financial Group:PFG
+Old Dominion Freight Line Inc.:ODFL
+Brown-Forman Corp. B:BF-B
+Kubota:KUBTY
+Church & Dwight Co. Inc.:CCIV
+Northern Trust Corp.:NTRS
+Regions Financial Corp.:RF
+International Paper Co.:IP
+Ventas inc.:VTR
+KeyCorp.:KEY
+Sumitomo Corp.:SSUMY
+Vulcan Materials Co.:VMC
+Copart Inc.:CPRT
+Martin Marietta Materials:MLM
+Terumo Corp.:4543.T
+Cheniere Energy Inc.:LNG
+Republic Services Inc.:RSG
+Halliburton Co.:HAL
+CarMax Inc.:KMX
+Royal Caribbean Cruises (USD):RCL
+Mitsui Fudosan Co.:MTSFY
+Carnival Corp.:CCL
+Alexandria Real Estate Equities Inc.:ARE
+Garmin Ltd.:GRMN
+Teladoc Inc:TDOC
+Essex Property Trust Inc.:ESS
+Mid-America Apartment Communities Inc.:MAA
+Las Vegas Sands Corp.:LVS
+Mitsubishi Estate:MITEY
+Kellogg Co.:K
+Southwest Airlines Co.:LUV
+Genuine Parts Co.:GPC
+Boston Properties Inc.:BXP
+The Cooper Companies Inc.:COO
+Bridgestone Corp.:BRDCY
+Horizon Pharma PLC:HZNP
+W.W. Grainger Inc.:GWW
+W.P Carey Inc.:WPY.F
+Invitation Homes Inc:INVH
+Fox Corp B:FOX
+Marketaxess Holding Inc:MKTX
+Dai-ichi Life holdings Inc:8750.T
+Hologic Inc. (US):HOLX
+Teleflex Inc.:TFX
+Celanese Corp. - A:CE
+Omnicom Group Inc.:OMC
+Nomura Holdings Inc.:NMR
+Darden Restaurants Inc.:DRI
+PG&E Corp.:PG
+Waters Corp.:WAT
+Centerpoint Energy Inc.:CNP
+Lincoln National Corp.:LNC
+Catalent Inc.:CTLT
+Cardinal Health Inc.:CAH
+AES Corp.:AES
+Delta Air Lines Inc (DAL):DAL
+IDEX Corporation:IEX
+Eisai:ESALY
+Extra Space Storage:EXR
+Huntington Bancshares:HBAN
+Suzuki Motor Corp.:SZKMY
+Avery Dennison Corp.:AVY
+Eastman Chemical Co.:EMN
+VICI Properties Inc:VICI
+Duke Realty Corp.:DRE
+Markel Corp.:MKL
+Quest Diagnostics Inc.:DGX
+Plug Power Inc.:PLUG
+Cincinnati Financial Corp.:CINF
+Albemarle Corp.:ALB
+Subaru Corporation:FUJHY
+Pulte Group Inc.:PU7.F
+Devon Energy Corp.:DVN
+Medical Properties Trust Inc:MPW
+TDK Corp.:TTDKY
+Aeon Co. Ltd.:8267.T
+Obayashi Corp.:1802.T
+SYSMEX Corp:SSMXY
+Marubeni Corp.:8002.T
+Westinghouse Air Brake Technologies Corp.:WAB
+Kirin Holdings Co. Ltd.:KNBWY
+Raymond James Financial Inc:RJF
+PerkinElmer Inc.:PKI
+Nippon Steel & Sumitomo Metal Corp:5401.T
+Snap-on Inc.:SNA
+Masco Corp.:MAS
+AmerisourceBergen Corp. A:ABC
+Crown Holdings Inc.:CCK
+Annaly Capital Management Inc.:NLY
+Ulta Salon Cosmetics & Fragrance Inc:ULTA
+Carvana Co A:CVNA
+J.B. Hunt Transport Services Inc.:JBHT
+Alnylam Pharmaceuticals Inc.:ALNY
+Advantest Corp.:6857.T
+Interpublic Group of Co. Inc.:IPG
+STERIS PLC (USD):STE
+Asahi Kasei Corp.:AHKSY
+Sekisui House:SKHSY
+Pentair Plc (USD):PNR
+Live Nation Entertainment Inc.:LYV
+Steel Dynamics Inc.:STLD
+Fortune Brands Home & Security Inc.:FBHS
+LKQ Corp.:LKQ
+Whirlpool Corp.:WHR
+FMC Corp.:FMC
+Shionogi & Co.:4507.T
+Sumitomo Metal Mining Co.:SMMYY
+Taisei Corp.:1801.T
+Aristocrat Leisure:ALL.AX
+American Financial Group Inc.:AFG
+Bio-Rad Laboratories Inc (class A):BIO
+WestRock Co:WRK
+Incyte Corp.:INCY
+Atmos Energy Corp.:ATO
+Camden Property Trust:CPT
+Regency Centers Corp.:REG
+Secom:SOMLY
+Pool Corp.:POOL
+Wynn Resorts Ltd.:WYNN
+ABIOMED Inc.:ABMD
+Host Hotels & Resorts Inc.:HST
+Mohawk Industries Inc.:MHK
+Loews Corp.:L
+Factset Research Systems Inc:FDS
+Equity Lifestyle Properties Inc:ELS
+Nice Ltd:NICE
+Teva Pharmaceutical Industries (ADR):TEVA
+Nissan Motor Co.:NSANY
+Sompo Holdings:SMPNY
+Universal Health Services Inc. B:UHS
+Shimano Inc.:SMNNY
+Inpex Corp.:1605.T
+ESSENTIAL UTILITIES INC:WTRG
+Omron Corp.:OMRNY
+RPM International Inc.:RPM
+Kajima Corp.:KAJMY
+Shimizu Corp.:1803.T
+Omega Healthcare Investors:OHI
+Yaskawa Electric Corp.:YASKY
+10X Genomics Inc A:TXG
+Nitto Denko Corp.:NDEKY
+OBIC:4684.T
+Check Point Software Technologies (USD):CHKP
+Toyota Tsusho Corp.:8015.T
+Novocure Ltd (US):NVCR
+Franklin Resources Inc:BEN
+Hasbro Inc.:HAS
+Allegion Plc:ALLE
+VEREIT Inc:VER
+Campbell Soup Co.:CPB
+Reinsurance Group of America Inc.:RGA
+Vail Resorts Inc.:MTN
+Sumitomo Realty & Development:8830.T
+Invesco Ltd - ADR:QQQ
+Masimo Corp.:MASI
+Yahoo Japan Corp:YOJ.SG
+The Mosaic Company:MOS
+Owens Corning Inc:OC
+Lear Corp.:LEA
+West Japan Railway Co.:WJRYY
+Everest Re Group:RE
+Robert Half International Inc.:RHI
+Athene Holding Ltd - A:ATH
+Discovery Communications Inc. C:DC6.TI
+Cabot Oil & Gas Corp. A:COG
+Hankyu Hanshin Holdings Inc.:9042.T
+Minebea Mitsumi Inc:6479.T
+DraftKings Inc A:DKNG
+CF Industries Holdings Inc.:CF
+Ajinomoto Co. Inc.:AJINY
+Molson Coors Brewing Co. B:0K2K.L
+Alleghany Corp.:Y
+Makita Corp.:MKTAY
+SEI Investments Co.:SEIC
+Nitori:NCLTF
+A.O. Smith Corporation:AOS
+Amerco:UHAL
+Ono Pharmaceutical:OPHLY
+Henry Schein Inc.:HSIC
+DISH Network Corp. Class A:DISH
+Kikkoman Corp.:KIKOF
+Daiwa Securities:DSEEY
+Rakuten Inc.:RKUNY
+Bandai Namco Holdings Inc.:NCBDF
+Mitsubishi Chemical Holdings Corp.:4188.T
+Sensata Technologies Holding PLC:ST
+Cable One Inc.:CABO
+Jazz Pharmaceuticals PLC (US):JAZZ
+Daifuku:6383.T
+Toyota Industries Corp.:6201.T
+Nihon M&A Center Inc.:2127.T
+Tokyu Corporation.:9005.T
+Royalty Pharma PLC A:RPRX
+Aramark:ARMK
+Assurant Inc.:AIZ
+News Corp. New LLC Class A:0K7U.L
+AIRBNB INC (US):ABNB
+Toray Industries:TRYIY
+Daito Trust Construction:1878.T
+Sekisui Chemical:SKSUF
+Sealed Air Corp.:SEE
+Sumitomo Electric Industries:5802.T
+AGNC Investment Corp:AGNC
+Isuzu Motors Ltd.:ISUZY
+Neurocrine Biosciences Inc.:NBIX
+JFE Holdings Inc.:5411.T
+Odakyu Electric Railway:9007.T
+T&D Holdings Inc.:T
+Renaissancere Holdings:RNR
+Resona Holdings Inc.:RSNHF
+Discovery Communications Inc. A:DISCA
+MISUMI Group Inc.:MSSMY
+Nippon Building Fund Inc.:8951.T
+Kintetsu Group Holdings Co Ltd.:KKI.F
+Dentsu Inc.:4324.T
+Yakult Honsha:2267.T
+Sumitomo Chemical:SUMICHEM.NS
+Toto Ltd:TOTO.JK
+Tokyo Gas:TKGSY
+Brother Industries:BRTHY
+Disco Corp.:HDVY
+Keio Corp.:9008.T
+Axalta Coating Systems Ltd.:AXTA
+Rohm Co.:ROHCY
+Autoliv:ALV
+Yamaha Motor:YAMHF
+Altice USA Inc A:ATUS
+Treasury Wine Estates Ltd:TWE.AX
+Japan Real Estate Investment:8952.T
+Tabcorp Holdings:TAH.AX
+NGK Insulators:NGKIF
+Mitsubishi UFJ Lease & Finance Co Ltd.:MIUFY
+Seiko Epson Corp.:SEKEY
+Yamato Holdings Co. Ltd.:YATRY
+Trend Micro Inc.:TMICY
+Mazda Motor:MZDAY
+Knight Swift Transportation Holdings Inc A:KNX
+Capcom:CCOEY
+PPD INC (US):PPD
+Tobu Railway Co., Ltd:9001.T
+Mitsui Chemicals Inc.:4183.T
+NISSIN FOODS HOLDINGS CO. LTD.:2897.T
+Shimadzu Corp.:7701.T
+Nomura Real Estate Master Fund:3462.T
+Ionis Pharmaceuticals Inc.:IONS
+Hitachi Metals Ltd.:5486.T
+Nippon Yusen Kabushiki Kaisha:9101.T
+Bank Leumi Le-Israel:LUMI.TA
+SG HOLDINGS CO. LTD.:9143.T
+NSK LTD.:6471.T
+Kose Corp.:KSRYY
+Santen Pharmaceutical:SNPHY
+Konami Holdings Corporation:9766.T
+Dai Nippon Printing:7912.T
+Fuji Electric Co. Ltd:6504.T
+Sumco Corp.:3436.T
+GLP J-REIT:3281.T
+THK Co. Ltd.:6481.T
+Tosoh Corporation:TOSCF
+Nabtesco Corp.:6268.T
+Osaka Gas:9532.T
+ORIX JREIT Inc.:8954.T
+CyberArk Software Ltd (USD):CYBR
+JAPAN POST INSURANCE Co.,Ltd.:7181.T
+Nippon Prologis REIT. INC.:3283.T
+Miura:6005.T
+SQUARE ENIX HOLDINGS CO. LTD.:SQNXF
+PERSOL HOLDINGS CO. LTD.:2181.T
+Nomura Real Estate Holdings Inc.:N9U.F
+Empire Company Ltd A:EMP-A.TO
+Tokyu Fudosan Holdings Corp.:TTUUF
+Nagoya Railroad Co. Ltd:9048.T
+Erie Indemnity Co. A:ERIE
+Yamaha Corp.:YAMCY
+Suntory Beverage & Food Ltd.:STBFY
+Toyo Suisan Kaisha:TSUKY
+Crown Resorts Ltd:CWN.AX
+Yokogawa Electric Corp.:6841.T
+Hino Motors:7205.T
+JSR Corp.:JSCPY
+Iida Group Holdings Co Ltd:3291.T
+TIS Inc.:TISI
+OTSUKA Corp.:4768.T
+Kurita Water Industries:6370.T
+Casio Computer Co.:CSIOY
+Hitachi Construction Machine:6305.T
+Hisamitsu Pharmaceutical Co. Inc.:4530.T
+Sumitomo Dainippon Pharma Co. Ltd.:4506.T
+Ryohin Keikaku:7453.T
+Asahi Intecc Co. Ltd.:7747.T
+Kobayashi Pharmaceutical:4967.T
+Rinnai Corp.:RINIF
+Lion Corp.:4912.T
+Ibiden:4062.T
+PeptiDream Inc.:4587.T
+Mercari,Inc.:MCARY
+Sharp Corp:SHCAY
+Mitsubishi Gas Chemical Co. Inc:4182.T
+Bank Hapoalim:POLI.TA
+Kansai Paint:KSANF
+Oracle Corp. Japan:4716.T
+Seibu Holdings Inc.:9024.T
+Nippon Shinyaku:NPPNY
+Kyushu Railway Company:9142.T
+Toho Co.:9602.T
+Kuraray:KURRF
+CALBEE Inc:2229.T
+POLA ORBIS HOLDINGS INC:4927.T
+Azrieli Group:AZRG.TA
+Toho Gas Co. Ltd:THOGF
+Alfresa Holdings Corp.:ARHCF
+Toppan Printing:7911.T
+Japan Airport Terminal:JTTRY
+Fukuoka Financial Group Inc.:FKKFY
+Taiheiyo Cement:THYCY
+Israel Discount Bank Ltd, Shs. A:AZN.L
+Taisho Pharmaceutical Holdings Co Ltd.:4581.T
+START TODAY CO LTD:SAR.SG
+Yamazaki Baking:2212.T
+Coca-Cola Bottlers Japan Inc.:CCOJY
+Hirose Electric:HROEY
+Ito En Ltd.:2593.T
+AEON Mall Co. Ltd.:8905.T
+Hikari Tsushin Inc.:9435.T
+Air Water Inc.:4088.T
+KOBE BUSSAN CO LTD:3038.T
+Tsuruha Holdings Inc.:TSUSF
+Koei Tecmo Holdings Co. Ltd.:3635.T
+Teijin:TINLY
+Kakaku.com Inc.:KKKUF
+WELCIA HOLDINGS CO LTD:3141.T
+Chiba Bank:8331.T
+JAPAN POST BANK Co.,Ltd.:7182.T
+Marui Group Co. Ltd:8252.T
+ITOCHU Techno-Solutions Corp.:4739.T
+Shinsei Bank:SKLKY
+Suzuken:ZU1.F
+Stanley Electric:STAEF
+Fox Corp A:FOX
+Sundrug Co. Ltd.:9989.T
+The Blackstone Group Inc A:BX
+Newmont Mining Corp. (CAD):0R28.IL
+KKR & Co Inc A:KKR
+Equitable Holdings Inc.:EQH
+AVIC Electromechanical Systems:002013.SZ
+Mobile Telesystems (ADR):MBT
+AECC Aero-Engine Control Co. Lt:000738.SZ
+Phosagro GDR (GB):PHOR.IL
+Apollo Global Management Inc A:APO
+Hakuhodo DY Holdings Inc.:2433.T
+Tradeweb Markets Inc. (A):TW
+SBI Holdings Inc.:8473.T
+Shenzhen Overseas Chinese Town Co Ltd A:000069.SZ
+The Carlyle Group Inc:CG
+Growthpoint Properties Ltd:GOZ.AX
+Postal Savings Bank of China Co., Ltd. Class A:1658.HK
+Songcheng Performance Development Co., Ltd. Class:300144.SZ
+Mondi PLC (ZA):MNVN
+Shanghai Jinjiang Internationa:900929.SS
+Zhejiang Semir Garment Co Ltd A:002563.SZ
+Xiamen Tungsten Co. Ltd.:600549.SS
+Inspur Electronic Information:000977.SZ
+Fujian Sunner Development Co. L:002299.SZ
+COSMOS Pharmaceutical Corp:3349.T
+Betta Pharmaceuticals Co. Ltd.:300558.SZ
+Zhengzhou Yutong Bus Co Ltd A:600066.SS
+Heilongjiang Agriculture Co. Lt:600598.SS
+Yintai Gold Co. Ltd.:000975.SZ
+Shenzhen Investment Ltd.:0737.HK
+Zhejiang Huahai Pharmaceutical:600521.SS
+China Fortune Land Co., Ltd. Class A:600340.SS
+Shenzhen Kaifa Technology Co., Ltd Class A:000021.SZ
+Nektar Therapeutics Inc.:NKTR
+Charles River Laboratories International Inc.:CRL
+United Therapeutics Corp.:UTHR
+Exelixis Inc.:EXEL
+QIAGEN NV (USD):QGEN
+Ultragenyx Pharmaceutical Inc.:RARE
+Acadia Pharmaceuticals Inc.:ACAD
+Takashimaya:8233.T
+Tokyo Tatemono Co. Ltd.:TYTMF
+TS TECH CO LTD:7313.T
+Sankyo:DSNKY
+Mitsubishi Motors Corp:7211.T
+Belc CO LTD:9974.T
+Hamakyorex Co., Ltd.:9037.T
+DeNa Co. Ltd:2432.T
+Mitsubishi Logistics Corp.:MIB.F
+Kissei Pharmaceutical Co.:KSPHF
+77 Bank:8341.T
+NOK Corp.:NOK
+Nichias Corp.:5393.T
+Lintec Corp.:7966.T
+Sumitomo Heavy Industries:6302.T
+Yamato Kogyo Co Ltd:5444.T
+Asahi Co. Ltd.:3333.T
+ENIGMO, Inc.:3665.T
+Ube Industries:UBEOY
+INES Corp.:IE7.F
+Nippon Suisan Kaisha:1332.T
+Nichirei Corp.:2871.T
+Fukuda Denshi:6960.T
+Nihon Unisys Ltd.:8056.T
+Shinnihon Corp:1879.T
+Toei Co. Ltd:9605.T
+Sohgo Security Services Co. Ltd.:2331.T
+Aica Kogyo:4206.T
+Pacific Industrial Co Ltd.:7250.T
+NIPPO CORPORATION:1881.T
+Seiren Co Ltd.:3578.T
+Japan Wool Textile Co Ltd:3201.T
+ADEKA Corp.:4401.T
+Future Corp.:FF
+Ateam Inc:88A.F
+DaikyoNishikawa Corp:4246.T
+USS Co. Ltd:4732.T
+Shizuoka Bank:8355.T
+Lawson Inc.:LAWS
+Bank of Kyoto:8369.T
+NGK Spark Plug:NGKSY
+McDonald's Holdings Co (Japan) Ltd.:2702.T
+Shimamura:8227.T
+ABC-MART INC.:2670.T
+ACOM:ACOMO.AS
+Toyoda Gosei:7282.T
+DC Holdings (HKD):0861.HK
+Chow Tai Fook Jewellery Group Ltd:1929.HK
+Tiangong International Co Ltd:0826.HK
+HUAZHU GROUP LTD (HK):HTHT
+Cheerwin Group Ltd.:6601.HK
+MINISO Group Holding Limited:MNSO
+Lvji Technology Holdings Inc.:1745.HK
+China Resources Mixc Lifestyle Services Ltd.:1209.HK
+Dell Technologies Inc C:DELL
+Mesaieed Petrochemical Holding Company Q.S.C.:MPHC.QA
+HUYA INC-ADR:HUYA
+DOUYU INTERNATIONAL HOLD-ADR:DOYU
+Itau Unibanco Holding SA Pref.:ITUB
+Zai Lab Ltd HK:ZLAB
+Azul Pref.:AZUL
+Gruma S.A.-B:GRUMAB.MX
+Eicher Motors Ltd new:EICHERMOT.NS
+Britannia Industries Ltd New:BRITANNIA.NS
+United Spirits Ltd. New:MCDOWELL-N.NS
+Dongfeng Motor Group Company Ltd-H:0489.HK
+Sinopharm Group Co. Ltd. Serie H:1099.HK
+China Meidong Auto Holdings Lt:1268.HK
+Koolearn Technology Holding Lt:1797.HK
+NeuroSearch New:NRSA.SG
+SP Group New:SGRP
+Torm Plc A DKK:TRMD
+Baozun Inc HK:BZUN
+America Movil SAB de C.V. Serie L:AMX
+Qatar Fuel Q.S.C (WOQOD):QFLS.QA
+Kimberly-Clark de Mexico SAB de CV Serie A:KIMBERA.MX
+Lojas Americanas SA-Pref.:LAME4.SA
+Bradespar Pref.:BRAP4.SA
+Bancolombia SA Pref:CIB
+Coca Cola Femsa S.A. Serie L new:KOF
+Companhia Paranaense de Energia Copel Pref B:ELP
+LafargeHolcim Ltd Reg.:HCMLY
+Tesco Plc Ord (GB) new:TSCO.L
+Akzo Nobel NV New:AKZA.AS
+Kinnevik AB B new:KINV-B.ST
+Land Securities Group PLC R.E.I.T:LAND.L
+Standard Life Aberdeen PLC New:SLA.L
+AAK AB New:AAK.ST
+Burford Capital Limited new:BUR
+Addtech AB B New:ADDT-B.ST
+IMCD Group BV:0QVU.IL
+Meltwater Holding BV:MWTR.OL
+Solutions 30 SE New:S30.PA
+XANO Industri AB B New:XANO-B.ST
+Evolution Gaming Group AB New:EVVTY
+Pure Storage Inc -A:PSTG
+Teletech Holdings Inc New:TTEC
+Auckland International Airport ltd:AIA.NZ
+Constellation Brands Inc-A:STZ
+Lumen Technologies Inc new:LUMN
+Canadian Apartment Properties REIT:CAR-UN.TO
+Sri Trang Gloves Thailand PCL (foreign) NEW:STGT.BK
+CanSino Biologics Inc. H- Unitary 144A/Reg S:6185.HK
+China Feihe Ltd Unitary Reg S/144A:6186.HK
+Weibo Corp ADR Shs A:WB
+Novolipetsk Steel CLS (NLMK) (USD):NLMK.ME
+Qatar National Bank S.A.Q.:QNBK.QA
+Fomento Economico Mexicano S.A. Ubd (Femsa):FEMSAUBD.MX
+PTT Pcl (Foreign) NEW:NVA3.MU
+Banco BTG Pactual S.A. Units Cons of 1 Sh + 2 Pfd:BPAC11.SA
+Energisa SA Units Cons of 1 Sh + 4 Pfd Shs:ENGI11.SA
+China Intl Capital H shares:CNICF
+Grupo Aeroportuario Del-B SH:GAPB.MX
+Alpargatas SA Pfd:ALPA4.SA
+Telesites SAB de C.V. B1:SITESB-1.MX
+Groupe Eurotunnel SE - REGR:0P72.IL
+Unibail-Rodamco Se  :URW.AS
+FinecoBank S.P.A:FBK.MI
+Schindler Holding AG PC:SCHN.SW
+LIGHTSPEED POS INC S (US):LSPD.TO
+Crown Castle REIT Inc:CCI
+Iron Mountain REIT Inc:IRM
+Promotora y Operadora de Infraestructura CV:PINFRA.MX
+Grifols SA Shs B ADR:GRFS
+JM AB:JMIA
+Public Bank Berhad (Local):PBLOF
+Interconexion Electrica S.A.:IESFY

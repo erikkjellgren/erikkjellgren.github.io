@@ -1,0 +1,113 @@
+DSV;0.0925
+Ørsted A/S;0.0864
+Novo Nordisk B;0.0827
+A.P. Møller - Mærsk B;0.0507
+Vestas Wind Systems;0.047400000000000005
+A.P. Møller - Mærsk A;0.0431
+Coloplast B;0.042800000000000005
+Genmab;0.0425
+Danske Bank;0.0364
+Tryg A/S;0.035
+Novozymes B;0.0334
+Chr. Hansen Holding;0.0271
+GN Store Nord;0.0253
+Pandora;0.0242
+Ambu B;0.023700000000000002
+William Demant Holding A/S;0.023
+Carlsberg B;0.0218
+Carlsberg A;0.0217
+Københavns Lufthavne;0.0169
+H. Lundbeck;0.0155
+Royal Unibrew;0.011699999999999999
+SimCorp;0.0113
+Netcompany Group A/S;0.010700000000000001
+Rockwool International B;0.0103
+Topdanmark;0.009399999999999999
+Rockwool International A;0.009300000000000001
+ALK-Abello B;0.0088
+Jyske Bank;0.0078000000000000005
+Nordea Bank AB (DK);0.0077
+ISS;0.0077
+DFDS A/S;0.0069
+Ossur hf (DKK);0.0066
+Bavarian Nordic;0.0066
+Ringkjøbing Landbobank A/S;0.006500000000000001
+Schouw & Co.;0.0062
+Jeudan A/S;0.005
+FLSmidth & Co.;0.0044
+NKT A/S;0.0042
+Alm. Brand;0.0042
+ChemoMetec;0.0038
+Sydbank;0.0037
+The Drilling Company of 1972;0.0036
+Zealand Pharma A/S;0.0031
+Spar Nord Bank;0.0029
+U.I.E. (stk A 10 USD);0.0023
+D/S Norden;0.0022
+NeuroSearch New;0.0021
+Per Aarsleff Holding A/S;0.0019
+Nilfisk Holding A/S;0.0018
+SAS AB (DK);0.0016
+cBrain;0.0015
+Tivoli A/S;0.0015
+Vestjysk Bank A/S;0.0015
+SP Group New;0.0015
+Brdr. Hartmann;0.0014000000000000002
+Bang & Olufsen;0.0013
+Matas A/S;0.0011
+Solar A/S B;0.0011
+H+H International;0.0011
+NNIT A/S;0.001
+Huscompagniet A/S;0.001
+Sparekassen Sjælland-Fyn A/S;0.0008
+North Media;0.0008
+Danske Andelskassers Bank;0.0008
+Lån & Spar Bank;0.0007000000000000001
+Jutlander Bank A/S;0.0007000000000000001
+Columbus A/S;0.0007000000000000001
+Orphazyme A/S;0.0007000000000000001
+Torm Plc A DKK;0.0007000000000000001
+Flügger B;0.0007000000000000001
+TCM Group A/S;0.0006
+RTX;0.0006
+Boozt AB (DK);0.0006
+Gyldendal A;0.0006
+BankNordik;0.0005
+Gabriel Holding;0.0005
+Højgaard Holding B;0.0005
+BioPorto;0.0005
+FirstFarms;0.0004
+Fynske Bank;0.0004
+GrønlandsBANKEN;0.0004
+Djurslands Bank;0.0004
+Skjern Bank;0.0004
+Prime Office;0.0004
+Kreditbanken;0.0003
+German High Street Properties B;0.0003
+Lollands Bank;0.0003
+Strategic Investments A/S;0.0003
+Sanistål;0.0003
+PARKEN Sport & Entertainment;0.0003
+Gyldendal B;0.0002
+Møns Bank;0.0002
+G4S PLC;0.0002
+Harboes Bryggeri B;0.0002
+Roblon B;0.0002
+TK Development;0.0002
+Fast Ejendom Danmark A/S;0.0001
+SKAKO;0.0001
+DLH;0.0001
+Totalbanken;0.0001
+Brdr. Klee B;0.0001
+Cemat A/S;0.0001
+RIAS B;0.0001
+NTR Holding A/S B;0.0001
+Nordfyns Bank A/S;0.0001
+EuroInvestor.com;0.0001
+Hvidbjerg Bank;0.0001
+EAC Invest A/S;0.0001
+Migatronic B;0.0001
+Dantax;0.0001
+Nordic Shipholding;0.0001
+Glunz & Jensen Holding;0.0
+Likvider m.v.;0.0015

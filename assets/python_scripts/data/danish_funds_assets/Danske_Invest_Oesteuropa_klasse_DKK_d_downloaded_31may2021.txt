@@ -1,0 +1,48 @@
+Sberbank (USD);0.0974
+Gazprom ADR (GB);0.0971
+LUKOIL Oil Company PJSC (USD);0.08789999999999999
+Tatneft (USD);0.049
+MMC Norilsk Nickel PJSC ADR (GB);0.0431
+Mobile Telesystems PJSC (USD);0.036699999999999997
+NovaTek GDR (GB);0.0365
+Yandex NV A (USD);0.0335
+Surgutneftegaz Pref. (USD);0.0316
+PKO Bank Polski S.A.;0.0302
+Rosneft Oil Company (USD);0.0301
+OTP Bank;0.028999999999999998
+Magnit PJSC (USD);0.028399999999999998
+Polymetal International Plc;0.0242
+Magnitogorsk Iron & Steel Works CLS (USD);0.02
+Powszechny Zaklad Ubezpieczen SA;0.019
+Mail.Ru Group Ltd. (USD);0.0187
+KGHM Polska Miedz S.A.;0.0183
+Bank Zachodni WBK S.A.;0.0143
+Grupa Kety S.A.;0.014199999999999999
+Halyk Savings Bank-GDR REG S;0.013300000000000001
+Eregli Demir ve Celik Fabrik;0.013300000000000001
+Wirtualna Polska Holding S.A.;0.013000000000000001
+Haci Omer Sabanci Holding AS;0.0127
+BIM Birlesik Magazalar AS;0.011699999999999999
+CEZ a.s.;0.0113
+Greek Organisation of Football Prognostics;0.0109
+Koc Holding AS;0.0109
+X5 Retail GDR (GB);0.0105
+Tatneft Pref. (USD);0.0103
+Mytilineos Holdings SA;0.0098
+Moscow Exchange MICEX-RTS OJSC (B9GFHQ6) (USD);0.0098
+Eurobank Ergasias SA (GR);0.0096
+Asseco Poland S.A.;0.0095
+NATIONAL BANK OF GREECE;0.0091
+Polski Koncern Naftowy S.A.;0.0089
+Jumbo SA;0.0086
+MOL Hungarian Oil and Gas Plc A;0.0075
+Turkiye Garanti Bankasi A.S.;0.0070999999999999995
+Turk Telekommunikasyon AS;0.0067
+CD Projekt Red SA;0.0063
+Fondul Proprietatea S.A.;0.0063
+BRD-Groupe Societe Generale;0.0060999999999999995
+Nova Ljubljanska Banka dd;0.0051
+Allegro.eu S.A.;0.004699999999999999
+Ulker Biskuvi Sanayi A.S.;0.0031
+getBACK S.A;0.0001
+Likvider m.v.;0.0045000000000000005

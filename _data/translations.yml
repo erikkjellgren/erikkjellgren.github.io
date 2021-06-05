@@ -1,0 +1,6 @@
+givemeaCoffee:
+  en: <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
+  dk: <i>Hvis du nød dette indlæg, kan du donere en </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">kop kaffe <i class="fa fa-coffee text-danger"></i></a><i>, hvis du har lyst :)</i>
+differentLanguage:
+  en: "Read this page in a different language"
+  dk: "Læs dette på et andet sprog"

@@ -1,0 +1,183 @@
+AIA Group Ltd;0.0408
+Royal Bank of Canada;0.0365
+Shopify Inc A;0.0336
+Toronto-Dominion Bank (CA);0.0335
+Commonwealth Bank of Australia;0.0316
+BHP Billiton Ltd;0.029300000000000003
+CSL Ltd.;0.0252
+Canadian National Railway Co. (CA);0.0246
+Bank of Nova Scotia;0.022000000000000002
+Hong Kong Exchanges & Clearing Ltd.;0.019799999999999998
+Westpac Banking Corp;0.0181
+National Australia Bank Ltd;0.0177
+Bank of Montreal (CAD);0.0171
+ANZ Australia & New Zealand Banking Group;0.0165
+Canadian Pacific Railway;0.015700000000000002
+Manulife Financial Corp.;0.013500000000000002
+Canadian Imperial Bank of Commerce;0.0126
+Pembina Pipeline Corporation;0.0123
+Woodside Petroleum;0.012
+Macquarie Group Ltd.;0.0118
+DBS Group Holding;0.0115
+Wesfarmers Ltd;0.011399999999999999
+Sun Life Financial Inc. (CA);0.0101
+Rio Tinto Ltd;0.0098
+Nutrien Ltd ;0.0096
+Transurban Group;0.009000000000000001
+Alimentation Couche-Tard Inc.;0.0083
+CK Hutchison Holdings Ltd;0.0083
+Franco-Nevada Corp.;0.008100000000000001
+Constellation Software Inc;0.008100000000000001
+Oversea-Chinese Banking Corp. Ltd;0.0079
+Magna International Inc;0.0076
+Fortescue Metals Group Ltd.;0.0075
+Restaurant Brands International Inc;0.006999999999999999
+Keyera Corp;0.0068000000000000005
+Techtronic Industries Co. Ltd.;0.0068000000000000005
+Fortis Inc.;0.0067
+Ampol Ltd;0.0066
+CGI Inc A;0.0063
+National Bank of Canada;0.0060999999999999995
+United Overseas Bank;0.0060999999999999995
+Sun Hung Kai Props;0.006
+Wheaton Precious Metals Corp (CAD);0.0059
+Rogers Communications Inc. B;0.0058
+Inter Pipeline Ltd;0.0058
+Singapore Telecommunications Ltd;0.005699999999999999
+Goodman Group;0.005699999999999999
+Parkland Corporation;0.0054
+CK Asset Holdings Limited;0.0054
+Hong Kong & China Gas;0.0053
+Intact Financial Corp.;0.0052
+Power Corporation of Canada;0.005
+Shaw Communications Inc. B;0.005
+Agnico Eagle Mines (CAD);0.0049
+Newcrest Mining;0.0049
+Link REIT;0.0048
+Afterpay Touch Group Ltd.;0.004699999999999999
+Coles Group Ltd;0.004699999999999999
+Oil Search Ltd. (AUD);0.0046
+Thomson Reuters Corp. (CA);0.0045000000000000005
+Jardine Matheson Holdings Ltd;0.0044
+Open Text Corp. (CA);0.0043
+Fairfax Financial Holdings;0.0040999999999999995
+BCE Inc (CAD);0.0040999999999999995
+Metro Inc;0.004
+Loblaw Companies;0.0039000000000000003
+Cameco Corp. (CA);0.0039000000000000003
+Hang Seng Bank;0.0039000000000000003
+BOC Hong Kong Holdings;0.0038
+WSP Global Inc;0.0038
+QBE Insurance Group;0.0037
+New World Development Co Ltd;0.0037
+Keppel Corporation Ltd (SG);0.0036
+MTR Corp. Ltd.;0.0036
+Dollarama Inc;0.0036
+James Hardie Industries se;0.0034999999999999996
+Telus Corp.;0.0034999999999999996
+Scentre Group;0.0034999999999999996
+First Quantum Minerals Ltd.;0.0034999999999999996
+Bausch Health Companies Inc. (CAD);0.0034999999999999996
+Xero Ltd (AUD);0.0034999999999999996
+Fisher & Paykel Healthcare Corp.;0.0034999999999999996
+Kirkland Lake Gold Ltd;0.0034000000000000002
+APA Group;0.0033
+Wharf Real Estate Investment Company Limited;0.0033
+Suncorp Group Ltd;0.0032
+Kinross Gold Corp (CAD);0.0032
+Sonic Healthcare;0.0032
+CapitaLand;0.0031
+Telstra;0.0031
+Cochlear;0.0031
+Telus Corp;0.003
+Algonquin Power & Utilities Co.;0.003
+Weston (george);0.003
+AltaGas Ltd.;0.0029
+Sydney Airport;0.0029
+Brambles Ltd;0.0029
+Northland Power Inc;0.0029
+WH Group Ltd;0.0029
+Great-West Lifeco Inc.;0.0028000000000000004
+Jardine Strategic Holdings (USD);0.0028000000000000004
+Henderson Land Development;0.0028000000000000004
+Lundin Mining Corp.;0.0028000000000000004
+Aurizon Holdings Ltd;0.0027
+Swire Pacific A;0.0027
+Saputo Inc.;0.0027
+iA Financial Corporation Inc;0.0027
+Ramsay Health Care Ltd.;0.0027
+Hydro One Ltd;0.0026
+Auckland International Airport ltd;0.0026
+Insurance Australia Group;0.0026
+Northern Star Resources Ltd;0.0026
+BlueScope Steel Ltd.;0.0026
+Onex Corp.;0.0025
+Canadian Tire Corp. A;0.0024
+ASX Ltd.;0.0024
+Pan American Silver Corp. (CA);0.0024
+Ritchie Bros. Auctioneers Inc. (CAD);0.0024
+Riocan Real Estate Investment Trust;0.0022
+City Developments;0.0022
+CapitaLand Mall Trust;0.0022
+Stockland Trust Group;0.0022
+Yamana Gold Inc.;0.0022
+GFL Environmental Inc;0.0022
+Mirvac Group;0.0021
+B2Gold Corporation;0.0021
+Gildan Activewear Inc.;0.0021
+Hang Lung Properties;0.002
+Evolution Mining Ltd;0.002
+GPT Group;0.002
+IGM Financial Inc. (CAD);0.002
+West Fraser Timber Co.Ltd;0.0019
+Quebecor Inc. Class B;0.0019
+Seek Ltd;0.0019
+Dexus;0.0019
+Ballard Power Systems Inc (CAD);0.0019
+Hong Kong Land Holdings;0.0019
+TMX Group Ltd.;0.0019
+SSR Mining Inc (CA);0.0018
+Orica;0.0018
+Toromont Industries Ltd.;0.0018
+Meridian Energy Ltd;0.0018
+Ascendas Real Estate Investment Trust (A-REIT);0.0018
+Computershare;0.0018
+Vicinity Centres;0.0018
+Magellan Financial Group Ltd;0.0018
+Air Canada;0.0017000000000000001
+Singapore Airlines Ltd;0.0016
+Brookfield Renewable Corporation;0.0016
+Swire Properties Ltd;0.0016
+Canadian Utilities Limited A;0.0016
+Singapore Exchange;0.0016
+Sino Land Co. Ltd;0.0016
+FirstService Corp;0.0015
+Xinyi Glass Holdings Ltd.;0.0015
+BlackBerry Ltd (CAD);0.0015
+a2 Milk Co Ltd;0.0015
+REA Group Ltd;0.0014000000000000002
+UOL Group Ltd.;0.0014000000000000002
+Atco Ltd - (Class 1 Non-Voting);0.0014000000000000002
+ASM Pacific Technology;0.0014000000000000002
+AMP;0.0014000000000000002
+ESR Cayman Ltd.;0.0014000000000000002
+Qantas Airways;0.0013
+Venture;0.0012
+Medibank Private Ltd;0.0012
+Ryman Healthcare Ltd;0.0011
+Spark New Zealand Ltd;0.001
+Mercury NZ Ltd;0.001
+CK Infrastructure Holdings Ltd;0.001
+WiseTech Global Ltd;0.001
+Bank of East Asia;0.001
+HKT Trust and HKT Ltd Stapled Security (HK);0.0009
+CIMIC Group Ltd;0.0009
+Canadian Apartment Properties Real Estate Inve;0.0008
+PCCW Ltd;0.0008
+TPG Telecom Ltd;0.0006
+Mapletree Logistics Trust;0.0006
+CCL Industries Inc - Class B (CA);0.0006
+Suntec Real Estate Investment Trust;0.0006
+Mapletree Commercial Trust;0.0004
+AusNet Services;0.0003
+Likvider m.v.;0.005

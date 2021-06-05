@@ -1,0 +1,66 @@
+Tencent Holdings Ltd.;0.0758
+Alibaba Group Holding Ltd;0.0466
+Meituan Dianping;0.0434
+Alibaba Group Holding Ltd ADR;0.039
+China Merchants Bank - H;0.0355
+JD.com Inc ADR;0.0308
+Baidu Inc (ADR);0.029500000000000002
+China Construction Bank Corporation H;0.029300000000000003
+China Everbright International Ltd;0.0286
+NetEase Inc;0.0285
+DC Holdings (HKD);0.024
+Ping An Insurance (Group) Comp. of China;0.023399999999999997
+Zhongsheng Group Holdings Ltd.;0.022400000000000003
+Sun King Power Electronics Group Ltd;0.0212
+Yum China Holdings Inc;0.021
+China Mengniu Dairy Company Ltd;0.0208
+Hong Kong Exchanges & Clearing Ltd.;0.020499999999999997
+WuXi Biologics new;0.0194
+China Resources Land Ltd.;0.018500000000000003
+Gree Electrical Appliances Inc of Zhuhai;0.0183
+China Pacific Insurance (Group) Co Ltd;0.0177
+Vinda International Holdings Ltd;0.0168
+Midea Group Co Ltd A;0.016399999999999998
+Wuliangye Yibin Co Ltd A;0.0138
+Topsports International Holdings Limited;0.0134
+Tingyi (Cayman Islands) Holding Corp.;0.0126
+Hangzhou Tigermed Consulting Co Ltd A;0.011899999999999999
+Chow Tai Fook Jewellery Group Ltd;0.011899999999999999
+Tiangong International Co Ltd;0.0118
+Yum China Holdings Inc;0.0108
+Wuxi Lead Intelligent Equipment Co. Ltd. Class A;0.0108
+Shanghai Jinjiang Internationa;0.0104
+Country Garden Services Holdings Company Ltd;0.0103
+China Petroleum & Chemical H Sinopec;0.009899999999999999
+Aier Eye Hospital Group Co., Ltd. Class A;0.0098
+China Resources Cement Holdings Ltd;0.0098
+China Oilfield Services;0.0097
+NIO Inc. ADR A;0.009000000000000001
+CIFI Holdings (Group) Co. Ltd. (HKD);0.0089
+Innovent Biologics Inc. (HK);0.0086
+Zhuzhou CRRC Times Electric Co Ltd;0.0083
+China International Travel Service Corp Ltd;0.0079
+COSCO SHIPPING Holdings Co Ltd H;0.0079
+Galaxy Entertainment Group Ltd.;0.0075
+Chongqing Changan Automobile Co Ltd A;0.0074
+HUAZHU GROUP LTD (HK);0.0073
+Pinduoduo Inc;0.0070999999999999995
+CITIC Securities Co Ltd;0.0068000000000000005
+Cheerwin Group Ltd.;0.0067
+Hua Hong Semiconductor Ltd;0.006500000000000001
+MINISO Group Holding Limited;0.0063
+Shimao Property Holdings Ltd;0.0062
+Shenzhen Mindray Bio-Medical Electronics Co., Ltd.;0.005600000000000001
+Daqo New Energy Corp. (ADR);0.0052
+Aluminum Corporation of China Ltd.;0.0051
+Sunny Optical Technology (Group) Co Ltd;0.005
+Ctrip.com International Ltd ADR;0.005
+Hundsun Technologies Inc. Class A;0.0048
+Angang New Steel Serie H;0.004699999999999999
+TAL Education Group - ADR;0.0045000000000000005
+Lvji Technology Holdings Inc.;0.0043
+MicroPort Scientific Corp;0.0034999999999999996
+Bilibili Inc ADR Z;0.0027
+China Resources Mixc Lifestyle Services Ltd.;0.0026
+BILIBILI INC-CLASS Z (HK);0.002
+Likvider m.v.;0.028399999999999998

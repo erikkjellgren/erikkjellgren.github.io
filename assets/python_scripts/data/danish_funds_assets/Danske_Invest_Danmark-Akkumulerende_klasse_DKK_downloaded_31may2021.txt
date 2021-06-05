@@ -1,0 +1,36 @@
+Novo Nordisk B;0.09029999999999999
+DSV;0.0768
+Ørsted A/S;0.0723
+A.P. Møller - Mærsk B;0.0709
+Carlsberg B;0.0538
+Vestas Wind Systems;0.053200000000000004
+Tryg A/S;0.0482
+Coloplast B;0.0447
+GN Store Nord;0.0443
+Danske Bank;0.0436
+William Demant Holding A/S;0.04019999999999999
+Genmab;0.0349
+Netcompany Group A/S;0.0287
+Chr. Hansen Holding;0.0262
+Pandora;0.0254
+Royal Unibrew;0.0225
+Novozymes B;0.0189
+Rockwool International B;0.0182
+DFDS A/S;0.017
+Topdanmark;0.017
+Nordea Bank AB (DK);0.0167
+ISS;0.0151
+SimCorp;0.013999999999999999
+Ambu B;0.0131
+Per Aarsleff Holding A/S;0.0129
+FLSmidth & Co.;0.0124
+Bavarian Nordic;0.011899999999999999
+H. Lundbeck;0.010700000000000001
+Ossur hf (DKK);0.0091
+A.P. Møller - Mærsk A;0.0075
+NeuroSearch New;0.0067
+Zealand Pharma A/S;0.005699999999999999
+Huscompagniet A/S;0.0052
+Matas A/S;0.0052
+Orphazyme A/S;0.0043
+Likvider m.v.;0.0023

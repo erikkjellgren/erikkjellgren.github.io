@@ -1,0 +1,207 @@
+ASML Holding NV;0.0689
+AstraZeneca PLC;0.0521
+Novo Nordisk A/S;0.0473
+Schneider Electric SE;0.034300000000000004
+SAP SE;0.0264
+L'Oreal SA;0.026099999999999998
+ABB Ltd;0.0222
+Sika AG;0.0169
+adidas AG;0.016200000000000003
+Industria de Diseno Textil SA;0.0143
+Cie Financiere Richemont SA;0.013000000000000001
+Zurich Insurance Group AG;0.0129
+Ferguson PLC;0.012
+EssilorLuxottica SA;0.0118
+Atlas Copco AB;0.011200000000000002
+Vestas Wind Systems A/S;0.0106
+Legrand SA;0.009899999999999999
+ING Groep NV;0.009399999999999999
+Alcon Inc;0.009399999999999999
+Akzo Nobel NV;0.009300000000000001
+Volvo AB;0.0092
+Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen;0.0088
+AXA SA;0.0088
+RELX PLC;0.0085
+Koninklijke Ahold Delhaize NV;0.008199999999999999
+Investor AB;0.008
+Swiss Re AG;0.0075
+Lloyds Banking Group PLC;0.0073
+Assa Abloy AB;0.0073
+Compass Group PLC;0.0070999999999999995
+Banco Bilbao Vizcaya Argentaria SA;0.0070999999999999995
+H & M Hennes & Mauritz AB;0.006999999999999999
+Ferrari NV;0.0069
+Delivery Hero SE;0.0069
+Nordea Bank Abp;0.0069
+Deutsche Boerse AG;0.0068000000000000005
+Zalando SE;0.0063
+Smith & Nephew PLC;0.0063
+Merck KGaA;0.0063
+Segro PLC;0.0058
+Air Liquide SA;0.005600000000000001
+Next PLC;0.0054
+Geberit AG;0.0054
+London Stock Exchange Group PLC;0.0054
+Henkel AG & Co KGaA;0.0053
+Atlas Copco AB;0.0052
+Dassault Systemes SE;0.0051
+Eurofins Scientific SE;0.005
+Wolters Kluwer NV;0.005
+Sartorius AG;0.005
+Brenntag SE;0.0049
+Novozymes A/S;0.0048
+QIAGEN NV;0.0048
+Assicurazioni Generali SpA;0.004699999999999999
+Telefonica SA;0.004699999999999999
+Partners Group Holding AG;0.0046
+Legal & General Group PLC;0.0046
+CNH Industrial NV;0.0046
+UCB SA;0.0046
+Aviva PLC;0.0045000000000000005
+Genmab A/S;0.0044
+Teleperformance;0.0043
+Unibail-Rodamco-Westfield;0.0043
+KBC Group NV;0.0042
+BT Group PLC;0.0040999999999999995
+Terna Rete Elettrica Nazionale SpA;0.0040999999999999995
+Swiss Life Holding AG;0.004
+Deutsche Wohnen SE;0.0039000000000000003
+Skandinaviska Enskilda Banken AB;0.0039000000000000003
+Ferrovial SA;0.0038
+Nibe Industrier AB;0.0038
+Straumann Holding AG;0.0038
+Kingspan Group PLC;0.0038
+Cellnex Telecom SA;0.0037
+Kuehne + Nagel International AG;0.0037
+Rentokil Initial PLC;0.0037
+DNB ASA;0.0037
+Svenska Handelsbanken AB;0.0036
+Alstom SA;0.0036
+Berkeley Group Holdings PLC;0.0034999999999999996
+WPP PLC;0.0034999999999999996
+Spirax-Sarco Engineering PLC;0.0033
+Sonova Holding AG;0.0033
+Sartorius Stedim Biotech;0.0033
+Givaudan SA;0.0033
+Carrefour SA;0.0032
+Pandora A/S;0.0032
+Land Securities Group PLC;0.0032
+SKF AB;0.0032
+Groupe Bruxelles Lambert SA;0.0032
+SGS SA;0.0031
+Barratt Developments PLC;0.0031
+Danone SA;0.0031
+Burberry Group PLC;0.0031
+Svenska Cellulosa AB SCA;0.0031
+3i Group PLC;0.0031
+Umicore SA;0.0031
+Lonza Group AG;0.0031
+Getlink SE;0.003
+Julius Baer Group Ltd;0.003
+British Land Co PLC/The;0.003
+Publicis Groupe SA;0.0029
+Red Electrica Corp SA;0.0029
+Kesko Oyj;0.0029
+Vifor Pharma AG;0.0028000000000000004
+Alfa Laval AB;0.0028000000000000004
+United Utilities Group PLC;0.0027
+Bouygues SA;0.0027
+Intertek Group PLC;0.0027
+Croda International PLC;0.0027
+Kinnevik AB;0.0026
+InterContinental Hotels Group PLC;0.0026
+Severn Trent PLC;0.0025
+Informa PLC;0.0025
+Argenx SE;0.0025
+Tryg A/S;0.0025
+GN Store Nord AS;0.0024
+Telenor ASA;0.0024
+Swisscom AG;0.0024
+Johnson Matthey PLC;0.0024
+CRH PLC;0.0024
+NN Group NV;0.0024
+Telia Co AB;0.0023
+Sandvik AB;0.0023
+Beiersdorf AG;0.0023
+Ambu A/S;0.0023
+JD Sports Fashion PLC;0.0022
+CaixaBank SA;0.0022
+Eiffage SA;0.0022
+Valeo SA;0.0022
+Erste Group Bank AG;0.0022
+Amplifon SpA;0.0021
+Adecco Group AG;0.0021
+Sage Group PLC/The;0.002
+Covivio;0.002
+RSA Insurance Group PLC;0.002
+Cie Generale des Etablissements Michelin SCA;0.002
+FinecoBank Banca Fineco SpA;0.002
+Chr Hansen Holding A/S;0.0019
+Kingfisher PLC;0.0019
+J Sainsbury PLC;0.0019
+Gecina SA;0.0019
+Pearson PLC;0.0019
+Orion Oyj;0.0019
+ICA Gruppen AB;0.0018
+Aegon NV;0.0018
+DiaSorin SpA;0.0018
+Auto Trader Group PLC;0.0018
+Baloise Holding AG;0.0017000000000000001
+Randstad NV;0.0017000000000000001
+Carl Zeiss Meditec AG;0.0017000000000000001
+Telecom Italia SpA/Milano;0.0017000000000000001
+Poste Italiane SpA;0.0016
+Grifols SA;0.0016
+Hikma Pharmaceuticals PLC;0.0016
+Atos SE;0.0016
+Tele2 AB;0.0016
+Elisa Oyj;0.0016
+St James's Place PLC;0.0016
+Demant A/S;0.0016
+BioMerieux;0.0015
+Ipsen SA;0.0015
+Ubisoft Entertainment SA;0.0015
+Schroders PLC;0.0014000000000000002
+Direct Line Insurance Group PLC;0.0014000000000000002
+Kerry Group PLC;0.0014000000000000002
+Elia Group SA/NV;0.0014000000000000002
+Klepierre SA;0.0013
+Orpea SA;0.0013
+Commerzbank AG;0.0013
+H Lundbeck A/S;0.0013
+Symrise AG;0.0013
+Recordati Industria Chimica e Farmaceutica SpA;0.0012
+Koninklijke DSM NV;0.0012
+Mondi PLC;0.0012
+Wartsila OYJ Abp;0.0012
+Electrolux AB;0.0011
+ABN AMRO Bank NV;0.0011
+Amundi SA;0.0011
+Associated British Foods PLC;0.0011
+Boliden AB;0.0011
+Covestro AG;0.0011
+Gjensidige Forsikring ASA;0.001
+Continental AG;0.001
+L E Lundbergforetagen AB;0.001
+Taylor Wimpey PLC;0.001
+Investment AB Latour;0.001
+Mowi ASA;0.001
+Coca-Cola European Partners PLC;0.001
+Solvay SA;0.0009
+Stora Enso Oyj;0.0009
+Smurfit Kappa Group PLC;0.0009
+Henkel AG & Co KGaA;0.0008
+Proximus SADP;0.0007000000000000001
+Orkla ASA;0.0007000000000000001
+Telefonica Deutschland Holding AG;0.0007000000000000001
+SES SA;0.0007000000000000001
+Galapagos NV;0.0007000000000000001
+SEB SA;0.0007000000000000001
+Essity AB;0.0006
+Coca-Cola HBC AG;0.0006
+Natixis SA;0.0005
+Schibsted ASA;0.0005
+CNP Assurances;0.0004
+Husqvarna AB;0.0004
+HeidelbergCement AG;0.0003
+Tryg A/S;0.0

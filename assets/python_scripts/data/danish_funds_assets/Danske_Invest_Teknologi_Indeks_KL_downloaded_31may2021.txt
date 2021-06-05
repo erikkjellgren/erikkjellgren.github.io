@@ -1,0 +1,309 @@
+Microsoft Corp.;0.08529999999999999
+Apple Inc.;0.08470000000000001
+Amazon.com;0.08380000000000001
+Facebook Inc A (US);0.0564
+Alphabet Inc A;0.042
+Alphabet Inc C;0.042
+Visa Inc Class A;0.0288
+Nvidia Corp. (US);0.0263
+Mastercard Inc-Class A;0.025
+PayPal Holdings Inc (US);0.0227
+Intel Corp.;0.021
+Adobe Systems Inc. (US);0.0182
+Cisco Systems Inc.;0.0176
+Salesforce.com Inc.;0.0155
+Broadcom Inc;0.015
+Accenture Plc A (USD);0.0141
+Texas Instruments (USD);0.0139
+QUALCOMM Inc. (US);0.011899999999999999
+Oracle Corp.;0.0106
+Shopify Inc A (US);0.009899999999999999
+Applied Materials Inc.;0.0098
+IBM;0.0096
+Intuit Inc.;0.0083
+Micron Technology;0.0078000000000000005
+ServiceNow Inc.;0.0077
+Booking Holding Inc;0.0076
+Advanced Micro Devices Inc.;0.0076
+Fidelity National Information;0.006999999999999999
+Square Inc A;0.006999999999999999
+Lam Research Corp.;0.0067
+Automatic Data Processing Inc;0.0066
+Activision Blizzard Inc.;0.005699999999999999
+Fiserv Inc.;0.0055000000000000005
+Zoom Video Communications Inc. (A) (A);0.0052
+Global Payments Inc.;0.0048
+Autodesk Inc.;0.0048
+Analog Devices Inc;0.0046
+NXP Semiconductors N.V. (USD);0.0044
+Twilio Inc A;0.0043
+Twitter Inc;0.004
+KLA Corp;0.004
+Snap Inc A;0.0038
+Workday Inc;0.0034999999999999996
+HP Inc (US);0.0034999999999999996
+TE Connectivity Ltd (USD);0.0034999999999999996
+Cognizant Technology Solutions Corp.;0.0034999999999999996
+Amphenol Corp. A;0.0033
+eBay Inc;0.0033
+Microchip Technology Inc.;0.0032
+Electronic Arts Inc;0.0032
+Pinterest Inc. (A) (A);0.0031
+Cadence Design Systems Inc.;0.0031
+Synopsys Inc.;0.003
+DocuSign Inc  ;0.0029
+Match Grou;0.0029
+Corning Inc.;0.0027
+Crowdstrike Holdings Inc. (A) (A);0.0027
+Paychex;0.0027
+Marvell Technology Group (USD);0.0026
+Skyworks Solutions Inc.;0.0025
+Palo Alto Networks Inc;0.0024
+Xilinx Inc;0.0024
+ANSYS Inc.;0.0022
+Keysight Technologies Inc;0.0022
+Okta Inc A;0.0022
+TRADE DESK INC THE -CLASS A;0.0021
+Zebra Technologies Corp. A;0.0021
+Etsy Inc;0.002
+Fortinet Inc;0.002
+CDW Corporation of Delaware;0.002
+Maxim Integrated Products Inc.;0.002
+Expedia Inc Del;0.0019
+Wayfair Inc;0.0019
+RingCentral Inc A;0.0019
+Fleetcor Technologies Inc;0.0019
+Splunk Inc;0.0018
+EPAM Systems Inc;0.0018
+VeriSign Inc.;0.0017000000000000001
+Enphase Energy Inc;0.0017000000000000001
+Dell Technologies Inc C;0.0017000000000000001
+Hewlett Packard Enterprise Co.;0.0017000000000000001
+Qorvo Inc;0.0016
+CGI Group Inc. A (USD);0.0016
+Take-Two Interactive Software Inc.;0.0016
+Western Digital Corp.;0.0016
+Teradyne Inc.;0.0016
+Trimble Inc;0.0016
+HubSpot Inc;0.0016
+Slack Technologies Inc A;0.0016
+Broadridge Financial Solutions LLC;0.0015
+Citrix Systems Inc.;0.0014000000000000002
+Seagate Technology;0.0014000000000000002
+Coupa Software, Inc.;0.0014000000000000002
+Paycom Software Inc.;0.0014000000000000002
+Arista Networks Inc;0.0014000000000000002
+Tyler Technologies Inc;0.0014000000000000002
+IAC/INTERACTIVECORP(NEW);0.0014000000000000002
+Akamai Technologies Inc.;0.0014000000000000002
+Datadog Inc. A;0.0014000000000000002
+Gartner Inc. A;0.0014000000000000002
+ON Semiconductor Corp.;0.0014000000000000002
+NetApp Inc.;0.0013
+SS&C Technologies Holdings Inc;0.0013
+Zendesk Inc;0.0013
+Zillow Group Inc C;0.0012
+Entegris Inc.;0.0012
+PTC Inc;0.0012
+SolarEdge Technologies Inc;0.0012
+Monolithic Power Systems Inc.;0.0012
+F5 Networks Inc.;0.0012
+Cognex Corp.;0.0011
+Open Text Corp. (USD);0.0011
+Fair Isaac Corp.;0.0011
+SNOWFLAKE INC-CLASS A (US);0.0011
+MongoDB Inc;0.0011
+GoDaddy Inc A;0.0011
+NortonLifeLock Inc;0.001
+Zscaler Inc;0.001
+Cloudflare Inc A;0.001
+Cree Inc. (USD);0.001
+Black Knight Inc;0.001
+VMWARE Inc;0.001
+Jack Henry & Associates Inc.;0.001
+Nuance Communications Inc.;0.001
+Avalara In;0.0009
+Ceridian HCM Holding, Inc.;0.0009
+Western Union Comp.;0.0009
+Juniper Networks Inc;0.0008
+MKS Instruments Inc.;0.0008
+Zynga Inc Class A;0.0008
+Universal Display Corp.;0.0008
+Five9 Inc;0.0008
+WEX Inc;0.0008
+Ciena Corp.;0.0008
+Inphi Corp;0.0008
+Aspen Technology Inc. (US);0.0008
+Zillow Group Inc A;0.0008
+Arrow Electronics Inc.;0.0007000000000000001
+Dynatrace;0.0007000000000000001
+Bill.com Holdings, Inc.;0.0007000000000000001
+Guidewire Software Inc;0.0007000000000000001
+Genpact Ltd.;0.0007000000000000001
+FLIR Systems Inc.;0.0006
+DXC Technology Company;0.0006
+Lumentum Holdings Inc;0.0006
+RealPage Inc;0.0006
+Euronet Worldwide Inc.;0.0006
+Dropbox Inc A;0.0006
+Manhattan Associates Inc.;0.0006
+IPG Photonics Corp.;0.0006
+First Solar Inc.;0.0006
+Proofpoint Inc;0.0006
+Littelfuse Inc.;0.0006
+Anaplan Inc;0.0006
+II-VI Inc.;0.0006
+CDK Global Inc;0.0006
+Smartsheet Inc A;0.0006
+Jabil Inc.;0.0006
+Chewy Inc A;0.0006
+Dolby Laboratories Inc. Class A;0.0006
+Paylocity Holding Corp.;0.0005
+Concentrix;0.0005
+Elastic NV;0.0005
+Maximus Inc.;0.0005
+National Instruments Corp.;0.0005
+Coherent Inc.;0.0005
+Silicon Laboratories Inc.;0.0005
+Brooks Automation Inc.;0.0005
+Fastly, Inc. Class A;0.0005
+GrubHub Inc;0.0005
+Blackline Inc (US);0.0005
+Lattice Semiconductor Corp.;0.0005
+LIGHTSPEED POS INC S (US);0.0005
+Alliance Data Systems Corp.;0.0004
+Digital Turbine Inc;0.0004
+Vontier Corp;0.0004
+Q2 Holdings, Inc.;0.0004
+Novanta Inc (USD);0.0004
+Pure Storage Inc -A;0.0004
+Descartes Systems Group Inc. (USD);0.0004
+Viavi Solutions Inc;0.0004
+J2 Global Inc;0.0004
+Synnex Corp;0.0004
+NCR Corp.;0.0004
+MicroStrategy Inc. A;0.0004
+TripAdvisor Inc;0.0004
+Pegasystems Inc;0.0004
+Appian Corp A;0.0004
+Cabot Microelectronics Corp.;0.0004
+Magnite Inc.;0.0004
+Varonis Systems, Inc.;0.0004
+Semtech Corp.;0.0004
+Synaptics Inc.;0.0004
+Avnet Inc.;0.0004
+Alteryx Inc A;0.0004
+ACI Worldwide Inc.;0.0004
+Xerox Holdings Corporation (US);0.0004
+Nutanix Inc;0.0004
+PERSPECTA INC;0.0004
+FireEye Inc;0.0004
+Cirrus Logic Inc.;0.0004
+Envestnet Inc;0.0004
+Sabre Corporation;0.0004
+Advanced Energy Industries Inc.;0.0004
+BlackBerry Ltd (USD);0.0004
+Mantech International Corp.;0.0003
+Qurate Ret;0.0003
+Power Integrations Inc.;0.0003
+ZoomInfo Technologies Inc;0.0003
+SailPoint Technologies Holdings, Inc.;0.0003
+Alarm.com Holdings Inc;0.0003
+Everbridge, Inc.;0.0003
+Fabrinet;0.0003
+Rogers Corp.;0.0003
+Teradata Corp;0.0003
+Itron Inc.;0.0003
+Stamps.com Inc.;0.0003
+Rapid7 Inc.;0.0003
+SPS Commerce Inc.;0.0003
+New Relic Inc.;0.0003
+Sanmina Corp.;0.0003
+3D Systems Corp.;0.0003
+Workiva, Inc. Class A;0.0003
+Insight Enterprises Inc.;0.0003
+Blackbaud Inc;0.0003
+Vishay Intertechnology Inc.;0.0003
+FormFactor Inc.;0.0003
+Ambarella Inc;0.0003
+NetScout Systems Inc.;0.0003
+Qualys Inc;0.0003
+LiveRamp H;0.0003
+ExlService Holdings Inc;0.0003
+Cerence In;0.0003
+8x8 Inc.;0.0003
+Plexus Corp.;0.0003
+Liveperson Inc;0.0003
+Stitch Fix Inc A;0.0002
+Nanometrics Inc.;0.0002
+Commscope Holding Co Inc;0.0002
+Shutterstock Inc;0.0002
+Commvault Systems Inc.;0.0002
+Diodes Inc.;0.0002
+Verint Systems Inc;0.0002
+Altair Engineering Inc A;0.0002
+Kulicke & Soffa Industries Inc.;0.0002
+Box Inc A;0.0002
+Ubiquiti I;0.0002
+Macom Technology Solutions Holdings Inc;0.0002
+Overstock.com Inc.;0.0002
+CSG Systems International Inc.;0.0002
+AppFolio Inc A;0.0002
+Badger Meter Inc.;0.0002
+Cornerstone OnDemand Inc;0.0002
+Perficient, Inc.;0.0002
+Shift4 Payments Inc;0.0002
+Evertec Inc;0.0002
+Knowles Corporation;0.0002
+2U Inc;0.0002
+SunPower Corp. A;0.0002
+Yelp Inc;0.0002
+Progress Software Corp;0.0002
+Cloudera Inc;0.0002
+Mimecast Limited;0.0002
+Tenable Holdings, Inc.;0.0002
+Methode Electronics;0.0002
+Belden Inc.;0.0002
+Sykes Enterprises Inc.;0.0002
+NIC Inc;0.0002
+NETGEAR Inc.;0.0002
+Pluralsight Inc A;0.0002
+Calix Inc;0.0002
+CarGurus I;0.0002
+Pagerduty Inc.;0.0002
+TTM Technologies Inc.;0.0002
+SVMK, Inc.;0.0002
+OSI Systems Inc.;0.0002
+Verra Mobility Corp. (A) (A);0.0002
+EchoStar Corp. A;0.0002
+Medallia, Inc.;0.0002
+InterDigital Inc.;0.0002
+Bottomline Technologies Inc.;0.0002
+Cardtronics PLC;0.0002
+XPERI HOLDING CORP;0.0002
+Infinera Corp.;0.0001
+Repay Holdings Corp. Class A;0.0001
+Glu Mobile Inc;0.0001
+Amkor Technology Inc.;0.0001
+MaxLinear Inc;0.0001
+SolarWinds;0.0001
+Rambus Inc.;0.0001
+Avaya Holdings Corp;0.0001
+Benchmark Electronics Inc.;0.0001
+Yext Inc;0.0001
+Switch, Inc. Class A;0.0001
+Sprout Social Inc;0.0001
+Harmonic Inc.;0.0001
+Super Micro Computer Inc.;0.0001
+Teletech Holdings Inc New;0.0001
+Plantronics Inc.;0.0001
+PROS Holdings Inc;0.0001
+Celestica Inc. (US);0.0001
+Jamf Holding Corp;0.0001
+Ribbons Communications Inc;0.0001
+Groupon Inc.;0.0001
+SiTime Corporation;0.0001
+Inseego Corp;0.0001
+Ping Identity Holding Corp.;0.0
+Zuora Inc A;0.0
+Likvider m.v.;0.0011

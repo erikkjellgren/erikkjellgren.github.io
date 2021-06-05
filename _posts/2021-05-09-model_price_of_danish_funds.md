@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Model for the price of Danish investment funds
+lang: en
+lang-ref: Model for the price of Danish investment funds
+tag: dkfinance
 ---
-
-*Do not use this as financial advice. If in need of financial advice seek professional guidance.*
 
 In Denmark, all ETFs are taxed yearly by unrealized returns.
 On the other hand, some Danish investment funds are taxed by realized gain, if they fulfill some criteria of paid out dividends.
@@ -22,9 +23,10 @@ As a model for realized gain, the turnover rate can be used.
 I.e. the difference between some baseline value and the current fund price will be realized by the speed of the turnover rate.
 Therefore this will be subtracted from the price since it will be paid out as a dividend.
 
-$$ k_{i}=\left(k_{i-1}-\left(k_{i-1}-b_{1}\right)\cdot T_{i}\right)\cdot R_{i} $$
+$$ k_{i}=\left(k_{i-1}-\left(k_{i-1}-b_{i}\right)\cdot T_{i}\right)\cdot R_{i} $$
 
 Here $$R_i$$ is one plus the yearly return, $$T$$ is the turnover rate and $$k$$ is the fund price.
+It can be noted that this simple form of the model does not have the exact wanted behavior if $$k_{i-1}<b_{i}$$, but it should still be reasonable.
 This can also be written as:
 
 $$ k_{i}=k_{i-1}\cdot\left(R_{i}-T_{i}\cdot R_{i}\right)+b_{i}\cdot T_{i}\cdot R_{i} $$

@@ -1,0 +1,64 @@
+Beluga Group (USD);0.075
+ASM International;0.0384
+Pacific Basin Shipping Ltd.;0.0335
+FPT Corp.;0.0319
+Mphasis BFL Ltd.;0.028300000000000002
+Chroma Ate Inc.;0.0254
+Piramal Enterprises Ltd;0.0236
+Network International Holdings PLC;0.0223
+HANSOL CHEMICAL CO LTD (KR);0.0218
+Zhongsheng Group Holdings Ltd.;0.020499999999999997
+Grupo Aeroportuario del Centro Norte B8 -ADR;0.0194
+GeoPark Ltd (USD);0.0191
+POYA International Co Ltd;0.0191
+MAKALOT INDUSTRIAL CO LTD (TW);0.0179
+Nanofilm Technologies International Limited;0.0176
+Mobile World Investment Corp;0.0173
+Xiabuxiabu Catering Management;0.0173
+Douzone Bizon Co Ltd;0.0169
+Parque Arauco S.A.;0.0167
+Prestige Estates Projects Ltd;0.0159
+Koh Young Technology Inc;0.0159
+Syngene International Ltd;0.015600000000000001
+Container Corporation of India Ltd;0.0155
+Logo Yazilim Sanayi Ve Ticar;0.0155
+Sinbon Electronics Co. Ltd.;0.0155
+Yanlord Land Group Ltd.;0.0154
+Affle India Ltd.;0.015300000000000001
+Dino Polska S.A.;0.015
+Fortis Healthcare Ltd;0.0149
+GHL Systems Bhd;0.0143
+HeadHunter Group PLC - ADR;0.0143
+Multiplan Empreendimentos Imobiliarios;0.0138
+PT Ace Hardware Indonesia Tbk;0.013600000000000001
+Globalwafers Co Ltd;0.0132
+Guaranty Trust Bank PLC;0.0126
+Totvs SA;0.0125
+WONIK IPS CO. LTD.;0.0124
+Centre Testing International Group LTD A;0.011699999999999999
+PT Bank Nisp Tbk;0.0116
+JOINN LABORATORIES CHINA CO LTD H (HK);0.0115
+Mahanagar Gas Ltd.;0.011399999999999999
+Afya Ltd. (US) (A) (A);0.011000000000000001
+Kingdee International Software Group Co Ltd;0.0109
+TAIWAN UNION TECHNOLOGY CORP (TW);0.0108
+MOBLY SA;0.0106
+CHUNBO CO LTD (KR);0.0106
+Leeno Industrial Inc;0.0105
+Far East Horizon Ltd;0.0105
+ASPEED Technology Inc;0.0101
+TISCO Financial Group Public Company (Foreign);0.0095
+Kansai Nerolac Paints Ltd;0.009300000000000001
+Accton Technology Corp.;0.0091
+Sporton International Inc;0.0087
+Vietnam Technological And Commercial Joint Sto;0.008100000000000001
+Aenza SAA ADR new;0.0079
+Cleopatra Hospital Company;0.0079
+Venustech Group Inc A;0.0076
+51job Inc (ADR);0.0069
+ASA International Group Plc;0.0062
+Ujjivan Financial Services Ltd;0.006
+Ujjivan Small Finance Bank Ltd;0.0055000000000000005
+BK Brasil Operacao e Assessoria a Restaurantes;0.0045000000000000005
+Baozun Inc HK;0.0002
+Likvider m.v.;0.0279

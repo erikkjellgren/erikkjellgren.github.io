@@ -1,0 +1,287 @@
+Bank Hapoalim BM
+Proximus SADP
+Cie Generale des Etablissements Michelin SCA
+Nestle Malaysia Bhd
+Alpha Bank AE
+Emirates Telecommunications Group Co PJSC
+First Abu Dhabi Bank PJSC
+Sociedad Quimica y Minera de Chile SA
+Hong Leong Bank Bhd
+Richter Gedeon Nyrt
+Fu Jian Anjoy Foods Co Ltd
+CIMB Group Holdings Bhd
+HAP Seng Consolidated Bhd
+Petronas Chemicals Group Bhd
+Akbank TAS
+Turkiye Petrol Rafinerileri AS
+International Container Terminal Services Inc
+Hartalega Holdings Bhd
+AMMB Holdings Bhd
+Hanergy Thin Film Power Group NPV
+Turk Hava Yollari AO
+Cie de Saint-Gobain
+Snam SpA Rts
+Warehouses De Pauw CVA
+Sopra Steria Group SACA
+Future PLC
+Cie Plastic Omnium SA
+Solaria Energia y Medio Ambiente SA
+Samhallsbyggnadsbolaget i Norden AB
+Fraport AG Frankfurt Airport Services Worldwide
+Semapa-Sociedade de Investimento e Gestao
+Prosegur Cia de Seguridad SA
+Atresmedia Corp de Medios de Comunicacion SA
+Societa Cattolica di Assicurazioni SC
+Alitalia - Linee Aeree Italiane SpA
+La Francaise des Jeux SAEM
+Fastighets AB Balder
+MTS Systems Corp
+Rocket Cos Inc
+Interpublic Group of Cos Inc/The
+Varian Medical Systems Inc
+LUKOIL Oil Company PJSC ADR
+Suzano Papel e Celulose SA
+Natura &Co Holding SA
+Sociedad Quimica y Minera de Chile SA (ADR)
+Hana Financial Holdings
+Atacadao SA
+Petroleo Brasileiro S.A. (Ord.) Petrobras
+Qingdao Haier Co Ltd
+Longfor Properties
+TCS Group Holding Plc (GDR) REGS A
+Chemical Works of Richter Gedeon Plc
+Fomento Economico Mexicano (ADR) Femsa
+MOL Hungarian Oil and Gas Plc A
+getBACK S.A
+Sun Hung Kai Props
+Chinatrust Financial Holding Company
+Cathay Financial Holding Company
+ASE Industrial Holdings Co Ltd
+CapitaLand Mall Trust
+Sun Pharmaceuticals Industries Ltd
+Fuhwa Financial Holdings Co., Ltd.
+Jardine Strategic Holdings (USD)
+CIMB Group Holdings Berhad
+China Development Financial Holding Company
+HDFC Standard Life Insurance Company Ltd
+Hotai Motor Company Ltd
+Kingboard Chemical Holdings Ltd.
+Dialog Group BHD
+Tata Global Beverages Ltd
+Shree Cements Ltd
+Press Metal Aluminium Holdings Bhd
+HKT Trust and HKT Ltd Stapled Security (HK)
+Cheng Shin Rubber Industrial Co. Ltd
+KUMHO PETRO CHEMICAL CO LTD
+Industrial and Commercial Bank of China Limited Cl
+Hengan International Group Limited
+E-Mart Co Ltd.
+Hyundai Robotics Co Ltd
+Hankook Tire Co. Ltd
+Petronas Gas Berhad
+POSCO Chemtech Co., Ltd
+Asset World Corp Public Company Ltd Foreign
+BYD Electronic Co. Ltd.
+Shanghai Fosun Pharmaceutical (Group) Co Ltd
+Luzhou Laojiao Company Limited Class A
+People's Insurance Company (Group) of China
+AVIC Aircraft Co Ltd A
+Hutchison China MediTech Limited Sponsored ADR
+China Pacific Insurance (Group) Co., Ltd. Class A
+Kuala Lumpur Kepong Berhad
+Hong Leong Bank Berhad
+Rural Electrification Corp Ltd
+Hap Seng Consolidated Berhad
+SinoPac Holdings
+Muyuan Foodstuff Co., Ltd. Class A
+QL Resources Bhd.
+Netmarble Games Corp
+China MinSheng Banking Corporation
+China State Construction Engineering Corp. Ltd. Cl
+Fila Korea Ltd
+Lufax Holding Ltd. Sponsored ADR Class A
+International Container Terminal Services Inc.
+AMMB Holdings Berhad
+Bharti Infratel Ltd
+PT Perusahaan Gas Negara Tbk. Ser. B
+Telecom Malaysia
+DiGi.com Berhad
+Shinpoong Pharmaceutical Co., Ltd.
+Poly Real Estate Group Co Ltd A
+Lotte Corporation Co Ltd
+Malaysia Airports Holdings Berhad
+PPB Group Berhad
+Rongsheng Petro Chemical Co Ltd A
+Tcl Corporation Class A
+Guoxuan High-Tech Co. Ltd.
+Manila Electric Co. Meralco
+A-Living Services Co H
+PearlAbyss Corp.
+KMW Co. Ltd.
+WPG Holding Co Ltd
+Nestle Malaysia Berhad
+KWG Property Holdings Ltd.
+China Merchants Shekou Industrial Zone Hldng A
+Agile Property Holdings Ltd.
+Logan Property Holdings Co., Ltd.
+Jiangxi Ganfeng Lithium Co., Ltd. Class A
+Hesteel Company Limited Class A
+CJ O Shopping Co. Ltd
+Shenzhen SC New Energy Technol
+Supermax Corporation Bhd
+Poly Property Development Co. L
+ALTEOGEN Inc. Temp 20210323
+Shenzhen Kangtai Biological Products Co. Ltd. Clas
+Daelim Industrial Co. Ltd.
+WUHU SHUNRONG SANQI INTERACTIVE ENTERTAINM A
+Westports Holdings Bhd
+Hong Leong Financial Group Berhad
+Kossan Rubber Industries Bhd
+RHB Capital Berhad
+Celltrion Inc. Temp 20201228
+Celltrion Pharm Inc. Temp 20201228
+Brdr. Hartmann
+Sparekassen Sjælland-Fyn A/S
+Flügger B
+Højgaard Holding B
+GrønlandsBANKEN
+Sanistål
+Møns Bank
+TK Development
+Brdr. Klee B
+EuroInvestor.com
+Migatronic B
+FPT Corp.
+Mobile World Investment Corp
+Vietnam Technological And Commercial Joint Sto
+Aenza SAA ADR new
+BK Brasil Operacao e Assessoria a Restaurantes
+Severstal Cherepovets Metal Factory JSC (USD)
+Petroleo Brasileiro S.A. Petrobras (Pref.)
+Emirates Telecommunications Corp
+Surgutneftegaz OJSC (USD)
+FIRST ABU DHABI BANK
+Qatar Islamic Bank SAQ
+Alrosa CJSC (USD)
+Hellenic Telecommunication Organization Ote
+Itausa Investimentos Itau SA
+Emirates NBD Bank PJSC
+Notre Dame Intermedica Participacoes SA
+Emaar Properties
+Aldar Properties PJSC
+Dubai Islamic Bank Ltd
+Sociedad Quimica y Minera de Chile B
+Hanwha Chemical Corp.
+Thai Oil PCL-FRGN
+Charoen Pokphand Foods Pub.Co. (Foreign)
+Enersis Americas S.A.
+PTT Global Public Co Ltd(Foreign)
+Grupo Televisa SA-SER CPO
+Emaar Malls PJSC
+Hapvida Participacoes e Investimentos SA
+Mexichem SAB de CV
+Indorama Ventures Plc Foreign
+S.A.C.I. Falabella S.A.
+Tupras-Turkiye Petrol Rafinerileri A.S.
+Cia Saneamento Basico do Estado de Sao Paolo
+Banco de Credito e Inversiones SA CREDITO
+Turkiye Is Bankasi C (Isbank)
+Bank Pekao S.A.
+Embatelladora Andina-Pref. B
+Hypermarcas SA
+Minor International Public Co Ltd Foreign
+C&S Paper Co Ltd A
+Chaozhou Three-Circle (Group) Co., Ltd. Class A
+China Huarong Asset Management Co Ltd H
+Future Land Holdings Co., Ltd. Class A
+Fibra Uno Administracion SA Reits
+Jason Furniture (Hangzhou) Co., Ltd. Class A
+Shanghai International Port (Group) Co Ltd
+Turk Sise ve Cam Fabrikalari AS (Sisecam)
+Ovctek China Inc.
+Shandong Sun Paper Industry JS
+Yealink Network Technology Cor
+Grupo Carso SAB de CV A1
+Laobaixing Pharmacy Chain JSC
+Shennan Circuits Co. Ltd.
+GT Capital Holdings Inc
+Sanquan Foods Co., Ltd. Class A
+Suzhou Gold Mantis Construction and Decoration Co.
+Guangdong LY Intelligent Manuf
+Joyoung Company Limited Class A
+Greenland Holdings Group Corporation Ltd Class A
+Coca Cola HBC Namen Akt. (GBP)
+Royal Bank of Scotland Group Plc Reg sh
+arGEN-X SE (BE)
+Randstad Holdings
+Takeaway.com Holding BV
+Industrivärden C
+Schroders Plc VTG
+Fastighets AB Balder B
+William Morrison Supermarkets Plc Ord
+Lundbergföretagen AB B
+ABN AMRO Group N.V. Shs Depositary receipts
+Industrivärden A
+Alpha FMC Topco Limited
+Absolent Group AB
+Corticeira Amorim Sa
+VAA Vista Alegre Atlantis SGPS
+Paddy Power Betfair Plc
+Telefonica Deutschland Holding AG Namen-Akt
+CFD on Irish Bank Resolution Corporation Ltd (IE)
+Cabot Microelectronics Corp.
+Nanometrics Inc.
+Pluralsight Inc A
+Glu Mobile Inc
+Ribbons Communications Inc
+Afterpay Touch Group Ltd.
+Stockland Trust Group
+B2Gold Corporation
+United Parcel Service Inc. B U.P.S.
+Sempra Energy Corp.
+DowDuPont Inc New
+Delphi Automotive PLC
+Weyerhaeuser Corp.
+Hershey Foods Corp.
+So-net M3 Inc
+JXTG Holdings Inc
+FUJI FILM Holdings Corp.
+Dr. Pepper Snapple Group Inc. (USD)
+West Pharmaceuticals Services
+Gardner Denver Holdings Inc
+Uni-Charm Corp.
+Baker Hughes Incorporated A
+JM Smucker Co. (US)
+Fidelity National Financial - FNF Group
+N.E.C. Corp.
+Expeditors Intl. of Washington Inc.
+Liberty Global Group Plc C
+Mitsubishi Heavy Industry
+WR Berkley Corp
+Liberty Media Corp Media Group C
+Advanced Auto Parts Inc.
+Liberty Media SiriusXM Group C
+C. H. Robinson Worldwide Inc.
+Japan Air Lines
+Asahi Glass
+Lixil Group Corporation.
+Japan Retail Fund Investment
+Nissan Chemical Industries
+Koito Manufactoring
+Amada Holdings Co. Ltd
+Keisei Electric RailwayCo. Ltd.
+Coca-Cola Amatil (AU)
+Liberty Media Corp Sirius XM Group A
+Don Quijote Holdings Co. Ltd
+Taiyo Nippon Sanso Corp.
+Israel Chemicals Ltd.
+Mediceo Paltac Holdings Co. Ltd.
+United Mizrahi Bank Ltd.
+Liberty Global Group Plc A
+Magnit PJSC Spon GDR REGS
+BTS Group Hld PCL (Foreign)
+Turk Hava Yollari Anonim Ortakligi
+Robinson Public Company Ltd (Foreign)
+ASKA Pharmaceutical Co. Ltd.
+OKUMA Holdings Inc.
+Yamada Denki

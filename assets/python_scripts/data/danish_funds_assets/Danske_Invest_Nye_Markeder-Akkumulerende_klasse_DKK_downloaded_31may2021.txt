@@ -1,0 +1,126 @@
+Taiwan Semiconductor Manufacturing Co.;0.0775
+Alibaba Group Holding Ltd ADR;0.0642
+Tencent Holdings Ltd.;0.0629
+Samsung Electronics;0.056600000000000004
+SK Hynix Inc.;0.0223
+MediaTek Inc.;0.0206
+Reliance Industries (GDR);0.0204
+Meituan Dianping;0.0177
+Impala Platinum Holdings Ltd.;0.0166
+JD.com Inc ADR;0.015300000000000001
+China Construction Bank Corporation H;0.014499999999999999
+Naspers N Shares;0.0139
+Shenzhen Mindray Bio-Medical Electronics Co., Ltd.;0.0134
+Axis Bank Ltd;0.0131
+Ping An Insurance (Group) Comp. of China;0.0118
+NAVER Corp;0.0116
+ICICI Bank Ltd;0.011399999999999999
+Kakao Corp;0.0109
+Itau Unibanco Holding SA Pref.;0.0108
+LG Chem Ltd.;0.010700000000000001
+XPeng Inc ADR;0.0106
+China Petroleum & Chemical H Sinopec;0.0105
+Sberbank (USD);0.0092
+Midea Group Co Ltd A;0.0092
+Samsung SDI;0.009000000000000001
+Bharti Airtel Limited;0.0089
+China Merchants Bank - H;0.0089
+New Oriental Education & Technology Group ADR;0.0086
+HDFC Bank Ltd;0.0084
+China Jushi Co. Ltd.;0.0083
+Li Ning Company Ltd.;0.008100000000000001
+LUKOIL Oil Company PJSC ADR;0.0079
+Suzano Papel e Celulose SA;0.0078000000000000005
+Shriram Transport Finance Co Ltd;0.0078000000000000005
+WuXi AppTec Co., Ltd. Class H;0.0078000000000000005
+PT Bank Central Asia Tbk;0.0077
+Housing Development Finance;0.0074
+CP ALL Public Co Ltd (Foreign);0.0074
+Ctrip.com International Ltd ADR;0.0073
+Thai Beverage Public Co Ltd. (SGD);0.0070999999999999995
+KB Financial Group Inc;0.006999999999999999
+Bilibili Inc ADR Z;0.0066
+Natura &Co Holding SA;0.0066
+Yandex NV A (USD);0.006500000000000001
+Absa Group Limited;0.006500000000000001
+eMemory Technology Inc;0.006500000000000001
+Shenzhou International Group Ltd;0.0064
+Sociedad Quimica y Minera de Chile SA (ADR);0.0064
+China Gas Holding Ltd;0.0063
+Pinduoduo Inc;0.0063
+Cemex (ADR);0.0060999999999999995
+Airtac International Group;0.0060999999999999995
+Grupo Financiero Banorte SAB de CV;0.0059
+Industrial & Commercial Bank of China Ltd. H;0.0058
+Pharmaron Beijing Co., Ltd. Class H;0.0058
+Zai Lab Ltd HK;0.0054
+Hyundai Mobis;0.0053
+Largan Precision Co. Ltd.;0.0052
+Kia Motors Corp.;0.005
+HANSOL CHEMICAL CO LTD (KR);0.005
+China Life Insurance;0.005
+Zhejiang Sanhua Intelligent Co.;0.0049
+JD.com Inc;0.0048
+Kotak Mahindra Bank Ltd;0.0048
+Kweichow Moutai Co Ltd;0.0046
+Ayala Land Inc;0.0045000000000000005
+Capitec Bank Holdings Limited;0.0044
+Petroleo Brasileiro S.A. (ADR) (ord.);0.0040999999999999995
+Angel Yeast Co Ltd A;0.0040999999999999995
+Realtek Semiconductor Corp;0.004
+Hana Financial Holdings;0.004
+Atacadao SA;0.0039000000000000003
+Siam Commercial Bank (Foreign);0.0038
+Azul Pref.;0.0036
+Unimicron Technology Corp.;0.0034999999999999996
+Qingdao Haier Co Ltd;0.0034000000000000002
+LG Household & Health Care Ltd.;0.0034000000000000002
+Banco Bradesco S.A. (Pref.);0.0034000000000000002
+Petroleo Brasileiro S.A. (Ord.) Petrobras;0.0034000000000000002
+JOYY Inc (ADR);0.0033
+Shenzhen Inovance Technology Co Ltd A;0.0033
+E.Sun Financial Holding Co.;0.0032
+AngloGold Ashanti;0.0031
+Longfor Properties;0.003
+Indraprastha Gas Ltd;0.003
+Infosys Ltd. (ADR);0.003
+Bank Mandiri (Persero);0.003
+Tech Mahindra Ltd;0.0029
+B3 SA - Brasil Bolsa Balcao;0.0029
+Infosys Ltd;0.0028000000000000004
+Grupo Aeroportuario del Sureste SAB de CV;0.0028000000000000004
+Hangzhou Tigermed Consulting Co Ltd H;0.0028000000000000004
+China Yongda Automobiles Services Holdings Ltd;0.0027
+Baidu Inc (ADR);0.0027
+Shinhan Financial Group;0.0026
+JD Health International Inc.;0.0026
+Grupo Aeroportuario del Centro Norte SAB de CV;0.0026
+KUAISHOU TECHNOLOGY B (HK);0.0025
+International Games System Co Ltd;0.0025
+BILIBILI INC-CLASS Z (HK);0.0025
+NovaTek GDR (GB);0.0025
+TCS Group Holding Plc (GDR) REGS A;0.0024
+Hansoh Pharmaceutical Group Co;0.0023
+Rumo SA;0.0023
+Ambev SA;0.0023
+Sunny Optical Technology (Group) Co Ltd;0.0023
+Xiaomi Corporation B;0.0023
+Chemical Works of Richter Gedeon Plc;0.0022
+LG Innotek Co Ltd;0.0022
+OTP Bank;0.0022
+Samsung Life Insurance Co Ltd;0.0022
+Contemporary Amperex Technology Co., Ltd. Class A;0.0022
+China Oilfield Services;0.0022
+TAL Education Group - ADR;0.0021
+New Oriental Education & Technology Group (HK);0.002
+Bank Rakyat Indonesia (Persero) Tbk;0.0019
+Gruma S.A.-B;0.0019
+Yantai Jereh Oilfield Services;0.0019
+Axis Bank Ltd (GDR);0.0019
+Guangzhou Automobile Group Co., Ltd;0.0019
+Silergy Corp;0.0019
+Azul SA ADR;0.0014000000000000002
+Fomento Economico Mexicano (ADR) Femsa;0.0013
+ZTO Express (Cayman) Inc;0.0012
+Reliance Industries;0.0002
+Likvider m.v.;0.028900000000000002

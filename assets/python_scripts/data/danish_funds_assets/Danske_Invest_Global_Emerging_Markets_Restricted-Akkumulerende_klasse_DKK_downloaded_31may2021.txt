@@ -1,0 +1,998 @@
+Taiwan Semiconductor Manufacturing Co.;0.0625
+Tencent Holdings Ltd.;0.0556
+Alibaba Group Holding Ltd ADR;0.053
+Samsung Electronics;0.0421
+Meituan Dianping;0.0171
+Naspers N Shares;0.0127
+Sberbank (USD);0.0113
+Gazprom PJSC (USD);0.0104
+China Construction Bank Corporation H;0.01
+Reliance Industries;0.009899999999999999
+Ping An Insurance (Group) Comp. of China;0.009300000000000001
+JD.com Inc ADR;0.0089
+Infosys Ltd;0.0083
+SK Hynix Inc.;0.0079
+Housing Development Finance;0.0075
+Baidu Inc (ADR);0.0072
+Samsung Electronics (Pref.);0.006999999999999999
+MMC Norilsk Nickel-$;0.0069
+Pinduoduo Inc;0.006500000000000001
+MediaTek Inc.;0.006500000000000001
+NIO Inc. ADR A;0.0062
+Xiaomi Corporation B;0.005699999999999999
+Tata Consultancy Services Ltd.;0.0055000000000000005
+Industrial & Commercial Bank of China Ltd. H;0.0055000000000000005
+NetEase Inc. (ADR);0.0052
+NAVER Corp;0.0051
+ICICI Bank Ltd;0.005
+WuXi Biologics new;0.005
+Novolipetsk Steel CLS (NLMK) (USD);0.0045000000000000005
+LG Chem Ltd.;0.0044
+Bank of China Ltd H;0.0043
+Hindustan Unilever Limited;0.0040999999999999995
+Samsung SDI;0.0040999999999999995
+China Merchants Bank - H;0.0039000000000000003
+Qatar National Bank S.A.Q.;0.0039000000000000003
+Tatneft (USD);0.0038
+Celltrion Inc.;0.0034000000000000002
+Kakao Corp;0.0033
+Itau Unibanco Holding SA Pref.;0.0033
+PT Bank Central Asia Tbk;0.0031
+Largan Precision Co. Ltd.;0.003
+Severstal Cherepovets Metal Factory JSC (USD);0.003
+Yum China Holdings Inc;0.0029
+America Movil SAB de C.V. Serie L;0.0028000000000000004
+Delta Electronics Inc.;0.0028000000000000004
+B3 SA - Brasil Bolsa Balcao;0.0028000000000000004
+Petroleo Brasileiro S.A. Petrobras (Pref.);0.0028000000000000004
+New Oriental Education & Technology Group ADR;0.0028000000000000004
+United Microelectronics Corp.;0.0027
+Nan Ya Plastic Corp.;0.0026
+Axis Bank Ltd;0.0026
+TAL Education Group - ADR;0.0025
+Anta Sports Products Ltd;0.0025
+Shenzhou International Group Ltd;0.0025
+KB Financial Group Inc;0.0025
+Banco Bradesco S.A. (Pref.);0.0025
+Kia Motors Corp.;0.0024
+Emirates Telecommunications Corp;0.0024
+Formosa Plastics Corp;0.0024
+Surgutneftegaz OJSC (USD);0.0024
+Bajaj Finance Ltd;0.0023
+Bank Rakyat Indonesia (Persero) Tbk;0.0023
+Ctrip.com International Ltd ADR;0.0023
+Fomento Economico Mexicano S.A. Ubd (Femsa);0.0023
+China Mengniu Dairy Company Ltd;0.0023
+Bilibili Inc ADR Z;0.0023
+PTT Pcl (Foreign) NEW;0.0023
+Petroleo Brasileiro S.A. (Ord.) Petrobras;0.0022
+Chunghwa Telecom Co. Ltd.;0.0022
+Masraf Al Rayan (Q.S.C.);0.0021
+HCL Technologies Ltd;0.0021
+FIRST ABU DHABI BANK;0.0021
+Sunny Optical Technology (Group) Co Ltd;0.0021
+Uni-President Enterprises Corp.;0.0021
+China Life Insurance;0.002
+BeiGene Ltd ADR;0.002
+China Steel Corp;0.002
+BYD Company Ltd. H;0.002
+Hyundai Mobis;0.002
+LG Electronics Inc.;0.002
+China Resources Land Ltd.;0.002
+LG Household & Health Care Ltd.;0.0019
+Public Bank Berhad (Local);0.0019
+Bharti Airtel Limited;0.0019
+Country Garden Services Holdings Company Ltd;0.0019
+Geely Automobile Holdings Ltd;0.0019
+Grupo Financiero Banorte SAB de CV;0.0019
+Fubon Financial Holding Co.;0.0019
+FirstRand Ltd;0.0019
+Cathay Financial Holding Company;0.0019
+Li Ning Company Ltd.;0.0018
+Qatar Islamic Bank SAQ;0.0018
+Impala Platinum Holdings Ltd.;0.0018
+Chinatrust Financial Holding Company;0.0018
+ENN Energy Holdings Ltd;0.0018
+Asian Paints Ltd;0.0018
+NCsoft Corp.;0.0018
+Shinhan Financial Group;0.0018
+Quanta Computer Inc.;0.0018
+Siam Cement Public Co. (Foreign);0.0018
+Alrosa CJSC (USD);0.0017000000000000001
+ZTO Express Cayman Inc ADR;0.0017000000000000001
+China Petroleum & Chemical H Sinopec;0.0017000000000000001
+Ultra Tech Cement Ltd.;0.0017000000000000001
+ASE Industrial Holdings Co Ltd;0.0017000000000000001
+Novatek Microelectronics Corp. Ltd.;0.0017000000000000001
+Kotak Mahindra Bank Ltd;0.0017000000000000001
+Longfor Properties;0.0017000000000000001
+Vipshop Holdings Ltd (ADR);0.0016
+Mega Financial Holding Co. Ltd.;0.0016
+Weg SA;0.0016
+Telekomunikasi Indonesia;0.0016
+Magazine Luiza SA;0.0016
+Maruti Suzuki India Ltd.;0.0016
+Alibaba Health Information Technology Ltd;0.0016
+China Pacific Insurance (Group) Co Ltd;0.0016
+Hellenic Telecommunication Organization Ote;0.0016
+Itausa Investimentos Itau SA;0.0015
+E.Sun Financial Holding Co.;0.0015
+China Gas Holding Ltd;0.0015
+Sibanye Stillwater Limited;0.0015
+Agricultural Bank of China;0.0015
+Cemex SAB de CV;0.0015
+Commercial International Bank;0.0014000000000000002
+Asustek Computer Inc.;0.0014000000000000002
+Samsung Biologics Co Ltd;0.0014000000000000002
+Globant S.A. (US);0.0014000000000000002
+Lenovo Group;0.0014000000000000002
+Qatar Electricity and Water;0.0014000000000000002
+Hana Financial Holdings;0.0014000000000000002
+Emirates NBD Bank PJSC;0.0014000000000000002
+Country Garden Holdings Co Ltd;0.0014000000000000002
+Inter RAO UES (USD);0.0014000000000000002
+China Overseas Land & Investment;0.0014000000000000002
+Samsung Electro Mechanics;0.0014000000000000002
+Formosa Petrochemical Corp;0.0013
+Sunac China Holdings Ltd;0.0013
+President Chain Store Corp.;0.0013
+Moscow Exchange MICEX-RTS OJSC (B9GFHQ6) (USD);0.0013
+Airports of Thailand Public Co Ltd (Foreign);0.0013
+Tech Mahindra Ltd;0.0013
+Innovent Biologics Inc. (HK);0.0013
+Sm Prime Holdings Inc.;0.0013
+Chailease Holding Company Limited;0.0013
+Banco Bradesco S.A.;0.0013
+CSPC Pharmaceutical Group Ltd (HK);0.0013
+China Conch Venture Holdings Ltd;0.0013
+Natura &Co Holding SA;0.0013
+Sino Biopharmaceutical Ltd.;0.0013
+Realtek Semiconductor Corp;0.0013
+Zai Lab Ltd ADR;0.0013
+OTP Bank;0.0013
+Standard Bank Group Ltd.;0.0013
+Suzano Papel e Celulose SA;0.0013
+GDS Holdings Ltd. Sponsored ADR Class A;0.0012
+Mahindra & Mahindra Ltd.;0.0012
+Compal Electronics Inc.;0.0012
+Lite-On Technology Corp.;0.0012
+KGHM Polska Miedz S.A.;0.0012
+Postal Savings Bank of China H;0.0012
+MTN Group;0.0012
+China Merchants Bank Co., Ltd. Class A;0.0012
+Nestle India Ltd.;0.0012
+Great Wall Motor Co. Ltd.;0.0012
+Malayan Banking Berhad;0.0012
+Taiwan Cooperative Financial Holding Co Ltd;0.0012
+Conch Cement Ltd (HK);0.0012
+Huazhu Group Ltd;0.0012
+Wipro Ltd.;0.0012
+Titan Company Ltd;0.0011
+Samsung SDS Co. Ltd.;0.0011
+State Bank of India;0.0011
+Surgutneftegaz Pref. (USD);0.0011
+Amorepacific Corp;0.0011
+Kingdee International Software Group Co Ltd;0.0011
+Tencent Music Entertainment Group ADR A;0.0011
+Bank of Communications Ltd;0.0011
+Hindalco Industries Ltd.;0.0011
+AngloGold Ashanti;0.0011
+Samsung C&T Corporation;0.0011
+China Vanke Co Ltd. H;0.0011
+Anglo American Platinum Limited;0.0011
+SK Telecom;0.0011
+Tata Steel Ltd.;0.0011
+Notre Dame Intermedica Participacoes SA;0.001
+Industries Qatar QSC;0.001
+HAIER SMART HOME CO LTD H (HK);0.001
+Bank Mandiri (Persero);0.001
+Gerdau S.A. (pref.);0.001
+Localiza Rent a Car SA;0.001
+First Financial Holding Co;0.001
+Celltrion Healthcare Co., Ltd.;0.001
+The Commercial Bank (Q.S.C.);0.001
+Unilever Indonesia TBK;0.001
+HDFC Standard Life Insurance Company Ltd;0.001
+Tata Motors Ltd.;0.001
+Grasim Industries Ltd.;0.001
+Yageo Corp.;0.001
+JSW Steel Ltd.;0.001
+Contemporary Amperex Technology Co., Ltd. Class A;0.001
+Credicorp;0.001
+Qatar Gas Transport Company Ltd;0.001
+Abu Dhabi Commercial Bank PJSC;0.001
+Nestle Malaysia Berhad;0.001
+Lojas Renner SA;0.001
+Qatar Fuel Q.S.C (WOQOD);0.001
+Advantech Co. Ltd.;0.001
+Kimberly-Clark de Mexico SAB de CV Serie A;0.001
+Gold Fields (ZAR);0.0009
+Hua Nan Financial Holding Co. Ltd.;0.0009
+Kasikornbank (Foreign);0.0009
+Raia Drogasil SA;0.0009
+Arca Continental SAB de CV;0.0009
+Equatorial Energia SA;0.0009
+Ayala Land Inc;0.0009
+Northam Platinum Ltd;0.0009
+AU Optronics Corp.;0.0009
+PTT Exploration & Production Pub.Co. (Foreign);0.0009
+Avenue Supermarts Ltd.;0.0009
+Innolux Corp.;0.0009
+PKO Bank Polski S.A.;0.0009
+Empresas Copec SA;0.0009
+BIM Birlesik Magazalar AS;0.0009
+Ping An Healthcare and Technology Company Ltd;0.0009
+LG Corp.;0.0009
+Bid Corporation Limited;0.0009
+Emaar Properties;0.0009
+Jumbo SA;0.0009
+Catcher Technology Co. Ltd.;0.0009
+Adani Green Energy Limited;0.0009
+Xinyi Solar Holdings Ltd.;0.0009
+Pegatron Corp.;0.0009
+Press Metal Aluminium Holdings Bhd;0.0009
+Tata Global Beverages Ltd;0.0009
+Aldar Properties PJSC;0.0009
+Dubai Islamic Bank Ltd;0.0009
+Companhia Siderurgica Nacional;0.0009
+Dabur India Ltd;0.0009
+Kingsoft Corporation Ltd;0.0009
+KE Holdings, Inc. Sponsored ADR Class A;0.0009
+Sociedad Quimica y Minera de Chile B;0.0009
+Mesaieed Petrochemical Holding Company Q.S.C.;0.0008
+Capitec Bank Holdings Limited;0.0008
+Petronas Chemicals Group Bhd;0.0008
+Inventec Corp.;0.0008
+Sun Pharmaceuticals Industries Ltd;0.0008
+KUAISHOU TECHNOLOGY B (HK);0.0008
+Hansoh Pharmaceutical Group Co;0.0008
+Rumo SA;0.0008
+Globalwafers Co Ltd;0.0008
+China International Travel Service Corp Ltd;0.0008
+PetroChina Co Ltd A;0.0008
+Power Grid Corp of India Ltd.;0.0008
+Hanwha Chemical Corp.;0.0008
+Foshan Haitian Flavouring and Food Comp Ltd A;0.0008
+PetroChina Company Ltd.;0.0008
+Sanlam Limited;0.0008
+Dr. Reddys Laboratories Ltd.;0.0008
+Shree Cements Ltd;0.0008
+CITIC Securities Co Ltd;0.0008
+Banco BTG Pactual S.A. Units Cons of 1 Sh + 2 Pfd;0.0008
+China Tower Corp. Ltd. Class H;0.0008
+Fraser & Neave Holdings Berhad;0.0008
+Ecopetrol SA;0.0008
+Bangkok Dusit Medical Services;0.0008
+Silergy Corp;0.0008
+Kuala Lumpur Kepong Berhad;0.0008
+Thai Oil PCL-FRGN;0.0008
+Charoen Pokphand Foods Pub.Co. (Foreign);0.0008
+China National Building Material Co. Ltd H;0.0008
+Enersis Americas S.A.;0.0008
+China CITIC Bank;0.0008
+CIMB Group Holdings Berhad;0.0008
+Lotte Chemical Corporation;0.0008
+Hotai Motor Company Ltd;0.0008
+Klabin SA (Pref);0.0007000000000000001
+PPB Group Berhad;0.0007000000000000001
+Weichai Power Co. Ltd;0.0007000000000000001
+Banco do Brasil SA;0.0007000000000000001
+XPeng Inc ADR;0.0007000000000000001
+Banco Santander Brasil SA;0.0007000000000000001
+Asia Cement Corp;0.0007000000000000001
+Polski Koncern Naftowy S.A.;0.0007000000000000001
+Haidilao International Holding Ltd;0.0007000000000000001
+Pidilite Industries Limited;0.0007000000000000001
+Jiangsu Hengrui Medicine Co Ltd A;0.0007000000000000001
+Mirae Asset Daewoo Co. Ltd;0.0007000000000000001
+Micro-Star International Co Ltd;0.0007000000000000001
+Bajaj Finserv Ltd;0.0007000000000000001
+Industrial Bank Co Ltd - A;0.0007000000000000001
+Ping An Insurance (Group) Comp. of China;0.0007000000000000001
+Shoprite Holdings Ltd.;0.0007000000000000001
+Divi's Laboratories Ltd;0.0007000000000000001
+Britannia Industries Ltd New;0.0007000000000000001
+Absa Group Limited;0.0007000000000000001
+Top Glove Corporation Bhd;0.0007000000000000001
+Grupo Bimbo SAB de CV A;0.0007000000000000001
+LG Display Co. Ltd.;0.0007000000000000001
+China Yangtze Power Co., Ltd. Class A;0.0007000000000000001
+China Resources Gas Group Ltd;0.0007000000000000001
+S-Oil Corp.;0.0007000000000000001
+Airtac International Group;0.0007000000000000001
+Advanced Info Service (Foreign);0.0007000000000000001
+SM Investments Corp.;0.0007000000000000001
+Taishin Financial Holding;0.0007000000000000001
+PT Charoen Pokphand Indonesia Tbk;0.0007000000000000001
+WuXi AppTec Co., Ltd. Class H;0.0007000000000000001
+Qatar International Islamic Bank;0.0007000000000000001
+CJ CheilJedang Corp.;0.0007000000000000001
+KUMHO PETRO CHEMICAL CO LTD;0.0007000000000000001
+Godrej Consumer Products Ltd.;0.0007000000000000001
+JOYY Inc (ADR);0.0007000000000000001
+Autohome Inc ADR;0.0007000000000000001
+PTT Global Public Co Ltd(Foreign);0.0007000000000000001
+China MinSheng Banking Corporation;0.0007000000000000001
+Yihai International Holding Ltd.;0.0007000000000000001
+Hiwin Technologies Corp;0.0007000000000000001
+Shandong Weigao Gr. Medical Polymer Comp. Ltd;0.0007000000000000001
+Wanhua Chemical Group Co. Ltd. Class A;0.0007000000000000001
+Samsung Fire & Marine Insurance;0.0007000000000000001
+Eicher Motors Ltd new;0.0006
+MOL Hungarian Oil and Gas Plc A;0.0006
+Osotspa PCL;0.0006
+Want Want China Holdings Ltd;0.0006
+Hyundai Heavy Industries;0.0006
+MultiChoice Group Ltd.;0.0006
+BB Seguridade Participacoes SA;0.0006
+Hyundai Steel Company;0.0006
+Win Semiconductors Corp;0.0006
+Woori Financial Group Inc;0.0006
+Allegro.eu S.A.;0.0006
+Lojas Americanas SA-Pref.;0.0006
+Grupo Televisa SA-SER CPO;0.0006
+Bradespar Pref.;0.0006
+BDO Unibank Inc.;0.0006
+Hero Motocorp Ltd;0.0006
+Accton Technology Corp.;0.0006
+POSCO Chemtech Co., Ltd;0.0006
+Hengan International Group Limited;0.0006
+Central Retail Corporation Public Co (Foreign);0.0006
+Tingyi (Cayman Islands) Holding Corp.;0.0006
+Telefonica Brasil S.A.;0.0006
+Ultrapar Participacoes SA;0.0006
+S.F. Holding Co., Ltd. Class A;0.0006
+Barwa Real Estate Company;0.0006
+SBI Life Insurance Co Ltd S;0.0006
+Coway Co. Ltd.;0.0006
+Atacadao SA;0.0006
+Samsung Life Insurance Co Ltd;0.0006
+PICC Property & Casualty -H;0.0006
+Banco de Chile;0.0006
+Larsen & Toubro Infotech Ltd;0.0006
+Wistron Corporation;0.0006
+Chicony Electronics Co Ltd;0.0006
+Ping An Bank Co Ltd A;0.0006
+CPFL Energia SA;0.0006
+Acer Inc.;0.0006
+Shenzhen Mindray Bio-Medical Electronics Co., Ltd.;0.0006
+Marico Ltd;0.0006
+UPL Ltd;0.0006
+iQIYI Inc A (ADR);0.0006
+Energy Absolute PCL;0.0006
+MicroPort Scientific Corp;0.0006
+Chemical Works of Richter Gedeon Plc;0.0006
+Bharat Petroleum;0.0006
+Zhongsheng Group Holdings Ltd.;0.0006
+Korea Air Lines Co. Ltd;0.0006
+Old Mutual Ltd.;0.0006
+Unimicron Technology Corp.;0.0006
+Sime Darby Plantation Bhd (SDPL);0.0006
+Energisa SA Units Cons of 1 Sh + 4 Pfd Shs;0.0006
+Central Pattana Public Co Ltd (Foreign);0.0006
+People's Insurance Company (Group) of China;0.0006
+Emaar Malls PJSC;0.0006
+Dino Polska S.A.;0.0006
+BYD Electronic Co. Ltd.;0.0006
+COSCO SHIPPING Holdings Co Ltd H;0.0005
+Inner Mongolia Yili Industrial Group Co Ltd A;0.0005
+Muyuan Foodstuff Co., Ltd. Class A;0.0005
+E-Mart Co Ltd.;0.0005
+MISC Berhad;0.0005
+BYD Company Limited Class A;0.0005
+Berger Paints India Ltd;0.0005
+Interconexion Electrica S.A.;0.0005
+Feng Tay Enterprise Co. Ltd.;0.0005
+Powszechny Zaklad Ubezpieczen SA;0.0005
+VTB Bank PJSC (USD);0.0005
+Cencosud SA;0.0005
+Cipla Ltd.;0.0005
+Banco Santander Chile SA;0.0005
+Fuhwa Financial Holdings Co., Ltd.;0.0005
+Korea Investment Holdings Co. Ltd.;0.0005
+Universal Robina Corporation;0.0005
+Wharf Holdings;0.0005
+Shanghai Commercial & Savings Bank, Ltd.;0.0005
+China Literature Limited;0.0005
+Totvs SA;0.0005
+Ayala Corp.;0.0005
+Eclat Textile Co Ltd;0.0005
+Bajaj Auto Limited;0.0005
+Hyundai Glovis Co. Ltd;0.0005
+Discovery Limited;0.0005
+Eregli Demir ve Celik Fabrik;0.0005
+Clicks Group Ltd;0.0005
+Samsung Heavy Industries;0.0005
+Empresas CMPC SA;0.0005
+JD Health International Inc.;0.0005
+Huatai Securities Co Ltd;0.0005
+Hapvida Participacoes e Investimentos SA;0.0005
+Chang Hwa Commercial Bank;0.0005
+ICICI Lombard General Insurance Co. Ltd.;0.0005
+Aspen Pharmacare Holdings Ltd.;0.0005
+Petronas Gas Berhad;0.0005
+China Intl Capital H shares;0.0005
+ORION Corp;0.0005
+Haitong Securities Co Ltd - H;0.0005
+Shanghai Pudong Development Bank Co Ltd A;0.0005
+JG Summit Holdings Inc.;0.0005
+Korea Zinc Co. Ltd;0.0005
+Mexichem SAB de CV;0.0005
+Banco Inter S.A.;0.0005
+Li Auto Inc.;0.0005
+Gruma S.A.-B;0.0005
+Hopson Development Holdings Ltd.;0.0005
+Indorama Ventures Plc Foreign;0.0005
+China Everbright Bank Co Ltd - H;0.0005
+S.A.C.I. Falabella S.A.;0.0005
+Weimob Inc.;0.0005
+Nanya Technology Corp;0.0005
+Tupras-Turkiye Petrol Rafinerileri A.S.;0.0005
+Cia Saneamento Basico do Estado de Sao Paolo;0.0005
+Vanguard International Semiconductor Corp.;0.0005
+Shimao Property Holdings Ltd;0.0005
+Info Edge India Ltd.;0.0005
+Grupo Aeroportuario del Sureste SAB de CV;0.0005
+Aurobindo Pharma Ltd;0.0005
+Gulf Energy Development PCL;0.0005
+Daqo New Energy Corp. (ADR);0.0005
+Grupo Aeroportuario Del-B SH;0.0005
+LONGi Green Energy Technology Co Ltd Class A;0.0005
+Taiwan Mobile Co. Ltd.;0.0005
+Travelsky Technology Ltd H;0.0005
+New China Life Insurance Co Ltd;0.0005
+China Petroleum & Chemical Corp Sinopec A;0.0005
+Ooredoo QSC;0.0004
+NEPI Rockcastle PLC;0.0004
+Indofood CBP Sukses Makmur TBK;0.0004
+Kumba Iron Ore Ltd.;0.0004
+CITIC Limited;0.0004
+LPP SA;0.0004
+Vodacom Group Limited;0.0004
+Cyfrowy Polsat S.A.;0.0004
+IHH Healthcare Bhd;0.0004
+Hartalega Holdings Bhd;0.0004
+Pan Ocean Co Ltd;0.0004
+CITIC Securities Co Ltd A;0.0004
+Fuyao Glass Industry Group Co Ltd H;0.0004
+Bancolombia SA Pref;0.0004
+Woolworths Holdings Ltd.;0.0004
+Koc Holding AS;0.0004
+Netmarble Games Corp;0.0004
+QL Resources Bhd.;0.0004
+PT Kalbe Farma Tbk;0.0004
+PI Industries Limited;0.0004
+Coca Cola Femsa S.A. Serie L new;0.0004
+Nien Made Enterprise Co Ltd;0.0004
+Yadea Group Holdings Ltd.;0.0004
+Industrial and Commercial Bank of China Limited Cl;0.0004
+China Galaxy Securities Co Ltd (HK);0.0004
+AAC Technologies Holdings Inc;0.0004
+Rongsheng Petro Chemical Co Ltd A;0.0004
+Sany Heavy Industry Co Ltd A;0.0004
+Colgate-Palmolive India Ltd.;0.0004
+Qingdao Haier Co Ltd;0.0004
+SinoPac Holdings;0.0004
+China Resources Cement Holdings Ltd;0.0004
+African Rainbow Minerals Limited;0.0004
+Yuhan Corp;0.0004
+Petronet LNG Ltd;0.0004
+Samsung Securities;0.0004
+Midea Group Co Ltd A;0.0004
+LG Innotek Co Ltd;0.0004
+Shriram Transport Finance Co Ltd;0.0004
+Motherson Sumi Systems Ltd;0.0004
+Semen Indonesia (Persero);0.0004
+CanSino Biologics Inc. H- Unitary 144A/Reg S;0.0004
+Hyundai Engineering & Construction Co. Ltd.;0.0004
+Nan Ya Printed Circuit Board Corp.;0.0004
+Cheil Worldwide Inc.;0.0004
+Alpargatas SA Pfd;0.0004
+CD Projekt Red SA;0.0004
+Kingboard Chemical Holdings Ltd.;0.0004
+Nine Dragons Paper Holdings Ltd.;0.0004
+China Feihe Ltd Unitary Reg S/144A;0.0004
+Apollo Hospitals Enterprise Ltd;0.0004
+Haitian International Holdings Ltd;0.0004
+Wiwynn Corp.;0.0004
+51job Inc (ADR);0.0004
+Kunlun Energy Company Ltd;0.0004
+Companhia Paranaense de Energia Copel Pref B;0.0004
+The Spar Group Ltd;0.0004
+WuXi AppTec Co., Ltd. Class A;0.0004
+HDFC Asset Management Co. Ltd.;0.0004
+Hong Leong Bank Berhad;0.0004
+Indian Oil Corp. Ltd.;0.0004
+China Evergrande Group;0.0004
+Pharmaron Beijing Co., Ltd. Class H;0.0004
+Jubilant Foodworks Ltd;0.0004
+Ottogi Corp;0.0004
+Manila Electric Co. Meralco;0.0004
+Zoomlion Heavy Industry Science and Techno. H;0.0004
+China Hongqiao Group Ltd;0.0004
+Home Product Center PCL;0.0004
+Berli Jucker Public Company Ltd (Foreign);0.0004
+Hankook Tire Co. Ltd;0.0004
+Abu Dhabi Islamic Bank;0.0004
+Luxshare Precision Industry Co Ltd A;0.0004
+Doosan Heavy Industries & Construction Co. Ltd;0.0004
+Winbond Electronics Corp.;0.0004
+Bandhan Bank Ltd;0.0004
+China Railway Group Ltd - H;0.0004
+Lupin Ltd.;0.0004
+GF Securities Co Ltd;0.0004
+Havells India Ltd;0.0004
+Hangzhou Tigermed Consulting Co Ltd H;0.0004
+Weibo Corp ADR Shs A;0.0004
+Aier Eye Hospital Group Co., Ltd. Class A;0.0004
+Petronas Dagangan Berhad;0.0004
+AmoreG;0.0004
+Banco de Credito e Inversiones SA CREDITO;0.0004
+East Money Information Co., Ltd Class A;0.0004
+Hanon Systems;0.0004
+Turkiye Is Bankasi C (Isbank);0.0004
+Agricultural Bank of China Limited Class A;0.0004
+Ford Otomotiv Sanayi AS;0.0004
+Beijing-Shanghai High-Speed Railway Co., Ltd. Clas;0.0004
+Tiger Brands Ltd;0.0004
+CJ Logistics Corp;0.0004
+Bank of the Philippine Islands;0.0004
+Chongqing Zhifei Biological Products Co., Ltd. Cla;0.0004
+Bank Negara Indonesia Tbk;0.0004
+International Container Terminal Services Inc.;0.0004
+Via Varejo SA;0.0004
+CCR SA;0.0004
+PTT OIL & RETAIL BUS-FOREIGN (TH);0.0004
+Alibaba Pictures Group Ltd;0.0003
+Bank Pekao S.A.;0.0003
+GS Holdings Corp.;0.0003
+21Vianet Group Inc.;0.0003
+China Taiping Insurance Holdings Co.;0.0003
+Daqin Railway Co Ltd. - A;0.0003
+Hua Hong Semiconductor Ltd;0.0003
+Embatelladora Andina-Pref. B;0.0003
+Vinda International Holdings Ltd;0.0003
+Doosan Bobcat Inc;0.0003
+Dali Foods Group Co Ltd;0.0003
+Shenzhen Inovance Technology Co Ltd A;0.0003
+Jinxin Fertility Group Limited;0.0003
+Walsin Technology Corporation;0.0003
+Shanghai Fosun Pharmaceutical (Group) Co Ltd;0.0003
+Kingboard Laminates Holdings Ltd;0.0003
+Sri Trang Gloves Thailand PCL (foreign) NEW;0.0003
+Hypermarcas SA;0.0003
+Industrias Penoles S.A. de C.V.;0.0003
+Baoshan Iron & Steel Co Ltd;0.0003
+Brilliance China Automotive Holdings;0.0003
+Fila Korea Ltd;0.0003
+Foxconn Industrial Internet Co., Ltd. Class A;0.0003
+Petrobras Distribuidora SA;0.0003
+B2W Companhia Digital;0.0003
+China Medical System Holdings Ltd;0.0003
+NH Investment & Securities Co Ltd;0.0003
+Hindustan Petroleum Corp.;0.0003
+Megacable Holdings SAB de CV;0.0003
+Zhongan Online P&C Insurance Co., Ltd. Class H;0.0003
+GSX Techedu Inc. (US) (ADR) (ADR);0.0003
+Shinsegae Co. Ltd;0.0003
+Akbank T.A.S.;0.0003
+Siam Commercial Bank (Foreign);0.0003
+Bangkok Expressway and Metro PCL (Foreign);0.0003
+China Meidong Auto Holdings Lt;0.0003
+Minth Group Ltd;0.0003
+Celltrion Pharm Inc.;0.0003
+Bancolombia SA;0.0003
+Sinotruk Hong Kong Ltd.;0.0003
+GAIL India Ltd.;0.0003
+Infraestructura Energetica Nova SAB de CV;0.0003
+GS Engineering & Construction Corp.;0.0003
+Shenwan Hongyuan Group Co., Ltd. Class A;0.0003
+Logan Property Holdings Co., Ltd.;0.0003
+Kingsoft Cloud Holdings Ltd ADR;0.0003
+HLB Co., Ltd.;0.0003
+BOE Technology Group Co Ltd A;0.0003
+Hengli Petrochemical Co., Ltd. Class A;0.0003
+Turkcell Iletisim Hizmetleri A.S.;0.0003
+China Development Financial Holding Company;0.0003
+Guangzhou Automobile Group Co., Ltd;0.0003
+Henan Shuanghui Investment & Development Co., Ltd.;0.0003
+Shinpoong Pharmaceutical Co., Ltd.;0.0003
+Giant Manufacturing Co. Ltd.;0.0003
+Will Semiconductor Ltd.;0.0003
+PT Barito Pacific Tbk;0.0003
+GS Retail Co Ltd;0.0003
+Foxconn Technology Co. Ltd;0.0003
+China Molybdenum Co. Ltd. - H;0.0003
+INDAH KIAT PULP&PA;0.0003
+Lufax Holding Ltd. Sponsored ADR Class A;0.0003
+China Education Group Holdings Limited;0.0003
+Zee Entertainment Enterprises Ltd;0.0003
+Seazen Group Limited;0.0003
+Nedbank Group Ltd.;0.0003
+LG Household & Health Care Ltd Pref;0.0003
+Industrial Bank of Korea;0.0003
+ALTEOGEN Inc.;0.0003
+Minor International Public Co Ltd Foreign;0.0003
+ICICI Prudential Life Insurance Company Ltd;0.0003
+A-Living Services Co H;0.0003
+Hanmi Pharm Co Ltd.;0.0003
+Biocon Ltd.;0.0003
+SK Biopharmaceuticals Co., Ltd.;0.0003
+Taiwan High Speed Rail Corp;0.0003
+SK Chemicals Co., Ltd.;0.0003
+Intouch Holdings Public Co Ltd (Foreign);0.0003
+Uni-President China Holdings Ltd;0.0003
+Meritz Securities Co., Ltd;0.0003
+Hutchison China MediTech Limited Sponsored ADR;0.0003
+Jiumaojiu International Holdin;0.0003
+Focus Media Information Technology Co Ltd A;0.0003
+YPF S.A. ADR;0.0003
+Anhui Conch Cement Co Ltd A;0.0003
+Douzone Bizon Co Ltd;0.0003
+Trent Limited;0.0003
+COSCO SHIPPING Holdings Co Ltd A;0.0003
+PearlAbyss Corp.;0.0003
+Greentown Service Group Co. Ltd.;0.0003
+PT Merdeka Copper Gold Tbk;0.0003
+Nongfu Spring Co Ltd H;0.0003
+Yonyou Network Technology Co. Ltd. Class A;0.0003
+Mr Price Group Ltd;0.0003
+Cheng Shin Rubber Industrial Co. Ltd;0.0003
+Ambuja Cements Ltd.;0.0003
+Pou Chen Corp.;0.0003
+Container Corporation of India Ltd;0.0003
+Indocement Tunggal Prakarsa;0.0003
+Xinjiang Goldwind Science & Technology Co Ltd;0.0003
+Aluminum Corporation of China Limited Class A;0.0003
+Samsung Engineering Co. Ltd;0.0003
+Fosun International Ltd;0.0003
+Sinopharm Group Co. Ltd. Serie H;0.0003
+Bidvest Group Ltd;0.0003
+Seegene, Inc.;0.0003
+Yunnan Energy New Material Co.;0.0003
+Zhangzhou Pientzehuang Pharmaceutical A;0.0003
+BGF Retail CO. LTD.;0.0003
+Compania de Minas Buenaventura (ADR);0.0003
+Bosideng International Holdings Ltd;0.0003
+Hundsun Technologies Inc. Class A;0.0003
+Bank of Ningbo Co Ltd;0.0003
+Yunnan Baiyao Group Co Ltd;0.0003
+Aneka Tambang Tbk PT;0.0003
+Bank Zachodni WBK S.A.;0.0003
+Krungthai Card Public Company Ltd (Foreign);0.0003
+China Vanke Co., Ltd Class A;0.0003
+Tongwei Co Ltd A;0.0003
+Noah Holdings Ltd. ADR;0.0003
+DLF Ltd;0.0003
+Turkiye Garanti Bankasi A.S.;0.0003
+Sarana Menara Nusantara Tbk PT;0.0003
+Mango Excellent Media Co., Ltd. Class A;0.0003
+Jiangsu Hengli Hydraulic Co. Lt;0.0003
+GOME Retail Holdings Limited;0.0003
+DB INSURANCE CO. LTD;0.0003
+C&S Paper Co Ltd A;0.0003
+Dongfeng Motor Group Company Ltd-H;0.0003
+Oneness Biotech Co., Ltd.;0.0002
+Guangdong Haid Group Co. Ltd.;0.0002
+iflytek Co., Ltd. Class A;0.0002
+Grupo Financiero Inbursa SAB de C.V.;0.0002
+Daewoo Shipbuilding & Marine Engineering Co.;0.0002
+NARI Technology Co., Ltd. Class A;0.0002
+Chaozhou Three-Circle (Group) Co., Ltd. Class A;0.0002
+Guotai Junan Securities Co Ltd A;0.0002
+Muangthai Capital Public Company Ltd (Foreign);0.0002
+Hotel Shilla Co Ltd;0.0002
+China Lesso Group Holdings Ltd (HK);0.0002
+Beijing Oriental Yuhong Waterp;0.0002
+Yes Bank Limited;0.0002
+Zhuzhou CRRC Times Electric Co Ltd;0.0002
+Eve Energy Co. Ltd.;0.0002
+Baozun Inc ADR;0.0002
+Sangfor Technologies Inc.;0.0002
+Telecom Argentina S.A. (ADR);0.0002
+China Merchants Securities Co., Ltd. Class A;0.0002
+China Huarong Asset Management Co Ltd H;0.0002
+Fujian Anjoy Foods Co. Ltd. Class A;0.0002
+B Grimm Power PCL;0.0002
+Lee & Man Paper Manufacturing Ltd;0.0002
+Land & Houses Pub. (Foreign);0.0002
+Yantai Eddie Precision Machinery Co., Ltd. Class A;0.0002
+Tongcheng-Elong Holdings Limited;0.0002
+Ruentex Development Co Ltd;0.0002
+CIFI Holdings (Group) Co. Ltd. (HKD);0.0002
+China Railway Group Ltd A;0.0002
+Daelim Industrial Co. Ltd.;0.0002
+China Jinmao Holdings Group Ltd;0.0002
+Taiwan Business Bank;0.0002
+Ecovacs Robotics Co. Ltd.;0.0002
+Bumrungrad Hospital Public Co. Ltd. (Foreign);0.0002
+CSC Financial Co. Ltd.;0.0002
+Powertech Technology Inc.;0.0002
+Changchun High & New Technolog;0.0002
+Huatai Securities Co Ltd A;0.0002
+Hyundai Robotics Co Ltd;0.0002
+Axiata Group BHD;0.0002
+Supermax Corporation Bhd;0.0002
+Hesteel Company Limited Class A;0.0002
+Future Land Holdings Co., Ltd. Class A;0.0002
+Jiangxi Ganfeng Lithium Co., Ltd. Class A;0.0002
+Indraprastha Gas Ltd;0.0002
+DouYu International Holdings Ltd ADR;0.0002
+Sungrow Power Supply Co. Ltd.;0.0002
+Ming Yuan Cloud Group Holdings Limited;0.0002
+ASMedia Technology Inc.;0.0002
+BOC Aviation Ltd;0.0002
+Momo Inc (ADR);0.0002
+ACC Limited;0.0002
+Wens Foodstuff Group Co., Ltd. Class A;0.0002
+Metropolitan Bank & Trust Company;0.0002
+InterGlobe Aviation Ltd;0.0002
+Bharti Infratel Ltd;0.0002
+RLX Technology, Inc. Sponsored ADR Class A;0.0002
+DiGi.com Berhad;0.0002
+Sichuan Chuantou Energy Co Ltd A;0.0002
+CEZ a.s.;0.0002
+Yapi ve Kredi Bankasi A.S.;0.0002
+New Hope Liuhe Co Ltd A;0.0002
+Lens Technology Co. Ltd. Class A;0.0002
+Far EasTone Telecommunications Co.;0.0002
+Haci Omer Sabanci Holding AS;0.0002
+GUANGZHOU TINCI MATERIALS TECHNOLOGY CO LTD Class;0.0002
+Offcn Education Technology Co., Ltd. Class A;0.0002
+HLB Co., Ltd. Temp 20210312;0.0002
+Lotte Shopping Co. Ltd.;0.0002
+Guangdong Kinlong Hardware Products Co., Ltd. Clas;0.0002
+Gamuda Berhad;0.0002
+Muthoot Finance Ltd;0.0002
+Torrent Pharmaceuticals Ltd;0.0002
+Korea Gas Corp.;0.0002
+Malaysia Airports Holdings Berhad;0.0002
+Telesites SAB de C.V. B1;0.0002
+Srisawad Corp PCL;0.0002
+Hyundai Marine & Fire Insurance Co.;0.0002
+Bank of Communications Co., Ltd. Class A;0.0002
+China Everbright International Ltd;0.0002
+IPCA Laboratories Limited;0.0002
+Beijing Enterprises Water Group Ltd;0.0002
+TIM SA/Brazil;0.0002
+Phison Electronics Corp;0.0002
+SKSHU Paint Co., Ltd. Class A;0.0002
+GF Securities Co., Ltd. Class A;0.0002
+Shandong Hualu Hengsheng Chemi;0.0002
+Piramal Enterprises Ltd;0.0002
+Zhejiang Dahua Technology Co. Ltd. Class A;0.0002
+Maxscend Microelectronics Company Limited Class A;0.0002
+Fibra Uno Administracion SA Reits;0.0002
+Bank of China Ltd A;0.0002
+CJ O Shopping Co. Ltd;0.0002
+Bank of Hangzhou Co Ltd A;0.0002
+Shanghai Baosight Software Co.;0.0002
+Yonghui Superstores Co., Ltd. Class A;0.0002
+360 Security Technology, Inc. Class A;0.0002
+PLDT Inc;0.0002
+Yifeng Pharmacy Chain Co. Ltd.;0.0002
+CJ Corp.;0.0002
+China Merchants Shekou Industrial Zone Hldng A;0.0002
+Winning Health Technology Grou;0.0002
+LG Uplus Corp;0.0002
+Topchoice Medical Corp.;0.0002
+Tongling Nonferrous Metals Group Co Ltd A;0.0002
+China Overseas Property Holdings Ltd;0.0002
+Agile Property Holdings Ltd.;0.0002
+Goertek Inc A;0.0002
+Puregold Price Club Inc;0.0002
+Power Construction Corporation of China A;0.0001
+3SBio Inc.;0.0001
+Thunder Software Technology Co., Ltd. Class A;0.0001
+Rand Merchant Investment Holdings Ltd;0.0001
+Thai Union Group PCL (Foreign);0.0001
+China State Construction Engineering Corp. Ltd. Cl;0.0001
+Zhaojin Mining Industry Company Ltd H (HK);0.0001
+Bangkok Bank Public (Foreign);0.0001
+Jason Furniture (Hangzhou) Co., Ltd. Class A;0.0001
+Aluminum Corporation of China Ltd.;0.0001
+Air China Ltd A;0.0001
+Shanghai International Port (Group) Co Ltd;0.0001
+Topsports International Holdings Limited;0.0001
+Jollibee Foods Corp.;0.0001
+Turk Sise ve Cam Fabrikalari AS (Sisecam);0.0001
+Shenzhen Kangtai Biological Products Co. Ltd. Clas;0.0001
+Air China Ltd. H;0.0001
+LG Chem Ltd (Pfd);0.0001
+China Jushi Co. Ltd.;0.0001
+China Life Insurance Co Ltd A;0.0001
+Genscript Biotech Corporation;0.0001
+KWG Property Holdings Ltd.;0.0001
+Haitong Securities Co., Ltd. Class A;0.0001
+China Southern Airlines Co Ltd A;0.0001
+China East Education Holdings;0.0001
+Inner Mongolia Baotou Steel Union Co. Ltd. Class A;0.0001
+HUYA Inc A ADR;0.0001
+Telecom Malaysia;0.0001
+Ovctek China Inc.;0.0001
+Oppein Home Group Inc A;0.0001
+China Southern Airlines;0.0001
+Tcl Corporation Class A;0.0001
+Ever Sunshine Lifestyle Servic;0.0001
+COSCO SHIPPING Energy Transpor;0.0001
+Qianhe Condiment & Food Co., Ltd. Class A;0.0001
+Intco Medical Technology Co., Ltd. Class A;0.0001
+China State Construction International Holding;0.0001
+New China Life Insurance Co., Ltd. Class A;0.0001
+Zhejiang Dingli Machinery Co. L;0.0001
+KMW Co. Ltd.;0.0001
+China Pacific Insurance (Group) Co., Ltd. Class A;0.0001
+Shandong Sun Paper Industry JS;0.0001
+S-1 Corp.;0.0001
+Tianjin Zhonghuan Semiconducto;0.0001
+Bank Of Shanghai A;0.0001
+China Molybdenum Co., Ltd. Class A;0.0001
+Yihai Kerry Arawana Holdings C;0.0001
+Shandong Nanshan Aluminium Co., Ltd. Class A;0.0001
+Guosen Securities Co Ltd A;0.0001
+Giant Network Group Co. Ltd. Class A;0.0001
+AVIC Jonhon Optronic Technolog;0.0001
+Zhejiang Huayou Cobalt Co Ltd A;0.0001
+Sanan Optoelectronics Co., Ltd. Class A;0.0001
+Lomon Billions Group Co. Ltd.;0.0001
+Hithink RoyalFlush Information Network Co., Ltd. C;0.0001
+Fuyao Glass Industry Group Co., Ltd. Class A;0.0001
+WUHU SHUNRONG SANQI INTERACTIVE ENTERTAINM A;0.0001
+Greentown China Holdings Ltd.;0.0001
+Kossan Rubber Industries Bhd;0.0001
+Luenmei Quantum Co. Ltd.;0.0001
+WPG Holding Co Ltd;0.0001
+Weichai Power Co., Ltd. Class A;0.0001
+Yealink Network Technology Cor;0.0001
+China Life Insurance Co Ltd;0.0001
+Beijing New Building Materials;0.0001
+China Merchants Energy Shippin;0.0001
+Shandong Gold Mining Co., Ltd. Class H;0.0001
+Walvax Biotechnology Co., Ltd. Class A;0.0001
+PT Perusahaan Gas Negara Tbk. Ser. B;0.0001
+Shandong Gold Mining Co Ltd A;0.0001
+Westports Holdings Bhd;0.0001
+Guolian Securities Co., Ltd. Class A;0.0001
+Hualan Biological Engineering;0.0001
+Shanghai Pharmaceuticals Holding Co Ltd A;0.0001
+BGI Genomics Co. Ltd.;0.0001
+Yunda Holding Co., Ltd. Class A;0.0001
+Jiangxi Zhengbang Technology C;0.0001
+YTO Express Group Co.,Ltd. Class A;0.0001
+Maxis Bhd;0.0001
+Zhejiang Longsheng Group Co Ltd A;0.0001
+G-bits Network Technology Xiam;0.0001
+Wingtech Technology Co., Ltd. Class A;0.0001
+Synnex Technology International Corp.;0.0001
+China Bohai. Bank Co., Ltd. Class H;0.0001
+Shanghai Fosun Pharmaceutical (Group) Co., Ltd. Cl;0.0001
+ALTEOGEN Inc. Temp 20210323;0.0001
+Highwealth Construction Corp;0.0001
+Juewei Food Co. Ltd.;0.0001
+Dialog Group BHD;0.0001
+Kingfa Sci. & Tech. Co., Ltd. Class A;0.0001
+Gigadevice Semiconductor Beiji;0.0001
+Chongqing Changan Automobile Co Ltd A;0.0001
+AK Medical Holdings Ltd;0.0001
+Jonjee Hi-Tech Industrial & Commercial Holding;0.0001
+Great Wall Motor Co., Ltd. Class A;0.0001
+Tatung Co. Ltd.;0.0001
+Beijing Enlight Media Co. Ltd.;0.0001
+Hengtong Optic-electric Co Ltd A;0.0001
+China Minsheng Banking Corp., Ltd. Class A;0.0001
+Bharat Forge Ltd.;0.0001
+Shanghai Electric Group Co Ltd A;0.0001
+Tongkun Group Co. Ltd.;0.0001
+Sul America SA;0.0001
+China Communication Services Corporation Ltd.;0.0001
+Hengyi Petrochemical Co., Ltd. Class A;0.0001
+Zhejiang Sanhua Intelligent Co.;0.0001
+FF Group;0.0001
+Beijing Tiantan Biological Pro;0.0001
+Guangzhou Shiyuan Electronic T;0.0001
+Sime Darby Berhad;0.0001
+China Eastern Airlines Corporation Limited Class A;0.0001
+Zhejiang Century Huatong Group Co Ltd A;0.0001
+GRG Banking Equipment Co Ltd A;0.0001
+Central Retail Corporation Public Co Ltd;0.0001
+Perfect World Co Ltd A;0.0001
+Grupo Carso SAB de CV A1;0.0001
+Celltrion Inc. Temp 20201228;0.0001
+Asset World Corp Public Company Ltd Foreign;0.0001
+Laobaixing Pharmacy Chain JSC;0.0001
+Jiangsu Zhongtian Technology C;0.0001
+Zoomlion Heavy Industry Science and Technology;0.0001
+Beijing E-Hualu Information Te;0.0001
+NAURA Technology Group Co. Ltd.;0.0001
+Jafron Biomedical Co. Ltd.;0.0001
+China Oilfield Services;0.0001
+Pangang Group Vanadium Titaniu;0.0001
+Jiangsu Yangnong Chemical Co. L;0.0001
+DaShenLin Pharmaceutical Group Co., Ltd. Class A;0.0001
+Megaworld Corp.;0.0001
+Hong Leong Financial Group Berhad;0.0001
+Hangzhou Tigermed Consulting Co Ltd A;0.0001
+Xiamen Intretech Inc. Class A;0.0001
+JA Solar Technology Co., Ltd. Class A;0.0001
+Shanghai M&G Stationery Inc.;0.0001
+Sinoma Science & Technology Co.;0.0001
+Angel Yeast Co Ltd A;0.0001
+Spring Airlines Co Ltd A;0.0001
+Kaisa Group Holdings Ltd;0.0001
+Toly Bread Co. Ltd.;0.0001
+Chongqing Fuling Zhacai Group;0.0001
+Guangzhou Kingmed Diagnostics;0.0001
+Hua Xia Bank Co., Limited Class A;0.0001
+Unisplendour Co., Ltd. Class A;0.0001
+Shennan Circuits Co. Ltd.;0.0001
+Founder Securities Co Ltd A;0.0001
+Shanghai Construction Group Co., Ltd. Class A;0.0001
+Shanghai Jahwa United Co Ltd;0.0001
+Hap Seng Consolidated Berhad;0.0001
+Oriental Pearl Group Co., Ltd. A;0.0001
+China Construction Bank Corporation Class A;0.0001
+Hunan Valin Steel Co. Ltd.;0.0001
+Zhongjin Gold Co Ltd A;0.0001
+SSY Group Ltd;0.0001
+Leo Group Co. Ltd. Class A;0.0001
+China International Capital Co.;0.0001
+Shandong Sinocera Functional M;0.0001
+China Yuhua Education Corp Ltd;0.0001
+GT Capital Holdings Inc;0.0001
+Yango Group Co. Ltd.;0.0001
+Bank of Beijing Co Ltd A;0.0001
+Proya Cosmetics Co. Ltd.;0.0001
+China Everbright;0.0001
+Guoxuan High-Tech Co. Ltd.;0.0001
+Koolearn Technology Holding Lt;0.0001
+NanJi E-Commerce Co. Ltd.;0.0001
+Sanquan Foods Co., Ltd. Class A;0.0001
+Ninestar Corporation A;0.0001
+Wuxi Lead Intelligent Equipment Co. Ltd. Class A;0.0001
+Chifeng Jilong Gold Mining Co., Ltd. Class A;0.0001
+China Film Co., Ltd. Class A;0.0001
+Shanxi Meijin Energy Co. Ltd.;0.0001
+Meinian Onehealth Healthcare Holdings Co Ltd Class;0.0001
+Kuang-Chi Technologies Co., Ltd. Class A;0.0001
+Sinopec Shanghai Petrochemical Co Ltd A;0.0001
+Da An Gene Co., Ltd. of Sun Yat-Sen University Cla;0.0001
+China Everbright Bank Co Ltd;0.0001
+Guangdong Xinbao Electrical Appliances Holdings Co;0.0001
+China Galaxy Securities Co., Ltd. Class A;0.0001
+Beijing Dabeinong Technology Group Co Ltd A;0.0001
+Shenzhen SC New Energy Technol;0.0001
+Poly Property Development Co. L;0.0001
+China Greatwall Technology Gro;0.0001
+HANGZHOU FIRST APPLIED MATERIAL CO.,LTD. Class A;0.0001
+Beijing Shiji Information Technology Co Ltd  A;0.0001
+Shanghai Putailai New Energy T;0.0001
+Guangdong HEC Technology Holdi;0.0
+East Group Co., Ltd. Class A;0.0
+Universal Scientific Industria;0.0
+China TransInfo Technology Co.;0.0
+Jiangsu Zhongnan Construction;0.0
+Gemdale Corporation Class A;0.0
+Unigroup Guoxin Microelectroni;0.0
+Suzhou Gold Mantis Construction and Decoration Co.;0.0
+Guangdong LY Intelligent Manuf;0.0
+Shanghai RAAS Blood Products Co., Ltd. Class A;0.0
+Jiangsu Shagang Co., Ltd. Class A;0.0
+Tianma Microelectronics Co., Ltd Class A;0.0
+Joyoung Company Limited Class A;0.0
+Sunwoda Electronic Co. Ltd.;0.0
+Suning.com Co., Ltd. A;0.0
+Zhongji Innolight Co. Ltd.;0.0
+Everbright Securities Co Ltd A;0.0
+Grupo de Inversiones Suramericana SA;0.0
+Greenland Holdings Group Corporation Ltd Class A;0.0
+Shengyi Technology Co. Ltd.;0.0
+Shanghai International Airport Co Ltd. - A;0.0
+DHC Software Co Ltd A;0.0
+Celltrion Healthcare Co., Ltd. Temp 20201228;0.0
+FangDa Carbon New Material Co., Ltd. Class A;0.0
+Suzhou Dongshan Precision Manufacturing Co., Ltd C;0.0
+Huadong Medicine Co Ltd A;0.0
+Zhejiang Chint Electrics Co Ltd A;0.0
+Shenzhen Goodix Technology Co.;0.0
+Celltrion Pharm Inc. Temp 20201228;0.0
+Likvider m.v.;0.0075

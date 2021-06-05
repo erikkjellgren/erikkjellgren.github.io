@@ -1,0 +1,35 @@
+Nestle (Regd);0.0412
+Unilever Plc Ord;0.04
+Zurich Insurance Group Regd (CH);0.0393
+Siemens AG (Regd);0.038900000000000004
+Michelin B;0.0377
+Sampo Oyj A;0.0374
+Roche Holding (genusscheine);0.0371
+BASF SE;0.0362
+Allianz SE;0.0356
+Total S.A. (FR);0.0351
+ENEL SpA;0.0337
+DnB ASA;0.0335
+Sanofi (FR);0.0322
+National Grid Plc;0.032
+Iberdrola SA;0.032
+Direct Line Insurance Group PLC;0.0317
+Telenor ASA;0.0315
+E.ON SE;0.031400000000000004
+Skandinaviska Enskilda Banken AB A;0.0304
+Novartis (Regd) (CHF);0.0288
+Snam SpA;0.0282
+Baloise Holding AG (Regd.);0.027999999999999997
+Stellantis N.V. (IT);0.026600000000000002
+Koninklijke Ahold Delhaize N.V.;0.026600000000000002
+Equinor ASA;0.0263
+Swisscom (Regd);0.025099999999999997
+SKF AB B;0.022799999999999997
+AXA SA (FR);0.022000000000000002
+IMI Plc;0.0218
+Nordea Bank Abp (SE) SEK;0.0217
+Telia Company AB;0.0202
+KBC Groep NV;0.0202
+Continental AG;0.0079
+FAURECIA SE (IT);0.0014000000000000002
+Likvider m.v.;0.0055000000000000005

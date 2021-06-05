@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Estimat af CAGR efter skat og ÅOP
+lang: dk
+lang-ref: Estimat-af-CAGR-efter-skat-og-ÅOP
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Givet at man har en idé om hvor meget ens strategi i gennemsnit giver per år, 
 kan det være brugbart at estimere hvor meget dette vil svare til efter skat og ÅOP.

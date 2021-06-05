@@ -1,0 +1,242 @@
+Apple Inc;0.1216
+Microsoft Corp;0.09960000000000001
+Amazon.com Inc;0.0774
+Facebook Inc;0.0412
+Alphabet Inc;0.036699999999999997
+Alphabet Inc;0.035699999999999996
+Tesla Inc;0.0296
+Visa Inc;0.0218
+NVIDIA Corp;0.0196
+Mastercard Inc;0.0187
+PayPal Holdings Inc;0.016
+Netflix Inc;0.0138
+Adobe Inc;0.013300000000000001
+Walt Disney Co/The;0.0131
+salesforce.com Inc;0.0116
+Thermo Fisher Scientific Inc;0.0104
+NIKE Inc;0.01
+Eli Lilly and Co;0.009300000000000001
+QUALCOMM Inc;0.0086
+Lowe's Cos Inc;0.008100000000000001
+Boeing Co/The;0.008100000000000001
+Starbucks Corp;0.0070999999999999995
+American Tower Corp;0.006500000000000001
+Applied Materials Inc;0.006500000000000001
+Intuit Inc;0.005699999999999999
+Advanced Micro Devices Inc;0.005699999999999999
+ServiceNow Inc;0.005600000000000001
+Booking Holdings Inc;0.0054
+Danaher Corp;0.0053
+S&P Global Inc;0.0051
+Intuitive Surgical Inc;0.0049
+Lam Research Corp;0.0049
+Charter Communications Inc;0.0049
+Costco Wholesale Corp;0.0048
+Square Inc;0.0046
+TJX Cos Inc/The;0.0044
+FedEx Corp;0.0044
+Abbott Laboratories;0.0040999999999999995
+Zoetis Inc;0.0040999999999999995
+Activision Blizzard Inc;0.0040999999999999995
+Intercontinental Exchange Inc;0.0040999999999999995
+CSX Corp;0.0040999999999999995
+Accenture PLC;0.004
+Estee Lauder Cos Inc/The;0.0039000000000000003
+MercadoLibre Inc;0.0038
+Autodesk Inc;0.0038
+Sherwin-Williams Co/The;0.0037
+Edwards Lifesciences Corp;0.0034999999999999996
+Equinix Inc;0.0034999999999999996
+Boston Scientific Corp;0.0034000000000000002
+Aon PLC;0.0033
+Zoom Video Communications Inc;0.0033
+Illumina Inc;0.0031
+Vertex Pharmaceuticals Inc;0.0031
+Uber Technologies Inc;0.0031
+Twitter Inc;0.0029
+Snap Inc;0.0029
+Twilio Inc;0.0029
+Moody's Corp;0.0028000000000000004
+Regeneron Pharmaceuticals Inc;0.0026
+Dollar General Corp;0.0026
+Align Technology Inc;0.0026
+Workday Inc;0.0025
+IDEXX Laboratories Inc;0.0024
+Capital One Financial Corp;0.0024
+Chipotle Mexican Grill Inc;0.0024
+Ecolab Inc;0.0024
+Monster Beverage Corp;0.0024
+IHS Markit Ltd;0.0024
+Ross Stores Inc;0.0023
+Synopsys Inc;0.0023
+Stryker Corp;0.0023
+Newmont Corp;0.0023
+Lululemon Athletica Inc;0.0023
+Hilton Worldwide Holdings Inc;0.0022
+Cadence Design Systems Inc;0.0022
+DocuSign Inc;0.0022
+Dexcom Inc;0.0022
+Agilent Technologies Inc;0.0021
+Crowdstrike Holdings Inc;0.0021
+Pinterest Inc;0.0021
+Cintas Corp;0.0021
+O'Reilly Automotive Inc;0.002
+Match Group Inc;0.002
+MSCI Inc;0.002
+Veeva Systems Inc;0.002
+Ball Corp;0.002
+SBA Communications Corp;0.0019
+CoStar Group Inc;0.0019
+Teledyne Technologies Inc;0.0019
+ANSYS Inc;0.0018
+Mettler-Toledo International Inc;0.0018
+Marvell Technology Group Ltd;0.0018
+Palo Alto Networks Inc;0.0018
+Fortinet Inc;0.0017000000000000001
+Okta Inc;0.0017000000000000001
+ResMed Inc;0.0017000000000000001
+Electronic Arts Inc;0.0016
+Etsy Inc;0.0016
+Generac Holdings Inc;0.0016
+Copart Inc;0.0016
+HEICO Corp;0.0016
+T-Mobile US Inc;0.0015
+Peloton Interactive Inc;0.0015
+Zebra Technologies Corp;0.0015
+EPAM Systems Inc;0.0015
+Aptiv PLC;0.0015
+Marriott International Inc/MD;0.0015
+Trade Desk Inc/The;0.0015
+RingCentral Inc;0.0015
+Marsh & McLennan Cos Inc;0.0015
+Wayfair Inc;0.0014000000000000002
+FleetCor Technologies Inc;0.0014000000000000002
+MarketAxess Holdings Inc;0.0014000000000000002
+Verisk Analytics Inc;0.0014000000000000002
+West Pharmaceutical Services Inc;0.0014000000000000002
+Horizon Therapeutics Plc;0.0014000000000000002
+Las Vegas Sands Corp;0.0014000000000000002
+Teleflex Inc;0.0013
+TransUnion;0.0013
+Cerner Corp;0.0013
+Slack Technologies Inc;0.0013
+Expedia Group Inc;0.0013
+Seagen Inc;0.0012
+Xilinx Inc;0.0012
+Liberty Broadband Corp;0.0012
+Arista Networks Inc;0.0012
+CDW Corp/DE;0.0012
+Yum! Brands Inc;0.0012
+Zillow Group Inc;0.0012
+Teradyne Inc;0.0012
+Paycom Software Inc;0.0012
+Teladoc Health Inc;0.0012
+Carvana Co;0.0012
+RPM International Inc;0.0011
+Gartner Inc;0.0011
+Amphenol Corp;0.0011
+Roku Inc;0.0011
+Darden Restaurants Inc;0.0011
+HubSpot Inc;0.0011
+Coupa Software Inc;0.0011
+Cheniere Energy Inc;0.0011
+Monolithic Power Systems Inc;0.0011
+Hologic Inc;0.0011
+AutoZone Inc;0.0011
+Roper Technologies Inc;0.0011
+Old Dominion Freight Line Inc;0.0011
+Pioneer Natural Resources Co;0.0011
+Insulet Corp;0.0011
+Molina Healthcare Inc;0.001
+Tractor Supply Co;0.001
+Burlington Stores Inc;0.001
+IQVIA Holdings Inc;0.001
+Zendesk Inc;0.001
+DR Horton Inc;0.001
+Take-Two Interactive Software Inc;0.001
+Ulta Beauty Inc;0.001
+Moderna Inc;0.001
+SolarEdge Technologies Inc;0.001
+Trimble Inc;0.0009
+Rockwell Automation Inc;0.0009
+Datadog Inc;0.0009
+Pool Corp;0.0009
+PTC Inc;0.0009
+IDEX Corp;0.0009
+Cooper Cos Inc/The;0.0009
+Zscaler Inc;0.0009
+Bio-Rad Laboratories Inc;0.0009
+Exact Sciences Corp;0.0009
+Splunk Inc;0.0009
+Fastenal Co;0.0009
+Enphase Energy Inc;0.0009
+Avantor Inc;0.0008
+Brown-Forman Corp;0.0008
+Fair Isaac Corp;0.0008
+Live Nation Entertainment Inc;0.0008
+Skyworks Solutions Inc;0.0008
+Domino's Pizza Inc;0.0008
+Masco Corp;0.0008
+Cloudflare Inc;0.0008
+Keysight Technologies Inc;0.0008
+Ceridian HCM Holding Inc;0.0008
+Incyte Corp;0.0008
+Novocure Ltd;0.0008
+Tyler Technologies Inc;0.0007000000000000001
+FactSet Research Systems Inc;0.0007000000000000001
+FMC Corp;0.0007000000000000001
+VMware Inc;0.0007000000000000001
+Lamb Weston Holdings Inc;0.0007000000000000001
+Dynatrace Inc;0.0007000000000000001
+Cognex Corp;0.0007000000000000001
+Catalent Inc;0.0007000000000000001
+Qorvo Inc;0.0007000000000000001
+ABIOMED Inc;0.0007000000000000001
+Broadridge Financial Solutions Inc;0.0007000000000000001
+Xylem Inc/NY;0.0007000000000000001
+GoDaddy Inc;0.0007000000000000001
+Allegion plc;0.0007000000000000001
+Avalara Inc;0.0007000000000000001
+10X Genomics Inc;0.0007000000000000001
+Waters Corp;0.0007000000000000001
+PerkinElmer Inc;0.0007000000000000001
+Airbnb Inc;0.0006
+Voya Financial Inc;0.0006
+XPO Logistics Inc;0.0006
+AMETEK Inc;0.0006
+Neurocrine Biosciences Inc;0.0006
+Vail Resorts Inc;0.0006
+Alexion Pharmaceuticals Inc;0.0006
+IPG Photonics Corp;0.0006
+VeriSign Inc;0.0006
+Snowflake Inc;0.0006
+Plug Power Inc;0.0005
+Altice USA Inc;0.0005
+Wynn Resorts Ltd;0.0005
+Sirius XM Holdings Inc;0.0005
+Citrix Systems Inc;0.0005
+Black Knight Inc;0.0005
+Nordson Corp;0.0005
+Clorox Co/The;0.0005
+Sunrun Inc;0.0005
+MongoDB Inc;0.0005
+Hershey Co/The;0.0005
+Tradeweb Markets Inc;0.0005
+SS&C Technologies Holdings Inc;0.0005
+Alnylam Pharmaceuticals Inc;0.0005
+IAC/InterActiveCorp;0.0005
+Masimo Corp;0.0005
+Cabot Oil & Gas Corp;0.0004
+Varian Medical Systems Inc;0.0004
+Akamai Technologies Inc;0.0004
+Ionis Pharmaceuticals Inc;0.0004
+Sarepta Therapeutics Inc;0.0004
+BioMarin Pharmaceutical Inc;0.0004
+Chewy Inc;0.0003
+Lennox International Inc;0.0003
+Dropbox Inc;0.0003
+Guidewire Software Inc;0.0003
+Southwest Airlines Co;0.0002
+Expeditors International of Washington Inc;0.0002
+Waste Connections Inc;0.0001
+Cable One Inc;0.0

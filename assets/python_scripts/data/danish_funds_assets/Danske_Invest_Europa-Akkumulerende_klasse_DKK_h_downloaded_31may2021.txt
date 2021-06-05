@@ -1,0 +1,46 @@
+Nestle (Regd);0.0452
+ASML Holding NV;0.0446
+Roche Holding (genusscheine);0.039
+LVMH Moet Hennessy Louis Vuitton SE (FR);0.0353
+AstraZeneca Ord (GBP);0.0304
+Siemens AG (Regd);0.030299999999999997
+Zurich Insurance Group Regd (CH);0.026699999999999998
+Schneider Electric;0.0254
+Reckitt Benckiser Group Plc;0.0254
+Unilever Plc Ord;0.0253
+Novo Nordisk B;0.0246
+SAP SE (Ord);0.0246
+Sanofi (FR);0.024300000000000002
+Royal Philips NV (NL);0.023399999999999997
+Rio Tinto Ord;0.0232
+Sampo Oyj A;0.0231
+Vestas Wind Systems;0.022099999999999998
+DSV;0.022000000000000002
+ENEL SpA;0.0215
+Adidas AG Reg.;0.021400000000000002
+Partners Group (Reg);0.0213
+Nordea Bank Abp (SE) SEK;0.021
+E.ON SE;0.0209
+Total S.A. (FR);0.0207
+Tryg A/S;0.0206
+Kerry Group A;0.020499999999999997
+Equinor ASA;0.020499999999999997
+Adyen B.V.;0.0196
+Michelin B;0.0192
+KBC Groep NV;0.0191
+Alstom;0.0189
+Epiroc Aktiebolag A;0.018600000000000002
+Hexagon AB B;0.0182
+SGS (Regd);0.0175
+Chr. Hansen Holding;0.0168
+Heineken;0.0167
+Telenor ASA;0.0163
+Sika Ltd;0.013999999999999999
+DnB ASA;0.0138
+Antofagasta;0.013500000000000002
+Industria de Diseno Textil SA (INDITEX);0.013300000000000001
+InterContinental Hotels Group PLC;0.0125
+UCB S.A.;0.0118
+Straumann Holding (Regd);0.0113
+Allianz SE;0.009899999999999999
+Likvider m.v.;0.0154

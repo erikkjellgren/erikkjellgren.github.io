@@ -1,0 +1,111 @@
+Australia & New Zealand Banking Group Ltd:6A=F
+Wartsila OYJ Abp:WRTBF
+Wärtsilä Oyj:WRTBF
+Other assets/liabilities:OTHER.OTHER
+HK Electric Investments & HK Electric Investments Ltd:2638.HK
+HKT Trust & HKT Ltd:6823.HK
+Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen:MURGY
+Coca-Cola European Partners PLC:CCEP
+Coca-Cola European Partners PL:CCEP
+AP Moller - Maersk A/S:MAERSK-B.CO
+A.P. Møller - Mærsk B:MAERSK-B.CO
+A.P. Møller - Mærsk A:MAERSK-B.CO
+Likvider m.v.:OTHER.OTHER
+Naspers N Shares:NPSNY
+Ørsted A/S:ORSTED.CO
+Tryg A/S:TRYG.CO
+S&P Global Inc:SPGI
+Orange SA:ORAN
+ORANGE (FR):ORAN
+BlackRock Inc:BLK
+BlackRock Inc. Class A:BLK
+Julius Baer Group Ltd:BAER.SW
+ACS Actividades de Construccion y Servicios SA:ACS.MC
+Cia Energetica de Minas Gerais:CMIG4.SA
+Etablissements Franz Colruyt NV:COLR.BR
+B&M European Value Retail SA:BME.L
+KINGSOFT CLOUD HOLDINGS-ADR:KC
+M&T Bank Corp:MTB
+M&T Bank Corp.:MTB
+Yuan Longping High-tech Agriculture Co Ltd:000998.SZ
+Cia de Minas Buenaventura SAA:BVN
+SCA AB B (Svenska Cellulosa):SCA-B.ST
+M&G PLC:MNG.L
+Inti Agri Resources Tbk PT:IIKP.JK
+B3 SA - Brasil Bolsa Balcao:B3SA3.SA
+Public Bank Bhd:1295.KL
+Kuala Lumpur Kepong Bhd:2445.KL
+Ping An Insurance (Group) Comp. of China:2318.HK
+Kia Motors Corp.:000270.KS
+SES SA:SESG.PA
+SAS AB:SAS.ST
+SAS AB (DK):SAS.ST
+Royal Philips NV (NL):PHG
+Nordea Bank Abp (SE) SEK:NDA-FI.HE
+Adidas AG Reg.:ADDYY
+Mastercard Inc-Class A:MA
+Arkema France:AKE.PA
+Deere and Co.:DE
+Deutsche Börse AG:DB1.DE
+BMW Bayerische Motoren-Werke AG (Ord):BMW.DE
+BMW Bayerische Motoren-Werke AG (Pref):BMW.DE
+Adyen B.V.:ADYEN.AS
+Epiroc Aktiebolag A:EPOKY
+Epiroc Aktiebolag B:EPOKY
+SS&C Technologies Holdings Inc:SSNC
+LVMH Moet Hennessy Louis Vuitton SE (FR):MC.PA
+TRADE DESK INC THE -CLASS A:TTD
+CDW Corporation of Delaware:CDW
+Expedia Inc Del:EXPE
+IAC/INTERACTIVECORP(NEW):IAC
+BioMarin Pharmaceuticals Inc:BMRN
+Sunny Optical Technology (Group) Co Ltd:2382.HK
+Cie Financiere Richemont SA (Reg):CFR.SW
+Cie Financiere Richemont SA:CFR.SW
+Cie de Saint-Gobain SA:SGO.PA
+LUKOIL Oil Company PJSC (USD):LKOH.ME
+Surgutneftegaz Pref. (USD):SGTZY
+Halyk Savings Bank-GDR REG S:H4L1.F
+Eregli Demir ve Celik Fabrik:EREGL.IS
+Haci Omer Sabanci Holding AS:SAHOL.IS
+CEZ a.s.:CEZ.PR
+Greek Organisation of Football Prognostics:GOFPY
+X5 Retail GDR (GB):FIVE.ME
+Tatneft Pref. (USD):TATN.ME
+Moscow Exchange MICEX-RTS OJSC (B9GFHQ6) (USD):MOEX.ME
+Turk Telekommunikasyon AS:TTKOM.IS
+CD Projekt Red SA:OTGLY
+Nova Ljubljanska Banka dd:NLB.IL
+Ulker Biskuvi Sanayi A.S.:UELKY
+China Everbright International Ltd:0257.HK
+Sun King Power Electronics Group Ltd:0580.HK
+WuXi Biologics new:2269.HK
+China Pacific Insurance (Group) Co Ltd:601601.SS
+Tingyi (Cayman Islands) Holding Corp.:0322.HK
+CIFI Holdings (Group) Co. Ltd. (HKD):0884.HK
+China International Travel Service Corp Ltd:601888.SS
+Shimao Property Holdings Ltd:0813.HK
+Sunny Optical Technology (Group) Co Ltd:2382.HK
+Angang New Steel Serie H:000898.SZ
+BILIBILI INC-CLASS Z (HK):BILI
+Ctrip.com International Ltd ADR:9961.HK
+Københavns Lufthavne:KBHL.CO
+LVMH Moet Hennessy Louis Vuitton SE:MC.PA
+Alkermes Plc Ord.:ALKS
+Ringkjøbing Landbobank A/S:RILBA.CO
+Mphasis BFL Ltd.:MPHASIS.NS
+Aisin Seiki:7259.T
+Grupo Aeroportuario del Centro Norte B8 -ADR:OMAB
+Gree Electrical Appliances Inc of Zhuhai:000651.SZ
+ANZ Australia & New Zealand Banking Group:ANZ.AX
+GHL Systems Bhd:0021.KL
+Multiplan Empreendimentos Imobiliarios:MULT3.SA
+GDS Holdings Ltd. Sponsored ADR Class A:9698.HK
+Ultra Tech Cement Ltd.:ULTRACEMCO.NS
+Daiwa House Industry Corp.:1925.T
+PT Bank Nisp Tbk:NISP.JK
+Kardex AG Regd.:KARN.SW
+Murata Mfg. Co:6981.T
+FILA Fabbrica Italiana Lapis ed Affini SpA:FILA.MI
+Kyowa Hakko Kirin Co. Ltd:4151.T
+U.I.E. (stk A 10 USD):UIE.CO

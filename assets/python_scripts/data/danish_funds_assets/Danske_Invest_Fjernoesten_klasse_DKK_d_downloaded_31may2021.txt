@@ -1,0 +1,61 @@
+Taiwan Semiconductor Manufacturing Co.;0.09300000000000001
+Samsung Electronics (Pref.);0.08869999999999999
+Tencent Holdings Ltd.;0.0885
+Alibaba Group Holding Ltd;0.042699999999999995
+AIA Group Ltd;0.039900000000000005
+Housing Development Finance;0.0292
+Ping An Insurance (Group) Comp. of China;0.0229
+PT Bank Central Asia Tbk;0.021400000000000002
+Kweichow Moutai Co Ltd;0.021099999999999997
+Hong Kong Exchanges & Clearing Ltd.;0.0208
+China Merchants Bank - H;0.0206
+China Resources Land Ltd.;0.018799999999999997
+Hindustan Unilever Limited;0.018500000000000003
+Tata Consultancy Services Ltd.;0.0176
+ASML Holding NV;0.0171
+Fortis Healthcare Ltd;0.0159
+LG Chem Ltd.;0.0158
+Meituan Dianping;0.015
+NetEase Inc. (ADR);0.0146
+China International Travel Service Corp Ltd;0.0146
+DBS Group Holding;0.013999999999999999
+WuXi Biologics new;0.0129
+China Resources Gas Group Ltd;0.0127
+GDS Holdings Ltd. Sponsored ADR Class A;0.0126
+Ultra Tech Cement Ltd.;0.0125
+Samsung SDI;0.012199999999999999
+Centre Testing International Group LTD A;0.012199999999999999
+Siam Cement Public Co. (Foreign);0.0118
+Shenzhou International Group Ltd;0.011699999999999999
+Yum China Holdings Inc;0.011399999999999999
+Oversea-Chinese Banking Corp. Ltd;0.011399999999999999
+SBI Life Insurance Co Ltd S;0.0108
+Yunnan Energy New Material Co.;0.0106
+Sands China Ltd.;0.0103
+Kotak Mahindra Bank Ltd;0.0102
+NARI Technology Co., Ltd. Class A;0.0102
+Chroma Ate Inc.;0.0102
+LONGi Green Energy Technology Co Ltd Class A;0.0095
+New Oriental Education & Technology Group ADR;0.0091
+Airtac International Group;0.0088
+Budweiser Brewing Company APAC Limited;0.0086
+Silergy Corp;0.0084
+Conch Cement Ltd (HK);0.008199999999999999
+China Conch Venture Holdings Ltd;0.008100000000000001
+Shanghai International Airport Co Ltd. - A;0.0077
+Ayala Land Inc;0.0075
+Accton Technology Corp.;0.0067
+Samsung Biologics Co Ltd;0.0066
+Glodon Company Limited A;0.005699999999999999
+Wanhua Chemical Group Co. Ltd. Class A;0.005699999999999999
+CapitaLand;0.005699999999999999
+City Developments;0.005699999999999999
+Central Pattana Public Co Ltd (Foreign);0.0054
+ASM International;0.0054
+Sea A Ltd ADR;0.0053
+Singapore Telecommunications Ltd;0.0052
+Hangzhou Tigermed Consulting Co Ltd A;0.005
+KE Holdings, Inc. Sponsored ADR Class A;0.0040999999999999995
+JD Health International Inc.;0.0026
+Hangzhou Tigermed Consulting Co Ltd H;0.0015
+Likvider m.v.;0.018799999999999997

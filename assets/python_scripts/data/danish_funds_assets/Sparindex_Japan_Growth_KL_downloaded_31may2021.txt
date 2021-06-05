@@ -1,0 +1,143 @@
+Sony Group Corp;0.0659
+Keyence Corp;0.044199999999999996
+Recruit Holdings Co Ltd;0.0344
+Nintendo Co Ltd;0.0335
+Tokyo Electron Ltd;0.0317
+Shin-Etsu Chemical Co Ltd;0.0315
+Takeda Pharmaceutical Co Ltd;0.028300000000000002
+Nidec Corp;0.0273
+Murata Manufacturing Co Ltd;0.025699999999999997
+Daikin Industries Ltd;0.025699999999999997
+FANUC Corp;0.0248
+Hoya Corp;0.0229
+SoftBank Group Corp;0.0227
+Fast Retailing Co Ltd;0.0212
+SMC Corp;0.0174
+Daiichi Sankyo Co Ltd;0.016200000000000003
+Kao Corp;0.0158
+Oriental Land Co Ltd/Japan;0.0158
+Astellas Pharma Inc;0.0154
+Denso Corp;0.0149
+M3 Inc;0.0149
+Chugai Pharmaceutical Co Ltd;0.0143
+Shiseido Co Ltd;0.0141
+Olympus Corp;0.0118
+Terumo Corp;0.011399999999999999
+Aeon Co Ltd;0.010700000000000001
+ITOCHU Corp;0.0104
+TDK Corp;0.0104
+Nitori Holdings Co Ltd;0.0102
+Shimano Inc;0.0089
+Sysmex Corp;0.0089
+Eisai Co Ltd;0.0085
+Advantest Corp;0.0085
+Kirin Holdings Co Ltd;0.0083
+Unicharm Corp;0.008199999999999999
+Nexon Co Ltd;0.0078000000000000005
+NEC Corp;0.0075
+Hitachi Ltd;0.0075
+Bandai Namco Holdings Inc;0.0069
+Obic Co Ltd;0.0068000000000000005
+Toshiba Corp;0.0066
+Z Holdings Corp;0.0064
+Secom Co Ltd;0.0063
+Yaskawa Electric Corp;0.006
+Kikkoman Corp;0.0058
+Japan Exchange Group Inc;0.0058
+Nippon Paint Holdings Co Ltd;0.0054
+Daifuku Co Ltd;0.0051
+Rakuten Group Inc;0.0051
+Lasertec Corp;0.0049
+NTT Data Corp;0.0049
+Nomura Research Institute Ltd;0.0049
+Pan Pacific International Holdings Corp;0.0048
+Ono Pharmaceutical Co Ltd;0.004699999999999999
+MINEBEA MITSUMI Inc;0.0046
+Yamato Holdings Co Ltd;0.0040999999999999995
+Suzuki Motor Corp;0.0040999999999999995
+Renesas Electronics Corp;0.0040999999999999995
+Nihon M&A Center Inc;0.0040999999999999995
+Hamamatsu Photonics KK;0.004
+MISUMI Group Inc;0.0039000000000000003
+Other assets/liabilities;0.0039000000000000003
+Shimadzu Corp;0.0038
+Sumitomo Chemical Co Ltd;0.0037
+SG Holdings Co Ltd;0.0036
+Omron Corp;0.0034999999999999996
+MonotaRO Co Ltd;0.0032
+CyberAgent Inc;0.0032
+Makita Corp;0.0032
+Nissan Chemical Corp;0.0032
+Yakult Honsha Co Ltd;0.003
+Hikari Tsushin Inc;0.003
+GMO Payment Gateway Inc;0.003
+Rohm Co Ltd;0.0029
+Capcom Co Ltd;0.0029
+Ajinomoto Co Inc;0.0029
+Ryohin Keikaku Co Ltd;0.0028000000000000004
+Konami Holdings Corp;0.0027
+Azbil Corp;0.0026
+Keio Corp;0.0025
+TIS Inc;0.0025
+Square Enix Holdings Co Ltd;0.0025
+Asahi Intecc Co Ltd;0.0025
+Otsuka Corp;0.0025
+Yamaha Corp;0.0024
+Miura Co Ltd;0.0024
+Ibiden Co Ltd;0.0024
+Nabtesco Corp;0.0024
+Santen Pharmaceutical Co Ltd;0.0024
+Disco Corp;0.0024
+TOTO Ltd;0.0023
+Nissin Foods Holdings Co Ltd;0.0022
+Kansai Paint Co Ltd;0.0022
+Toho Co Ltd/Tokyo;0.0021
+Kose Corp;0.0021
+Kobayashi Pharmaceutical Co Ltd;0.0021
+THK Co Ltd;0.0021
+Odakyu Electric Railway Co Ltd;0.002
+Mercari Inc;0.002
+Hoshizaki Corp;0.002
+Pigeon Corp;0.002
+Sharp Corp/Japan;0.0019
+Tsuruha Holdings Inc;0.0019
+Persol Holdings Co Ltd;0.0019
+Lion Corp;0.0019
+Trend Micro Inc/Japan;0.0019
+Tobu Railway Co Ltd;0.0018
+SCSK Corp;0.0018
+Kintetsu Group Holdings Co Ltd;0.0017000000000000001
+Nippon Shinyaku Co Ltd;0.0017000000000000001
+Inpex Corp;0.0016
+Kakaku.com Inc;0.0016
+Kobe Bussan Co Ltd;0.0016
+ZOZO Inc;0.0015
+Welcia Holdings Co Ltd;0.0015
+Harmonic Drive Systems Inc;0.0015
+Oracle Corp Japan;0.0015
+Itochu Techno-Solutions Corp;0.0014000000000000002
+Nippon Prologis REIT Inc;0.0014000000000000002
+Sohgo Security Services Co Ltd;0.0014000000000000002
+McDonald's Holdings Co Japan Ltd;0.0014000000000000002
+Ito En Ltd;0.0014000000000000002
+Kyowa Kirin Co Ltd;0.0013
+Koei Tecmo Holdings Co Ltd;0.0013
+Keisei Electric Railway Co Ltd;0.0012
+Coca-Cola Bottlers Japan Holdings Inc;0.0012
+Cosmos Pharmaceutical Corp;0.0012
+Hulic Co Ltd;0.0011
+Suntory Beverage & Food Ltd;0.0011
+Sundrug Co Ltd;0.0011
+LINE Corp;0.0011
+Nagoya Railroad Co Ltd;0.0011
+PeptiDream Inc;0.001
+Seibu Holdings Inc;0.001
+Keihan Holdings Co Ltd;0.0009
+Toho Gas Co Ltd;0.0009
+Keikyu Corp;0.0009
+Rinnai Corp;0.0008
+Toyoda Gosei Co Ltd;0.0008
+Acom Co Ltd;0.0008
+Japan Airport Terminal Co Ltd;0.0007000000000000001
+Calbee Inc;0.0004
+Yamazaki Baking Co Ltd;0.0001

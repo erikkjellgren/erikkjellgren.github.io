@@ -4,9 +4,10 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    {% if post.title contains "(OUT-DATED)" %}
-    {% else %}
+{% for post in site.posts %}
+  {% if post.title contains "(OUT-DATED)" %}
+  {% elsif post.lang contains "dk" %}
+  {% else %}
       <div class="post">
         <h1 class="post-title">
           <!a href="{{ site.baseurl }}/{{ post.url }}">
@@ -14,36 +15,25 @@ title: Home
             {{ post.title }}
           </a>
         </h1>
-        {% if post.content contains "<!-- python_split -->" %}
-          {{ post.content | split:"<!-- python_split -->" | first }}
-          <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
-          {% include adsense.html %}
-          {{ post.content | split:"<!-- python_split -->" | last }}
-        {% else %}
-          {{ post.content }}
-          <i>If you enjoyed this post you can donate a </i><a target="_blank" class="nav-link" href="https://www.buymeacoffee.com/erikrk">coffee <i class="fa fa-coffee text-danger"></i></a><i>, if you like :)</i>
-          {% include adsense.html %}
+        {{ post.content | strip_html | truncatewords: 40 }}
+        
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
         {% endif %}
+      {% endfor %}
+      
+      <hr>
       </div>
       {{ post.aside }}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/blog/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
   {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/blog/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/blog/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+{% endfor %}
 </div>
 

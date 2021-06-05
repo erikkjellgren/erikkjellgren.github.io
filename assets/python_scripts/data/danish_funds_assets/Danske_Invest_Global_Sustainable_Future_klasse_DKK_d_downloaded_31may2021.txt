@@ -1,0 +1,38 @@
+Alphabet Inc A;0.0594
+Microsoft Corp.;0.0592
+Roche Holding (genusscheine);0.0375
+AIA Group Ltd;0.0364
+Morningstar Inc;0.035699999999999996
+JPMorgan Chase & Co.;0.0333
+Cisco Systems Inc.;0.0321
+Visa Inc Class A;0.0319
+Texas Instruments (USD);0.0318
+Ecolab Inc.;0.0318
+NextEra Energy Inc.;0.0316
+Colgate-Palmolive Co.;0.0313
+Deere and Co.;0.031200000000000002
+Starbucks Corp;0.030299999999999997
+Zurich Insurance Group Regd (CH);0.0288
+Avangrid Inc;0.0286
+Medtronic PLC;0.0282
+Vestas Wind Systems;0.0274
+Intuit Inc.;0.0271
+Novo Nordisk B;0.0256
+ABB (Regd);0.0245
+Sandvik AB;0.0242
+Autodesk Inc.;0.0239
+Cerner Corp.;0.023799999999999998
+SSE Plc Ord;0.0229
+Xylem Inc;0.022000000000000002
+Toronto-Dominion Bank (CA);0.0219
+Trane Technologies plc;0.021
+Agilent Technologies Inc.;0.020499999999999997
+Nestle (Regd);0.0189
+Rockwell Automation Inc.;0.0173
+Ørsted A/S;0.0161
+Adidas AG Reg.;0.015600000000000001
+BorgWarner Inc.;0.0143
+Antofagasta;0.0115
+Akamai Technologies Inc.;0.01
+Novozymes B;0.0077
+Likvider m.v.;0.0052

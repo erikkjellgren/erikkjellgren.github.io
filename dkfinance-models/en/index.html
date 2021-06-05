@@ -1,0 +1,35 @@
+---
+layout: default
+title: Home
+lang: en
+---
+
+<div class="posts">
+
+<em>{{ site.data.translations['differentLanguage'][page.lang] }}:</em>
+<a title="{{ site.data.languages['dk'].label }}" class="{{'dk'}}" href="{{ page.url | replace:'en/','dk/' }}">{{ site.data.languages['dk'].icon }}</a>
+<a title="{{ site.data.languages['en'].label }}" class="{{'en'}}" href="{{ site.base-url }}">{{ site.data.languages['en'].icon }}</a>
+
+
+<hr>
+{% for post in site.posts %}
+  {% if post.title contains "(OUT-DATED)" %}
+  {% elsif post.lang contains "dk" %}
+  {% elsif post.tag contains "dkfinance" %}
+      <div class="post">
+        <h1 class="post-title">
+          <!a href="{{ site.baseurl }}/{{ post.url }}">
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        {{ post.content | strip_html | truncatewords: 40 }}
+      
+      <hr>
+      </div>
+      {{ post.aside }}
+  {% else %}
+  {% endif %}
+{% endfor %}
+</div>
+

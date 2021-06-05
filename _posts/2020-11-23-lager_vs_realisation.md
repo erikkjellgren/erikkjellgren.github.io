@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Danske investeringsforeninger vs. ETFer beskatning
+lang: dk
+lang-ref: Danske-investeringsforeninger-vs.-ETFer-beskatning
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Nogen Danske investeringsforeninger er realisationsbeskattet givet at de udfylde kriterier
 vedrørende udbetaling af udbytte.

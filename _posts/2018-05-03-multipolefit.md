@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Multipole fit with Lagrangian multipliers
+lang: en
+lang-ref: Multipole fit with Lagrangian multipliers
 ---
 
 Consider the electrostatic potential due to multipoles places at the position of atoms:

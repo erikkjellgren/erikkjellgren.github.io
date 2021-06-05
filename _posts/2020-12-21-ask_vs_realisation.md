@@ -1,9 +1,10 @@
 ---
 layout: post
 title: ASK vs realisationsbeskatning
+lang: dk
+lang-ref: ASK-vs-realisationsbeskatning
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Aktiesparekonto (ASK) har begge lav beskatningsprocent på 17%,
 men er tilgængelig lagerbeskattet.

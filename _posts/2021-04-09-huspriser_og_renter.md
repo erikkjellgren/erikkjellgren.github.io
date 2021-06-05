@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Huspriser og renter
+lang: dk
+lang-ref: huspriser-og-renter
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Over de sidste 25 år har huspriserne i gennemsnit steget med en faktor 3.5.
 Men hvilke drivere har være de primære til denne prisstigning, og kan disse fortsætte fremadrettet.

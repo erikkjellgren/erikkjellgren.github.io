@@ -16,10 +16,10 @@ highlighter:         rouge
 
 # Add pages here to add to header
 pages_list:
-  dkfinance-models: '/dkfinance-models'
+  dkfinance-models: '/dkfinance-models/dk'
   Blog: '/blog'
-  Archive: '/archive'
 
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+

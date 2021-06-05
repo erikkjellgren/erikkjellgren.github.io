@@ -1,0 +1,1472 @@
+Apple Inc.;0.038599999999999995
+Microsoft Corp.;0.0315
+Amazon.com;0.024399999999999998
+Facebook Inc A (US);0.0131
+Alphabet Inc C;0.011399999999999999
+Alphabet Inc A;0.0113
+Tesla Inc (US);0.009399999999999999
+JPMorgan Chase & Co.;0.0088
+Johnson & Johnson;0.008100000000000001
+Visa Inc Class A;0.0068000000000000005
+Berkshire Hathaway Inc. B;0.0068000000000000005
+UnitedHealth Group Inc.;0.0067
+Procter & Gamble Co.;0.006500000000000001
+Walt Disney (USD);0.0062
+Nestle (Regd);0.0062
+Nvidia Corp. (US);0.0060999999999999995
+Home Depot Inc.;0.0060999999999999995
+Mastercard Inc-Class A;0.006
+Bank of America Corp.;0.005699999999999999
+PayPal Holdings Inc (US);0.005
+Intel Corp.;0.0049
+Exxon Mobil Corp.;0.0048
+ASML Holding NV;0.0048
+Comcast Corp. A;0.0046
+Verizon Communications Inc. (US);0.0046
+Chevron Corp.;0.0043
+Cisco Systems Inc.;0.0043
+NetFlix Inc;0.0043
+Roche Holding (genusscheine);0.0042
+AT&T Inc.;0.0042
+Adobe Systems Inc. (US);0.0042
+Coca Cola Co (US);0.0042
+Abbott Laboratories (US);0.0039000000000000003
+Pfizer Inc. (US);0.0038
+PepsiCo Inc.;0.0038
+Merck & Co. Inc. (US);0.0037
+Novartis (Regd) (CHF);0.0036
+Wal-Mart Stores Inc.;0.0036
+Salesforce.com Inc.;0.0036
+AbbVie Inc;0.0036
+Broadcom Inc;0.0034999999999999996
+LVMH Moet Hennessy Louis Vuitton SE (FR);0.0034999999999999996
+Thermo Fisher Scientific Inc;0.0034000000000000002
+Accenture Plc A (USD);0.0033
+Texas Instruments (USD);0.0032
+Nike Inc B;0.0032
+Toyota Motor Corp.;0.0031
+McDonalds Corp.;0.0031
+Eli Lilly & Co.;0.003
+Medtronic PLC;0.003
+NextEra Energy Inc.;0.003
+Union Pacific Corp.;0.003
+Wells Fargo Co. (US);0.0029
+Citigroup Inc. (US);0.0029
+Costco Wholesale Corp.;0.0029
+QUALCOMM Inc. (US);0.0028000000000000004
+Unilever Plc Ord;0.0028000000000000004
+Linde PLC (US);0.0028000000000000004
+Amgen Inc.;0.0027
+Bristol-Myers Squibb Co. (US);0.0027
+AIA Group Ltd;0.0027
+Danaher Corp. (US);0.0027
+Lowes Co.;0.0026
+Oracle Corp.;0.0026
+Siemens AG (Regd);0.0026
+Total S.A. (FR);0.0026
+Royal Bank of Canada;0.0025
+AstraZeneca Ord (GBP);0.0025
+Softbank Group Corp (JP);0.0025
+Sony Corp.;0.0024
+Caterpillar Inc.;0.0024
+SAP SE (Ord);0.0024
+Starbucks Corp;0.0024
+Applied Materials Inc.;0.0023
+IBM;0.0023
+3M Co.;0.0023
+Toronto-Dominion Bank (CA);0.0023
+Shopify Inc A;0.0023
+General Electric Co. (US);0.0022
+HSBC Holdings Plc Ord (UK Reg);0.0022
+BlackRock Inc. Class A;0.0022
+Commonwealth Bank of Australia;0.0022
+Novo Nordisk B;0.0022
+United Parcel Service Inc. B U.P.S.;0.0022
+Deere and Co.;0.0022
+Royal Dutch Shell Plc B Ord;0.0022
+Sanofi (FR);0.0021
+Morgan Stanley;0.0021
+Goldman Sachs Group Inc.;0.002
+BHP Billiton Ltd;0.002
+Allianz SE;0.002
+American Tower Corp;0.002
+American Express;0.0019
+CVS Health Corp.;0.0019
+Charles Schwab Corp.;0.0019
+Intuit Inc.;0.0019
+Micron Technology;0.0019
+Diageo Plc (GB);0.0019
+L Oreal;0.0018
+GlaxoSmithKline Plc Ord (GBP);0.0018
+ServiceNow Inc.;0.0018
+Booking Holding Inc;0.0018
+BP Plc;0.0018
+Canadian National Railway Co. (CA);0.0018
+CSL Ltd.;0.0018
+Mondelez International Inc;0.0018
+Advanced Micro Devices Inc.;0.0017000000000000001
+Rio Tinto Ord;0.0017000000000000001
+Target Corp;0.0017000000000000001
+Anthem Inc.;0.0017000000000000001
+Charter Communications Inc;0.0017000000000000001
+Intuitive Surgical Inc.;0.0017000000000000001
+Fidelity National Information;0.0017000000000000001
+Cigna Corporation;0.0017000000000000001
+Lam Research Corp.;0.0016
+ENEL SpA;0.0016
+Square Inc A;0.0016
+S&P Global Inc;0.0016
+Iberdrola SA;0.0016
+Automatic Data Processing Inc;0.0016
+Stryker Corp.;0.0016
+CSX Corp.;0.0016
+Schneider Electric;0.0015
+Keyence Corp.;0.0015
+Bank of Nova Scotia;0.0015
+Gilead Sciences Inc.;0.0015
+ProLogis Inc.;0.0015
+Truist Financial Corporation;0.0015
+Duke Energy Corp;0.0015
+U.S. Bancorp;0.0015
+TJX Co. Inc.;0.0015
+Zoetis Inc A;0.0015
+Illinois Tool Works Inc.;0.0015
+PNC Financial Services Group Inc.;0.0015
+General Motors Co.;0.0014000000000000002
+Norfolk Southern Corp;0.0014000000000000002
+BASF SE;0.0014000000000000002
+CME Group Inc;0.0014000000000000002
+Crown Castle REIT Inc;0.0014000000000000002
+Daimler AG;0.0014000000000000002
+Air Liquide SA (FR);0.0014000000000000002
+Chubb Ltd (USD);0.0014000000000000002
+Dominion Energy Inc;0.0014000000000000002
+MercadoLibre Inc;0.0013
+Colgate-Palmolive Co.;0.0013
+T-Mobile US Inc;0.0013
+Activision Blizzard Inc.;0.0013
+Singapore Technologies Engineering;0.0013
+Recruit Holdings Co.Ltd.;0.0013
+Reckitt Benckiser Group Plc;0.0013
+Becton Dickinson & Co.;0.0013
+Fiserv Inc.;0.0013
+Deutsche Telekom AG (Regd);0.0013
+Estee Lauder Co. A;0.0013
+Hong Kong Exchanges & Clearing Ltd.;0.0013
+Westpac Banking Corp;0.0013
+Zurich Insurance Group Regd (CH);0.0013
+FedEx Corp.;0.0013
+BNP Paribas S.A.;0.0013
+National Australia Bank Ltd;0.0012
+BHP GROUP PLC;0.0012
+Mitsubishi UFJ Financial Group;0.0012
+Bayer AG;0.0012
+ANZ Australia & New Zealand Banking Group;0.0012
+Marsh & McLennan Co. Inc.;0.0012
+Intercontinental Exchange Inc;0.0012
+TransDigm Group, Inc.;0.0012
+Tokyo Electron;0.0012
+Global Payments Inc.;0.0012
+Capital One Financial Corp.;0.0012
+Air Products & Chemicals Inc;0.0012
+Zoom Video Communications Inc. (A) (A);0.0011
+UBS Group Inc;0.0011
+Bank of Montreal (CAD);0.0011
+Nintendo;0.0011
+Banco Santander SA;0.0011
+Eaton Corporation Plc (USD);0.0011
+Equinix Inc (US);0.0011
+Shin-Etsu Chemical Co;0.0011
+Sherwin-Williams Co.;0.0011
+Teledyne Technologies Inc.;0.0011
+Prudential Plc Ord;0.0011
+Adidas AG Reg.;0.0011
+Vinci SA;0.0011
+Humana Inc.;0.0011
+Autodesk Inc.;0.0011
+Takeda Pharmaceutical;0.0011
+Canadian Pacific Railway;0.0011
+Illumina Inc.;0.0011
+Ecolab Inc.;0.0011
+Emerson Electric Co.;0.0011
+Analog Devices Inc;0.0011
+RELX PLC;0.0011
+ABB (Regd);0.0011
+Kinder Morgan Inc;0.0011
+HCA Healthcare Inc;0.001
+Vertex Pharmaceuticals Inc. (USD);0.001
+Boston Scientific Corp.;0.001
+Nidec Corp.;0.001
+NXP Semiconductors N.V. (USD);0.001
+Progressive Corp;0.001
+Kimberly-Clark Corp.;0.001
+AXA SA (FR);0.001
+MetLife Inc.;0.001
+Uber Technologies Inc;0.001
+Kering;0.001
+Infineon Technologies AG;0.001
+Newmont Mining Corp.;0.001
+HEICO Corp A;0.001
+Aon PLC;0.001
+Exelon Corp.;0.001
+Prosus NV;0.001
+Waste Management Inc.;0.001
+Edwards Lifesciences Corp.;0.001
+Moodys Corp.;0.001
+KDDI Corp.;0.001
+Vodafone Group Plc (GB);0.001
+KLA Corp;0.001
+Honda Motor Co. Ltd.;0.001
+Cie Financiere Richemont SA (Reg);0.001
+Royal Philips NV (NL);0.001
+Daiichi Sankyo Co. Ltd.;0.001
+Volkswagen AG (Pref);0.001
+Dow Inc;0.0009
+Eni SpA;0.0009
+HP Inc (US);0.0009
+National Grid Plc;0.0009
+Roper Technologies Inc;0.0009
+Anheuser-Busch InBev SA/NV;0.0009
+Daikin Industries;0.0009
+Ford Motor Co. (US);0.0009
+Regeneron Pharmaceuticals Inc.;0.0009
+Twitter Inc;0.0009
+Manulife Financial Corp.;0.0009
+Deutsche Post AG;0.0009
+EOG Resources Inc.;0.0009
+Royal Dutch Shell Plc A Ord;0.0009
+Sumitomo Mitsui Financial Group Inc.;0.0009
+Snap Inc A;0.0009
+Prudential Financial Inc.;0.0009
+Parker-Hannifin Corp.;0.0009
+ING Groep NV;0.0009
+Fanuc Corporation;0.0009
+Twilio Inc A;0.0009
+Essilor International SA;0.0009
+Canadian Imperial Bank of Commerce;0.0009
+Sempra Energy Corp.;0.0009
+Danone;0.0009
+Barclays Plc Ord;0.0009
+Johnson Controls International PLC (USD);0.0009
+Itochu Corp.;0.0008
+Biogen Inc;0.0008
+Hitachi;0.0008
+Murata Mfg. Co;0.0008
+CRH (IE);0.0008
+Workday Inc;0.0008
+TE Connectivity Ltd (USD);0.0008
+American International Group Inc.;0.0008
+Cognizant Technology Solutions Corp.;0.0008
+Macquarie Group Ltd.;0.0008
+Xcel Energy Inc.;0.0008
+Dollar General Corp.;0.0008
+Ross Stores Inc.;0.0008
+Constellation Brands Inc-A;0.0008
+Fast Retailing;0.0008
+Schlumberger (USD);0.0008
+Munich RE (Regd);0.0008
+eBay Inc;0.0008
+IDEXX Laboratories Inc.;0.0008
+Hoya Corp.;0.0008
+Lonza Group (Regd);0.0008
+Lloyds Banking Group Plc Ord;0.0008
+AFLAC Inc.;0.0008
+Mitsubishi Corp.;0.0008
+Trane Technologies plc;0.0008
+Baxter International Inc.;0.0008
+Agilent Technologies Inc.;0.0008
+Sysco Corp.;0.0008
+Walgreens Boots Alliance Inc;0.0008
+Intesa Sanpaolo SpA;0.0008
+IQVIA Holdings Inc;0.0008
+DowDuPont Inc New;0.0008
+T. Rowe Price Group Inc.;0.0008
+Travelers Companies Inc.;0.0008
+Public Storage;0.0008
+Cummins Inc.;0.0008
+Marriott International Inc. A;0.0008
+Microchip Technology Inc.;0.0008
+Bank of New York Mellon Corp.;0.0008
+WOOLWORTHS GROUP LIMITED;0.0008
+Simon Property Group Inc;0.0008
+Vestas Wind Systems;0.0008
+Align Technology Inc.;0.0008
+WEC Energy Group Inc;0.0008
+General Mills Inc.;0.0008
+IHS Markit Ltd;0.0008
+Wesfarmers Ltd;0.0008
+Investor AB B;0.0008
+Pioneer Natural Resources Co.;0.0007000000000000001
+SoftBank Corp.;0.0007000000000000001
+Public Service Enterprise Group;0.0007000000000000001
+Amphenol Corp. A;0.0007000000000000001
+Adyen B.V.;0.0007000000000000001
+Monster Beverage Corp;0.0007000000000000001
+Ericsson, Telefon AB LM B;0.0007000000000000001
+Pernod Ricard;0.0007000000000000001
+Sun Life Financial Inc. (CA);0.0007000000000000001
+Williams Co. Inc.;0.0007000000000000001
+Digital Realty Trust Inc.;0.0007000000000000001
+Mitsui and Co;0.0007000000000000001
+Electronic Arts Inc;0.0007000000000000001
+Lululemon Athletica Inc;0.0007000000000000001
+Volvo B;0.0007000000000000001
+Arconic Inc;0.0007000000000000001
+Nippon Telegraph & Telephone;0.0007000000000000001
+Delphi Automotive PLC;0.0007000000000000001
+Cadence Design Systems Inc.;0.0007000000000000001
+Hermes International;0.0007000000000000001
+Centene Corp;0.0007000000000000001
+Synopsys Inc.;0.0007000000000000001
+Rio Tinto Ltd;0.0007000000000000001
+Experian PLC;0.0007000000000000001
+Allstate Corp.;0.0007000000000000001
+Compass Group;0.0007000000000000001
+Discover Financial Services;0.0007000000000000001
+Atlas Copco AB B;0.0007000000000000001
+Sika Ltd;0.0007000000000000001
+Valero Energy Corp.;0.0007000000000000001
+PPG Industries Inc.;0.0007000000000000001
+Pinterest Inc. (A) (A);0.0007000000000000001
+Eversource Energy;0.0007000000000000001
+MTU Aero Engines AG;0.0007000000000000001
+Paddy Power Betfair Plc;0.0007000000000000001
+Stellantis N.V. (IT);0.0007000000000000001
+Chipotle Mexican Grill Inc. Class A;0.0007000000000000001
+Moderna Inc.;0.0007000000000000001
+SMC Corp.;0.0007000000000000001
+Paychex;0.0007000000000000001
+CK Hutchison Holdings Ltd;0.0007000000000000001
+Banco Bilbao Vizcaya Argentaria SA;0.0007000000000000001
+Corning Inc.;0.0007000000000000001
+Stanley Black & Decker Inc.;0.0007000000000000001
+MSCI Inc;0.0007000000000000001
+PACCAR Inc.;0.0007000000000000001
+Roku Inc A;0.0007000000000000001
+Mizuho Financial Group Inc.;0.0007000000000000001
+DSV;0.0006
+Hilton Inc;0.0006
+DocuSign Inc  ;0.0006
+Yum Brands;0.0006
+Veeva Systems Inc A;0.0006
+Carrier Global Corporation;0.0006
+Corteva Inc;0.0006
+CoStar Group Inc;0.0006
+Dexcom Inc.;0.0006
+D.R. Horton Inc.;0.0006
+Zimmer Biomet Holdings Inc (USD);0.0006
+Kao Corp.;0.0006
+Marvell Technology Group (USD);0.0006
+BMW Bayerische Motoren-Werke AG (Ord);0.0006
+Industria de Diseno Textil SA (INDITEX);0.0006
+Welltower Inc;0.0006
+O Reilly Automotive Inc;0.0006
+Lyondellbasell Industries NV A (USD);0.0006
+Match Grou;0.0006
+Alexion Pharmaceuticals Inc;0.0006
+Verisk Analytics Inc. Class A;0.0006
+Alcon Inc. (CH);0.0006
+Sandvik AB;0.0006
+Rockwell Automation Inc.;0.0006
+Amadeus IT Group S.A;0.0006
+Ørsted A/S;0.0006
+Nucor Corp.;0.0006
+Vonovia SE;0.0006
+Tokio Marine Holdings Inc.;0.0006
+Nordea Bank Abp (SE) SEK;0.0006
+The Kraft Heinz Company (US);0.0006
+State Street Corp.;0.0006
+Crowdstrike Holdings Inc. (A) (A);0.0006
+Nutrien Ltd ;0.0006
+American Water Works Co Inc;0.0006
+VF Corp;0.0006
+ONEOK Inc.;0.0006
+Skyworks Solutions Inc.;0.0006
+Swiss Re (Regd);0.0006
+Ametek Inc.;0.0006
+Telus Corp;0.0006
+Ameriprise Financial Inc.;0.0006
+Equity Residential;0.0006
+Seven & I Holdings Co. Ltd.;0.0006
+Franco-Nevada Corp.;0.0006
+Astellas Pharma Inc. (JP);0.0006
+London Stock Exchange Group Plc;0.0006
+McKesson Corp.;0.0006
+Alimentation Couche-Tard Inc.;0.0006
+Xilinx Inc;0.0006
+Fifth Third Bancorp.;0.0006
+Cintas Corp.;0.0006
+Transurban Group;0.0006
+Fortis Inc.;0.0006
+Weyerhaeuser Corp.;0.0006
+International Flavors & Fragrances Inc.;0.0006
+Givaudan (Regd) (CHF);0.0006
+Avalonbay Communities Inc.;0.0006
+SBA Communications Corporation;0.0006
+Ball Corp.;0.0006
+Hershey Foods Corp.;0.0006
+So-net M3 Inc;0.0006
+Lennar;0.0006
+Deutsche Börse AG;0.0006
+DBS Group Holding;0.0006
+Magna International Inc;0.0006
+Fastenal Company;0.0006
+Otis Worldwide Corporation;0.0006
+Willis Towers Watson Plc;0.0006
+Constellation Software Inc;0.0006
+Mettler-Toledo International Inc.;0.0006
+Pembina Pipeline Corporation;0.0006
+Mitsubishi Electric;0.0006
+Thomson Reuters Corp. (CA);0.0006
+Palo Alto Networks Inc;0.0006
+Hartford Financial Services Group Inc.;0.0006
+Dover Corp.;0.0006
+Consolidated Edison Inc.;0.0006
+SSE Plc Ord;0.0006
+Panasonic Corp.;0.0005
+Legal & General Group (Ord 2.5p);0.0005
+Cie de Saint-Gobain SA;0.0005
+AutoZone Inc.;0.0005
+Koninklijke Ahold Delhaize N.V.;0.0005
+ResMed Inc.;0.0005
+Fortescue Metals Group Ltd.;0.0005
+Ashtead Group;0.0005
+Komatsu;0.0005
+CBRE Group Inc;0.0005
+Heineken;0.0005
+Kone Oyj B;0.0005
+Ferguson PLC;0.0005
+Chugai Pharmaceutical;0.0005
+ANSYS Inc.;0.0005
+Occidental Petroleum Corp;0.0005
+Edison International;0.0005
+Repsol S.A.;0.0005
+LafargeHolcim Ltd Reg.;0.0005
+Fujitsu;0.0005
+Synchrony Financial;0.0005
+Woodside Petroleum;0.0005
+CAE Inc.;0.0005
+Waste Connections Inc (USD);0.0005
+Telefonica S.A. (ES);0.0005
+Entergy Corp.;0.0005
+Oriental Land;0.0005
+Credit Suisse Group (Reg);0.0005
+ORANGE (FR);0.0005
+TRADE DESK INC THE -CLASS A;0.0005
+EDP-Energias de Portugal S.A.;0.0005
+Kansas City Southern;0.0005
+First Republic Bank;0.0005
+Aviva Plc (GB);0.0005
+Denso Corporation;0.0005
+Canon Inc.;0.0005
+Assa Abloy AB B;0.0005
+Neste Oyj;0.0005
+Liberty Broadband Corp;0.0005
+Dassault Systemes SA;0.0005
+Koninklijke DSM NV;0.0005
+Capgemini SE;0.0005
+Shiseido;0.0005
+Hewlett Packard Enterprise Co.;0.0005
+Equinor ASA;0.0005
+Kroger Co;0.0005
+Central Japan Railway Co.;0.0005
+Realty Income Corp.;0.0005
+Goodman Group;0.0005
+Ferrari NV (IT);0.0005
+Orix (JP);0.0005
+Atlas Copco AB A;0.0005
+Okta Inc A;0.0005
+Engie SA;0.0005
+Wolters Kluwer NV;0.0005
+Tyson Foods Inc. A;0.0005
+Peloton Interactive Inc A;0.0005
+Best Buy Co Inc;0.0005
+Arthur J. Gallagher & Co;0.0005
+E.ON SE;0.0005
+RWE AG (Ord);0.0005
+Fortinet Inc;0.0005
+United Rentals Inc.;0.0005
+Hess Corp.;0.0005
+Laboratory Corp. of America Holdings;0.0005
+CMS Energy Corp.;0.0005
+SVB Financial Group;0.0005
+East Japan Railway;0.0005
+McCormick & Co. Inc.;0.0005
+Tesco Plc Ord (GB) new;0.0005
+Keysight Technologies Inc;0.0005
+Kerry Group A;0.0005
+ViacomCBS Inc B;0.0005
+Etsy Inc;0.0005
+Clorox Co.;0.0005
+CGI Inc A;0.0005
+Vivendi SA (FR);0.0005
+Assicurazioni Generali SpA;0.0005
+Equifax Inc.;0.0005
+Olympus Corp.;0.0005
+Principal Financial Group;0.0005
+Old Dominion Freight Line Inc.;0.0005
+Zebra Technologies Corp. A;0.0005
+Brown-Forman Corp. B;0.0005
+CDW Corporation of Delaware;0.0005
+STMicroelectronics - (FR);0.0005
+Maxim Integrated Products Inc.;0.0005
+Dollar Tree Inc;0.0005
+Expedia Inc Del;0.0005
+Kubota;0.0005
+ArcelorMittal (NL);0.0005
+Church & Dwight Co. Inc.;0.0004
+Northern Trust Corp.;0.0004
+Hexagon AB B;0.0004
+Partners Group (Reg);0.0004
+National Bank of Canada;0.0004
+Regions Financial Corp.;0.0004
+Nokia Oyj (FI);0.0004
+International Paper Co.;0.0004
+Fleetcor Technologies Inc;0.0004
+Healthpeak Properties Inc;0.0004
+Ventas inc.;0.0004
+KeyCorp.;0.0004
+Western Digital Corp.;0.0004
+Sumitomo Corp.;0.0004
+Vulcan Materials Co.;0.0004
+Societe Generale;0.0004
+Dell Technologies Inc C;0.0004
+Copart Inc.;0.0004
+BCE Inc (CAD);0.0004
+Xylem Inc;0.0004
+M&T Bank Corp.;0.0004
+Techtronic Industries Co. Ltd.;0.0004
+EPAM Systems Inc;0.0004
+Legrand SA;0.0004
+Martin Marietta Materials;0.0004
+JXTG Holdings Inc;0.0004
+Essity AB B;0.0004
+Terumo Corp.;0.0004
+Deutsche Bank AG (Regd.);0.0004
+Cheniere Energy Inc.;0.0004
+Wayfair Inc;0.0004
+FUJI FILM Holdings Corp.;0.0004
+Republic Services Inc.;0.0004
+Halliburton Co.;0.0004
+Wheaton Precious Metals Corp (CAD);0.0004
+RingCentral Inc A;0.0004
+Cerner Corp.;0.0004
+Teleperformance;0.0004
+Merck KGaA;0.0004
+Unicredit SpA;0.0004
+Evolution Gaming Group AB New;0.0004
+Citizens Financial Group Inc;0.0004
+TransUnion;0.0004
+Restaurant Brands International Inc;0.0004
+Rogers Communications Inc. B;0.0004
+BT Group Ord (GB);0.0004
+CarMax Inc.;0.0004
+Royal Caribbean Cruises (USD);0.0004
+Mitsui Fudosan Co.;0.0004
+Carnival Corp.;0.0004
+Alexandria Real Estate Equities Inc.;0.0004
+Garmin Ltd.;0.0004
+Teladoc Inc;0.0004
+Essex Property Trust Inc.;0.0004
+Splunk Inc;0.0004
+Sampo Oyj A;0.0004
+Mid-America Apartment Communities Inc.;0.0004
+Las Vegas Sands Corp.;0.0004
+VeriSign Inc.;0.0004
+Akzo Nobel NV New;0.0004
+Generac Holdings Inc;0.0004
+Mitsubishi Estate;0.0004
+Asahi Group Holdings Ltd;0.0004
+Kellogg Co.;0.0004
+Exact Sciences Corp;0.0004
+Southwest Airlines Co.;0.0004
+Michelin B;0.0004
+Genmab;0.0004
+Genuine Parts Co.;0.0004
+Boston Properties Inc.;0.0004
+Qorvo Inc;0.0004
+Ally Financial Inc;0.0004
+Henkel AG & Co. KGaA (Pref);0.0004
+The Cooper Companies Inc.;0.0004
+Bridgestone Corp.;0.0004
+Horizon Pharma PLC;0.0004
+W.W. Grainger Inc.;0.0004
+Conagra Brands Inc;0.0004
+Seagate Technology;0.0004
+W.P Carey Inc.;0.0004
+Invitation Homes Inc;0.0004
+Teradyne Inc.;0.0004
+NVR Inc;0.0004
+Dr. Pepper Snapple Group Inc. (USD);0.0004
+Fox Corp B;0.0004
+HubSpot Inc;0.0004
+Intact Financial Corp.;0.0004
+Nasdaq Inc;0.0004
+Tractor Supply Co;0.0004
+Enphase Energy Inc;0.0004
+Power Corporation of Canada;0.0004
+Worldline SA;0.0004
+Marketaxess Holding Inc;0.0004
+Dai-ichi Life holdings Inc;0.0004
+Hologic Inc. (US);0.0004
+Teleflex Inc.;0.0004
+Celanese Corp. - A;0.0004
+SGS (Regd);0.0004
+WPP PLC;0.0004
+Ferrovial SA;0.0004
+Trimble Inc;0.0004
+Arista Networks Inc;0.0004
+Omnicom Group Inc.;0.0004
+Nomura Holdings Inc.;0.0004
+Darden Restaurants Inc.;0.0004
+PG&E Corp.;0.0004
+West Pharmaceuticals Services;0.0004
+MGM Resorts International;0.0004
+Kyocera Corp;0.0004
+GALP Energia, SGPS, SA;0.0003
+Arch Capital Group Ltd;0.0003
+Paycom Software Inc.;0.0003
+Amcor PLC;0.0003
+Waters Corp.;0.0003
+Gardner Denver Holdings Inc;0.0003
+Take-Two Interactive Software Inc.;0.0003
+Sun Hung Kai Props;0.0003
+Newcrest Mining;0.0003
+Zillow Group Inc C;0.0003
+Daiwa House Industry Corp.;0.0003
+Centerpoint Energy Inc.;0.0003
+Uni-Charm Corp.;0.0003
+UPM-Kymmene Oyj;0.0003
+Smith & Nephew Plc Ord USD0.20;0.0003
+Lincoln National Corp.;0.0003
+Gartner Inc. A;0.0003
+Catalent Inc.;0.0003
+Cardinal Health Inc.;0.0003
+AES Corp.;0.0003
+Skandinaviska Enskilda Banken AB A;0.0003
+Delta Air Lines Inc (DAL);0.0003
+Slack Technologies Inc A;0.0003
+IDEX Corporation;0.0003
+Eisai;0.0003
+Extra Space Storage;0.0003
+Baker Hughes Incorporated A;0.0003
+Jardine Matheson Holdings Ltd;0.0003
+Viatris Inc;0.0003
+NetApp Inc.;0.0003
+Standard Chartered Plc (GBP);0.0003
+Huntington Bancshares;0.0003
+Shaw Communications Inc. B;0.0003
+Suzuki Motor Corp.;0.0003
+Avery Dennison Corp.;0.0003
+Burlington Stores Inc;0.0003
+Agnico Eagle Mines (CAD);0.0003
+Cellnex Telecom S.A.;0.0003
+UDR Inc;0.0003
+A.P. Møller - Mærsk B;0.0003
+Eastman Chemical Co.;0.0003
+CNH Industrial NV (IT);0.0003
+ON Semiconductor Corp.;0.0003
+3i Group Plc Ord;0.0003
+Fresenius SE & Co. KGaA;0.0003
+VICI Properties Inc;0.0003
+Sun Communities Inc;0.0003
+Oversea-Chinese Banking Corp. Ltd;0.0003
+KBC Groep NV;0.0003
+Duke Realty Corp.;0.0003
+Galaxy Entertainment Group Ltd.;0.0003
+Markel Corp.;0.0003
+Quest Diagnostics Inc.;0.0003
+Logitech International S.A. (Regd);0.0003
+Plug Power Inc.;0.0003
+Hormel Foods Corp;0.0003
+Telstra;0.0003
+Seagen Inc;0.0003
+Cincinnati Financial Corp.;0.0003
+Geberit AG (Regd);0.0003
+Albemarle Corp.;0.0003
+SS&C Technologies Holdings Inc;0.0003
+Tyler Technologies Inc;0.0003
+JM Smucker Co. (US);0.0003
+Subaru Corporation;0.0003
+Otsuka Holdings Co Ltd;0.0003
+Open Text Corp. (CA);0.0003
+Coles Group Ltd;0.0003
+Pulte Group Inc.;0.0003
+Devon Energy Corp.;0.0003
+Medical Properties Trust Inc;0.0003
+TDK Corp.;0.0003
+Aeon Co. Ltd.;0.0003
+Obayashi Corp.;0.0003
+Insulet Corp;0.0003
+SYSMEX Corp;0.0003
+Marubeni Corp.;0.0003
+OMV AG;0.0003
+Smiths Group Plc Ord;0.0003
+Westinghouse Air Brake Technologies Corp.;0.0003
+Kirin Holdings Co. Ltd.;0.0003
+Kuehne & Nagel International AG (Regd);0.0003
+Raymond James Financial Inc;0.0003
+Broadridge Financial Solutions LLC;0.0003
+Sartorius AG Pref.;0.0003
+Afterpay Touch Group Ltd.;0.0003
+PerkinElmer Inc.;0.0003
+CK Asset Holdings Limited;0.0003
+Coloplast B;0.0003
+Coupa Software, Inc.;0.0003
+Akamai Technologies Inc.;0.0003
+Nippon Steel & Sumitomo Metal Corp;0.0003
+PTC Inc;0.0003
+Snap-on Inc.;0.0003
+Swisscom (Regd);0.0003
+Masco Corp.;0.0003
+AmerisourceBergen Corp. A;0.0003
+Roche Holding (Bearer) (CHF);0.0003
+WSP Global Inc;0.0003
+Crown Holdings Inc.;0.0003
+Wix.com Ltd;0.0003
+Hennes & Mauritz AB B;0.0003
+Telus Corp.;0.0003
+Annaly Capital Management Inc.;0.0003
+Citrix Systems Inc.;0.0003
+Ulta Salon Cosmetics & Fragrance Inc;0.0003
+Carvana Co A;0.0003
+Singapore Telecommunications Ltd;0.0003
+Fidelity National Financial - FNF Group;0.0003
+Smurfit Kappa Group Plc (EUR);0.0003
+J.B. Hunt Transport Services Inc.;0.0003
+Intertek Group;0.0003
+Carlsberg B;0.0003
+Kingspan Group;0.0003
+Associated British Foods Plc Ord;0.0003
+NN Group NV;0.0003
+Alnylam Pharmaceuticals Inc.;0.0003
+Link REIT;0.0003
+Advantest Corp.;0.0003
+Swiss Life Holding (Regd.);0.0003
+Avantor Inc;0.0003
+Interpublic Group of Co. Inc.;0.0003
+Nexon Co Ltd;0.0003
+Delivery Hero AG;0.0003
+Lindt & Spruengli AG - REG;0.0003
+Credit Agricole SA;0.0003
+Julius Baer Group Ltd;0.0003
+STERIS PLC (USD);0.0003
+Asahi Kasei Corp.;0.0003
+Sekisui House;0.0003
+Bouygues SA;0.0003
+DENTSPLY SIRONA Inc;0.0003
+Porsche Automobil Holding (Pref.);0.0003
+Adecco (Regd.) (CHF);0.0003
+Pentair Plc (USD);0.0003
+Live Nation Entertainment Inc.;0.0003
+Lumen Technologies Inc new;0.0003
+Steel Dynamics Inc.;0.0003
+Fortune Brands Home & Security Inc.;0.0003
+LKQ Corp.;0.0003
+Molina Healthcare Inc;0.0003
+Whirlpool Corp.;0.0003
+F5 Networks Inc.;0.0003
+Swedbank AB A;0.0003
+FMC Corp.;0.0003
+Shionogi & Co.;0.0003
+DCC Plc (GBP);0.0003
+Persimmon Plc Ord;0.0003
+Handelsbanken AB A;0.0003
+Zendesk Inc;0.0003
+Fair Isaac Corp.;0.0003
+Sumitomo Metal Mining Co.;0.0003
+Taisei Corp.;0.0003
+Hydro One Ltd;0.0003
+Segro Plc (REIT);0.0003
+Aristocrat Leisure;0.0003
+American Financial Group Inc.;0.0003
+Japan Post Holdings Co Ltd;0.0003
+Datadog Inc. A;0.0003
+IAC/INTERACTIVECORP(NEW);0.0003
+Bio-Rad Laboratories Inc (class A);0.0003
+SolarEdge Technologies Inc;0.0003
+WestRock Co;0.0003
+N.E.C. Corp.;0.0003
+Incyte Corp.;0.0003
+Atmos Energy Corp.;0.0003
+Melrose Industries PLC;0.0003
+Camden Property Trust;0.0003
+Royal Bank of Scotland Group Plc Reg sh;0.0003
+MS&AD Insurance Group Holdings Inc;0.0003
+DnB ASA;0.0003
+Packaging Corp of America;0.0003
+Regency Centers Corp.;0.0003
+Monolithic Power Systems Inc.;0.0003
+Siemens Energy AG;0.0003
+Secom;0.0003
+Pool Corp.;0.0003
+Voya Financial Inc;0.0003
+Publicis Groupe;0.0003
+Lamb Weston Holdings Inc;0.0003
+Cloudflare Inc A;0.0003
+Fortum Oyj;0.0003
+Boliden AB;0.0003
+Wynn Resorts Ltd.;0.0003
+Deutsche Wohnen SE;0.0003
+Fisher & Paykel Healthcare Corp.;0.0003
+ABIOMED Inc.;0.0003
+BioMarin Pharmaceuticals Inc;0.0003
+Keyera Corp;0.0003
+Algonquin Power & Utilities Co.;0.0003
+Host Hotels & Resorts Inc.;0.0003
+Ocado Group PLC;0.0003
+Aena SA;0.0003
+Fresenius Medical Care AG & Co. KgaA;0.0003
+Expeditors Intl. of Washington Inc.;0.0003
+Mohawk Industries Inc.;0.0003
+Elanco Animal Health Inc;0.0003
+Snam SpA;0.0003
+Loews Corp.;0.0003
+Standard Life Aberdeen PLC New;0.0003
+ACS Actividades de Const. Y Servicios SA;0.0003
+Factset Research Systems Inc;0.0003
+MongoDB Inc;0.0003
+Equity Lifestyle Properties Inc;0.0003
+Zalando SE;0.0003
+Siemens Healthineers AG;0.0003
+Fairfax Financial Holdings;0.0003
+Nordson Corp;0.0002
+Volkswagen (Ord);0.0002
+Koninklijke KPN;0.0002
+Aurizon Holdings Ltd;0.0002
+Veolia Environnement (FR);0.0002
+Saputo Inc.;0.0002
+Great-West Lifeco Inc.;0.0002
+Nice Ltd;0.0002
+Liberty Global Group Plc C;0.0002
+Teva Pharmaceutical Industries (ADR);0.0002
+Cognex Corp.;0.0002
+Spark New Zealand Ltd;0.0002
+Nissan Motor Co.;0.0002
+Burberry Group Plc Ord;0.0002
+Sompo Holdings;0.0002
+Universal Health Services Inc. B;0.0002
+GoDaddy Inc A;0.0002
+Onex Corp.;0.0002
+Endesa S.A.;0.0002
+Mitsubishi Heavy Industry;0.0002
+QBE Insurance Group;0.0002
+Domino's Pizza Inc;0.0002
+Shimano Inc.;0.0002
+Skanska AB B;0.0002
+Informa Plc;0.0002
+Scentre Group;0.0002
+Inpex Corp.;0.0002
+Antofagasta;0.0002
+Sartorius Stedim Biotech;0.0002
+Mondi Plc;0.0002
+Inter Pipeline Ltd;0.0002
+Alstom;0.0002
+VMWARE Inc;0.0002
+Lennox International Inc;0.0002
+Epiroc Aktiebolag B;0.0002
+Heineken Holding NV;0.0002
+ESSENTIAL UTILITIES INC;0.0002
+James Hardie Industries se;0.0002
+First Quantum Minerals Ltd.;0.0002
+Sonova Holding AG (Regd);0.0002
+Henkel AG & Co. KGaA (Ord);0.0002
+Newell Brands Inc;0.0002
+Omron Corp.;0.0002
+RPM International Inc.;0.0002
+Globe Life Inc;0.0002
+Kajima Corp.;0.0002
+Shimizu Corp.;0.0002
+Omega Healthcare Investors;0.0002
+Juniper Networks Inc;0.0002
+Lundin Petroleum AB;0.0002
+NortonLifeLock Inc;0.0002
+Yaskawa Electric Corp.;0.0002
+Jardine Strategic Holdings (USD);0.0002
+Eurofins Scientific SE;0.0002
+Ampol Ltd;0.0002
+ASX Ltd.;0.0002
+10X Genomics Inc A;0.0002
+Sonic Healthcare;0.0002
+InterContinental Hotels Group PLC;0.0002
+Vornado Realty Trust;0.0002
+Zscaler Inc;0.0002
+Nitto Denko Corp.;0.0002
+Edenred SA;0.0002
+OBIC;0.0002
+Check Point Software Technologies (USD);0.0002
+WR Berkley Corp;0.0002
+arGEN-X SE (BE);0.0002
+Toyota Tsusho Corp.;0.0002
+ASM International;0.0002
+Novocure Ltd (US);0.0002
+Novozymes B;0.0002
+Dexus;0.0002
+Franklin Resources Inc;0.0002
+Hasbro Inc.;0.0002
+Allegion Plc;0.0002
+Barry Callebaut AG (regd);0.0002
+Western Union Comp.;0.0002
+Latour Investment AB B;0.0002
+VEREIT Inc;0.0002
+Campbell Soup Co.;0.0002
+Reinsurance Group of America Inc.;0.0002
+Xero Ltd (AUD);0.0002
+Eiffage SA;0.0002
+Unibail-Rodamco Se  ;0.0002
+Iron Mountain REIT Inc;0.0002
+Vail Resorts Inc.;0.0002
+Cboe Global Markets Inc;0.0002
+Continental AG;0.0002
+Brambles Ltd;0.0002
+Japan Exchange Group Inc;0.0002
+Spirax-Sarco Engineering Plc;0.0002
+Danske Bank;0.0002
+Terna SpA;0.0002
+Sumitomo Realty & Development;0.0002
+Brenntag AG;0.0002
+Caixabank SA;0.0002
+Randstad Holdings;0.0002
+XPO Logistics Inc;0.0002
+Invesco Ltd - ADR;0.0002
+Masimo Corp.;0.0002
+Symrise AG;0.0002
+Brown & Brown Inc;0.0002
+Yahoo Japan Corp;0.0002
+Telia Company AB;0.0002
+Kinnevik AB B new;0.0002
+Next Plc Ord;0.0002
+The Mosaic Company;0.0002
+Owens Corning Inc;0.0002
+HelloFresh SE;0.0002
+Tenaris SA (IT);0.0002
+GVC Holdings Plc;0.0002
+Lear Corp.;0.0002
+Idemitsu Kosan Co Ltd;0.0002
+Straumann Holding (Regd);0.0002
+UCB S.A.;0.0002
+Bausch Health Companies Inc. (CAD);0.0002
+Sumitomo Mitsui Trust Holdings Inc;0.0002
+Norsk Hydro ASA;0.0002
+Barratt Developments Plc Ord;0.0002
+Coca-Cola European Partners PL;0.0002
+Jack Henry & Associates Inc.;0.0002
+Stora Enso Oyj R;0.0002
+Singapore Airlines Ltd;0.0002
+Kinross Gold Corp (CAD);0.0002
+Lundin Mining Corp.;0.0002
+West Japan Railway Co.;0.0002
+Mowi ASA;0.0002
+Oil Search Ltd. (AUD);0.0002
+Kirkland Lake Gold Ltd;0.0002
+Moncler SPA;0.0002
+Whitbread Plc;0.0002
+SKF AB B;0.0002
+Ceridian HCM Holding, Inc.;0.0002
+Suncorp Group Ltd;0.0002
+Black Knight Inc;0.0002
+Bunzl Plc Ord;0.0002
+Beiersdorf AG;0.0002
+Pandora;0.0002
+APA Group;0.0002
+UGI Corp;0.0002
+Hong Kong & China Gas;0.0002
+Everest Re Group;0.0002
+Robert Half International Inc.;0.0002
+Athene Holding Ltd - A;0.0002
+Discovery Communications Inc. C;0.0002
+Keppel Corporation Ltd (SG);0.0002
+Cabot Oil & Gas Corp. A;0.0002
+Sands China Ltd.;0.0002
+Hankyu Hanshin Holdings Inc.;0.0002
+BlueScope Steel Ltd.;0.0002
+Rentokil Initial Plc Ord;0.0002
+Minebea Mitsumi Inc;0.0002
+BorgWarner Inc.;0.0002
+St. James Place Plc;0.0002
+DraftKings Inc A;0.0002
+Takeaway.com Holding BV;0.0002
+HeidelbergCement AG;0.0002
+Insurance Australia Group;0.0002
+CF Industries Holdings Inc.;0.0002
+Ajinomoto Co. Inc.;0.0002
+Telenor ASA;0.0002
+WH Group Ltd;0.0002
+Liberty Media Corp Media Group C;0.0002
+Hang Seng Bank;0.0002
+Molson Coors Brewing Co. B;0.0002
+Canadian Utilities Limited A;0.0002
+Carrefour SA (FR);0.0002
+Alleghany Corp.;0.0002
+Makita Corp.;0.0002
+Loblaw Companies;0.0002
+United Overseas Bank;0.0002
+Avalara In;0.0002
+Epiroc Aktiebolag A;0.0002
+Cochlear;0.0002
+SEI Investments Co.;0.0002
+Nitori;0.0002
+Mirvac Group;0.0002
+A.O. Smith Corporation;0.0002
+United Utilities Group Plc. Ord.;0.0002
+Parkland Corporation;0.0002
+Amerco;0.0002
+Nippon Paint Holdings Co Ltd;0.0002
+Industrivärden C;0.0002
+Schindler Holding AG PC;0.0002
+Naturgy Energy Group SA;0.0002
+Taylor Wimpey Plc Ord;0.0002
+Riocan Real Estate Investment Trust;0.0002
+Ramsay Health Care Ltd.;0.0002
+Electricite de France (EDF);0.0002
+iA Financial Corporation Inc;0.0002
+Hannover Rueck SE (Regd);0.0002
+Ono Pharmaceutical;0.0002
+Covestro AG;0.0002
+Henry Schein Inc.;0.0002
+MEIJI Holdings Co Ltd;0.0002
+DISH Network Corp. Class A;0.0002
+Halma Plc Ord;0.0002
+Alfa Laval AB;0.0002
+Atlantia SpA;0.0002
+Advanced Auto Parts Inc.;0.0002
+Stockland Trust Group;0.0002
+Kikkoman Corp.;0.0002
+Daiwa Securities;0.0002
+IGM Financial Inc. (CAD);0.0002
+Croda International PLC;0.0002
+Gildan Activewear Inc.;0.0002
+Liberty Media SiriusXM Group C;0.0002
+Rakuten Inc.;0.0002
+Auckland International Airport ltd;0.0002
+Jeronimo Martins SGPS S.A.;0.0002
+Nomura Research Institute Ltd;0.0002
+Metro Inc;0.0002
+Qantas Airways;0.0002
+Evraz Plc;0.0002
+Sage Group Plc Ord;0.0002
+MTR Corp. Ltd.;0.0002
+Northern Star Resources Ltd;0.0002
+Bandai Namco Holdings Inc.;0.0002
+Umicore SA;0.0002
+Cameco Corp. (CA);0.0002
+Qiagen (DE);0.0002
+C. H. Robinson Worldwide Inc.;0.0002
+NTT Data Corp;0.0002
+Bureau Veritas SA;0.0002
+GN Store Nord;0.0002
+Wharf Real Estate Investment Company Limited;0.0002
+Mitsubishi Chemical Holdings Corp.;0.0002
+Sensata Technologies Holding PLC;0.0002
+Cable One Inc.;0.0002
+Jazz Pharmaceuticals PLC (US);0.0002
+Elisa Oyj A;0.0002
+Swatch Group (bearer);0.0002
+Aegon NV;0.0002
+Daifuku;0.0002
+Toyota Industries Corp.;0.0002
+CCL Industries Inc - Class B (CA);0.0002
+Nihon M&A Center Inc.;0.0002
+Dynatrace;0.0002
+Puma SE;0.0002
+Air Canada;0.0002
+Tokyu Corporation.;0.0002
+Temenos Group (Regd);0.0002
+Royalty Pharma PLC A;0.0002
+Berkeley Group Holdings PLC;0.0002
+Aramark;0.0002
+Assurant Inc.;0.0002
+News Corp. New LLC Class A;0.0002
+BOC Hong Kong Holdings;0.0002
+Japan Air Lines;0.0002
+AIRBNB INC (US);0.0002
+Toray Industries;0.0002
+Schindler Holding AG (Regd);0.0002
+Keihan Holdings Co Ltd;0.0002
+Dollarama Inc;0.0002
+Ricoh Co Ltd;0.0002
+Siemens Gamesa Renewable Energy SA;0.0002
+DaVita Inc;0.0002
+Knorr-Bremse AG;0.0002
+Sirius XM Holdings Inc;0.0002
+Henderson Land Development;0.0002
+Daito Trust Construction;0.0002
+Red Electrica Corporacion SA;0.0002
+Pan American Silver Corp. (CA);0.0002
+Sekisui Chemical;0.0002
+RSA Insurance Group Plc;0.0002
+GPT Group;0.0002
+Renault;0.0002
+Sealed Air Corp.;0.0002
+Mercury NZ Ltd;0.0002
+Sumitomo Electric Industries;0.0002
+AGNC Investment Corp;0.0002
+Lasertec Corp;0.0002
+Zillow Group Inc A;0.0002
+TMX Group Ltd.;0.0002
+Varian Medical Systems Inc;0.0002
+Coca Cola HBC Namen Akt. (GBP);0.0002
+Poste Italiane SPA;0.0002
+Kyowa Hakko Kirin Co. Ltd;0.0002
+Koninklijke Vopak NV;0.0002
+Johnson Matthey Plc;0.0002
+Ageas NV (BE);0.0002
+ANA Holdings Inc;0.0002
+Guidewire Software Inc;0.0002
+Arrow Electronics Inc.;0.0002
+Renesas Electronics Corp;0.0002
+Isuzu Motors Ltd.;0.0002
+Neurocrine Biosciences Inc.;0.0002
+Sodexo;0.0002
+Sydney Airport;0.0002
+JFE Holdings Inc.;0.0002
+Weston (george);0.0002
+Odakyu Electric Railway;0.0002
+T&D Holdings Inc.;0.0002
+Renaissancere Holdings;0.0002
+FinecoBank S.P.A;0.0002
+Resona Holdings Inc.;0.0002
+Aroundtown SA (DE);0.0001
+Pearson Plc Ord;0.0001
+Discovery Communications Inc. A;0.0001
+MISUMI Group Inc.;0.0001
+Nippon Building Fund Inc.;0.0001
+Land Securities Group PLC R.E.I.T;0.0001
+Accor SA;0.0001
+Asahi Glass;0.0001
+Kintetsu Group Holdings Co Ltd.;0.0001
+Groupe Bruxelles Lambert SA;0.0001
+Nexi S.p.A.;0.0001
+Deutsche Lufthansa AG (Regd)(Vink);0.0001
+Dentsu Inc.;0.0001
+Toromont Industries Ltd.;0.0001
+Yakult Honsha;0.0001
+Evolution Mining Ltd;0.0001
+Ambu B;0.0001
+B2Gold Corporation;0.0001
+Enagas S.A.;0.0001
+Chr. Hansen Holding;0.0001
+Prysmian SpA;0.0001
+Sumitomo Chemical;0.0001
+Sunrun Inc;0.0001
+Toto Ltd;0.0001
+Grifols SA A;0.0001
+Tokyo Gas;0.0001
+Quebecor Inc. Class B;0.0001
+Ritchie Bros. Auctioneers Inc. (CAD);0.0001
+Rollins Inc;0.0001
+Brother Industries;0.0001
+Dropbox Inc A;0.0001
+Disco Corp.;0.0001
+Tele2 AB B;0.0001
+Kingfisher Plc Ord;0.0001
+Admiral Group Plc;0.0001
+Atos SE;0.0001
+SCA AB B (Svenska Cellulosa);0.0001
+Keio Corp.;0.0001
+Axalta Coating Systems Ltd.;0.0001
+Rohm Co.;0.0001
+Vifor Pharma;0.0001
+Autoliv;0.0001
+Meridian Energy Ltd;0.0001
+Atco Ltd - (Class 1 Non-Voting);0.0001
+Yamaha Motor;0.0001
+IPG Photonics Corp.;0.0001
+British Land Company Plc Ord;0.0001
+Computershare;0.0001
+Nippon Express Co Ltd;0.0001
+Hochtief AG;0.0001
+FirstService Corp;0.0001
+Medibank Private Ltd;0.0001
+SNOWFLAKE INC-CLASS A (US);0.0001
+GFL Environmental Inc;0.0001
+Altice USA Inc A;0.0001
+Orkla ASA;0.0001
+NIBE Industrier AB B;0.0001
+New World Development Co Ltd;0.0001
+Ballard Power Systems Inc (CAD);0.0001
+Groupe Eurotunnel SE - REGR;0.0001
+Treasury Wine Estates Ltd;0.0001
+CyberAgent Inc;0.0001
+Canadian Tire Corp. A;0.0001
+Valeo;0.0001
+Ascendas Real Estate Investment Trust (A-REIT);0.0001
+Budweiser Brewing Company APAC Limited;0.0001
+AltaGas Ltd.;0.0001
+Baloise Holding AG (Regd.);0.0001
+Japan Real Estate Investment;0.0001
+Tabcorp Holdings;0.0001
+Lixil Group Corporation.;0.0001
+ESR Cayman Ltd.;0.0001
+Evonik Industries AG;0.0001
+West Fraser Timber Co.Ltd;0.0001
+Yamana Gold Inc.;0.0001
+KION Group AG;0.0001
+NGK Insulators;0.0001
+Solvay SA;0.0001
+Lindt & Spruengli AG-PC;0.0001
+Mitsubishi UFJ Lease & Finance Co Ltd.;0.0001
+CapitaLand Mall Trust;0.0001
+Seiko Epson Corp.;0.0001
+CK Infrastructure Holdings Ltd;0.0001
+Pigeon Corp;0.0001
+Yamato Holdings Co. Ltd.;0.0001
+Ryman Healthcare Ltd;0.0001
+Severn Trent Plc (GB);0.0001
+Gecina;0.0001
+Chewy Inc A;0.0001
+Aisin Seiki;0.0001
+Trend Micro Inc.;0.0001
+Mazda Motor;0.0001
+ABN AMRO Group N.V. Shs Depositary receipts;0.0001
+LEG Immobilien AG;0.0001
+GEA Group AG;0.0001
+a2 Milk Co Ltd;0.0001
+Canadian Apartment Properties Real Estate Inve;0.0001
+Japan Retail Fund Investment;0.0001
+UBISOFT Entertainment;0.0001
+Electrolux AB B;0.0001
+Knight Swift Transportation Holdings Inc A;0.0001
+Capcom;0.0001
+Kesko Oyj B;0.0001
+Nissan Chemical Industries;0.0001
+PPD INC (US);0.0001
+Koito Manufactoring;0.0001
+Tobu Railway Co., Ltd;0.0001
+Mitsui Chemicals Inc.;0.0001
+Recordati SpA;0.0001
+NISSIN FOODS HOLDINGS CO. LTD.;0.0001
+Direct Line Insurance Group PLC;0.0001
+Shimadzu Corp.;0.0001
+Northland Power Inc;0.0001
+Nisshin Seifun Group Inc;0.0001
+Swiss Prime Site AG (Regd);0.0001
+Nomura Real Estate Master Fund;0.0001
+Klepierre;0.0001
+Ionis Pharmaceuticals Inc.;0.0001
+Telecom Italia (ord.);0.0001
+Hitachi Metals Ltd.;0.0001
+TeamViewer AG;0.0001
+Nippon Yusen Kabushiki Kaisha;0.0001
+Davide Campari-Milano N.V. (IT);0.0001
+Phoenix Group Holdings PLC;0.0001
+Bank Leumi Le-Israel;0.0001
+MonotaRO Co Ltd;0.0001
+HKT Trust and HKT Ltd Stapled Security (HK);0.0001
+AusNet Services;0.0001
+SG HOLDINGS CO. LTD.;0.0001
+NSK LTD.;0.0001
+Sarepta Therapeutics Inc;0.0001
+Arkema France;0.0001
+Suez SA;0.0001
+SCOR SE;0.0001
+Vicinity Centres;0.0001
+Orica;0.0001
+Yara International ASA (NO);0.0001
+Brookfield Renewable Corporation;0.0001
+Hamamatsu Photonics KK;0.0001
+BMW Bayerische Motoren-Werke AG (Pref);0.0001
+Mediobanca;0.0001
+Covivio;0.0001
+SSR Mining Inc (CA);0.0001
+Kose Corp.;0.0001
+CapitaLand;0.0001
+Santen Pharmaceutical;0.0001
+Wärtsilä Oyj;0.0001
+Konami Holdings Corporation;0.0001
+Amada Holdings Co. Ltd;0.0001
+Commerzbank AG;0.0001
+Dai Nippon Printing;0.0001
+Natixis;0.0001
+Fuji Electric Co. Ltd;0.0001
+Seek Ltd;0.0001
+Fastighets AB Balder B;0.0001
+Keisei Electric RailwayCo. Ltd.;0.0001
+AMP;0.0001
+JD Sports Fashion PLC;0.0001
+Coca-Cola Amatil (AU);0.0001
+Aveva Group Plc;0.0001
+Sumco Corp.;0.0001
+GLP J-REIT;0.0001
+THK Co. Ltd.;0.0001
+Hikma Pharmaceuticals Plc;0.0001
+FAURECIA SE (IT);0.0001
+Husqvarna AB B;0.0001
+Tosoh Corporation;0.0001
+Carl Zeiss Meditec;0.0001
+Nabtesco Corp.;0.0001
+Erste Group Bank AG (AT) (EUR);0.0001
+Osaka Gas;0.0001
+Liberty Media Corp Sirius XM Group A;0.0001
+Oji Holdings Corp;0.0001
+Don Quijote Holdings Co. Ltd;0.0001
+ORIX JREIT Inc.;0.0001
+GMO Payment Gateway Inc;0.0001
+Aeroports de Paris (ADP);0.0001
+Hoshizaki Corp;0.0001
+CyberArk Software Ltd (USD);0.0001
+JAPAN POST INSURANCE Co.,Ltd.;0.0001
+Fresnillo Plc;0.0001
+NH Foods Ltd;0.0001
+Nippon Prologis REIT. INC.;0.0001
+Miura;0.0001
+SQUARE ENIX HOLDINGS CO. LTD.;0.0001
+PERSOL HOLDINGS CO. LTD.;0.0001
+JDE Peets BV;0.0001
+Nomura Real Estate Holdings Inc.;0.0001
+Empire Company Ltd A;0.0001
+Tokyu Fudosan Holdings Corp.;0.0001
+Hang Lung Properties;0.0001
+BlackBerry Ltd (CAD);0.0001
+Amplifon S.p.A.;0.0001
+Nagoya Railroad Co. Ltd;0.0001
+Erie Indemnity Co. A;0.0001
+Wendel SA;0.0001
+Lundbergföretagen AB B;0.0001
+Yamaha Corp.;0.0001
+Orpea;0.0001
+William Morrison Supermarkets Plc Ord;0.0001
+bioMerieux SA;0.0001
+Suntory Beverage & Food Ltd.;0.0001
+Orion Oyj B;0.0001
+United Urban Investment Corp;0.0001
+Toyo Suisan Kaisha;0.0001
+Crown Resorts Ltd;0.0001
+Yokogawa Electric Corp.;0.0001
+Proximus SA (DE);0.0001
+Xinyi Glass Holdings Ltd.;0.0001
+Hino Motors;0.0001
+JSR Corp.;0.0001
+Iida Group Holdings Co Ltd;0.0001
+Telecom Italia (di Risp);0.0001
+TIS Inc.;0.0001
+OTSUKA Corp.;0.0001
+Keikyu Corp;0.0001
+Kurita Water Industries;0.0001
+Bechtle;0.0001
+Casio Computer Co.;0.0001
+Sainsbury (J) Plc Ord;0.0001
+Hitachi Construction Machine;0.0001
+Hisamitsu Pharmaceutical Co. Inc.;0.0001
+Sumitomo Dainippon Pharma Co. Ltd.;0.0001
+Eurazeo SA;0.0001
+Hulic Co Ltd;0.0001
+Tokyo Century Corp;0.0001
+Ryohin Keikaku;0.0001
+Asahi Intecc Co. Ltd.;0.0001
+Kobayashi Pharmaceutical;0.0001
+Rinnai Corp.;0.0001
+Hong Kong Land Holdings;0.0001
+Lion Corp.;0.0001
+Verbund AG A;0.0001
+Ibiden;0.0001
+William Demant Holding A/S;0.0001
+PeptiDream Inc.;0.0001
+Lanxess AG;0.0001
+Galapagos NV (NL);0.0001
+Telefonica Deutschland Holding AG Namen-Akt;0.0001
+Harmonic Drive Systems Inc;0.0001
+Swire Pacific A;0.0001
+DiaSorin SPA;0.0001
+Mercari,Inc.;0.0001
+Ipsen SA;0.0001
+Sharp Corp;0.0001
+Mitsubishi Gas Chemical Co. Inc;0.0001
+Liberty Broadband Corp;0.0001
+Schibsted ASA A;0.0001
+Rational;0.0001
+Bank Hapoalim;0.0001
+Kansai Paint;0.0001
+United Internet AG;0.0001
+Oracle Corp. Japan;0.0001
+Seibu Holdings Inc.;0.0001
+Ems-Chemie Holding (Regd);0.0001
+Nippon Shinyaku;0.0001
+Infrastrutture Wireless Italiane S.p.A.;0.0001
+Nemetschek SE;0.0001
+CNP Assurances;0.0001
+Kyushu Railway Company;0.0001
+Remy Cointreau;0.0001
+Toho Co.;0.0001
+Mapletree Logistics Trust;0.0001
+Concordia Financial Group Ltd;0.0001
+Kuraray;0.0001
+H. Lundbeck;0.0001
+CALBEE Inc;0.0001
+POLA ORBIS HOLDINGS INC;0.0001
+Melco Resorts + Entertainment Ltd. ADR;0.0001
+Swire Properties Ltd;0.0001
+TPG Telecom Ltd;0.0001
+WiseTech Global Ltd;0.0001
+Azrieli Group;0.0001
+Toho Gas Co. Ltd;0.0001
+CIMIC Group Ltd;0.0001
+Taiyo Nippon Sanso Corp.;0.0001
+Alfresa Holdings Corp.;0.0001
+Bollore;0.0001
+REA Group Ltd;0.0001
+SEB SA;0.0001
+Toppan Printing;0.0001
+Japan Airport Terminal;0.0001
+Daiwa House REIT Investment Corp;0.0001
+SCSK Corp;0.0001
+ASM Pacific Technology;0.0001
+Azbil Corp;0.0001
+Fukuoka Financial Group Inc.;0.0001
+Taiheiyo Cement;0.0001
+Tryg A/S;0.0001
+Voestalpine AG;0.0001
+Israel Discount Bank Ltd, Shs. A;0.0
+Sino Land Co. Ltd;0.0
+Israel Chemicals Ltd.;0.0
+Taisho Pharmaceutical Holdings Co Ltd.;0.0
+START TODAY CO LTD;0.0
+A.P. Møller - Mærsk A;0.0
+Yamazaki Baking;0.0
+Swatch Group (Regd);0.0
+Iliad S.A.;0.0
+Clariant (Reg.);0.0
+Schibsted ASA B;0.0
+La Francaise des Jeux SA;0.0
+Coca-Cola Bottlers Japan Inc.;0.0
+Auto Trader Group PLC;0.0
+Mapletree Commercial Trust;0.0
+Hirose Electric;0.0
+Mediceo Paltac Holdings Co. Ltd.;0.0
+Ito En Ltd.;0.0
+AEON Mall Co. Ltd.;0.0
+Elia System Operator SA/NV;0.0
+Hikari Tsushin Inc.;0.0
+Uniper SE;0.0
+PCCW Ltd;0.0
+Air Water Inc.;0.0
+Securitas AB B;0.0
+KOBE BUSSAN CO LTD;0.0
+Tsuruha Holdings Inc.;0.0
+Koei Tecmo Holdings Co. Ltd.;0.0
+Adevinta ASA (B) (B);0.0
+Teijin;0.0
+ICA Gruppen AB;0.0
+Kakaku.com Inc.;0.0
+WELCIA HOLDINGS CO LTD;0.0
+Chiba Bank;0.0
+JAPAN POST BANK Co.,Ltd.;0.0
+United Mizrahi Bank Ltd.;0.0
+SJM Holdings Ltd (HK);0.0
+Liberty Global Group Plc A;0.0
+Marui Group Co. Ltd;0.0
+Fuchs Petrolub SE (Pref);0.0
+ITOCHU Techno-Solutions Corp.;0.0
+Bank of East Asia;0.0
+Gjensidige Forsikring ASA;0.0
+Shinsei Bank;0.0
+Rockwool International B;0.0
+Suzuken;0.0
+Stanley Electric;0.0
+Wynn Macau Ltd;0.0
+Suntec Real Estate Investment Trust;0.0
+Singapore Exchange;0.0
+City Developments;0.0
+Banco Espirito Santo S.A. (Reg);0.0
+CFD on Irish Bank Resolution Corporation Ltd (IE);0.0
+Likvider m.v.;0.0023

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Øvregrænse for skatteoptimering
+lang: dk
+lang-ref: Øvregrænse-for-skatteoptimering
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 For et realisationsbeskattet depot vil depot-værdien efter $$y$$ år være givet ved:
 

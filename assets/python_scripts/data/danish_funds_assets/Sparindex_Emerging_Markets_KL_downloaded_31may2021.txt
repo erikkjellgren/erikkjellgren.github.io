@@ -1,0 +1,466 @@
+Tencent Holdings Ltd;0.0575
+Alibaba Group Holding Ltd;0.0547
+Taiwan Semiconductor Manufacturing Co Ltd;0.0387
+Samsung Electronics Co Ltd;0.028399999999999998
+Taiwan Semiconductor Manufacturing Co Ltd;0.0271
+Meituan;0.0179
+Samsung Electronics Co Ltd;0.017
+Naspers Ltd;0.0127
+China Construction Bank Corp;0.0103
+JD.com Inc;0.0101
+Ping An Insurance Group Co of China Ltd;0.009399999999999999
+Infosys Ltd;0.0088
+Reliance Industries Ltd;0.0085
+SK Hynix Inc;0.008100000000000001
+Housing Development Finance Corp Ltd;0.0079
+Vale SA;0.0077
+Baidu Inc;0.0076
+Pinduoduo Inc;0.0067
+MediaTek Inc;0.0064
+Tata Consultancy Services Ltd;0.0062
+NetEase Inc;0.006
+NIO Inc;0.006
+Xiaomi Corp;0.0059
+Samsung Electronics Co Ltd;0.0059
+Wuxi Biologics Cayman Inc;0.0058
+Industrial & Commercial Bank of China Ltd;0.005600000000000001
+China Merchants Bank Co Ltd;0.0052
+Samsung SDI Co Ltd;0.0052
+NAVER Corp;0.0051
+Sberbank of Russia PJSC;0.0051
+LG Chem Ltd;0.0049
+Qatar National Bank QPSC;0.0048
+LUKOIL PJSC;0.0048
+ICICI Bank Ltd;0.004699999999999999
+Banco Bradesco SA;0.0045000000000000005
+Hindustan Unilever Ltd;0.0043
+Bank of China Ltd;0.0042
+Kweichow Moutai Co Ltd;0.0040999999999999995
+Emirates Telecommunications Group Co PJSC;0.004
+Gazprom PJSC;0.0039000000000000003
+Novatek PJSC;0.0038
+Delta Electronics Inc;0.0038
+Yum China Holdings Inc;0.0037
+Kakao Corp;0.0036
+Hyundai Motor Co;0.0036
+B3 SA - Brasil Bolsa Balcao;0.0034000000000000002
+Celltrion Inc;0.0034000000000000002
+OTP Bank Nyrt;0.0034000000000000002
+Quanta Computer Inc;0.0034000000000000002
+Nan Ya Plastics Corp;0.0033
+Chunghwa Telecom Co Ltd;0.0032
+America Movil SAB de CV;0.0032
+Shenzhou International Group Holdings Ltd;0.0032
+China Mengniu Dairy Co Ltd;0.0032
+Hon Hai Precision Industry Co Ltd;0.0031
+ANTA Sports Products Ltd;0.0031
+State Bank of India;0.0031
+Grupo Mexico SAB de CV;0.0031
+KB Financial Group Inc;0.0031
+First Abu Dhabi Bank PJSC;0.0031
+Chailease Holding Co Ltd;0.003
+Public Bank Bhd;0.003
+Kia Corp;0.003
+Trip.com Group Ltd;0.0029
+Country Garden Services Holdings Co Ltd;0.0029
+Reliance Industries Ltd;0.0028000000000000004
+New Oriental Education & Technology Group Inc;0.0028000000000000004
+Havells India Ltd;0.0028000000000000004
+Asian Paints Ltd;0.0028000000000000004
+CP ALL PCL;0.0028000000000000004
+Bank Central Asia Tbk PT;0.0027
+Rosneft Oil Co PJSC;0.0027
+LG Electronics Inc;0.0027
+Li Ning Co Ltd;0.0027
+Mega Financial Holding Co Ltd;0.0026
+China Steel Corp;0.0026
+Wal-Mart de Mexico SAB de CV;0.0026
+POSCO;0.0026
+Sunny Optical Technology Group Co Ltd;0.0026
+TAL Education Group;0.0026
+UltraTech Cement Ltd;0.0025
+MMC Norilsk Nickel PJSC;0.0025
+Lite-On Technology Corp;0.0025
+Dr Reddy's Laboratories Ltd;0.0025
+Yuanta Financial Holding Co Ltd;0.0025
+ZTO Express Cayman Inc;0.0025
+Masraf Al Rayan QSC;0.0024
+ENN Energy Holdings Ltd;0.0024
+Bharti Airtel Ltd;0.0024
+FirstRand Ltd;0.0024
+PTT PCL;0.0024
+Bank Rakyat Indonesia Persero Tbk PT;0.0024
+HCL Technologies Ltd;0.0024
+China Resources Beer Holdings Co Ltd;0.0023
+China Development Financial Holding Corp;0.0023
+Hellenic Telecommunications Organization SA;0.0023
+BeiGene Ltd;0.0023
+Longfor Group Holdings Ltd;0.0023
+China Petroleum & Chemical Corp;0.0023
+Agricultural Bank of China Ltd;0.0022
+Siam Cement PCL/The;0.0022
+Lenovo Group Ltd;0.0022
+Bancolombia SA;0.0022
+Itau Unibanco Holding SA;0.0022
+Gerdau SA;0.0022
+ICICI Bank Ltd;0.0022
+Bilibili Inc;0.0022
+Geely Automobile Holdings Ltd;0.0022
+Petroleo Brasileiro SA;0.0022
+Tatneft PJSC;0.0022
+WPG Holdings Ltd;0.0021
+Maruti Suzuki India Ltd;0.0021
+Nestle Malaysia Bhd;0.0021
+LG Household & Health Care Ltd;0.0021
+Bajaj Finance Ltd;0.0021
+First Financial Holding Co Ltd;0.0021
+E.Sun Financial Holding Co Ltd;0.0021
+Grupo Financiero Banorte SAB de CV;0.0021
+SK Innovation Co Ltd;0.0021
+Uni-President Enterprises Corp;0.002
+Axis Bank Ltd;0.002
+China Resources Land Ltd;0.002
+Fomento Economico Mexicano SAB de CV;0.002
+Fubon Financial Holding Co Ltd;0.002
+Pidilite Industries Ltd;0.002
+Compal Electronics Inc;0.002
+Great Wall Motor Co Ltd;0.002
+BYD Co Ltd;0.002
+Credicorp Ltd;0.002
+ASE Technology Holding Co Ltd;0.002
+Hon Hai Precision Industry Co Ltd;0.002
+Cemex SAB de CV;0.002
+Anhui Conch Cement Co Ltd;0.002
+CTBC Financial Holding Co Ltd;0.0019
+BIM Birlesik Magazalar AS;0.0019
+Abu Dhabi Commercial Bank PJSC;0.0019
+Advantech Co Ltd;0.0019
+Cathay Financial Holding Co Ltd;0.0019
+Vipshop Holdings Ltd;0.0019
+Hyundai Mobis Co Ltd;0.0019
+China Gas Holdings Ltd;0.0019
+United Microelectronics Corp;0.0019
+China Pacific Insurance Group Co Ltd;0.0018
+BTS Group Holdings PCL;0.0018
+Hindalco Industries Ltd;0.0018
+Enel Americas SA;0.0018
+Globant SA;0.0018
+Sino Biopharmaceutical Ltd;0.0018
+Chicony Electronics Co Ltd;0.0018
+Samsung C&T Corp;0.0018
+China Life Insurance Co Ltd;0.0018
+Zai Lab Ltd;0.0018
+Banco de Chile;0.0017000000000000001
+Powszechna Kasa Oszczednosci Bank Polski SA;0.0017000000000000001
+Formosa Plastics Corp;0.0017000000000000001
+Grupo Bimbo SAB de CV;0.0017000000000000001
+Sun Pharmaceutical Industries Ltd;0.0017000000000000001
+NCSoft Corp;0.0017000000000000001
+Bank of Communications Co Ltd;0.0017000000000000001
+China Conch Venture Holdings Ltd;0.0017000000000000001
+Standard Bank Group Ltd;0.0017000000000000001
+United Microelectronics Corp;0.0017000000000000001
+Telkom Indonesia Persero Tbk PT;0.0017000000000000001
+Samsung Biologics Co Ltd;0.0017000000000000001
+Haier Smart Home Co Ltd;0.0017000000000000001
+Eicher Motors Ltd;0.0016
+OPAP SA;0.0016
+Impala Platinum Holdings Ltd;0.0016
+Kotak Mahindra Bank Ltd;0.0016
+Samsung SDS Co Ltd;0.0016
+Largan Precision Co Ltd;0.0016
+Formosa Chemicals & Fibre Corp;0.0016
+Wuliangye Yibin Co Ltd;0.0016
+Southern Copper Corp;0.0016
+Country Garden Holdings Co Ltd;0.0016
+Sichuan Chuantou Energy Co Ltd;0.0015
+Kingdee International Software Group Co Ltd;0.0015
+China Overseas Land & Investment Ltd;0.0015
+CSPC Pharmaceutical Group Ltd;0.0015
+Tata Steel Ltd;0.0015
+Taiwan Mobile Co Ltd;0.0015
+Chang Hwa Commercial Bank Ltd;0.0015
+China Merchants Port Holdings Co Ltd;0.0015
+Zijin Mining Group Co Ltd;0.0015
+Tencent Music Entertainment Group;0.0015
+AngloGold Ashanti Ltd;0.0015
+SM Prime Holdings Inc;0.0014000000000000002
+Sunac China Holdings Ltd;0.0014000000000000002
+Intouch Holdings PCL;0.0014000000000000002
+Kasikornbank PCL;0.0014000000000000002
+CITIC Securities Co Ltd;0.0014000000000000002
+Axis Bank Ltd;0.0014000000000000002
+Polski Koncern Naftowy ORLEN SA;0.0014000000000000002
+Magazine Luiza SA;0.0014000000000000002
+WuXi AppTec Co Ltd;0.0014000000000000002
+Magnit PJSC;0.0014000000000000002
+Cia Siderurgica Nacional SA;0.0013
+Petroleo Brasileiro SA;0.0013
+Mobile TeleSystems PJSC;0.0013
+Innovent Biologics Inc;0.0013
+Alibaba Health Information Technology Ltd;0.0013
+Sibanye Stillwater Ltd;0.0013
+Commercial International Bank Egypt SAE;0.0013
+GDS Holdings Ltd;0.0013
+Kalbe Farma Tbk PT;0.0013
+Amorepacific Corp;0.0013
+MOL Hungarian Oil & Gas PLC;0.0013
+Dabur India Ltd;0.0013
+Jiangxi Copper Co Ltd;0.0013
+COSCO SHIPPING Holdings Co Ltd;0.0013
+Kuala Lumpur Kepong Bhd;0.0013
+Mahindra & Mahindra Ltd;0.0013
+AU Optronics Corp;0.0013
+Sasol Ltd;0.0013
+Polyus PJSC;0.0012
+Bangkok Dusit Medical Services PCL;0.0012
+Sociedad Quimica y Minera de Chile SA;0.0012
+Hong Leong Bank Bhd;0.0012
+MTN Group;0.0012
+PhosAgro PJSC;0.0012
+Banco Santander Chile;0.0012
+Ayala Land Inc;0.0012
+Lojas Renner SA;0.0012
+WEG SA;0.0012
+China CITIC Bank Corp Ltd;0.0012
+Gold Fields Ltd;0.0012
+Advanced Info Service PCL;0.0012
+Airports of Thailand PCL;0.0012
+Surgutneftegas PJSC;0.0012
+Reinet Investments SCA;0.0012
+Suzano SA;0.0011
+Hana Financial Group Inc;0.0011
+PetroChina Co Ltd;0.0011
+Unilever Indonesia Tbk PT;0.0011
+Jason Furniture Hangzhou Co Ltd;0.0011
+Li Auto Inc;0.0011
+Adani Green Energy Ltd;0.0011
+Anglo American Platinum Ltd;0.0011
+JUMBO SA;0.0011
+Richter Gedeon Nyrt;0.0011
+Huazhu Group Ltd;0.0011
+Tsingtao Brewery Co Ltd;0.0011
+Wanhua Chemical Group Co Ltd;0.0011
+China Tower Corp Ltd;0.0011
+Tenaga Nasional Bhd;0.0011
+Al Rajhi Bank;0.0011
+Trent Ltd;0.0011
+China Minsheng Banking Corp Ltd;0.0011
+Telefonica Brasil SA;0.0011
+CGN Power Co Ltd;0.0011
+Itausa SA;0.0011
+President Chain Store Corp;0.001
+Hotai Motor Co Ltd;0.001
+Capitec Bank Holdings Ltd;0.001
+Central Pattana PCL;0.001
+Kingsoft Corp Ltd;0.001
+Bank Polska Kasa Opieki SA;0.001
+Ruentex Development Co Ltd;0.001
+Bid Corp Ltd;0.001
+Hyundai Glovis Co Ltd;0.001
+Yihai International Holding Ltd;0.001
+Infosys Ltd;0.001
+PLDT Inc;0.001
+LG Corp;0.001
+Catcher Technology Co Ltd;0.001
+Hyundai Heavy Industries Holdings Co Ltd;0.001
+X5 Retail Group NV;0.001
+Shoprite Holdings Ltd;0.001
+DaShenLin Pharmaceutical Group Co Ltd;0.001
+China Resources Gas Group Ltd;0.001
+Fu Jian Anjoy Foods Co Ltd;0.001
+21Vianet Group Inc;0.001
+Polymetal International PLC;0.001
+Sime Darby Bhd;0.0009
+Lotte Shopping Co Ltd;0.0009
+YTO Express Group Co Ltd;0.0009
+Ultrapar Participacoes SA;0.0009
+JOYY Inc;0.0009
+SK Holdings Co Ltd;0.0009
+China Tourism Group Duty Free Corp Ltd;0.0009
+S-Oil Corp;0.0009
+CIMB Group Holdings Bhd;0.0009
+Weichai Power Co Ltd;0.0009
+Ayala Corp;0.0009
+Shimao Group Holdings Ltd;0.0009
+Contemporary Amperex Technology Co Ltd;0.0009
+CITIC Ltd;0.0009
+XPENG INC - ADR;0.0009
+Rumo SA;0.0009
+Want Want China Holdings Ltd;0.0009
+Ping An Healthcare and Technology Co Ltd;0.0009
+iQIYI Inc;0.0009
+Shinhan Financial Group Co Ltd;0.0009
+Severstal PAO;0.0009
+China Railway Group Ltd;0.0009
+Taiwan Cooperative Financial Holding Co Ltd;0.0009
+Woori Financial Group Inc;0.0009
+Samsung Electro-Mechanics Co Ltd;0.0009
+REC Ltd;0.0009
+Ambev SA;0.0009
+East Money Information Co Ltd;0.0009
+Bajaj Finserv Ltd;0.0009
+Home Product Center PCL;0.0009
+Grupo Televisa SAB;0.0008
+COSCO SHIPPING Ports Ltd;0.0008
+Korea Shipbuilding & Offshore Engineering Co Ltd;0.0008
+Grupo Aeroportuario del Pacifico SAB de CV;0.0008
+DB Insurance Co Ltd;0.0008
+BB Seguridade Participacoes SA;0.0008
+Indofood Sukses Makmur Tbk PT;0.0008
+51job Inc;0.0008
+Enel Chile SA;0.0008
+Celltrion Healthcare Co Ltd;0.0008
+Brilliance China Automotive Holdings Ltd;0.0008
+Astra International Tbk PT;0.0008
+Samsung Fire & Marine Insurance Co Ltd;0.0008
+United Tractors Tbk PT;0.0008
+Land & Houses PCL;0.0008
+Haitong Securities Co Ltd;0.0008
+Globe Telecom Inc;0.0008
+Autohome Inc;0.0008
+MultiChoice Group;0.0008
+SK Telecom Co Ltd;0.0008
+Lakala Payment Co Ltd;0.0008
+Cosan SA;0.0008
+Hua Nan Financial Holdings Co Ltd;0.0008
+Shandong Weigao Group Medical Polymer Co Ltd;0.0008
+PTT Exploration & Production PCL;0.0007000000000000001
+TCL Technology Group Corp;0.0007000000000000001
+KE Holdings Inc;0.0007000000000000001
+People's Insurance Co Group of China Ltd/The;0.0007000000000000001
+Santander Bank Polska SA;0.0007000000000000001
+Banco Bradesco SA;0.0007000000000000001
+Bank Mandiri Persero Tbk PT;0.0007000000000000001
+HAP Seng Consolidated Bhd;0.0007000000000000001
+Sinopec Shanghai Petrochemical Co Ltd;0.0007000000000000001
+Shinhan Financial Group Co Ltd;0.0007000000000000001
+Hengan International Group Co Ltd;0.0007000000000000001
+SF Holding Co Ltd;0.0007000000000000001
+Remgro Ltd;0.0007000000000000001
+Momo Inc;0.0007000000000000001
+Petronas Chemicals Group Bhd;0.0007000000000000001
+Akbank TAS;0.0007000000000000001
+TIM SA/Brazil;0.0007000000000000001
+LONGi Green Energy Technology Co Ltd;0.0007000000000000001
+Beijing Oriental Yuhong Waterproof Technology Co Ltd;0.0007000000000000001
+Ambev SA;0.0007000000000000001
+S-1 Corp;0.0007000000000000001
+Turkiye Petrol Rafinerileri AS;0.0007000000000000001
+Samsung Heavy Industries Co Ltd;0.0007000000000000001
+Hutchison China MediTech Ltd;0.0007000000000000001
+Banco do Brasil SA;0.0007000000000000001
+Osotspa PCL;0.0007000000000000001
+Luxshare Precision Industry Co Ltd;0.0007000000000000001
+Top Glove Corp Bhd;0.0007000000000000001
+Coca-Cola Femsa SAB de CV;0.0007000000000000001
+Guangdong Investment Ltd;0.0007000000000000001
+Huaneng Power International Inc;0.0007000000000000001
+Turkiye Garanti Bankasi AS;0.0007000000000000001
+Bank of Hangzhou Co Ltd;0.0007000000000000001
+Cia Energetica de Minas Gerais;0.0007000000000000001
+Chifeng Jilong Gold Mining Co Ltd;0.0006
+AAC Technologies Holdings Inc;0.0006
+SPAR Group Ltd/The;0.0006
+LPP SA;0.0006
+Xinyi Solar Holdings Ltd;0.0006
+Noah Holdings Ltd;0.0006
+Sime Darby Plantation Bhd;0.0006
+Synnex Technology International Corp;0.0006
+Equatorial Energia SA;0.0006
+Hyundai Engineering & Construction Co Ltd;0.0006
+Bangkok Commercial Asset Management PCL;0.0006
+Weibo Corp;0.0006
+Lojas Americanas SA;0.0006
+PICC Property & Casualty Co Ltd;0.0006
+China Evergrande Group;0.0006
+China Oilfield Services Ltd;0.0006
+Localiza Rent a Car SA;0.0006
+Genting Bhd;0.0006
+Orbia Advance Corp SAB de CV;0.0006
+ASE Technology Holding Co Ltd;0.0006
+Ganfeng Lithium Co Ltd;0.0006
+East Group Co Ltd;0.0006
+Berli Jucker PCL;0.0006
+International Container Terminal Services Inc;0.0006
+Eve Energy Co Ltd;0.0006
+Daqo New Energy Corp;0.0006
+Accton Technology Corp;0.0006
+Tata Steel Ltd;0.0006
+China Communications Services Corp Ltd;0.0006
+Tianjin 712 Communication & Broadcasting Co Ltd;0.0006
+PTT Global Chemical PCL;0.0006
+POSCO;0.0006
+Ping An Bank Co Ltd;0.0006
+BRF SA;0.0005
+Sinopharm Group Co Ltd;0.0005
+Coway Co Ltd;0.0005
+Tingyi Cayman Islands Holding Corp;0.0005
+KB Financial Group Inc;0.0005
+Ecopetrol SA;0.0005
+Industrial Bank of Korea;0.0005
+LUFAX HOLDING LTD;0.0005
+Metropolitan Bank & Trust Co;0.0005
+Hartalega Holdings Bhd;0.0005
+Aspen Pharmacare Holdings Ltd;0.0005
+Dino Polska SA;0.0005
+Sanlam Ltd;0.0005
+AU Optronics Corp;0.0005
+Tianjin Zhonghuan Semiconductor Co Ltd;0.0005
+Tiger Brands Ltd;0.0005
+Banco Bradesco SA;0.0005
+Turkcell Iletisim Hizmetleri AS;0.0005
+Yunnan Energy New Material Co Ltd;0.0005
+AMMB Holdings Bhd;0.0005
+KINGSOFT CLOUD HOLDINGS-ADR;0.0005
+Cyfrowy Polsat SA;0.0005
+Mahindra & Mahindra Ltd;0.0004
+Bank of Ningbo Co Ltd;0.0004
+Hyundai Motor Co;0.0004
+Sanquan Food Co Ltd;0.0004
+HUYA INC-ADR;0.0004
+Tongwei Co Ltd;0.0004
+Microport Scientific Corp;0.0004
+Centrais Eletricas Brasileiras SA;0.0004
+Telefonica Brasil SA;0.0004
+Turkcell Iletisim Hizmetleri AS;0.0004
+Aboitiz Equity Ventures Inc;0.0004
+SSY Group Ltd;0.0004
+Walsin Technology Corp;0.0004
+DOUYU INTERNATIONAL HOLD-ADR;0.0004
+Sanan Optoelectronics Co Ltd;0.0004
+BYD Co Ltd;0.0004
+Huayu Automotive Systems Co Ltd;0.0004
+Hanmi Pharm Co Ltd;0.0004
+China Youzan Ltd;0.0004
+Lens Technology Co Ltd;0.0004
+Cia de Minas Buenaventura SAA;0.0004
+CD Projekt SA;0.0004
+Yes Bank Ltd;0.0004
+Genting Malaysia Bhd;0.0004
+GSX Techedu Inc;0.0004
+Orange Polska SA;0.0004
+Bidvest Group Ltd/The;0.0004
+Vodacom Group Ltd;0.0004
+NAURA Technology Group Co Ltd;0.0004
+CanSino Biologics Inc;0.0003
+Delta Electronics Thailand PCL;0.0003
+Hithink RoyalFlush Information Network Co Ltd;0.0003
+Everbright Securities Co Ltd;0.0003
+GoerTek Inc;0.0003
+Universal Robina Corp;0.0003
+AMOREPACIFIC Group;0.0003
+Korea Electric Power Corp;0.0003
+New China Life Insurance Co Ltd;0.0003
+CSC Financial Co Ltd;0.0003
+Smoore International Holdings Ltd;0.0003
+Hyundai Motor Co;0.0003
+China Resources Pharmaceutical Group Ltd;0.0002
+Samsung Life Insurance Co Ltd;0.0002
+VTB Bank PJSC;0.0002
+Industrias Penoles SAB de CV;0.0001
+Equities;0.0001
+TCS Group Holding PLC;0.0
+Hanergy Thin Film Power Group NPV;0.0
+ITC Ltd;0.0
+Powszechny Zaklad Ubezpieczen SA;0.0

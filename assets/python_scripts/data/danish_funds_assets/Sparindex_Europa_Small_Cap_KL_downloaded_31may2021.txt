@@ -1,0 +1,463 @@
+Intermediate Capital Group PLC;0.005699999999999999
+IMCD NV;0.005699999999999999
+DS Smith PLC;0.005600000000000001
+Rightmove PLC;0.0055000000000000005
+B&M European Value Retail SA;0.0053
+VAT Group AG;0.0053
+Spectris PLC;0.0053
+Metso Outotec Oyj;0.0053
+Indutrade AB;0.0052
+BE Semiconductor Industries NV;0.0051
+Howden Joinery Group PLC;0.0049
+SIG Combibloc Group AG;0.0049
+Bellway PLC;0.0048
+AerCap Holdings NV;0.0048
+Signify NV;0.004699999999999999
+Electrocomponents PLC;0.004699999999999999
+Getinge AB;0.0046
+Storebrand ASA;0.0046
+Weir Group PLC/The;0.0046
+Tritax Big Box REIT PLC;0.0045000000000000005
+UNITE Group PLC/The;0.0045000000000000005
+HomeServe PLC;0.0044
+Embracer Group AB;0.0044
+Georg Fischer AG;0.0043
+Close Brothers Group PLC;0.0043
+IG Group Holdings PLC;0.0042
+Sinch AB;0.0042
+ASR Nederland NV;0.0040999999999999995
+Tecan Group AG;0.0040999999999999995
+Castellum AB;0.0040999999999999995
+TOMRA Systems ASA;0.0040999999999999995
+ASOS PLC;0.004
+Travis Perkins PLC;0.004
+Rotork PLC;0.004
+SimCorp A/S;0.004
+Trelleborg AB;0.004
+thyssenkrupp AG;0.004
+Diploma PLC;0.004
+Euronext NV;0.0039000000000000003
+Pennon Group PLC;0.0038
+Dechra Pharmaceuticals PLC;0.0038
+Aalberts NV;0.0037
+Games Workshop Group PLC;0.0037
+Elekta AB;0.0037
+Netcompany Group A/S;0.0037
+Tate & Lyle PLC;0.0037
+Inchcape PLC;0.0036
+Nokian Renkaat Oyj;0.0036
+Evotec SE;0.0036
+Wienerberger AG;0.0036
+Dialog Semiconductor PLC;0.0036
+PSP Swiss Property AG;0.0036
+Genus PLC;0.0036
+Valmet Oyj;0.0034999999999999996
+Warehouses De Pauw CVA;0.0034999999999999996
+Cofinimmo SA;0.0034999999999999996
+Avast PLC;0.0034999999999999996
+Aedifica SA;0.0034999999999999996
+Derwent London PLC;0.0034999999999999996
+Avanza Bank Holding AB;0.0034000000000000002
+Banco BPM SpA;0.0034000000000000002
+TietoEVRY Oyj;0.0034000000000000002
+ConvaTec Group PLC;0.0034000000000000002
+Royal Unibrew A/S;0.0033
+Balfour Beatty PLC;0.0033
+boohoo Group PLC;0.0033
+Lifco AB;0.0033
+Bankinter SA;0.0033
+Meggitt PLC;0.0033
+Dometic Group AB;0.0033
+ams AG;0.0033
+Hays PLC;0.0033
+Countryside Properties PLC;0.0032
+Interpump Group SpA;0.0032
+Rheinmetall AG;0.0032
+Rexel SA;0.0032
+Gerresheimer AG;0.0032
+Sopra Steria Group SACA;0.0032
+NEL ASA;0.0032
+Helvetia Holding AG;0.0032
+SSAB AB;0.0032
+Bakkafrost P/F;0.0031
+Cembra Money Bank AG;0.0031
+Salmar ASA;0.0031
+Renishaw PLC;0.0031
+Holmen AB;0.0031
+AAK AB;0.003
+Corbion NV;0.003
+Acciona SA;0.003
+Freenet AG;0.003
+Thule Group AB;0.003
+Man Group PLC/Jersey;0.003
+Siltronic AG;0.003
+Kindred Group PLC;0.003
+Huhtamaki Oyj;0.003
+Bucher Industries AG;0.003
+Rubis SCA;0.0029
+Fabege AB;0.0029
+Signature Aviation PLC;0.0029
+Centrica PLC;0.0029
+Siegfried Holding AG;0.0029
+AddTech AB;0.0029
+Hiscox Ltd;0.0029
+Sweco AB;0.0029
+Vistry Group PLC;0.0029
+Abcam PLC;0.0029
+Victrex PLC;0.0029
+Millicom International Cellular SA;0.0029
+TUI AG;0.0028000000000000004
+Merlin Properties Socimi SA;0.0028000000000000004
+WH Smith PLC;0.0028000000000000004
+William Hill PLC;0.0028000000000000004
+G4S PLC;0.0028000000000000004
+IWG PLC;0.0028000000000000004
+CTS Eventim AG & Co KGaA;0.0028000000000000004
+Carnival PLC;0.0028000000000000004
+ProSiebenSat.1 Media SE;0.0028000000000000004
+Bravida Holding AB;0.0028000000000000004
+SpareBank 1 SMN;0.0028000000000000004
+UDG Healthcare PLC;0.0027
+Swedish Orphan Biovitrum AB;0.0027
+Aggreko PLC;0.0027
+Royal Mail PLC;0.0027
+Grafton Group PLC;0.0027
+Savills PLC;0.0027
+Belimo Holding AG;0.0027
+Beazley PLC;0.0027
+RHI Magnesita NV;0.0027
+Arcadis NV;0.0027
+SSP Group Plc;0.0026
+TAG Immobilien AG;0.0026
+Elis SA;0.0026
+Hexpol AB;0.0026
+Entra ASA;0.0026
+OC Oerlikon Corp AG;0.0026
+Serco Group PLC;0.0026
+Ackermans & van Haaren NV;0.0026
+De' Longhi SpA;0.0026
+MorphoSys AG;0.0026
+Subsea 7 SA;0.0026
+Nordic Semiconductor ASA;0.0026
+Dufry AG;0.0025
+Buzzi Unicem SpA;0.0025
+Stillfront Group AB;0.0025
+Virgin Money UK PLC;0.0025
+Allreal Holding AG;0.0025
+Lancashire Holdings Ltd;0.0025
+Wihlborgs Fastigheter AB;0.0025
+A2A SpA;0.0025
+Konecranes Oyj;0.0025
+Flughafen Zurich AG;0.0025
+BillerudKorsnas AB;0.0025
+CVS Group PLC;0.0025
+Greggs PLC;0.0025
+RWS Holdings PLC;0.0025
+Britvic PLC;0.0025
+Rathbone Brothers PLC;0.0024
+KBC Ancora;0.0024
+Fevertree Drinks PLC;0.0024
+Banca Popolare di Sondrio SCPA;0.0024
+CA Immobilien Anlagen AG;0.0024
+Nordic Entertainment Group AB;0.0024
+Keywords Studios PLC;0.0024
+Pets at Home Group Plc;0.0024
+CompuGroup Medical SE & Co KgaA;0.0024
+Hill & Smith Holdings PLC;0.0024
+Trainline PLC;0.0024
+Bodycote PLC;0.0024
+Jyske Bank A/S;0.0024
+Pagegroup PLC;0.0024
+ASTM SpA;0.0023
+Beijer Ref AB;0.0023
+Ultra Electronics Holdings PLC;0.0023
+Bavarian Nordic A/S;0.0023
+Scatec ASA;0.0023
+Italgas SpA;0.0023
+EVN AG;0.0023
+Zur Rose Group AG;0.0023
+APERAM SA;0.0023
+888 Holdings PLC;0.0023
+SBM Offshore NV;0.0023
+Stroeer SE & Co KGaA;0.0023
+Shop Apotheke Europe NV;0.0023
+Alten SA;0.0023
+Hera SpA;0.0023
+Playtech Plc;0.0023
+Peab AB;0.0022
+Grand City Properties SA;0.0022
+CaixaBank SA;0.0022
+Azimut Holding SpA;0.0022
+John Wood Group PLC;0.0022
+Daily Mail & General Trust PLC;0.0022
+Future PLC;0.0022
+S4 Capital PLC;0.0022
+Metsa Board Oyj;0.0022
+Intrum AB;0.0022
+BAWAG Group AG;0.0022
+Dfds A/S;0.0022
+Paragon Banking Group PLC;0.0022
+ISS A/S;0.0022
+Ratos AB;0.0022
+Nordex SE;0.0022
+SOITEC;0.0022
+PostNL NV;0.0022
+Mobimo Holding AG;0.0021
+Korian SA;0.0021
+Inmobiliaria Colonial Socimi SA;0.0021
+Albioma SA;0.0021
+Kungsleden AB;0.0021
+Idorsia Ltd;0.0021
+Vontobel Holding AG;0.0021
+CANCOM SE;0.0021
+Unipol Gruppo SpA;0.0021
+TP ICAP Group PLC;0.0021
+J D Wetherspoon PLC;0.0021
+Moneysupermarket.com Group PLC;0.0021
+KAZ Minerals PLC;0.002
+Sixt SE;0.002
+Domino's Pizza Group PLC;0.002
+Viscofan SA;0.002
+NSI NV;0.002
+Inficon Holding AG;0.002
+National Express Group PLC;0.002
+Aurubis AG;0.002
+JM AB;0.002
+Grupo Catalana Occidente SA;0.002
+TKH Group NV;0.002
+MIPS AB;0.002
+Lindab International AB;0.002
+Cie Plastic Omnium SA;0.002
+Cargotec Oyj;0.002
+Indra Sistemas SA;0.0019
+HUGO BOSS AG;0.0019
+TGS NOPEC Geophysical Co ASA;0.0019
+Forbo Holding AG;0.0019
+Duerr AG;0.0019
+Interroll Holding AG;0.0019
+ALK-Abello A/S;0.0019
+Saab AB;0.0019
+SPIE SA;0.0019
+JET2 PLC;0.0019
+AIXTRON SE;0.0019
+Hamborner REIT AG;0.0019
+Lenzing AG;0.0018
+Workspace Group PLC;0.0018
+Cerved Group SpA;0.0018
+Bachem Holding AG;0.0018
+Hypoport SE;0.0018
+Outokumpu Oyj;0.0018
+Trigano SA;0.0018
+Dunelm Group PLC;0.0018
+Varta AG;0.0018
+ITM Power PLC;0.0018
+Nyfosa AB;0.0018
+Gaztransport Et Technigaz SA;0.0018
+IMMOFINANZ AG;0.0018
+Freni Brembo SpA;0.0018
+Anima Holding SpA;0.0018
+Shaftesbury PLC;0.0018
+Plus500 Ltd;0.0017000000000000001
+dormakaba Holding AG;0.0017000000000000001
+Uponor Oyj;0.0017000000000000001
+Neoen SA;0.0017000000000000001
+Galenica AG;0.0017000000000000001
+NKT A/S;0.0017000000000000001
+Banco de Sabadell SA;0.0017000000000000001
+Austevoll Seafood ASA;0.0017000000000000001
+Atea ASA;0.0017000000000000001
+Drax Group PLC;0.0017000000000000001
+UNIQA Insurance Group AG;0.0017000000000000001
+Vesuvius PLC;0.0017000000000000001
+Vectura Group PLC;0.0017000000000000001
+Jungheinrich AG;0.0017000000000000001
+Reply SpA;0.0017000000000000001
+Air France-KLM;0.0017000000000000001
+Spirent Communications PLC;0.0017000000000000001
+QinetiQ Group PLC;0.0016
+Bossard Holding AG;0.0016
+AGFA-Gevaert NV;0.0016
+SFS Group AG;0.0016
+Solaria Energia y Medio Ambiente SA;0.0016
+Jenoptik AG;0.0016
+Software AG;0.0016
+Banca Mediolanum SpA;0.0016
+FFP;0.0016
+Interparfums SA;0.0016
+Arbonia AG;0.0016
+Leroy Seafood Group ASA;0.0016
+BKW AG;0.0016
+Softwareone Holding AG;0.0016
+Firstgroup PLC;0.0016
+Iren SpA;0.0016
+BPER Banca;0.0016
+Sydbank AS;0.0016
+Halfords Group PLC;0.0016
+Sacyr SA;0.0015
+ADLER Group SA;0.0015
+Great Portland Estates PLC;0.0015
+YIT Oyj;0.0015
+Valiant Holding AG;0.0015
+Samhallsbyggnadsbolaget i Norden AB;0.0015
+Breedon Group PLC;0.0015
+Kloeckner & Co SE;0.0015
+Television Francaise 1;0.0015
+Aker ASA;0.0015
+Zehnder Group AG;0.0015
+Intershop Holding AG;0.0015
+Euromoney Institutional Investor PLC;0.0015
+Burford Capital Ltd;0.0015
+Kambi Group PLC;0.0015
+AURELIUS Equity Opportunities SE & Co KGaA;0.0015
+Credito Valtellinese SpA;0.0015
+Pharma Mar SA;0.0015
+Hufvudstaden AB;0.0015
+Centamin PLC;0.0015
+Deutsche Beteiligungs AG;0.0015
+Fraport AG Frankfurt Airport Services Worldwide;0.0015
+Inwido AB;0.0015
+Oesterreichische Post AG;0.0015
+Essentra PLC;0.0015
+Banca Generali SpA;0.0015
+Zumtobel Group AG;0.0015
+Gimv NV;0.0015
+Huber + Suhner AG;0.0015
+Vastned Retail NV;0.0015
+Mobilezone Holding AG;0.0014000000000000002
+Applus Services SA;0.0014000000000000002
+Avon Rubber PLC;0.0014000000000000002
+Gurit Holding AG;0.0014000000000000002
+Citycon Oyj;0.0014000000000000002
+Loomis AB;0.0014000000000000002
+Capital & Counties Properties PLC;0.0014000000000000002
+Piaggio & C SpA;0.0014000000000000002
+Schouw & Co A/S;0.0014000000000000002
+Telecom Plus PLC;0.0014000000000000002
+Axfood AB;0.0014000000000000002
+Modern Times Group MTG AB;0.0014000000000000002
+Lagardere SCA;0.0014000000000000002
+Matas A/S;0.0014000000000000002
+OSRAM Licht AG;0.0014000000000000002
+PATRIZIA AG;0.0014000000000000002
+K+S AG;0.0014000000000000002
+Ebro Foods SA;0.0014000000000000002
+Flow Traders;0.0014000000000000002
+Meyer Burger Technology AG;0.0014000000000000002
+zooplus AG;0.0014000000000000002
+Fagron;0.0014000000000000002
+ITV PLC;0.0014000000000000002
+DNO ASA;0.0014000000000000002
+SkiStar AB;0.0014000000000000002
+Semapa-Sociedade de Investimento e Gestao;0.0013
+Greencore Group PLC;0.0013
+AMG Advanced Metallurgical Group NV;0.0013
+IPSOS;0.0013
+Falck Renewables SpA;0.0013
+Topdanmark AS;0.0013
+flatexDEGIRO AG;0.0013
+Italmobiliare SpA;0.0013
+Indus Holding AG;0.0013
+Blue Prism Group plc;0.0013
+Capita PLC;0.0013
+Ceres Power Holdings PLC;0.0013
+Premier Foods PLC;0.0013
+Banco Comercial Portugues SA;0.0013
+TomTom NV;0.0013
+KWS Saat SE & Co KGaA;0.0013
+Construcciones y Auxiliar de Ferrocarriles SA;0.0013
+FLSmidth & Co A/S;0.0012
+Marston's PLC;0.0012
+Orior AG;0.0012
+Nobia AB;0.0012
+bpost SA;0.0012
+Befimmo SA;0.0012
+Crest Nicholson Holdings plc;0.0012
+Immobiliare Grande Distribuzione SIIQ SpA;0.0012
+D/S Norden A/S;0.0012
+BioGaia AB;0.0012
+EFG International AG;0.0012
+Euronav NV;0.0012
+Deutz AG;0.0012
+Cineworld Group PLC;0.0012
+Clas Ohlson AB;0.0011
+Leonteq AG;0.0011
+ABC arbitrage;0.0011
+Indivior PLC;0.0011
+Emmi AG;0.0011
+NCC AB;0.0011
+Virbac SA;0.0011
+Salvatore Ferragamo SpA;0.0011
+NOS SGPS SA;0.0011
+Mediaset SpA;0.0011
+OCI NV;0.0011
+Aareal Bank AG;0.0011
+Mediaset Espana Comunicacion SA;0.0011
+Quadient SA;0.0011
+Wallenstam AB;0.0011
+Draegerwerk AG & Co KGaA;0.0011
+Betsson AB;0.0011
+Pfeiffer Vacuum Technology AG;0.0011
+Tullow Oil PLC;0.0011
+Vitrolife AB;0.0011
+Ontex Group NV;0.001
+Barco NV;0.001
+Klovern AB;0.001
+Miquel y Costas & Miquel SA;0.001
+Bank of Georgia Group PLC;0.001
+Spire Healthcare Group PLC;0.001
+Tod's SpA;0.001
+GRENKE AG;0.001
+Tobii AB;0.001
+Spar Nord Bank A/S;0.001
+McPhy Energy SA;0.001
+Webuild SpA;0.001
+PowerCell Sweden AB;0.0009
+Hunting PLC;0.0009
+Prosegur Cia de Seguridad SA;0.0009
+CGG SA;0.0009
+Network International Holdings PLC;0.0009
+Cairn Energy PLC;0.0009
+Deutsche EuroShop AG;0.0009
+Senior PLC;0.0009
+Restaurant Group PLC/The;0.0009
+Cellectis SA;0.0009
+Nilfisk Holding A/S;0.0009
+Norma Group SE;0.0008
+Ence Energia y Celulosa SA;0.0008
+Basilea Pharmaceutica AG;0.0008
+Hansa Biopharma AB;0.0008
+CTT-Correios de Portugal SA;0.0008
+Stagecoach Group PLC;0.0008
+SAS AB;0.0008
+Atresmedia Corp de Medios de Comunicacion SA;0.0008
+Schoeller-Bleckmann Oilfield Equipment AG;0.0008
+Fugro NV;0.0007000000000000001
+Banca IFIS SpA;0.0007000000000000001
+Koninklijke BAM Groep NV;0.0007000000000000001
+Societa Cattolica di Assicurazioni SC;0.0007000000000000001
+APG SGA SA;0.0007000000000000001
+Solutions 30 SE;0.0007000000000000001
+Bobst Group SA;0.0007000000000000001
+ElringKlinger AG;0.0007000000000000001
+Go-Ahead Group PLC/The;0.0007000000000000001
+Elior Group SA;0.0007000000000000001
+Aryzta AG;0.0007000000000000001
+Van de Velde NV;0.0006
+Tecnicas Reunidas SA;0.0006
+Eurocommercial Properties NV;0.0006
+Mota-Engil SGPS SA;0.0006
+u-blox Holding AG;0.0006
+Valneva SE;0.0006
+GAM Holding AG;0.0005
+Fingerprint Cards AB;0.0005
+Novacyt SA;0.0005
+Bonava AB;0.0005
+Mitie Group PLC;0.0005
+Scandic Hotels Group AB;0.0004
+Guerbet;0.0003
+Relief Therapeutics Holding AG;0.0003
+IMI PLC;0.0002
+Neoen SA;0.0001
+Aedifica SA;0.0
+Abengoa SA;0.0
+Alitalia - Linee Aeree Italiane SpA;0.0

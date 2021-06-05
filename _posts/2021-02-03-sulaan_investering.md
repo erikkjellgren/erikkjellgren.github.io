@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Investering af SU lån
+lang: dk
+lang-ref: Investering-af-SU-lån
+tag: dkfinance
 ---
-
-*Brug ikke dette som finansiel rådgivning. Dette er kun en model.*
 
 Under uddannelse er det muligt at tage SU-lån.
 Hvis man tager SU-lån kun til investering, hvad kan man så forvente efter lånet er blevet tilbage betalt?

@@ -1,0 +1,225 @@
+Novartis AG;0.0361
+Unilever PLC;0.0269
+HSBC Holdings PLC;0.023399999999999997
+Siemens AG;0.0232
+TOTAL SE;0.0208
+Sanofi;0.02
+Allianz SE;0.02
+Royal Dutch Shell PLC;0.0194
+GlaxoSmithKline PLC;0.0176
+Rio Tinto PLC;0.0155
+Schneider Electric SE;0.0152
+Enel SpA;0.0148
+BASF SE;0.0143
+Iberdrola SA;0.0141
+Daimler AG;0.0137
+Zurich Insurance Group AG;0.012199999999999999
+BNP Paribas SA;0.011899999999999999
+Deutsche Telekom AG;0.011899999999999999
+Bayer AG;0.0115
+BHP Group PLC;0.011200000000000002
+Banco Santander SA;0.0104
+UBS Group AG;0.0101
+Vodafone Group PLC;0.01
+Prudential PLC;0.01
+Vinci SA;0.0097
+Anheuser-Busch InBev SA/NV;0.0096
+Deutsche Post AG;0.0096
+Volkswagen AG;0.0092
+AXA SA;0.0091
+Anglo American PLC;0.009000000000000001
+National Grid PLC;0.0085
+Airbus SE;0.0084
+ING Groep NV;0.0083
+Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen;0.008100000000000001
+Intesa Sanpaolo SpA;0.008100000000000001
+Barclays PLC;0.0079
+Danone SA;0.0076
+BP PLC;0.0074
+Lloyds Banking Group PLC;0.0074
+Vonovia SE;0.0073
+Royal Dutch Shell PLC;0.0073
+Pernod Ricard SA;0.0073
+CRH PLC;0.0068000000000000005
+Bayerische Motoren Werke AG;0.006500000000000001
+Eni SpA;0.0064
+ABB Ltd;0.0064
+Banco Bilbao Vizcaya Argentaria SA;0.0062
+Cie de Saint-Gobain;0.0060999999999999995
+Koninklijke Ahold Delhaize NV;0.0058
+WPP PLC;0.005699999999999999
+LafargeHolcim Ltd;0.0055000000000000005
+Nordea Bank Abp;0.0055000000000000005
+Henkel AG & Co KGaA;0.0055000000000000005
+E.ON SE;0.0054
+Capgemini SE;0.0054
+Tesco PLC;0.0052
+Vivendi SE;0.0051
+Cie Generale des Etablissements Michelin SCA;0.005
+Swiss Re AG;0.0049
+BAE Systems PLC;0.0049
+Engie SA;0.004699999999999999
+Assicurazioni Generali SpA;0.0046
+RWE AG;0.0046
+Orange SA;0.0045000000000000005
+UniCredit SpA;0.0045000000000000005
+Aviva PLC;0.0044
+Reckitt Benckiser Group PLC;0.0044
+Legal & General Group PLC;0.0044
+Telefonica SA;0.0042
+Fresenius SE & Co KGaA;0.0040999999999999995
+Coca-Cola HBC AG;0.004
+SSE PLC;0.004
+Swisscom AG;0.004
+UPM-Kymmene Oyj;0.0039000000000000003
+DNB ASA;0.0039000000000000003
+KBC Group NV;0.0039000000000000003
+Sampo Oyj;0.0038
+Equinor ASA;0.0037
+Repsol SA;0.0037
+EDP - Energias de Portugal SA;0.0037
+BT Group PLC;0.0036
+Societe Generale SA;0.0036
+Skandinaviska Enskilda Banken AB;0.0036
+Danske Bank A/S;0.0034999999999999996
+Svenska Handelsbanken AB;0.0034999999999999996
+NN Group NV;0.0034000000000000002
+3i Group PLC;0.0033
+Segro PLC;0.0033
+Coca-Cola European Partners PLC;0.0032
+Credit Suisse Group AG;0.003
+Credit Agricole SA;0.0029
+Swiss Life Holding AG;0.0029
+Carlsberg AS;0.0029
+Groupe Bruxelles Lambert SA;0.0029
+Heineken NV;0.0028000000000000004
+Swedbank AB;0.0028000000000000004
+Fresenius Medical Care AG & Co KGaA;0.0028000000000000004
+Julius Baer Group Ltd;0.0028000000000000004
+Telenor ASA;0.0027
+Veolia Environnement SA;0.0027
+Brenntag SE;0.0027
+Continental AG;0.0027
+HeidelbergCement AG;0.0027
+Mondi PLC;0.0027
+Persimmon PLC;0.0027
+Publicis Groupe SA;0.0027
+Covestro AG;0.0026
+Associated British Foods PLC;0.0025
+Stora Enso Oyj;0.0025
+Mowi ASA;0.0024
+Heineken Holding NV;0.0024
+Volkswagen AG;0.0024
+Flutter Entertainment PLC;0.0023
+Informa PLC;0.0023
+Arkema SA;0.0023
+CaixaBank SA;0.0023
+Standard Chartered PLC;0.0023
+Adecco Group AG;0.0023
+SKF AB;0.0022
+Stellantis NV;0.0022
+Barratt Developments PLC;0.0022
+Antofagasta PLC;0.0022
+Boliden AB;0.0022
+Fortum Oyj;0.0021
+Standard Life Aberdeen PLC;0.0021
+Hannover Rueck SE;0.0021
+Taylor Wimpey PLC;0.0021
+Admiral Group PLC;0.0021
+Koninklijke KPN NV;0.0021
+OMV AG;0.0021
+Thales SA;0.0021
+Carrefour SA;0.0021
+Bouygues SA;0.002
+Natwest Group PLC;0.002
+Kingfisher PLC;0.002
+Snam SpA;0.002
+Galp Energia SGPS SA;0.002
+Smiths Group PLC;0.002
+Telia Co AB;0.002
+Unibail-Rodamco-Westfield;0.0019
+United Utilities Group PLC;0.0019
+Pearson PLC;0.0019
+Tenaris SA;0.0019
+Yara International ASA;0.0018
+Kone Oyj;0.0018
+Skanska AB;0.0018
+Whitbread PLC;0.0018
+Evonik Industries AG;0.0018
+EXOR NV;0.0018
+Ageas SA/NV;0.0018
+Severn Trent PLC;0.0018
+Erste Group Bank AG;0.0018
+Red Electrica Corp SA;0.0018
+Terna Rete Elettrica Nazionale SpA;0.0017000000000000001
+Rolls-Royce Holdings PLC;0.0017000000000000001
+Porsche Automobil Holding SE;0.0016
+Wm Morrison Supermarkets PLC;0.0016
+Commerzbank AG;0.0016
+Aegon NV;0.0016
+Baloise Holding AG;0.0016
+LANXESS AG;0.0016
+Telecom Italia SpA/Milano;0.0016
+Solvay SA;0.0016
+Deutsche Bank AG;0.0016
+Gecina SA;0.0016
+Electricite de France SA;0.0015
+Direct Line Insurance Group PLC;0.0015
+Endesa SA;0.0015
+ArcelorMittal SA;0.0015
+M&G PLC;0.0015
+British Land Co PLC/The;0.0015
+Tele2 AB;0.0015
+Uniper SE;0.0014000000000000002
+Next PLC;0.0014000000000000002
+ABN AMRO Bank NV;0.0014000000000000002
+ACS Actividades de Construccion y Servicios SA;0.0014000000000000002
+Naturgy Energy Group SA;0.0014000000000000002
+Suez SA;0.0014000000000000002
+Swiss Prime Site AG;0.0013
+Randstad NV;0.0013
+Mediobanca Banca di Credito Finanziario SpA;0.0013
+Ocado Group PLC;0.0013
+Lundin Energy AB;0.0013
+J Sainsbury PLC;0.0013
+Berkeley Group Holdings PLC;0.0012
+Renault SA;0.0012
+MTU Aero Engines AG;0.0012
+Norsk Hydro ASA;0.0012
+Alfa Laval AB;0.0012
+Enagas SA;0.0012
+Swatch Group AG/The;0.0011
+SGS SA;0.0011
+Swatch Group AG/The;0.001
+AP Moller - Maersk A/S;0.001
+Securitas AB;0.001
+Sodexo SA;0.001
+Phoenix Group Holdings PLC;0.001
+Hargreaves Lansdown PLC;0.001
+EMS-Chemie Holding AG;0.001
+Johnson Matthey PLC;0.001
+Wartsila OYJ Abp;0.001
+Atos SE;0.0009
+Natixis SA;0.0009
+Tryg A/S;0.0009
+Land Securities Group PLC;0.0009
+Bayerische Motoren Werke AG;0.0009
+voestalpine AG;0.0008
+CNP Assurances;0.0008
+RSA Insurance Group PLC;0.0008
+ICA Gruppen AB;0.0008
+Covivio;0.0007000000000000001
+Koninklijke Vopak NV;0.0007000000000000001
+Deutsche Lufthansa AG;0.0006
+Clariant AG;0.0006
+Etablissements Franz Colruyt NV;0.0006
+Klepierre SA;0.0006
+Elisa Oyj;0.0006
+Melrose Industries PLC;0.0005
+Orion Oyj;0.0005
+SES SA;0.0004
+FUCHS PETROLUB SE;0.0004
+Faurecia SE;0.0001
+Proximus SADP;0.0001
+Snam SpA Rts;0.0
+Tryg A/S;0.0

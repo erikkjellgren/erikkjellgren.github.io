@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Constructing molecular integrals with derivative on the r_inv operator by partial integration
+lang: en
+lang-ref: Constructing molecular integrals with derivative on the r_inv operator by partial integration
 ---
 
 In quantum chemstry integrals of the following form are sometimes needed:

@@ -36,4 +36,16 @@
   <!-- adsense -->
   <script data-ad-client="ca-pub-1456856796491163" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
+    <!-- different lang -->
+    {% if page.layout != 'index' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+        {% for post in posts %}
+      <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
+        {% endfor %}
+      {% endif %}
+    {% endif %}
 </head>

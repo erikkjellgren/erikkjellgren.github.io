@@ -1,0 +1,163 @@
+Toyota Motor Corp;0.07980000000000001
+SoftBank Group Corp;0.0416
+Mitsubishi UFJ Financial Group Inc;0.0321
+KDDI Corp;0.0269
+Sumitomo Mitsui Financial Group Inc;0.024300000000000002
+Honda Motor Co Ltd;0.0235
+Mitsubishi Corp;0.0203
+Mizuho Financial Group Inc;0.0199
+SoftBank Corp;0.0195
+Nippon Telegraph & Telephone Corp;0.0179
+Seven & i Holdings Co Ltd;0.0169
+Panasonic Corp;0.016200000000000003
+Hitachi Ltd;0.016
+Mitsui & Co Ltd;0.015700000000000002
+Tokio Marine Holdings Inc;0.0137
+Fujitsu Ltd;0.013500000000000002
+Kubota Corp;0.0132
+Mitsubishi Electric Corp;0.0128
+Komatsu Ltd;0.0127
+Canon Inc;0.0126
+Central Japan Railway Co;0.0125
+ITOCHU Corp;0.0103
+Bridgestone Corp;0.0102
+ORIX Corp;0.0101
+FUJIFILM Holdings Corp;0.01
+East Japan Railway Co;0.009899999999999999
+Mitsubishi Estate Co Ltd;0.0096
+Mitsui Fudosan Co Ltd;0.0095
+Kyocera Corp;0.0095
+Asahi Group Holdings Ltd;0.009000000000000001
+Dai-ichi Life Holdings Inc;0.0085
+Daiichi Sankyo Co Ltd;0.008100000000000001
+Sumitomo Corp;0.008
+Otsuka Holdings Co Ltd;0.0079
+Daiwa House Industry Co Ltd;0.0076
+Nomura Holdings Inc;0.0075
+Shionogi & Co Ltd;0.006999999999999999
+Asahi Kasei Corp;0.0069
+Toyota Industries Corp;0.0066
+Sekisui House Ltd;0.0066
+Sumitomo Realty & Development Co Ltd;0.0066
+Marubeni Corp;0.006500000000000001
+Japan Metropolitan Fund Invest;0.0064
+Nitto Denko Corp;0.0064
+Nippon Steel Corp;0.0064
+ENEOS Holdings Inc;0.0063
+Japan Post Holdings Co Ltd;0.0062
+Sompo Holdings Inc;0.0060999999999999995
+MS&AD Insurance Group Holdings Inc;0.006
+Nissan Motor Co Ltd;0.006
+Subaru Corp;0.0058
+Sumitomo Electric Industries Ltd;0.0054
+Sumitomo Mitsui Trust Holdings Inc;0.0052
+Sumitomo Metal Mining Co Ltd;0.0048
+Mitsubishi Heavy Industries Ltd;0.0046
+Mitsubishi Chemical Holdings Corp;0.0046
+Daito Trust Construction Co Ltd;0.0043
+Toray Industries Inc;0.0043
+Toyota Tsusho Corp;0.0043
+MEIJI Holdings Co Ltd;0.0042
+West Japan Railway Co;0.0040999999999999995
+Tokyo Gas Co Ltd;0.0039000000000000003
+Resona Holdings Inc;0.0039000000000000003
+AGC Inc;0.0039000000000000003
+Hankyu Hanshin Holdings Inc;0.0039000000000000003
+Japan Real Estate Investment Corp;0.0038
+Chubu Electric Power Co Inc;0.0038
+Nippon Building Fund Inc;0.0038
+Suzuki Motor Corp;0.0038
+Sekisui Chemical Co Ltd;0.0038
+Koito Manufacturing Co Ltd;0.0037
+Omron Corp;0.0036
+Osaka Gas Co Ltd;0.0036
+Lixil Corp;0.0036
+Taisei Corp;0.0036
+Kansai Electric Power Co Inc/The;0.0034999999999999996
+Daiwa Securities Group Inc;0.0034999999999999996
+Yamaha Motor Co Ltd;0.0034000000000000002
+Tokyu Corp;0.0034000000000000002
+Dentsu Group Inc;0.0033
+T&D Holdings Inc;0.0032
+Ricoh Co Ltd;0.0032
+Aisin Corp;0.0032
+Kajima Corp;0.0032
+Secom Co Ltd;0.0031
+JSR Corp;0.0031
+GLP J-Reit;0.0031
+SBI Holdings Inc/Japan;0.003
+Mitsui Chemicals Inc;0.0029
+Nomura Real Estate Master Fund Inc;0.0029
+Obayashi Corp;0.0029
+Isuzu Motors Ltd;0.0029
+JFE Holdings Inc;0.0029
+Kyowa Kirin Co Ltd;0.0028000000000000004
+Nippon Express Co Ltd;0.0028000000000000004
+Oji Holdings Corp;0.0028000000000000004
+SUMCO Corp;0.0028000000000000004
+Fuji Electric Co Ltd;0.0027
+Tosoh Corp;0.0027
+Nippon Yusen KK;0.0025
+Dai Nippon Printing Co Ltd;0.0025
+Daiwa House REIT Investment Corp;0.0025
+Brother Industries Ltd;0.0025
+Suntory Beverage & Food Ltd;0.0024
+NGK Insulators Ltd;0.0024
+Toho Gas Co Ltd;0.0023
+Fukuoka Financial Group Inc;0.0023
+Odakyu Electric Railway Co Ltd;0.0023
+TOTO Ltd;0.0023
+Seiko Epson Corp;0.0023
+Mitsubishi HC Capital Inc;0.0022
+Idemitsu Kosan Co Ltd;0.0022
+Taiheiyo Cement Corp;0.0022
+Mazda Motor Corp;0.0022
+Shimizu Corp;0.0022
+Nisshin Seifun Group Inc;0.0022
+Tokyo Electric Power Co Holdings Inc;0.0022
+Shimamura Co Ltd;0.0022
+Yamada Holdings Co Ltd;0.0021
+Japan Post Insurance Co Ltd;0.0021
+Orix JREIT Inc;0.0021
+Sumitomo Chemical Co Ltd;0.0021
+Yokogawa Electric Corp;0.0021
+Toppan Printing Co Ltd;0.002
+Tohoku Electric Power Co Inc;0.002
+Kuraray Co Ltd;0.002
+Concordia Financial Group Ltd;0.002
+Kurita Water Industries Ltd;0.002
+NH Foods Ltd;0.002
+Medipal Holdings Corp;0.002
+Shinsei Bank Ltd;0.002
+Kyushu Railway Co;0.002
+Casio Computer Co Ltd;0.0019
+Marui Group Co Ltd;0.0019
+NSK Ltd;0.0019
+Ajinomoto Co Inc;0.0019
+United Urban Investment Corp;0.0019
+Amada Co Ltd;0.0019
+Trend Micro Inc/Japan;0.0019
+Kyushu Electric Power Co Inc;0.0018
+Chugoku Electric Power Co Inc/The;0.0018
+Rohm Co Ltd;0.0018
+Alfresa Holdings Corp;0.0018
+Japan Post Bank Co Ltd;0.0018
+Hitachi Construction Machinery Co Ltd;0.0018
+Kintetsu Group Holdings Co Ltd;0.0018
+Tokyu Fudosan Holdings Corp;0.0018
+ANA Holdings Inc;0.0017000000000000001
+Bank of Kyoto Ltd/The;0.0017000000000000001
+Chiba Bank Ltd/The;0.0017000000000000001
+PeptiDream Inc;0.0017000000000000001
+Shizuoka Bank Ltd/The;0.0017000000000000001
+Makita Corp;0.0016
+Toyo Suisan Kaisha Ltd;0.0016
+Inpex Corp;0.0015
+Nippon Prologis REIT Inc;0.0015
+Suzuken Co Ltd/Aichi Japan;0.0015
+Japan Airlines Co Ltd;0.0015
+Hirose Electric Co Ltd;0.0014000000000000002
+Tokyo Century Corp;0.0013
+Keio Corp;0.0013
+Taisho Pharmaceutical Holdings Co Ltd;0.0012
+Japan Tobacco Inc;0.0

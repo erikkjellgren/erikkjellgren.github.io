@@ -1,0 +1,58 @@
+Marlowe PLC;0.0506
+Boku Inc (GB);0.0464
+GB GROUP;0.0359
+AAK AB New;0.033
+Arrow Global Group PLC;0.031200000000000002
+Dermapharm Holding SE;0.028999999999999998
+Uniphar PLC;0.027000000000000003
+Ergomed PLC;0.026000000000000002
+Eco Animal Health Group PLC;0.0259
+Treatt PLC;0.0231
+AB Dynamics plc;0.022400000000000003
+XP Power Ltd;0.022400000000000003
+YouGov Plc;0.0223
+Alpha FMC Topco Limited;0.0218
+Craneware PLC;0.0217
+Volution Group Plc;0.0213
+DISCOVERIE GROUP PLC;0.021
+Burford Capital Limited new;0.0195
+EQS GROUP AG (DE);0.018500000000000003
+Learning Technologies Group PL;0.018500000000000003
+Ideagen PLC;0.0182
+Addtech AB B New;0.018000000000000002
+Games Workshop Group;0.0177
+Judges Scientific PLC;0.0175
+IMCD Group BV;0.0169
+Victoria PLC;0.0167
+Applus Services SA;0.0161
+Asiakastieto Group Oyj;0.0158
+JTC PLC (GB);0.0155
+Diploma Plc;0.0154
+Tristel PLC;0.014499999999999999
+FRP ADVISORY GROUP LTD;0.014499999999999999
+ATOSS Software AG;0.0144
+JDC Group AG;0.013999999999999999
+Focusrite Plc;0.0139
+Robertet SA;0.0127
+Medistim ASA;0.0125
+Carel Industries SpA;0.0124
+Fabasoft (DE);0.012
+Absolent Group AB;0.011899999999999999
+Kardex AG Regd.;0.011399999999999999
+Vitec Software Group AB B;0.010700000000000001
+Fashionette AG;0.0106
+FILA Fabbrica Italiana Lapis ed Affini SpA;0.0104
+MIPS AB;0.0102
+AddLife AB B;0.0101
+Meltwater Holding BV;0.01
+Genovis AB;0.009899999999999999
+MJ HUDSON GROUP PLC;0.0085
+Exasol AG;0.008199999999999999
+Bioventix PLC;0.0076
+Corticeira Amorim Sa;0.0066
+Solutions 30 SE New;0.0062
+XANO Industri AB B New;0.005699999999999999
+Diaceutics Plc;0.0053
+Revenio Group Oyj;0.0045000000000000005
+VAA Vista Alegre Atlantis SGPS;0.0031
+Likvider m.v.;0.0231

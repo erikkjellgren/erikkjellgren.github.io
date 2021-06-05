@@ -1,0 +1,247 @@
+Taiyo Yuden Co Ltd;0.0089
+Other assets/liabilities;0.0079
+Advance Residence Investment Corp;0.0078000000000000005
+Haseko Corp;0.0078000000000000005
+Food & Life Cos Ltd;0.0078000000000000005
+Sekisui House Reit Inc;0.0077
+Ebara Corp;0.0072
+Activia Properties Inc;0.0070999999999999995
+Aozora Bank Ltd;0.006999999999999999
+Frontier Real Estate Investment Corp;0.0069
+BayCurrent Consulting Inc;0.0067
+Tokyo Tatemono Co Ltd;0.0067
+Mitsui OSK Lines Ltd;0.0067
+SCREEN Holdings Co Ltd;0.0064
+Nifco Inc/Japan;0.0064
+COMSYS Holdings Corp;0.0063
+Showa Denko KK;0.0062
+Kenedix Office Investment Corp;0.0062
+Denka Co Ltd;0.0062
+Japan Logistics Fund Inc;0.0062
+Kyowa Exeo Corp;0.0062
+NOF Corp;0.0060999999999999995
+Sojitz Corp;0.0060999999999999995
+Nippon Accommodations Fund Inc;0.006
+Sumitomo Forestry Co Ltd;0.006
+Cosmo Energy Holdings Co Ltd;0.0059
+Ube Industries Ltd;0.0059
+Sugi Holdings Co Ltd;0.0058
+Anritsu Corp;0.005699999999999999
+Sanwa Holdings Corp;0.005699999999999999
+ADEKA Corp;0.005699999999999999
+Horiba Ltd;0.0055000000000000005
+Nagase & Co Ltd;0.0055000000000000005
+Tokai Carbon Co Ltd;0.0054
+Fancl Corp;0.0054
+Hanwa Co Ltd;0.0054
+Kobe Steel Ltd;0.0053
+Nikon Corp;0.0053
+Inaba Denki Sangyo Co Ltd;0.0053
+JAFCO Group Co ltd;0.0052
+Matsumotokiyoshi Holdings Co Ltd;0.0052
+Penta-Ocean Construction Co Ltd;0.0052
+Invesco Office J-Reit Inc;0.0052
+GS Yuasa Corp;0.0052
+Autobacs Seven Co Ltd;0.0052
+K's Holdings Corp;0.0051
+Sankyu Inc;0.0051
+Kagome Co Ltd;0.0051
+Kyudenko Corp;0.005
+NIPPON REIT Investment Corp;0.005
+Tokyu REIT Inc;0.005
+Open House Co Ltd;0.005
+Relo Group Inc;0.005
+Ulvac Inc;0.0049
+Mitsubishi Logistics Corp;0.0049
+Nichirei Corp;0.0049
+TechnoPro Holdings Inc;0.0049
+Sumitomo Warehouse Co Ltd/The;0.0049
+Japan Hotel REIT Investment Corp;0.0049
+Meitec Corp;0.0048
+Takara Holdings Inc;0.0048
+IHI Corp;0.004699999999999999
+Zenkoku Hosho Co Ltd;0.004699999999999999
+Rohto Pharmaceutical Co Ltd;0.004699999999999999
+NET One Systems Co Ltd;0.004699999999999999
+Okumura Corp;0.004699999999999999
+Tokyo Seimitsu Co Ltd;0.004699999999999999
+Alps Alpine Co Ltd;0.0046
+Nippon Soda Co Ltd;0.0046
+Amano Corp;0.0046
+Skylark Holdings Co Ltd;0.0046
+Sato Holdings Corp;0.0046
+Mitsui Mining & Smelting Co Ltd;0.0046
+DMG Mori Co Ltd;0.0046
+DIC Corp;0.0045000000000000005
+Nihon Unisys Ltd;0.0045000000000000005
+Zensho Holdings Co Ltd;0.0045000000000000005
+Nisshinbo Holdings Inc;0.0045000000000000005
+Tokuyama Corp;0.0044
+H.U. Group Holdings Inc;0.0044
+Nipro Corp;0.0044
+NTN Corp;0.0044
+Invincible Investment Corp;0.0044
+Resorttrust Inc;0.0044
+Credit Saison Co Ltd;0.0044
+Kewpie Corp;0.0043
+Mizuno Corp;0.0043
+Lintec Corp;0.0043
+Toagosei Co Ltd;0.0043
+Awa Bank Ltd/The;0.0043
+Benefit One Inc;0.0043
+Dowa Holdings Co Ltd;0.0043
+Sawai Pharmaceutical Co Ltd;0.0043
+Outsourcing Inc;0.0042
+Sapporo Holdings Ltd;0.0042
+Daiseki Co Ltd;0.0042
+NSD Co Ltd;0.0042
+Aica Kogyo Co Ltd;0.0042
+OSG Corp;0.0042
+Toyo Tire Corp;0.0040999999999999995
+Ship Healthcare Holdings Inc;0.0040999999999999995
+Juroku Bank Ltd/The;0.0040999999999999995
+Nishimatsu Construction Co Ltd;0.0040999999999999995
+Duskin Co Ltd;0.004
+Nankai Electric Railway Co Ltd;0.004
+SMS Co Ltd;0.004
+Tokai Tokyo Financial Holdings Inc;0.004
+Kisoji Co Ltd;0.004
+Izumi Co Ltd;0.004
+KYB Corp;0.004
+Kadokawa Corp;0.004
+Tokai Rika Co Ltd;0.004
+Asics Corp;0.004
+Hokuhoku Financial Group Inc;0.0039000000000000003
+Kiyo Bank Ltd/The;0.0039000000000000003
+Furukawa Electric Co Ltd;0.0039000000000000003
+TS Tech Co Ltd;0.0039000000000000003
+Trusco Nakayama Corp;0.0039000000000000003
+Morinaga Milk Industry Co Ltd;0.0038
+Gunze Ltd;0.0038
+Nihon Kohden Corp;0.0038
+NHK Spring Co Ltd;0.0038
+Nippon Gas Co Ltd;0.0038
+Hitachi Zosen Corp;0.0038
+GMO internet Inc;0.0038
+Toyo Ink SC Holdings Co Ltd;0.0038
+J Front Retailing Co Ltd;0.0038
+Central Glass Co Ltd;0.0037
+As One Corp;0.0037
+Nippon Kayaku Co Ltd;0.0037
+Fujitsu General Ltd;0.0037
+Seino Holdings Co Ltd;0.0037
+Ricoh Leasing Co Ltd;0.0037
+Maeda Corp;0.0037
+Heiwa Real Estate Co Ltd;0.0037
+Shochiku Co Ltd;0.0036
+Kokuyo Co Ltd;0.0036
+H2O Retailing Corp;0.0036
+FP Corp;0.0036
+Digital Garage Inc;0.0036
+Hiday Hidaka Corp;0.0036
+Park24 Co Ltd;0.0036
+Kanematsu Corp;0.0034999999999999996
+Ogaki Kyoritsu Bank Ltd/The;0.0034999999999999996
+Shikoku Electric Power Co Inc;0.0034999999999999996
+Idec Corp/Japan;0.0034999999999999996
+Tamura Corp;0.0034999999999999996
+Nippon Light Metal Holdings Co Ltd;0.0034999999999999996
+Hokuetsu Corp;0.0034999999999999996
+Japan Steel Works Ltd/The;0.0034999999999999996
+SHIFT Inc;0.0034999999999999996
+Menicon Co Ltd;0.0034999999999999996
+Makino Milling Machine Co Ltd;0.0034000000000000002
+Pacific Metals Co Ltd;0.0034000000000000002
+Daiichikosho Co Ltd;0.0034000000000000002
+cocokara fine Inc;0.0034000000000000002
+Asahi Holdings Inc;0.0034000000000000002
+Nakanishi Inc;0.0034000000000000002
+Daiwabo Holdings Co Ltd;0.0033
+Nippon Paper Industries Co Ltd;0.0033
+JCR Pharmaceuticals Co Ltd;0.0033
+Marusan Securities Co Ltd;0.0033
+Belluna Co Ltd;0.0033
+Nippon Suisan Kaisha Ltd;0.0033
+Jaccs Co Ltd;0.0033
+Valor Holdings Co Ltd;0.0033
+Infomart Corp;0.0033
+Star Micronics Co Ltd;0.0033
+Katitas Co Ltd;0.0033
+Nikkon Holdings Co Ltd;0.0032
+Systena Corp;0.0032
+Milbon Co Ltd;0.0032
+Justsystems Corp;0.0032
+San-In Godo Bank Ltd/The;0.0032
+Nachi-Fujikoshi Corp;0.0032
+Shiga Bank Ltd/The;0.0032
+Aida Engineering Ltd;0.0032
+Fuji Co Ltd/Ehime;0.0031
+Fuji Oil Holdings Inc;0.0031
+Maruha Nichiro Corp;0.0031
+Okasan Securities Group Inc;0.0031
+Key Coffee Inc;0.0031
+Seria Co Ltd;0.0031
+Tokyu Construction Co Ltd;0.003
+Topcon Corp;0.003
+Kawasaki Kisen Kaisha Ltd;0.003
+Press Kogyo Co Ltd;0.003
+Ines Corp;0.003
+Freee KK;0.003
+Shinmaywa Industries Ltd;0.003
+Kitz Corp;0.003
+Toyo Construction Co Ltd;0.003
+Fuji Seal International Inc;0.0029
+Mani Inc;0.0029
+Wacoal Holdings Corp;0.0029
+Yoshinoya Holdings Co Ltd;0.0029
+Oki Electric Industry Co Ltd;0.0029
+Kaken Pharmaceutical Co Ltd;0.0029
+Alpha Systems Inc;0.0029
+Ain Holdings Inc;0.0028000000000000004
+Toyobo Co Ltd;0.0028000000000000004
+Rakus Co Ltd;0.0028000000000000004
+Goldwin Inc;0.0028000000000000004
+Pilot Corp;0.0028000000000000004
+Japan Lifeline Co Ltd;0.0028000000000000004
+San-Ai Oil Co Ltd;0.0028000000000000004
+Colowide Co Ltd;0.0028000000000000004
+Money Forward Inc;0.0028000000000000004
+Yamazen Corp;0.0028000000000000004
+Doutor Nichires Holdings Co Ltd;0.0027
+en-japan Inc;0.0027
+TOC Co Ltd;0.0027
+Yaoko Co Ltd;0.0027
+Hokkaido Electric Power Co Inc;0.0027
+Sotetsu Holdings Inc;0.0026
+Morinaga & Co Ltd/Japan;0.0026
+Sosei Group Corp;0.0026
+Digital Arts Inc;0.0026
+Aeon Delight Co Ltd;0.0026
+Meidensha Corp;0.0025
+BML Inc;0.0025
+Nissan Shatai Co Ltd;0.0025
+ZERIA Pharmaceutical Co Ltd;0.0025
+Okinawa Electric Power Co Inc/The;0.0025
+Ryoyo Electro Corp;0.0025
+Wacom Co Ltd;0.0025
+CKD Corp;0.0024
+Kyoritsu Maintenance Co Ltd;0.0024
+Japan Pulp & Paper Co Ltd;0.0024
+Ryosan Co Ltd;0.0024
+Megmilk Snow Brand Co Ltd;0.0024
+PALTAC Corp;0.0024
+Raiznext Corp;0.0024
+Ezaki Glico Co Ltd;0.0024
+Change Inc;0.0024
+Atom Corp;0.0023
+GungHo Online Entertainment Inc;0.0023
+JTOWER Inc;0.0023
+Japan Material Co Ltd;0.0023
+Kusuri no Aoki Holdings Co Ltd;0.0022
+Kansai Super Market Ltd;0.0022
+AnGes Inc;0.0021
+DyDo Group Holdings Inc;0.0021
+BASE Inc;0.002
+Nichi-iko Pharmaceutical Co Ltd;0.0018
+IR Japan Holdings Ltd;0.0018
+Medley Inc;0.0018

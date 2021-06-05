@@ -1,0 +1,568 @@
+Apple Inc.;0.0582
+Microsoft Corp.;0.047400000000000005
+Amazon.com;0.0368
+Facebook Inc A (US);0.0196
+Alphabet Inc C;0.0176
+Alphabet Inc A;0.0165
+Tesla Inc (US);0.014199999999999999
+JPMorgan Chase & Co.;0.0131
+Johnson & Johnson;0.0123
+Visa Inc Class A;0.0103
+UnitedHealth Group Inc.;0.0101
+Berkshire Hathaway Inc. B;0.01
+Procter & Gamble Co.;0.009899999999999999
+Walt Disney (USD);0.0095
+Nvidia Corp. (US);0.009300000000000001
+Home Depot Inc.;0.0092
+Mastercard Inc-Class A;0.0091
+Bank of America Corp.;0.0085
+PayPal Holdings Inc (US);0.0077
+Intel Corp.;0.0074
+Exxon Mobil Corp.;0.0074
+Comcast Corp. A;0.006999999999999999
+Verizon Communications Inc. (US);0.0069
+Coca Cola Co (US);0.0066
+Chevron Corp.;0.0066
+Cisco Systems Inc.;0.006500000000000001
+AT&T Inc.;0.0064
+NetFlix Inc;0.0064
+Adobe Systems Inc. (US);0.0064
+Abbott Laboratories (US);0.0059
+PepsiCo Inc.;0.0059
+Pfizer Inc. (US);0.0058
+Merck & Co. Inc. (US);0.005699999999999999
+AbbVie Inc;0.0054
+Salesforce.com Inc.;0.0054
+Wal-Mart Stores Inc.;0.0054
+Broadcom Inc;0.0053
+Thermo Fisher Scientific Inc;0.0052
+Accenture Plc A (USD);0.0052
+McDonalds Corp.;0.005
+Nike Inc B;0.0049
+Texas Instruments (USD);0.0049
+Medtronic PLC;0.0046
+Eli Lilly & Co.;0.0046
+Union Pacific Corp.;0.0046
+NextEra Energy Inc.;0.0045000000000000005
+Wells Fargo Co. (US);0.0044
+Citigroup Inc. (US);0.0044
+Costco Wholesale Corp.;0.0043
+QUALCOMM Inc. (US);0.0042
+Bristol-Myers Squibb Co. (US);0.0040999999999999995
+Linde PLC (US);0.0040999999999999995
+Amgen Inc.;0.0040999999999999995
+Danaher Corp. (US);0.0040999999999999995
+Lowes Co.;0.0039000000000000003
+Oracle Corp.;0.0038
+Starbucks Corp;0.0038
+Caterpillar Inc.;0.0037
+3M Co.;0.0036
+IBM;0.0036
+Applied Materials Inc.;0.0034999999999999996
+General Electric Co. (US);0.0034999999999999996
+Deere and Co.;0.0033
+United Parcel Service Inc. B U.P.S.;0.0033
+BlackRock Inc. Class A;0.0033
+Morgan Stanley;0.0031
+American Tower Corp;0.0031
+Goldman Sachs Group Inc.;0.003
+Intuit Inc.;0.0029
+CVS Health Corp.;0.0029
+American Express;0.0028000000000000004
+Micron Technology;0.0028000000000000004
+Charles Schwab Corp.;0.0028000000000000004
+Booking Holding Inc;0.0027
+ServiceNow Inc.;0.0027
+Advanced Micro Devices Inc.;0.0026
+Anthem Inc.;0.0026
+Fidelity National Information;0.0026
+Mondelez International Inc;0.0026
+Charter Communications Inc;0.0026
+Intuitive Surgical Inc.;0.0025
+Cigna Corporation;0.0025
+Lam Research Corp.;0.0025
+Target Corp;0.0025
+CSX Corp.;0.0025
+Square Inc A;0.0025
+Automatic Data Processing Inc;0.0025
+S&P Global Inc;0.0024
+Illinois Tool Works Inc.;0.0024
+Stryker Corp.;0.0024
+ProLogis Inc.;0.0023
+Duke Energy Corp;0.0023
+Gilead Sciences Inc.;0.0023
+Zoetis Inc A;0.0023
+TJX Co. Inc.;0.0023
+Norfolk Southern Corp;0.0023
+Truist Financial Corporation;0.0022
+U.S. Bancorp;0.0022
+General Motors Co.;0.0022
+Dominion Energy Inc;0.0022
+Chubb Ltd (USD);0.0022
+Crown Castle REIT Inc;0.0021
+PNC Financial Services Group Inc.;0.0021
+CME Group Inc;0.0021
+MercadoLibre Inc;0.0021
+Estee Lauder Co. A;0.002
+Fiserv Inc.;0.002
+T-Mobile US Inc;0.002
+Activision Blizzard Inc.;0.0019
+Colgate-Palmolive Co.;0.0019
+Becton Dickinson & Co.;0.0019
+FedEx Corp.;0.0019
+Marsh & McLennan Co. Inc.;0.0018
+Global Payments Inc.;0.0018
+Air Products & Chemicals Inc;0.0018
+Equinix Inc (US);0.0018
+Eaton Corporation Plc (USD);0.0017000000000000001
+Capital One Financial Corp.;0.0017000000000000001
+Zoom Video Communications Inc. (A) (A);0.0017000000000000001
+Intercontinental Exchange Inc;0.0017000000000000001
+Humana Inc.;0.0017000000000000001
+Ecolab Inc.;0.0017000000000000001
+MetLife Inc.;0.0016
+Illumina Inc.;0.0016
+Sherwin-Williams Co.;0.0016
+Emerson Electric Co.;0.0016
+Autodesk Inc.;0.0016
+NXP Semiconductors N.V. (USD);0.0016
+Boston Scientific Corp.;0.0016
+Progressive Corp;0.0016
+Uber Technologies Inc;0.0016
+Waste Management Inc.;0.0016
+Aon PLC;0.0016
+Exelon Corp.;0.0016
+Roper Technologies Inc;0.0016
+HCA Healthcare Inc;0.0016
+Kinder Morgan Inc;0.0016
+Kimberly-Clark Corp.;0.0016
+Analog Devices Inc;0.0015
+Vertex Pharmaceuticals Inc. (USD);0.0015
+Edwards Lifesciences Corp.;0.0015
+KLA Corp;0.0015
+The Blackstone Group Inc A;0.0015
+Arconic Inc;0.0014000000000000002
+Ford Motor Co. (US);0.0014000000000000002
+Dow Inc;0.0014000000000000002
+Moodys Corp.;0.0014000000000000002
+Sempra Energy Corp.;0.0014000000000000002
+Newmont Mining Corp.;0.0014000000000000002
+Prudential Financial Inc.;0.0014000000000000002
+Regeneron Pharmaceuticals Inc.;0.0014000000000000002
+AFLAC Inc.;0.0014000000000000002
+HP Inc (US);0.0014000000000000002
+IHS Markit Ltd;0.0014000000000000002
+Twilio Inc A;0.0014000000000000002
+EOG Resources Inc.;0.0014000000000000002
+Snap Inc A;0.0013
+Twitter Inc;0.0013
+Marriott International Inc. A;0.0013
+Xcel Energy Inc.;0.0013
+Cummins Inc.;0.0013
+Cognizant Technology Solutions Corp.;0.0013
+Biogen Inc;0.0013
+TE Connectivity Ltd (USD);0.0013
+Workday Inc;0.0013
+Schlumberger (USD);0.0013
+Ross Stores Inc.;0.0012
+Sysco Corp.;0.0012
+American International Group Inc.;0.0012
+Travelers Companies Inc.;0.0012
+Walgreens Boots Alliance Inc;0.0012
+Simon Property Group Inc;0.0012
+IDEXX Laboratories Inc.;0.0012
+Trane Technologies plc;0.0012
+DowDuPont Inc New;0.0012
+Public Storage;0.0012
+Johnson Controls International PLC (USD);0.0012
+Monster Beverage Corp;0.0012
+Public Service Enterprise Group;0.0012
+Lululemon Athletica Inc;0.0012
+Hilton Inc;0.0012
+Align Technology Inc.;0.0012
+Baxter International Inc.;0.0012
+WEC Energy Group Inc;0.0012
+Microchip Technology Inc.;0.0012
+eBay Inc;0.0012
+Yum Brands;0.0012
+Verisk Analytics Inc. Class A;0.0011
+IQVIA Holdings Inc;0.0011
+Bank of New York Mellon Corp.;0.0011
+Digital Realty Trust Inc.;0.0011
+T. Rowe Price Group Inc.;0.0011
+Dollar General Corp.;0.0011
+PACCAR Inc.;0.0011
+Williams Co. Inc.;0.0011
+Pioneer Natural Resources Co.;0.0011
+General Mills Inc.;0.0011
+Allstate Corp.;0.0011
+Agilent Technologies Inc.;0.0011
+Chipotle Mexican Grill Inc. Class A;0.0011
+CoStar Group Inc;0.0011
+Eversource Energy;0.0011
+Electronic Arts Inc;0.0011
+Paychex;0.0011
+Valero Energy Corp.;0.0011
+Stanley Black & Decker Inc.;0.0011
+Centene Corp;0.0011
+Delphi Automotive PLC;0.0011
+Cadence Design Systems Inc.;0.0011
+Corning Inc.;0.0011
+Synopsys Inc.;0.001
+Waste Connections Inc (USD);0.001
+VF Corp;0.001
+Roku Inc A;0.001
+Moderna Inc.;0.001
+Equity Residential;0.001
+Welltower Inc;0.001
+Discover Financial Services;0.001
+Veeva Systems Inc A;0.001
+Dexcom Inc.;0.001
+American Water Works Co Inc;0.001
+DocuSign Inc  ;0.001
+Pinterest Inc. (A) (A);0.001
+MSCI Inc;0.001
+Carrier Global Corporation;0.001
+Dover Corp.;0.001
+Consolidated Edison Inc.;0.001
+Marvell Technology Group (USD);0.001
+Rockwell Automation Inc.;0.001
+Delta Air Lines Inc (DAL);0.001
+D.R. Horton Inc.;0.001
+PPG Industries Inc.;0.001
+Avalonbay Communities Inc.;0.001
+Cintas Corp.;0.001
+Corteva Inc;0.001
+Southwest Airlines Co.;0.0009
+Lyondellbasell Industries NV A (USD);0.0009
+Zimmer Biomet Holdings Inc (USD);0.0009
+Fastenal Company;0.0009
+Otis Worldwide Corporation;0.0009
+Match Grou;0.0009
+Willis Towers Watson Plc;0.0009
+Ametek Inc.;0.0009
+ONEOK Inc.;0.0009
+Skyworks Solutions Inc.;0.0009
+McKesson Corp.;0.0009
+Xilinx Inc;0.0009
+SBA Communications Corporation;0.0009
+International Flavors & Fragrances Inc.;0.0009
+CMS Energy Corp.;0.0009
+State Street Corp.;0.0009
+The Kraft Heinz Company (US);0.0009
+O Reilly Automotive Inc;0.0009
+Entergy Corp.;0.0009
+Crowdstrike Holdings Inc. (A) (A);0.0009
+Alexion Pharmaceuticals Inc;0.0009
+Liberty Broadband Corp;0.0009
+Weyerhaeuser Corp.;0.0009
+Lennar;0.0009
+Edison International;0.0009
+CBRE Group Inc;0.0009
+Ball Corp.;0.0009
+Equifax Inc.;0.0009
+Fifth Third Bancorp.;0.0008
+Hartford Financial Services Group Inc.;0.0008
+Mettler-Toledo International Inc.;0.0008
+TransUnion;0.0008
+Occidental Petroleum Corp;0.0008
+Kansas City Southern;0.0008
+ANSYS Inc.;0.0008
+ResMed Inc.;0.0008
+Palo Alto Networks Inc;0.0008
+Realty Income Corp.;0.0008
+Ameriprise Financial Inc.;0.0008
+TRADE DESK INC THE -CLASS A;0.0008
+Hershey Foods Corp.;0.0008
+AutoZone Inc.;0.0008
+United Rentals Inc.;0.0008
+Hewlett Packard Enterprise Co.;0.0008
+Xylem Inc;0.0008
+Amcor PLC;0.0008
+Old Dominion Freight Line Inc.;0.0008
+Synchrony Financial;0.0008
+Okta Inc A;0.0008
+Principal Financial Group;0.0008
+Healthpeak Properties Inc;0.0007000000000000001
+Laboratory Corp. of America Holdings;0.0007000000000000001
+Kroger Co;0.0007000000000000001
+Zillow Group Inc C;0.0007000000000000001
+Arthur J. Gallagher & Co;0.0007000000000000001
+Clorox Co.;0.0007000000000000001
+CDW Corporation of Delaware;0.0007000000000000001
+Ventas inc.;0.0007000000000000001
+Copart Inc.;0.0007000000000000001
+Best Buy Co Inc;0.0007000000000000001
+Tyson Foods Inc. A;0.0007000000000000001
+Republic Services Inc.;0.0007000000000000001
+ViacomCBS Inc B;0.0007000000000000001
+Nucor Corp.;0.0007000000000000001
+Fleetcor Technologies Inc;0.0007000000000000001
+KKR & Co Inc A;0.0007000000000000001
+Hess Corp.;0.0007000000000000001
+Peloton Interactive Inc A;0.0007000000000000001
+Zebra Technologies Corp. A;0.0007000000000000001
+Fortinet Inc;0.0007000000000000001
+EPAM Systems Inc;0.0007000000000000001
+Etsy Inc;0.0007000000000000001
+W.W. Grainger Inc.;0.0007000000000000001
+Carnival Corp.;0.0007000000000000001
+First Republic Bank;0.0007000000000000001
+Keysight Technologies Inc;0.0007000000000000001
+Halliburton Co.;0.0007000000000000001
+Vulcan Materials Co.;0.0007000000000000001
+Royal Caribbean Cruises (USD);0.0007000000000000001
+Western Digital Corp.;0.0007000000000000001
+Boston Properties Inc.;0.0007000000000000001
+International Paper Co.;0.0007000000000000001
+Essex Property Trust Inc.;0.0006
+KeyCorp.;0.0006
+Dr. Pepper Snapple Group Inc. (USD);0.0006
+Expedia Inc Del;0.0006
+Mid-America Apartment Communities Inc.;0.0006
+McCormick & Co. Inc.;0.0006
+Martin Marietta Materials;0.0006
+RingCentral Inc A;0.0006
+Splunk Inc;0.0006
+IDEX Corporation;0.0006
+Regions Financial Corp.;0.0006
+VeriSign Inc.;0.0006
+Northern Trust Corp.;0.0006
+Darden Restaurants Inc.;0.0006
+Maxim Integrated Products Inc.;0.0006
+W.P Carey Inc.;0.0006
+Wayfair Inc;0.0006
+Teladoc Inc;0.0006
+CarMax Inc.;0.0006
+M&T Bank Corp.;0.0006
+UDR Inc;0.0006
+Genuine Parts Co.;0.0006
+Seagate Technology;0.0006
+Dell Technologies Inc C;0.0006
+Omnicom Group Inc.;0.0006
+Alexandria Real Estate Equities Inc.;0.0006
+Arista Networks Inc;0.0006
+Exact Sciences Corp;0.0006
+SVB Financial Group;0.0006
+Arch Capital Group Ltd;0.0006
+Teradyne Inc.;0.0006
+Dollar Tree Inc;0.0006
+Generac Holdings Inc;0.0006
+Citizens Financial Group Inc;0.0006
+Markel Corp.;0.0006
+Church & Dwight Co. Inc.;0.0006
+Extra Space Storage;0.0006
+Lincoln National Corp.;0.0006
+Centerpoint Energy Inc.;0.0006
+Horizon Pharma PLC;0.0006
+Cheniere Energy Inc.;0.0006
+Kellogg Co.;0.0006
+Trimble Inc;0.0006
+Catalent Inc.;0.0006
+Cerner Corp.;0.0006
+Fox Corp B;0.0006
+Gartner Inc. A;0.0006
+Invitation Homes Inc;0.0006
+Paycom Software Inc.;0.0005
+Hologic Inc. (US);0.0005
+Pentair Plc (USD);0.0005
+Teleflex Inc.;0.0005
+HubSpot Inc;0.0005
+Enphase Energy Inc;0.0005
+Cincinnati Financial Corp.;0.0005
+Equitable Holdings Inc.;0.0005
+NVR Inc;0.0005
+Celanese Corp. - A;0.0005
+Conagra Brands Inc;0.0005
+Burlington Stores Inc;0.0005
+Marketaxess Holding Inc;0.0005
+Gardner Denver Holdings Inc;0.0005
+Annaly Capital Management Inc.;0.0005
+PG&E Corp.;0.0005
+Duke Realty Corp.;0.0005
+Viatris Inc;0.0005
+Westinghouse Air Brake Technologies Corp.;0.0005
+The Cooper Companies Inc.;0.0005
+Cardinal Health Inc.;0.0005
+Ally Financial Inc;0.0005
+Quest Diagnostics Inc.;0.0005
+NetApp Inc.;0.0005
+Sun Communities Inc;0.0005
+Baker Hughes Incorporated A;0.0005
+Pulte Group Inc.;0.0005
+Snap-on Inc.;0.0005
+Albemarle Corp.;0.0005
+Seagen Inc;0.0005
+Interpublic Group of Co. Inc.;0.0005
+Garmin Ltd.;0.0005
+Fidelity National Financial - FNF Group;0.0005
+Medical Properties Trust Inc;0.0005
+J.B. Hunt Transport Services Inc.;0.0005
+Coupa Software, Inc.;0.0005
+Slack Technologies Inc A;0.0005
+Plug Power Inc.;0.0005
+AES Corp.;0.0005
+Take-Two Interactive Software Inc.;0.0005
+Avery Dennison Corp.;0.0005
+Waters Corp.;0.0005
+ON Semiconductor Corp.;0.0005
+AmerisourceBergen Corp. A;0.0005
+Nordson Corp;0.0005
+Insulet Corp;0.0005
+Huntington Bancshares;0.0005
+Devon Energy Corp.;0.0005
+Robert Half International Inc.;0.0005
+LKQ Corp.;0.0005
+Crown Holdings Inc.;0.0005
+Live Nation Entertainment Inc.;0.0005
+Eastman Chemical Co.;0.0005
+West Pharmaceuticals Services;0.0005
+Carvana Co A;0.0005
+Citrix Systems Inc.;0.0005
+Akamai Technologies Inc.;0.0005
+Globe Life Inc;0.0005
+Ulta Salon Cosmetics & Fragrance Inc;0.0005
+Regency Centers Corp.;0.0005
+Camden Property Trust;0.0005
+Fortune Brands Home & Security Inc.;0.0005
+Broadridge Financial Solutions LLC;0.0005
+American Financial Group Inc.;0.0005
+Tractor Supply Co;0.0005
+Equity Lifestyle Properties Inc;0.0005
+F5 Networks Inc.;0.0004
+Masco Corp.;0.0004
+Monolithic Power Systems Inc.;0.0004
+Nasdaq Inc;0.0004
+Lamb Weston Holdings Inc;0.0004
+JM Smucker Co. (US);0.0004
+Hormel Foods Corp;0.0004
+Whirlpool Corp.;0.0004
+Host Hotels & Resorts Inc.;0.0004
+Lumen Technologies Inc new;0.0004
+Molina Healthcare Inc;0.0004
+MongoDB Inc;0.0004
+Tyler Technologies Inc;0.0004
+Alnylam Pharmaceuticals Inc.;0.0004
+SolarEdge Technologies Inc;0.0004
+WR Berkley Corp;0.0004
+WestRock Co;0.0004
+Atmos Energy Corp.;0.0004
+ESSENTIAL UTILITIES INC;0.0004
+PTC Inc;0.0004
+GoDaddy Inc A;0.0004
+Elanco Animal Health Inc;0.0004
+Loews Corp.;0.0004
+FMC Corp.;0.0004
+Avantor Inc;0.0004
+PerkinElmer Inc.;0.0004
+Datadog Inc. A;0.0004
+Pool Corp.;0.0004
+DENTSPLY SIRONA Inc;0.0004
+Juniper Networks Inc;0.0004
+Fair Isaac Corp.;0.0004
+Universal Health Services Inc. B;0.0004
+Mohawk Industries Inc.;0.0004
+Cognex Corp.;0.0004
+Vail Resorts Inc.;0.0004
+Omega Healthcare Investors;0.0004
+ABIOMED Inc.;0.0004
+Western Union Comp.;0.0004
+STERIS PLC (USD);0.0004
+Incyte Corp.;0.0004
+Domino's Pizza Inc;0.0004
+Iron Mountain REIT Inc;0.0004
+Voya Financial Inc;0.0004
+Discovery Communications Inc. C;0.0004
+Zendesk Inc;0.0004
+Vornado Realty Trust;0.0004
+SS&C Technologies Holdings Inc;0.0004
+Reinsurance Group of America Inc.;0.0004
+BioMarin Pharmaceuticals Inc;0.0004
+Cloudflare Inc A;0.0004
+Brown & Brown Inc;0.0004
+VEREIT Inc;0.0004
+Jack Henry & Associates Inc.;0.0004
+Bio-Rad Laboratories Inc (class A);0.0004
+Allegion Plc;0.0004
+10X Genomics Inc A;0.0004
+Everest Re Group;0.0004
+Lennox International Inc;0.0004
+Raymond James Financial Inc;0.0003
+Aramark;0.0003
+Franklin Resources Inc;0.0003
+IAC/INTERACTIVECORP(NEW);0.0003
+Packaging Corp of America;0.0003
+VMWARE Inc;0.0003
+Masimo Corp.;0.0003
+UGI Corp;0.0003
+Liberty Media Corp Sirius XM Group A;0.0003
+BorgWarner Inc.;0.0003
+Novocure Ltd (US);0.0003
+Newell Brands Inc;0.0003
+Athene Holding Ltd - A;0.0003
+Alleghany Corp.;0.0003
+The Mosaic Company;0.0003
+Owens Corning Inc;0.0003
+Steel Dynamics Inc.;0.0003
+Lear Corp.;0.0003
+Black Knight Inc;0.0003
+Ceridian HCM Holding, Inc.;0.0003
+Royalty Pharma PLC A;0.0003
+CF Industries Holdings Inc.;0.0003
+NortonLifeLock Inc;0.0003
+Cabot Oil & Gas Corp. A;0.0003
+Factset Research Systems Inc;0.0003
+Zscaler Inc;0.0003
+Henry Schein Inc.;0.0003
+Cboe Global Markets Inc;0.0003
+AIRBNB INC (US);0.0003
+Avalara In;0.0003
+Invesco Ltd - ADR;0.0003
+Sensata Technologies Holding PLC;0.0003
+Campbell Soup Co.;0.0003
+DISH Network Corp. Class A;0.0003
+Apollo Global Management Inc A;0.0003
+Jazz Pharmaceuticals PLC (US);0.0003
+Cable One Inc.;0.0003
+DaVita Inc;0.0003
+Amerco;0.0003
+XPO Logistics Inc;0.0003
+RPM International Inc.;0.0003
+Advanced Auto Parts Inc.;0.0003
+Liberty Media Corp Media Group C;0.0003
+Sirius XM Holdings Inc;0.0003
+Assurant Inc.;0.0003
+A.O. Smith Corporation;0.0003
+Renaissancere Holdings;0.0003
+Rollins Inc;0.0003
+Hasbro Inc.;0.0003
+Liberty Global Group Plc C;0.0002
+Dynatrace;0.0002
+AGNC Investment Corp;0.0002
+Sunrun Inc;0.0002
+Neurocrine Biosciences Inc.;0.0002
+Expeditors Intl. of Washington Inc.;0.0002
+Altice USA Inc A;0.0002
+Sealed Air Corp.;0.0002
+C. H. Robinson Worldwide Inc.;0.0002
+Autoliv;0.0002
+News Corp. New LLC Class A;0.0002
+IPG Photonics Corp.;0.0002
+Ionis Pharmaceuticals Inc.;0.0002
+SEI Investments Co.;0.0002
+Arrow Electronics Inc.;0.0002
+SNOWFLAKE INC-CLASS A (US);0.0002
+Chewy Inc A;0.0002
+Dropbox Inc A;0.0002
+Knight Swift Transportation Holdings Inc A;0.0002
+Guidewire Software Inc;0.0002
+PPD INC (US);0.0002
+Liberty Global Group Plc A;0.0002
+Axalta Coating Systems Ltd.;0.0002
+Sarepta Therapeutics Inc;0.0002
+Tradeweb Markets Inc. (A);0.0001
+Discovery Communications Inc. A;0.0001
+The Carlyle Group Inc;0.0001
+Liberty Media SiriusXM Group C;0.0001
+Erie Indemnity Co. A;0.0001
+Likvider m.v.;0.0014000000000000002

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Indeks og ÅOP for Nordnet Månedsopsparing og SKATs positiv liste
+lang: dk
+lang-ref: Indeks-og-ÅOP-for-Nordnet-Månedsopsparing-og-SKATs-positiv-liste
+tag: dkfinance
 ---
 
 *Husk selv at checke op på webscrapede informationer, for at sikre de er rigtige.*

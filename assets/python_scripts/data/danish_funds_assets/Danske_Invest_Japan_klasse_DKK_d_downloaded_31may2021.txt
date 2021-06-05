@@ -1,0 +1,80 @@
+KDDI Corp.;0.0739
+Honda Motor Co. Ltd.;0.029500000000000002
+Sony Corp.;0.028300000000000002
+Takashimaya;0.0268
+Aisin Seiki;0.0252
+Nippon Telegraph & Telephone;0.0235
+Tokyo Tatemono Co. Ltd.;0.0226
+TS TECH CO LTD;0.0222
+TDK Corp.;0.0218
+Sankyo;0.0213
+Marubeni Corp.;0.020499999999999997
+Mitsubishi Motors Corp;0.0202
+Nippon Shinyaku;0.0197
+Tokio Marine Holdings Inc.;0.0196
+Belc CO LTD;0.018799999999999997
+Hamakyorex Co., Ltd.;0.018500000000000003
+Mitsui and Co;0.0183
+Astellas Pharma Inc. (JP);0.0181
+Ono Pharmaceutical;0.018000000000000002
+DeNa Co. Ltd;0.0173
+Toppan Printing;0.0155
+Sundrug Co. Ltd.;0.0147
+Mitsubishi Logistics Corp.;0.014499999999999999
+Kissei Pharmaceutical Co.;0.013500000000000002
+77 Bank;0.0134
+Nitori;0.0129
+Brother Industries;0.0127
+Zenkoku Hosho Co Ltd;0.0125
+Daiwa House Industry Corp.;0.0121
+Asahi Kasei Corp.;0.0121
+Shionogi & Co.;0.0116
+West Japan Railway Co.;0.0115
+Fukuoka Financial Group Inc.;0.011399999999999999
+NOK Corp.;0.0113
+Nichias Corp.;0.011200000000000002
+COSMOS Pharmaceutical Corp;0.0111
+Taisei Corp.;0.011000000000000001
+Lintec Corp.;0.0109
+Sumitomo Heavy Industries;0.0106
+Kyowa Hakko Kirin Co. Ltd;0.0104
+Yamato Kogyo Co Ltd;0.0103
+Toyo Suisan Kaisha;0.01
+Asahi Co. Ltd.;0.009899999999999999
+ENIGMO, Inc.;0.0098
+Rinnai Corp.;0.0098
+Ube Industries;0.009300000000000001
+Nomura Holdings Inc.;0.0084
+INES Corp.;0.008199999999999999
+Nippon Suisan Kaisha;0.008100000000000001
+Nippon Steel & Sumitomo Metal Corp;0.0078000000000000005
+Nichirei Corp.;0.0078000000000000005
+Fukuda Denshi;0.0077
+Kanematsu Corp;0.0069
+Koito Manufactoring;0.0068000000000000005
+Toyota Industries Corp.;0.0067
+Mitsubishi UFJ Financial Group;0.0067
+Nihon Unisys Ltd.;0.0066
+Shinnihon Corp;0.0066
+Seven & I Holdings Co. Ltd.;0.0063
+Toei Co. Ltd;0.0060999999999999995
+Sohgo Security Services Co. Ltd.;0.006
+JXTG Holdings Inc;0.006
+ASKA Pharmaceutical Co. Ltd.;0.005699999999999999
+SBI Holdings Inc.;0.005600000000000001
+OKUMA Holdings Inc.;0.0055000000000000005
+Bandai Namco Holdings Inc.;0.0054
+Aica Kogyo;0.0049
+Orix (JP);0.0048
+Pacific Industrial Co Ltd.;0.004699999999999999
+NIPPO CORPORATION;0.0044
+Seiren Co Ltd.;0.0044
+Japan Wool Textile Co Ltd;0.0044
+ADEKA Corp.;0.0044
+Tokyo Electron;0.0042
+Future Corp.;0.0040999999999999995
+Mitsubishi Gas Chemical Co. Inc;0.0040999999999999995
+Ateam Inc;0.0039000000000000003
+Sekisui Chemical;0.0039000000000000003
+DaikyoNishikawa Corp;0.0034000000000000002
+Likvider m.v.;0.0213

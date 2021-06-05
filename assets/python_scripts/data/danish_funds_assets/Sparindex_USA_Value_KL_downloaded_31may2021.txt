@@ -1,0 +1,268 @@
+JPMorgan Chase & Co;0.0259
+Johnson & Johnson;0.0241
+UnitedHealth Group Inc;0.0194
+Procter & Gamble Co/The;0.0182
+Berkshire Hathaway Inc;0.0181
+Home Depot Inc/The;0.0178
+Bank of America Corp;0.0165
+Intel Corp;0.0144
+Comcast Corp;0.0141
+AT&T Inc;0.0126
+Verizon Communications Inc;0.0123
+Exxon Mobil Corp;0.012199999999999999
+PepsiCo Inc;0.0121
+Coca-Cola Co/The;0.012
+Chevron Corp;0.011699999999999999
+Cisco Systems Inc/Delaware;0.0116
+Pfizer Inc;0.0111
+Merck & Co Inc;0.0111
+AbbVie Inc;0.0108
+Broadcom Inc;0.0103
+Walmart Inc;0.0103
+McDonald's Corp;0.0098
+Texas Instruments Inc;0.0096
+Medtronic PLC;0.0088
+Honeywell International Inc;0.0088
+Linde PLC;0.0086
+Wells Fargo & Co;0.0083
+NextEra Energy Inc;0.008199999999999999
+Bristol-Myers Squibb Co;0.008
+Union Pacific Corp;0.0079
+Amgen Inc;0.0076
+Citigroup Inc;0.0072
+Abbott Laboratories;0.0072
+Raytheon Technologies Corp;0.0070999999999999995
+Accenture PLC;0.0070999999999999995
+Oracle Corp;0.0070999999999999995
+Caterpillar Inc;0.0070999999999999995
+United Parcel Service Inc;0.0070999999999999995
+Walt Disney Co/The;0.0066
+International Business Machines Corp;0.0063
+3M Co;0.0063
+BlackRock Inc;0.0060999999999999995
+General Electric Co;0.0060999999999999995
+Morgan Stanley;0.006
+Deere & Co;0.0058
+Goldman Sachs Group Inc/The;0.0058
+Charles Schwab Corp/The;0.005699999999999999
+Micron Technology Inc;0.005600000000000001
+CVS Health Corp;0.0055000000000000005
+Target Corp;0.0055000000000000005
+American Express Co;0.0054
+Fidelity National Information Services Inc;0.0051
+Anthem Inc;0.005
+Mondelez International Inc;0.0049
+Norfolk Southern Corp;0.0048
+Fiserv Inc;0.004699999999999999
+Automatic Data Processing Inc;0.004699999999999999
+Cigna Corp;0.004699999999999999
+Gilead Sciences Inc;0.0045000000000000005
+Truist Financial Corp;0.0045000000000000005
+Prologis Inc;0.0043
+Duke Energy Corp;0.0043
+ConocoPhillips;0.0042
+Colgate-Palmolive Co;0.0042
+Global Payments Inc;0.0040999999999999995
+General Motors Co;0.0040999999999999995
+Illinois Tool Works Inc;0.0039000000000000003
+Crown Castle International Corp;0.0039000000000000003
+L3Harris Technologies Inc;0.0038
+Chubb Ltd;0.0038
+CME Group Inc;0.0038
+Becton Dickinson and Co;0.0037
+PNC Financial Services Group Inc/The;0.0037
+Analog Devices Inc;0.0037
+US Bancorp;0.0037
+Johnson Controls International plc;0.0036
+Humana Inc;0.0036
+Dominion Energy Inc;0.0034999999999999996
+KLA Corp;0.0034999999999999996
+Air Products and Chemicals Inc;0.0034000000000000002
+Blackstone Group Inc/The;0.0034000000000000002
+Southern Co/The;0.0034000000000000002
+Parker-Hannifin Corp;0.0033
+Waste Management Inc;0.0033
+Kimberly-Clark Corp;0.0033
+Eaton Corp PLC;0.0033
+Cummins Inc;0.0032
+Progressive Corp/The;0.0031
+Costco Wholesale Corp;0.0031
+T-Mobile US Inc;0.0031
+eBay Inc;0.0031
+Baxter International Inc;0.003
+Exelon Corp;0.003
+T Rowe Price Group Inc;0.003
+Emerson Electric Co;0.003
+MetLife Inc;0.0029
+Ford Motor Co;0.0029
+Public Storage;0.0029
+DuPont de Nemours Inc;0.0029
+Xcel Energy Inc;0.0029
+NXP Semiconductors NV;0.0029
+HCA Healthcare Inc;0.0028000000000000004
+Alexandria Real Estate Equities Inc;0.0028000000000000004
+Cognizant Technology Solutions Corp;0.0028000000000000004
+Corning Inc;0.0028000000000000004
+Sempra Energy;0.0028000000000000004
+TE Connectivity Ltd;0.0028000000000000004
+Danaher Corp;0.0028000000000000004
+American Electric Power Co Inc;0.0027
+Dow Inc;0.0027
+HP Inc;0.0027
+Zimmer Biomet Holdings Inc;0.0027
+Digital Realty Trust Inc;0.0027
+Roper Technologies Inc;0.0027
+Kinder Morgan Inc;0.0027
+Constellation Brands Inc;0.0027
+Travelers Cos Inc/The;0.0026
+Allstate Corp/The;0.0026
+EOG Resources Inc;0.0026
+Sysco Corp;0.0026
+Schlumberger NV;0.0026
+AvalonBay Communities Inc;0.0025
+Stryker Corp;0.0025
+PPG Industries Inc;0.0025
+Microchip Technology Inc;0.0025
+Carrier Global Corp;0.0025
+American International Group Inc;0.0025
+Willis Towers Watson PLC;0.0025
+Aflac Inc;0.0025
+Stanley Black & Decker Inc;0.0025
+Equity Residential;0.0024
+Bank of New York Mellon Corp/The;0.0024
+Ameriprise Financial Inc;0.0024
+Marsh & McLennan Cos Inc;0.0023
+Best Buy Co Inc;0.0023
+Walgreens Boots Alliance Inc;0.0023
+Corteva Inc;0.0023
+First Republic Bank/CA;0.0023
+Nucor Corp;0.0023
+Centene Corp;0.0023
+PACCAR Inc;0.0023
+General Mills Inc;0.0022
+Biogen Inc;0.0022
+CBRE Group Inc;0.0022
+McKesson Corp;0.0022
+Arthur J Gallagher & Co;0.0022
+IQVIA Holdings Inc;0.0022
+Kansas City Southern;0.0022
+WEC Energy Group Inc;0.0021
+Lennar Corp;0.0021
+Healthpeak Properties Inc;0.0021
+Otis Worldwide Corp;0.0021
+Williams Cos Inc/The;0.0021
+Entergy Corp;0.0021
+Dollar Tree Inc;0.0021
+Hartford Financial Services Group Inc/The;0.002
+Archer-Daniels-Midland Co;0.002
+Extra Space Storage Inc;0.002
+Dell Technologies Inc;0.002
+International Flavors & Fragrances Inc;0.002
+Ingersoll Rand Inc;0.002
+Fifth Third Bancorp;0.0019
+Public Service Enterprise Group Inc;0.0019
+Capital One Financial Corp;0.0019
+Pioneer Natural Resources Co;0.0019
+Realty Income Corp;0.0019
+Alexion Pharmaceuticals Inc;0.0019
+LyondellBasell Industries NV;0.0019
+Simon Property Group Inc;0.0019
+Eversource Energy;0.0019
+Weyerhaeuser Co;0.0019
+Discover Financial Services;0.0018
+Valero Energy Corp;0.0018
+Jacobs Engineering Group Inc;0.0018
+KeyCorp;0.0018
+Occidental Petroleum Corp;0.0018
+Quest Diagnostics Inc;0.0018
+International Paper Co;0.0018
+Welltower Inc;0.0018
+Genuine Parts Co;0.0017000000000000001
+Qorvo Inc;0.0017000000000000001
+Principal Financial Group Inc;0.0017000000000000001
+Prudential Financial Inc;0.0017000000000000001
+Annaly Capital Management Inc;0.0017000000000000001
+Northern Trust Corp;0.0017000000000000001
+Pentair PLC;0.0017000000000000001
+Republic Services Inc;0.0017000000000000001
+SVB Financial Group;0.0017000000000000001
+Halliburton Co;0.0017000000000000001
+State Street Corp;0.0017000000000000001
+UDR Inc;0.0017000000000000001
+Interpublic Group of Cos Inc/The;0.0017000000000000001
+Kroger Co/The;0.0017000000000000001
+VF Corp;0.0017000000000000001
+Essex Property Trust Inc;0.0017000000000000001
+Kellogg Co;0.0017000000000000001
+Citizens Financial Group Inc;0.0016
+Vulcan Materials Co;0.0016
+AmerisourceBergen Corp;0.0016
+Laboratory Corp of America Holdings;0.0016
+Western Digital Corp;0.0016
+ViacomCBS Inc;0.0016
+CarMax Inc;0.0016
+M&T Bank Corp;0.0015
+Whirlpool Corp;0.0015
+ONEOK Inc;0.0015
+Regions Financial Corp;0.0015
+Ventas Inc;0.0015
+Martin Marietta Materials Inc;0.0015
+Synchrony Financial;0.0015
+NVR Inc;0.0015
+Westrock Co;0.0015
+MGM Resorts International;0.0015
+Kraft Heinz Co/The;0.0014000000000000002
+FirstEnergy Corp;0.0014000000000000002
+Hess Corp;0.0014000000000000002
+Westinghouse Air Brake Technologies Corp;0.0014000000000000002
+Hormel Foods Corp;0.0014000000000000002
+Viatris Inc;0.0014000000000000002
+Hasbro Inc;0.0014000000000000002
+United Rentals Inc;0.0014000000000000002
+Consolidated Edison Inc;0.0014000000000000002
+Amcor PLC;0.0014000000000000002
+Huntington Bancshares Inc/OH;0.0013
+Leidos Holdings Inc;0.0013
+Conagra Brands Inc;0.0013
+Alliant Energy Corp;0.0013
+Seagate Technology PLC;0.0013
+Cincinnati Financial Corp;0.0013
+Western Union Co/The;0.0013
+Ameren Corp;0.0012
+J M Smucker Co/The;0.0012
+PG&E Corp;0.0012
+Fox Corp;0.0012
+Tyson Foods Inc;0.0012
+Howmet Aerospace Inc;0.0012
+Royal Caribbean Cruises Ltd;0.0012
+Bunge Ltd;0.0012
+Invesco Ltd;0.0012
+Moderna Inc;0.0012
+NetApp Inc;0.0011
+Hewlett Packard Enterprise Co;0.0011
+Newell Brands Inc;0.0011
+Edison International;0.0011
+PPL Corp;0.0011
+Albemarle Corp;0.0011
+NortonLifeLock Inc;0.0011
+Roku Inc;0.0011
+Discovery Inc;0.001
+Trane Technologies PLC;0.001
+UGI Corp;0.001
+Carnival Corp;0.001
+Pinnacle West Capital Corp;0.001
+Host Hotels & Resorts Inc;0.001
+Cardinal Health Inc;0.001
+IAC/InterActiveCorp;0.0009
+Molson Coors Beverage Co;0.0009
+Wynn Resorts Ltd;0.0009
+Huntington Ingalls Industries Inc;0.0009
+Elanco Animal Health Inc;0.0009
+Lumen Technologies Inc;0.0009
+Mosaic Co/The;0.0008
+Loews Corp;0.0008
+Zillow Group Inc;0.0007000000000000001
+Liberty Global PLC;0.0007000000000000001
+Vornado Realty Trust;0.0007000000000000001
+Equifax Inc;0.0006
+DR Horton Inc;0.0004

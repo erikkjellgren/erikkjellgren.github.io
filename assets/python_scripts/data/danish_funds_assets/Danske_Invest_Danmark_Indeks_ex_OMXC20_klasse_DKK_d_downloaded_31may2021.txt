@@ -1,0 +1,79 @@
+A.P. Møller - Mærsk A;0.0998
+Københavns Lufthavne;0.064
+H. Lundbeck;0.0592
+Carlsberg A;0.057699999999999994
+Netcompany Group A/S;0.044199999999999996
+DFDS A/S;0.0418
+Rockwool International A;0.0362
+Topdanmark;0.0362
+Nordea Bank AB (DK);0.0352
+ALK-Abello B;0.0337
+Jyske Bank;0.0323
+Ringkjøbing Landbobank A/S;0.0288
+Schouw & Co.;0.0276
+Ossur hf (DKK);0.0263
+Bavarian Nordic;0.0256
+D/S Norden;0.021400000000000002
+FLSmidth & Co.;0.0204
+Jeudan A/S;0.020099999999999996
+NKT A/S;0.0183
+Alm. Brand;0.0178
+The Drilling Company of 1972;0.016399999999999998
+ChemoMetec;0.0161
+Sydbank;0.015
+Spar Nord Bank;0.0143
+Zealand Pharma A/S;0.0126
+Per Aarsleff Holding A/S;0.0098
+NeuroSearch New;0.009399999999999999
+U.I.E. (stk A 10 USD);0.009000000000000001
+Nilfisk Holding A/S;0.0086
+Brdr. Hartmann;0.0070999999999999995
+Solar A/S B;0.006999999999999999
+SP Group New;0.0069
+Tivoli A/S;0.0069
+cBrain;0.0064
+Vestjysk Bank A/S;0.0062
+SAS AB (DK);0.0060999999999999995
+Matas A/S;0.0055000000000000005
+Bang & Olufsen;0.0053
+H+H International;0.0052
+NNIT A/S;0.0048
+Flügger B;0.0045000000000000005
+Boozt AB (DK);0.004
+Columbus A/S;0.004
+Lån & Spar Bank;0.0038
+Huscompagniet A/S;0.0037
+BankNordik;0.0034999999999999996
+North Media;0.0034000000000000002
+Jutlander Bank A/S;0.0033
+Danske Andelskassers Bank;0.0029
+TCM Group A/S;0.0028000000000000004
+Orphazyme A/S;0.0028000000000000004
+Sparekassen Sjælland-Fyn A/S;0.0027
+BioPorto;0.0026
+Gabriel Holding;0.0025
+RTX;0.0023
+Torm Plc A DKK;0.0022
+G4S PLC;0.0021
+Højgaard Holding B;0.002
+FirstFarms;0.0017000000000000001
+EAC Invest A/S;0.0016
+Sanistål;0.0016
+GrønlandsBANKEN;0.0014000000000000002
+PARKEN Sport & Entertainment;0.0014000000000000002
+NTR Holding A/S B;0.0014000000000000002
+Djurslands Bank;0.001
+Nordic Shipholding;0.0009
+Totalbanken;0.0007000000000000001
+Nordfyns Bank A/S;0.0007000000000000001
+Gyldendal B;0.0007000000000000001
+Kreditbanken;0.0006
+Brdr. Klee B;0.0006
+Strategic Investments A/S;0.0006
+German High Street Properties B;0.0006
+Glunz & Jensen Holding;0.0005
+Migatronic B;0.0005
+Prime Office;0.0005
+Skjern Bank;0.0005
+SKAKO;0.0003
+Likvider m.v.;0.0022

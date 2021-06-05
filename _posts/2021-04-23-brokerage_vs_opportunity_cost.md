@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Brokerage vs. oppertunity cost
+lang: en
+lang-ref: Brokerage-vs.-oppertunity-cost
+tag: dkfinance
 ---
-
-*Do not use this as financial advice. If in need of financial advice seek professional guidance.*
 
 Many brokers (at least in Denmark), have a pricing model of $$q\%$$ of the trading amount or minimum $$q$$ Euro.
 Given a fixed amount to invest every month, we might think it is best to accumulate the cash to reach the minimum brokerage of $$q\%$$.

@@ -1,0 +1,613 @@
+Charles River Laboratories International Inc;0.0046
+Signature Bank/New York NY;0.0039000000000000003
+Starwood Property Trust Inc;0.0038
+Caesars Entertainment Inc;0.0038
+Penn National Gaming Inc;0.0037
+L Brands Inc;0.0036
+Darling Ingredients Inc;0.0036
+Entegris Inc;0.0036
+Blackstone Mortgage Trust Inc;0.0034999999999999996
+Bio-Techne Corp;0.0034000000000000002
+National Retail Properties Inc;0.0034000000000000002
+Chimera Investment Corp;0.0033
+Apartment Income REIT Corp;0.0033
+Diamondback Energy Inc;0.0033
+Lithia Motors Inc;0.0033
+Cree Inc;0.0033
+STORE Capital Corp;0.0033
+AECOM;0.0033
+Agree Realty Corp;0.0033
+LPL Financial Holdings Inc;0.0033
+Cousins Properties Inc;0.0032
+Comerica Inc;0.0032
+Nuance Communications Inc;0.0032
+Williams-Sonoma Inc;0.0032
+American Campus Communities Inc;0.0031
+Boston Beer Co Inc/The;0.0031
+Old Republic International Corp;0.0031
+Lamar Advertising Co;0.0031
+Terreno Realty Corp;0.003
+Popular Inc;0.003
+Stifel Financial Corp;0.003
+Five Below Inc;0.003
+Quanta Services Inc;0.003
+Pacific Premier Bancorp Inc;0.003
+Trex Co Inc;0.0029
+Carlisle Cos Inc;0.0029
+Inphi Corp;0.0029
+Kilroy Realty Corp;0.0029
+Corporate Office Properties Trust;0.0029
+Cullen/Frost Bankers Inc;0.0029
+Jones Lang LaSalle Inc;0.0029
+TCF Financial Corp;0.0029
+Littelfuse Inc;0.0029
+Scotts Miracle-Gro Co/The;0.0029
+Universal Display Corp;0.0028000000000000004
+People's United Financial Inc;0.0028000000000000004
+East West Bancorp Inc;0.0028000000000000004
+Oshkosh Corp;0.0028000000000000004
+Arrow Financial Corp;0.0028000000000000004
+MKS Instruments Inc;0.0028000000000000004
+RH;0.0028000000000000004
+Guardant Health Inc;0.0028000000000000004
+Gentex Corp;0.0028000000000000004
+Community Trust Bancorp Inc;0.0028000000000000004
+Brookline Bancorp Inc;0.0027
+Repligen Corp;0.0027
+Polaris Inc;0.0027
+Commerce Bancshares Inc/MO;0.0027
+Black Hills Corp;0.0027
+First Financial Corp/IN;0.0027
+Novavax Inc;0.0027
+Prosperity Bancshares Inc;0.0027
+Chegg Inc;0.0027
+Builders FirstSource Inc;0.0026
+Aspen Technology Inc;0.0026
+Tapestry Inc;0.0026
+SLM Corp;0.0026
+Bright Horizons Family Solutions Inc;0.0026
+Brunswick Corp/DE;0.0026
+PacWest Bancorp;0.0026
+Applied Industrial Technologies Inc;0.0026
+Penumbra Inc;0.0026
+Getty Realty Corp;0.0026
+National Health Investors Inc;0.0025
+Huntsman Corp;0.0025
+First Horizon Corp;0.0025
+Deckers Outdoor Corp;0.0025
+CyrusOne Inc;0.0025
+Kohl's Corp;0.0025
+Berry Global Group Inc;0.0025
+Floor & Decor Holdings Inc;0.0025
+Texas Pacific Land Corp;0.0025
+Choice Hotels International Inc;0.0025
+Churchill Downs Inc;0.0025
+New York Community Bancorp Inc;0.0025
+Zions Bancorp NA;0.0025
+Graco Inc;0.0025
+US Foods Holding Corp;0.0024
+Brooks Automation Inc;0.0024
+Gentherm Inc;0.0024
+IDACORP Inc;0.0024
+Timken Co/The;0.0024
+TopBuild Corp;0.0024
+Omnicell Inc;0.0024
+United Therapeutics Corp;0.0024
+Eagle Materials Inc;0.0024
+WSFS Financial Corp;0.0024
+Norwegian Cruise Line Holdings Ltd;0.0024
+Watsco Inc;0.0024
+Lincoln Electric Holdings Inc;0.0024
+KBR Inc;0.0024
+Donaldson Co Inc;0.0024
+Louisiana-Pacific Corp;0.0024
+PotlatchDeltic Corp;0.0023
+Encompass Health Corp;0.0023
+Toro Co/The;0.0023
+Acceleron Pharma Inc;0.0023
+MDU Resources Group Inc;0.0023
+Cleveland-Cliffs Inc;0.0023
+Tetra Tech Inc;0.0023
+Retail Opportunity Investments Corp;0.0023
+Tempur Sealy International Inc;0.0023
+Affiliated Managers Group Inc;0.0023
+Western Alliance Bancorp;0.0023
+Woodward Inc;0.0023
+Simmons First National Corp;0.0022
+Exelixis Inc;0.0022
+Hancock Whitney Corp;0.0022
+PVH Corp;0.0022
+Targa Resources Corp;0.0022
+AGCO Corp;0.0022
+Euronet Worldwide Inc;0.0022
+Hill-Rom Holdings Inc;0.0022
+Marriott Vacations Worldwide Corp;0.0022
+Ultragenyx Pharmaceutical Inc;0.0022
+PRA Health Sciences Inc;0.0022
+Zynga Inc;0.0022
+Axon Enterprise Inc;0.0022
+Alcoa Corp;0.0022
+City Holding Co;0.0022
+Performance Food Group Co;0.0022
+Park Hotels & Resorts Inc;0.0022
+South State Corp;0.0022
+Amedisys Inc;0.0022
+Skechers USA Inc;0.0022
+Toll Brothers Inc;0.0022
+Five9 Inc;0.0022
+Bruker Corp;0.0022
+Minerals Technologies Inc;0.0022
+First Solar Inc;0.0022
+Nexstar Media Group Inc;0.0022
+CoreSite Realty Corp;0.0022
+Middleby Corp/The;0.0022
+Ralph Lauren Corp;0.0022
+Thor Industries Inc;0.0022
+Mattel Inc;0.0021
+Proofpoint Inc;0.0021
+Ovintiv Inc;0.0021
+Viavi Solutions Inc;0.0021
+Under Armour Inc;0.0021
+MAXIMUS Inc;0.0021
+APA Corp;0.0021
+FLIR Systems Inc;0.0021
+Hanesbrands Inc;0.0021
+Penske Automotive Group Inc;0.0021
+Post Holdings Inc;0.0021
+Capri Holdings Ltd;0.0021
+Lattice Semiconductor Corp;0.0021
+Leggett & Platt Inc;0.0021
+Valmont Industries Inc;0.0021
+Freshpet Inc;0.0021
+CMC Materials Inc;0.0021
+Southside Bancshares Inc;0.0021
+Regal Beloit Corp;0.0021
+Radian Group Inc;0.0021
+Element Solutions Inc;0.0021
+Lumentum Holdings Inc;0.0021
+Air Lease Corp;0.002
+National Instruments Corp;0.002
+Paylocity Holding Corp;0.002
+Manhattan Associates Inc;0.002
+SYNNEX Corp;0.002
+DXC Technology Co;0.002
+Jabil Inc;0.002
+Saul Centers Inc;0.002
+Concentrix Corp;0.002
+Flex Ltd;0.002
+Essent Group Ltd;0.002
+Helen of Troy Ltd;0.002
+Rexnord Corp;0.002
+Kemper Corp;0.002
+CIT Group Inc;0.002
+II-VI Inc;0.002
+WEX Inc;0.002
+YETI Holdings Inc;0.0019
+WESCO International Inc;0.0019
+Clean Harbors Inc;0.0019
+First American Financial Corp;0.0019
+Chemed Corp;0.0019
+Service Corp International/US;0.0019
+Pure Storage Inc;0.0019
+Ciena Corp;0.0019
+Brady Corp;0.0019
+SiteOne Landscape Supply Inc;0.0019
+ManpowerGroup Inc;0.0019
+Casey's General Stores Inc;0.0019
+Webster Financial Corp;0.0019
+Natera Inc;0.0019
+BancFirst Corp;0.0019
+Bank OZK;0.0019
+Mack-Cali Realty Corp;0.0019
+Kennedy-Wilson Holdings Inc;0.0019
+ASGN Inc;0.0019
+SITE Centers Corp;0.0019
+Inspire Medical Systems Inc;0.0019
+Ryman Hospitality Properties Inc;0.0019
+Bryn Mawr Bank Corp;0.0019
+Axis Capital Holdings Ltd;0.0019
+Wyndham Hotels & Resorts Inc;0.0019
+CACI International Inc;0.0019
+Ares Management Corp;0.0019
+Marathon Oil Corp;0.0019
+IAA Inc;0.0019
+NCR Corp;0.0019
+Acadia Healthcare Co Inc;0.0019
+Stericycle Inc;0.0019
+Cirrus Logic Inc;0.0019
+Change Healthcare Inc;0.0018
+Pebblebrook Hotel Trust;0.0018
+Avista Corp;0.0018
+Brighthouse Financial Inc;0.0018
+Digital Turbine Inc;0.0018
+Universal Health Realty Income Trust;0.0018
+Halozyme Therapeutics Inc;0.0018
+Iridium Communications Inc;0.0018
+Washington Trust Bancorp Inc;0.0018
+Lakeland Financial Corp;0.0018
+Hexcel Corp;0.0018
+Cracker Barrel Old Country Store Inc;0.0018
+Planet Fitness Inc;0.0018
+Silicon Laboratories Inc;0.0018
+Terex Corp;0.0018
+Umpqua Holdings Corp;0.0018
+MGIC Investment Corp;0.0018
+MDC Holdings Inc;0.0018
+Arrowhead Pharmaceuticals Inc;0.0018
+Colfax Corp;0.0018
+Elastic NV;0.0018
+Korn Ferry;0.0018
+Envista Holdings Corp;0.0018
+NOV Inc;0.0018
+Exponent Inc;0.0018
+Reliance Steel & Aluminum Co;0.0017000000000000001
+Provident Financial Services Inc;0.0017000000000000001
+United States Steel Corp;0.0017000000000000001
+Preferred Bank/Los Angeles CA;0.0017000000000000001
+National Fuel Gas Co;0.0017000000000000001
+Casella Waste Systems Inc;0.0017000000000000001
+Alexander's Inc;0.0017000000000000001
+LHC Group Inc;0.0017000000000000001
+Six Flags Entertainment Corp;0.0017000000000000001
+New Jersey Resources Corp;0.0017000000000000001
+TripAdvisor Inc;0.0017000000000000001
+Gap Inc/The;0.0017000000000000001
+Dick's Sporting Goods Inc;0.0017000000000000001
+Kadant Inc;0.0017000000000000001
+Haemonetics Corp;0.0017000000000000001
+Smartsheet Inc;0.0017000000000000001
+OSI Systems Inc;0.0017000000000000001
+Anaplan Inc;0.0017000000000000001
+Chemours Co/The;0.0017000000000000001
+Cimarex Energy Co;0.0016
+CoreLogic Inc/United States;0.0016
+Foot Locker Inc;0.0016
+Piper Sandler Cos;0.0016
+Varonis Systems Inc;0.0016
+Mirati Therapeutics Inc;0.0016
+Globus Medical Inc;0.0016
+Brink's Co/The;0.0016
+John Bean Technologies Corp;0.0016
+Quaker Chemical Corp;0.0016
+Fox Factory Holding Corp;0.0016
+Curtiss-Wright Corp;0.0016
+BWX Technologies Inc;0.0016
+Chart Industries Inc;0.0016
+Science Applications International Corp;0.0016
+CRISPR Therapeutics AG;0.0016
+Pegasystems Inc;0.0016
+Harley-Davidson Inc;0.0016
+Qurate Retail Inc;0.0016
+Blueprint Medicines Corp;0.0016
+NeoGenomics Inc;0.0016
+Dime Community Bancshares Inc;0.0016
+AptarGroup Inc;0.0016
+Fate Therapeutics Inc;0.0016
+Safety Insurance Group Inc;0.0016
+Tandem Diabetes Care Inc;0.0016
+Sailpoint Technologies Holdings Inc;0.0016
+Bill.com Holdings Inc;0.0016
+Ambarella Inc;0.0016
+Acuity Brands Inc;0.0015
+MGE Energy Inc;0.0015
+Saia Inc;0.0015
+Nevro Corp;0.0015
+Neogen Corp;0.0015
+Texas Roadhouse Inc;0.0015
+John Wiley & Sons Inc;0.0015
+Pacific Biosciences of California Inc;0.0015
+KB Home;0.0015
+New York Times Co/The;0.0015
+Blackline Inc;0.0015
+ICU Medical Inc;0.0015
+Spirit AeroSystems Holdings Inc;0.0015
+McGrath RentCorp;0.0015
+Invitae Corp;0.0015
+Tenet Healthcare Corp;0.0015
+Arcosa Inc;0.0015
+PennyMac Financial Services Inc;0.0015
+WillScot Mobile Mini Holdings Corp;0.0015
+Ollie's Bargain Outlet Holdings Inc;0.0015
+Kennametal Inc;0.0015
+Terminix Global Holdings Inc;0.0015
+Box Inc;0.0015
+DiamondRock Hospitality Co;0.0015
+Howard Hughes Corp/The;0.0015
+Berkshire Hills Bancorp Inc;0.0015
+BJ's Wholesale Club Holdings Inc;0.0015
+Ryder System Inc;0.0015
+Sabre Corp;0.0015
+Advanced Drainage Systems Inc;0.0015
+Balchem Corp;0.0015
+MACOM Technology Solutions Holdings Inc;0.0015
+RBC Bearings Inc;0.0015
+Assured Guaranty Ltd;0.0015
+Middlesex Water Co;0.0015
+CommVault Systems Inc;0.0015
+Coherent Inc;0.0015
+MSA Safety Inc;0.0014000000000000002
+Shake Shack Inc;0.0014000000000000002
+Camden National Corp;0.0014000000000000002
+Syneos Health Inc;0.0014000000000000002
+Credit Acceptance Corp;0.0014000000000000002
+Taylor Morrison Home Corp;0.0014000000000000002
+Grubhub Inc;0.0014000000000000002
+Murphy USA Inc;0.0014000000000000002
+EQT Corp;0.0014000000000000002
+Qualys Inc;0.0014000000000000002
+Q2 Holdings Inc;0.0014000000000000002
+Intellia Therapeutics Inc;0.0014000000000000002
+Nutanix Inc;0.0014000000000000002
+Ensign Group Inc/The;0.0014000000000000002
+Wendy's Co/The;0.0014000000000000002
+TG Therapeutics Inc;0.0014000000000000002
+Waddell & Reed Financial Inc;0.0014000000000000002
+Carter's Inc;0.0014000000000000002
+Trinity Industries Inc;0.0014000000000000002
+Redfin Corp;0.0014000000000000002
+Royal Gold Inc;0.0014000000000000002
+Shockwave Medical Inc;0.0014000000000000002
+Avis Budget Group Inc;0.0014000000000000002
+Olin Corp;0.0014000000000000002
+Chatham Lodging Trust;0.0014000000000000002
+WD-40 Co;0.0014000000000000002
+Sage Therapeutics Inc;0.0014000000000000002
+Meritage Homes Corp;0.0014000000000000002
+Arena Pharmaceuticals Inc;0.0014000000000000002
+Envestnet Inc;0.0014000000000000002
+FireEye Inc;0.0014000000000000002
+Interactive Brokers Group Inc;0.0014000000000000002
+White Mountains Insurance Group Ltd;0.0014000000000000002
+LivaNova PLC;0.0014000000000000002
+Agios Pharmaceuticals Inc;0.0014000000000000002
+Crocs Inc;0.0013
+ZoomInfo Technologies Inc;0.0013
+Fastly Inc;0.0013
+J2 Global Inc;0.0013
+Belden Inc;0.0013
+NMI Holdings Inc;0.0013
+Emergent BioSolutions Inc;0.0013
+EnPro Industries Inc;0.0013
+Insperity Inc;0.0013
+Hain Celestial Group Inc/The;0.0013
+Perficient Inc;0.0013
+Chesapeake Utilities Corp;0.0013
+HealthEquity Inc;0.0013
+National HealthCare Corp;0.0013
+Vontier Corp;0.0013
+Albany International Corp;0.0013
+Ormat Technologies Inc;0.0013
+Sprouts Farmers Market Inc;0.0013
+Denali Therapeutics Inc;0.0013
+American Eagle Outfitters Inc;0.0013
+Insmed Inc;0.0013
+Premier Inc;0.0013
+Domtar Corp;0.0013
+FTI Consulting Inc;0.0013
+Mercury Systems Inc;0.0013
+Synaptics Inc;0.0013
+NOW Inc;0.0013
+Yelp Inc;0.0013
+Banc of California Inc;0.0013
+Ambac Financial Group Inc;0.0013
+Quidel Corp;0.0013
+Biohaven Pharmaceutical Holding Co Ltd;0.0013
+GCP Applied Technologies Inc;0.0013
+TriMas Corp;0.0013
+frontdoor Inc;0.0013
+World Fuel Services Corp;0.0013
+Allegheny Technologies Inc;0.0013
+Lindsay Corp;0.0013
+Stamps.com Inc;0.0013
+AMERISAFE Inc;0.0012
+Nordstrom Inc;0.0012
+Resideo Technologies Inc;0.0012
+Sally Beauty Holdings Inc;0.0012
+Sleep Number Corp;0.0012
+Madison Square Garden Sports Corp;0.0012
+Bed Bath & Beyond Inc;0.0012
+Pacira BioSciences Inc;0.0012
+Alliance Data Systems Corp;0.0012
+Brinker International Inc;0.0012
+Alteryx Inc;0.0012
+Sonos Inc;0.0012
+Kratos Defense & Security Solutions Inc;0.0012
+Ligand Pharmaceuticals Inc;0.0012
+Helmerich & Payne Inc;0.0012
+Turning Point Therapeutics Inc;0.0012
+Perspecta Inc;0.0012
+Novanta Inc;0.0012
+Stock Yards Bancorp Inc;0.0012
+Insteel Industries Inc;0.0012
+Vertiv Holdings Co;0.0012
+Herbalife Nutrition Ltd;0.0012
+Valvoline Inc;0.0012
+Equitrans Midstream Corp;0.0012
+Astec Industries Inc;0.0012
+Steven Madden Ltd;0.0012
+NIC Inc;0.0012
+Masonite International Corp;0.0012
+Merit Medical Systems Inc;0.0012
+PDC Energy Inc;0.0012
+LivePerson Inc;0.0012
+California Water Service Group;0.0011
+Grand Canyon Education Inc;0.0011
+Everbridge Inc;0.0011
+Signet Jewelers Ltd;0.0011
+Southwestern Energy Co;0.0011
+Covanta Holding Corp;0.0011
+Big Lots Inc;0.0011
+EPR Properties;0.0011
+PTC Therapeutics Inc;0.0011
+Appian Corp;0.0011
+Lancaster Colony Corp;0.0011
+New Relic Inc;0.0011
+MicroStrategy Inc;0.0011
+Virgin Galactic Holdings Inc;0.0011
+ABM Industries Inc;0.0011
+iRhythm Technologies Inc;0.0011
+Twist Bioscience Corp;0.0011
+Kinsale Capital Group Inc;0.0011
+Cannae Holdings Inc;0.0011
+FibroGen Inc;0.0011
+Nu Skin Enterprises Inc;0.0011
+Spire Inc;0.0011
+CNX Resources Corp;0.0011
+STAAR Surgical Co;0.0011
+ChampionX Corp;0.0011
+LiveRamp Holdings Inc;0.0011
+RealPage Inc;0.0011
+Forestar Group Inc;0.0011
+Virtu Financial Inc;0.0011
+Global Blood Therapeutics Inc;0.001
+Kodiak Sciences Inc;0.001
+8x8 Inc;0.001
+FirstCash Inc;0.001
+Macy's Inc;0.001
+AMN Healthcare Services Inc;0.001
+WisdomTree Investments Inc;0.001
+Wingstop Inc;0.001
+O-I Glass Inc;0.001
+Enerpac Tool Group Corp;0.001
+Apellis Pharmaceuticals Inc;0.001
+Beyond Meat Inc;0.001
+Proto Labs Inc;0.001
+Allegiant Travel Co;0.001
+FuelCell Energy Inc;0.001
+Iovance Biotherapeutics Inc;0.001
+Cerence Inc;0.001
+3D Systems Corp;0.001
+National Vision Holdings Inc;0.001
+Bandwidth Inc;0.001
+World Wrestling Entertainment Inc;0.001
+Nektar Therapeutics;0.001
+CareDx Inc;0.001
+KAR Auction Services Inc;0.001
+Innoviva Inc;0.001
+US Physical Therapy Inc;0.001
+Sanderson Farms Inc;0.001
+Schrodinger Inc/United States;0.001
+Magnite Inc;0.001
+Teradata Corp;0.001
+Range Resources Corp;0.001
+REGENXBIO Inc;0.001
+Murphy Oil Corp;0.001
+ADTRAN Inc;0.0009
+Editas Medicine Inc;0.0009
+iRobot Corp;0.0009
+2U Inc;0.0009
+Cloudera Inc;0.0009
+Green Dot Corp;0.0009
+Appfolio Inc;0.0009
+Bridgebio Pharma Inc;0.0009
+Comtech Telecommunications Corp;0.0009
+Amicus Therapeutics Inc;0.0009
+Allakos Inc;0.0009
+Theravance Biopharma Inc;0.0009
+Upwork Inc;0.0009
+Adaptive Biotechnologies Corp;0.0009
+Flushing Financial Corp;0.0009
+Arvinas Inc;0.0009
+ACADIA Pharmaceuticals Inc;0.0009
+Triumph Group Inc;0.0009
+Greenbrier Cos Inc/The;0.0009
+Neenah Inc;0.0009
+Bluebird Bio Inc;0.0009
+NuVasive Inc;0.0009
+Winmark Corp;0.0009
+ChemoCentryx Inc;0.0009
+Alarm.com Holdings Inc;0.0009
+Cardlytics Inc;0.0009
+HNI Corp;0.0009
+Graham Holdings Co;0.0009
+SunPower Corp;0.0009
+Schnitzer Steel Industries Inc;0.0009
+Infinera Corp;0.0009
+Renewable Energy Group Inc;0.0009
+Hecla Mining Co;0.0009
+Veracyte Inc;0.0009
+Hyster-Yale Materials Handling Inc;0.0009
+Harsco Corp;0.0009
+Cogent Communications Holdings Inc;0.0009
+American Axle & Manufacturing Holdings Inc;0.0009
+Tootsie Roll Industries Inc;0.0009
+Brookdale Senior Living Inc;0.0009
+Uniti Group Inc;0.0009
+Reata Pharmaceuticals Inc;0.0008
+LendingTree Inc;0.0008
+Healthcare Services Group Inc;0.0008
+MTS Systems Corp;0.0008
+Manitowoc Co Inc/The;0.0008
+WW International Inc;0.0008
+Coeur Mining Inc;0.0008
+ODP Corp/The;0.0008
+Supernus Pharmaceuticals Inc;0.0008
+GrowGeneration Corp;0.0008
+PRA Group Inc;0.0008
+Itron Inc;0.0008
+Atrion Corp;0.0008
+ProAssurance Corp;0.0008
+Matador Resources Co;0.0008
+Verint Systems Inc;0.0008
+Trupanion Inc;0.0008
+Cimpress PLC;0.0008
+Abercrombie & Fitch Co;0.0008
+Scientific Games Corp;0.0008
+Xperi Holding Corp;0.0008
+Bloom Energy Corp;0.0008
+Vista Outdoor Inc;0.0008
+Kosmos Energy Ltd;0.0008
+OPKO Health Inc;0.0008
+Covetrus Inc;0.0007000000000000001
+Transocean Ltd;0.0007000000000000001
+Other assets/liabilities;0.0007000000000000001
+Macquarie Infrastructure Corp;0.0007000000000000001
+eXp World Holdings Inc;0.0007000000000000001
+ExlService Holdings Inc;0.0007000000000000001
+Camping World Holdings Inc;0.0007000000000000001
+Amneal Pharmaceuticals Inc;0.0007000000000000001
+US Ecology Inc;0.0007000000000000001
+World Acceptance Corp;0.0007000000000000001
+McEwen Mining Inc;0.0007000000000000001
+Kirby Corp;0.0007000000000000001
+Viasat Inc;0.0007000000000000001
+Radius Health Inc;0.0007000000000000001
+Energizer Holdings Inc;0.0007000000000000001
+Community Health Systems Inc;0.0007000000000000001
+Genworth Financial Inc;0.0007000000000000001
+Maxar Technologies Inc;0.0007000000000000001
+1Life Healthcare Inc;0.0007000000000000001
+Tenneco Inc;0.0007000000000000001
+Rocket Cos Inc;0.0007000000000000001
+Carpenter Technology Corp;0.0007000000000000001
+BioCryst Pharmaceuticals Inc;0.0007000000000000001
+Plantronics Inc;0.0007000000000000001
+United Natural Foods Inc;0.0007000000000000001
+Lemonade Inc;0.0007000000000000001
+Navistar International Corp;0.0006
+CryoPort Inc;0.0006
+Cardtronics PLC;0.0006
+Overstock.com Inc;0.0006
+Pitney Bowes Inc;0.0006
+Tilray Inc;0.0006
+MBIA Inc;0.0006
+Scholar Rock Holding Corp;0.0006
+Pennant Group Inc/The;0.0006
+Puma Biotechnology Inc;0.0006
+Inovio Pharmaceuticals Inc;0.0005
+AMC Networks Inc;0.0005
+Brigham Minerals Inc;0.0005
+PBF Energy Inc;0.0005
+Stitch Fix Inc;0.0005
+Owens & Minor Inc;0.0005
+Workhorse Group Inc;0.0005
+Sorrento Therapeutics Inc;0.0005
+Antero Resources Corp;0.0005
+Amyris Inc;0.0004
+Intercept Pharmaceuticals Inc;0.0004
+Groupon Inc;0.0004
+Madison Square Garden Entertainment Corp;0.0004
+Nikola Corp;0.0004
+MSG Networks Inc;0.0003
+GameStop Corp;0.0001
+Nielsen Holdings PLC;0.0001

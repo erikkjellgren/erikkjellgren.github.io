@@ -1,0 +1,31 @@
+Nektar Therapeutics Inc.;0.043
+Agios Pharmaceuticals Inc;0.0415
+Bio-Techne Corp;0.04019999999999999
+Charles River Laboratories International Inc.;0.0387
+IQVIA Holdings Inc;0.037599999999999995
+Gilead Sciences Inc.;0.0375
+Illumina Inc.;0.037200000000000004
+Biogen Inc;0.0371
+Amgen Inc.;0.037000000000000005
+Alexion Pharmaceuticals Inc;0.0356
+United Therapeutics Corp.;0.0354
+Vertex Pharmaceuticals Inc. (USD);0.0349
+Exelixis Inc.;0.0348
+QIAGEN NV (USD);0.0336
+BioMarin Pharmaceuticals Inc;0.0334
+Regeneron Pharmaceuticals Inc.;0.0333
+Grifols SA Shs B ADR;0.0331
+Exact Sciences Corp;0.033
+Neurocrine Biosciences Inc.;0.033
+Incyte Corp.;0.032799999999999996
+Alnylam Pharmaceuticals Inc.;0.031
+Intercept Pharmaceuticals Inc;0.030600000000000002
+Alkermes Plc Ord.;0.0305
+Sarepta Therapeutics Inc;0.0301
+Ultragenyx Pharmaceutical Inc.;0.0301
+FibroGen Inc;0.029300000000000003
+Seagen Inc;0.0274
+Ionis Pharmaceuticals Inc.;0.0268
+Bluebird Bio Inc;0.0218
+Acadia Pharmaceuticals Inc.;0.0176
+Likvider m.v.;0.002

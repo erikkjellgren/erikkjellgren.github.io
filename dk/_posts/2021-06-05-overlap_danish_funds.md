@@ -46,6 +46,7 @@ Det skal bemærkes at de akkumulerende fonde der har en distribuerende version e
 
 I ovenstående figur kan fond-navnene være svære at læse.
 Figuren kan ses i stor her: [Overlap Fonde Stor Figur]({{ site.baseurl }}/assets/plots/overlap_of_danish_funds.svg)
+
 Version af figuren der er farveblind venlig kan findes her: [Farveblind Version Stor Figur]({{ site.baseurl }}/assets/plots/overlap_of_danish_funds_colorblind_friendly.svg)
 
 Fondene er "clustered" via [linkage](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html)

@@ -46,6 +46,7 @@ It should be noted that the accumulating funds that have a distributing version 
 
 In the figure above, the fund names can be difficult to read.
 The figure can be seen in large: [Overlap Funds Large Figure]({{site.baseurl}}/assets/plots/overlap_of_danish_funds.svg)
+
 Version of the figure that is colorblind friendly can be found here: [Colorblind Version Large Figure]({{ site.baseurl }}/assets/plots/overlap_of_danish_funds_colorblind_friendly.svg)
 
 The Funds are clustered via [linkage](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html)

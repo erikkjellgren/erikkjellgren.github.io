@@ -25,7 +25,7 @@ tbody tr:nth-child(odd) th {
 
 <p>Hi, I am Erik.</p>
 
-<p>Currently I am working on my PhD in Quantum Chemistry at <a href="SDU.dk">SDU</a>.</p>
+<p>Currently I am working on my PhD in Quantum Chemistry at <a href="https://www.SDU.dk/" target="_blank">SDU</a>.</p>
 
 <p>I like to use mathematical and nummerical tools to solve different problems or questions, which is what can be seen in the different posts on this blog.</p>
 

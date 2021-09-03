@@ -16,7 +16,7 @@ highlighter:         rouge
 
 # Add pages here to add to header
 pages_list:
-  dkfinance-models: '/dkfinance-models/dk'
+  dkfinance-models: '/dkfinance-models/en'
   Blog: '/blog'
 
 plugins:

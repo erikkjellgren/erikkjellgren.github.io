@@ -17,6 +17,7 @@ highlighter:         rouge
 # Add pages here to add to header
 pages_list:
   dkfinance-models: '/dkfinance-models/en'
+  game-analysis: '/game-analysis/'
   Blog: '/blog'
 
 plugins:

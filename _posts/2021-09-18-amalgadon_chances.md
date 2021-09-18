@@ -30,7 +30,7 @@ The Amalgadon can get the following adapts:
 
 This is a total of eight differnt adapts. 
 Naively, the chance of getting *Divine Shield* with four adapts would then be $$1-(7/8)^5\approx 48.7\%$$.
-However, there is a twist, someone the adapts can only happen once.
+However, there is a twist, some of the adapts can only happen once.
 We can, therefore, not calculate the chances naively. 
 Four of the adapts can only happen once; *Crackling Shield*, *Lightning Speed*, *Massive* and, *Poison Spit*.
 To handle this problem let us set up a series of relations.

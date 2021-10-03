@@ -3,6 +3,7 @@ layout: post
 title: Second order partial derivative for multivariate function, derivation
 lang: en
 lang-ref: Second order partial derivative for multivariate function, derivatio
+tag: computation
 ---
 
 Consider a function:

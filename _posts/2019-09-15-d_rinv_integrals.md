@@ -3,6 +3,7 @@ layout: post
 title: Constructing molecular integrals with derivative on the r_inv operator by partial integration
 lang: en
 lang-ref: Constructing molecular integrals with derivative on the r_inv operator by partial integration
+tag: computation
 ---
 
 In quantum chemstry integrals of the following form are sometimes needed:
@@ -32,21 +33,21 @@ $$ F_x = - \int_\Omega \nabla \phi_i \phi_j  \nabla^{x-1} r^{-1} \mathrm{d}r - \
 
 Doing integration by parts again:
 
-$$ F_x = -\left(\left[ \nabla \phi_i \phi_j\nabla^{x-2} r^{-1} \right]_{\partial\Omega} 
+$$ F_x = -\left(\left[ \nabla \phi_i \phi_j\nabla^{x-2} r^{-1} \right]_{\partial\Omega}
          -  \int_\Omega \nabla \left(\nabla \phi_i \phi_j\right)  \nabla^{x-2} r^{-1} \mathrm{d}r \right)
-         -\left(\left[ \phi_i \nabla \phi_j\nabla^{x-2} r^{-1} \right]_{\partial\Omega} 
+         -\left(\left[ \phi_i \nabla \phi_j\nabla^{x-2} r^{-1} \right]_{\partial\Omega}
          -  \int_\Omega \nabla \left( \phi_i \nabla \phi_j \right)  \nabla^{x-2} r^{-1} \mathrm{d}r \right) $$
 
 The wave function goes to zero at infinity, therefore the first term is zero:
 
-$$ F_x = -\left(-\int_\Omega \nabla^2 \phi_i \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r 
+$$ F_x = -\left(-\int_\Omega \nabla^2 \phi_i \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r
          -  \int_\Omega \nabla \phi_i \nabla \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r\right)
          -\left(-\int_\Omega \nabla \phi_i \nabla \phi_j \nabla^{x-2} r^{-1} \mathrm{d}r
          -  \int_\Omega \phi_i \nabla^2 \phi_j \nabla^{x-2} r^{-1} \mathrm{d}r \right) $$
 
 Simplifying:
 
-$$ F_x = \int_\Omega \nabla^2 \phi_i \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r 
+$$ F_x = \int_\Omega \nabla^2 \phi_i \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r
          +  \int_\Omega \phi_i \nabla^2 \phi_j \nabla^{x-2} r^{-1} \mathrm{d}r
          +  2\int_\Omega \nabla \phi_i \nabla \phi_j  \nabla^{x-2} r^{-1} \mathrm{d}r $$
 
@@ -56,7 +57,7 @@ $$ F_1 = \left<\phi_i\left|\nabla r^{-1}\right|\phi_j\right> = - \int_\Omega \na
 
 and,
 
-$$ F_2 = \left<\phi_i\left|\nabla^2 r^{-1}\right|\phi_j\right> = \int_\Omega \nabla^2 \phi_i \phi_j r^{-1} \mathrm{d}r 
+$$ F_2 = \left<\phi_i\left|\nabla^2 r^{-1}\right|\phi_j\right> = \int_\Omega \nabla^2 \phi_i \phi_j r^{-1} \mathrm{d}r
          +  \int_\Omega \phi_i \nabla^2 \phi_j r^{-1} \mathrm{d}r
          +  2\int_\Omega \nabla \phi_i \nabla \phi_j r^{-1} \mathrm{d}r $$
 

@@ -87,7 +87,7 @@ def depoter(
     return ask, normal, normal_worst_case
 {% endhighlight %}
 
-Her er der to forskellige realisationsbeskattede depoter. 
+Her er der to forskellige realisationsbeskattede depoter.
 Det ene har 27%/42% beskatning med den fulde progressionsgrænse,
 dette er best-case for realisationsbeskatning og relevant hvis dette er det fulde depot.
 Det andet har altid 42% beskatning og modellere at der er et sideliggende depot der bruger hele progressionsgrænsen.
@@ -181,7 +181,7 @@ plt.savefig("ask_vs_real.svg")
 Dette giver følgende plot.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/ask_vs_real.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/ask_vs_real.svg">
 </p>
 
 På grafen ses CAGR efter omkostninger for de tre forskellige depoter.
@@ -254,7 +254,7 @@ plt.savefig("ask_vs_real_gennemsnit.svg")
 Dette giver følgende plot.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/ask_vs_real_gennemsnit.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/ask_vs_real_gennemsnit.svg">
 </p>
 
 Det kan ses at for CAGR (før skat) på 7.5% ville det tage lidt over 40 år før renters-rente fra realisationsbeskatning ville give en fordel.

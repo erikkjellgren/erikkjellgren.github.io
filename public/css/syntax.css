@@ -72,8 +72,8 @@
     overflow-x: auto;
 }
 
-.highlight { 
-    padding: 0; 
+.highlight {
+    padding: 0;
     -webkit-margin-start: 0px; /* Decrease margin left of code block */
     -webkit-margin-end: 0px; /* Same, on right */
 }
@@ -105,7 +105,7 @@
  * line numbers and code. Introduce slight padding between line
  * numbers and border.
  */
-.highlight td.gutter.gl { 
+.highlight td.gutter.gl {
     width: 1px;
     border: none;
     border-right: 2px solid #cb4b16;
@@ -118,15 +118,13 @@
 /* Prevent line numbers from being selected or copied and
  * pasted by users.
  */
-.highlight .lineno {   
+.highlight .lineno {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    padding: 0; 
+    padding: 0;
     word-break: keep-all;
 }
-
-

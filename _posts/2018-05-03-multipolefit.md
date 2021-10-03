@@ -3,6 +3,7 @@ layout: post
 title: Multipole fit with Lagrangian multipliers
 lang: en
 lang-ref: Multipole fit with Lagrangian multipliers
+tag: computation
 ---
 
 Consider the electrostatic potential due to multipoles places at the position of atoms:
@@ -17,7 +18,7 @@ Expanding the square:
 
 $$ z=\sum_{i}^{point}\left(V_{i,\mathrm{QM}}^{2}+E_{i}^{2}-2E_{i}V_{i,\mathrm{QM}}\right)+\sum_{l}^{constraints}\lambda_{l}g_{l} $$
 
-It is known that in the minima that the derivative with respect to all parameters equals to zero. 
+It is known that in the minima that the derivative with respect to all parameters equals to zero.
 
 $$ \frac{\partial E_{i}^{2}}{\partial m_{p}^{(k)}}=2\frac{\left(-1\right)^{k}}{k!}T_{ip}^{(k)}\sum_{n}^{multipole}\frac{\left(-1\right)^{n}}{n!}T_{ij}^{(n)}m_{j}^{(n)} $$
 
@@ -45,7 +46,7 @@ and,
 
 $$ B_{jn}=\sum_{i}^{point}V_{i,\mathrm{QM}}\frac{\left(-1\right)^{k}}{k!}T_{ij}^{(k)} $$
 
-and, 
+and,
 
 $$ x_{jn}=m_{j}^{(n)} $$
 
@@ -165,9 +166,9 @@ The equations can as easily be written in traceless, just by chaninging:
 
 $$ A_{pk,jn}=\sum_{i}^{point}\frac{\left(-1\right)^{k}}{k!}T_{ip}^{(k)}\frac{\left(-1\right)^{n}}{n!}T_{ij}^{(n)}\rightarrow\sum_{i}^{point}\frac{\left(-1\right)^{k}}{\left(2k-1\right)!!}T_{ip}^{(k)}\frac{\left(-1\right)^{n}}{\left(2n-1\right)!!}T_{ij}^{(n)} $$
 
-and, 
+and,
 
-$$ B_{jn}=\sum_{i}^{point}V_{i,\mathrm{QM}}\frac{\left(-1\right)^{k}}{k!}T_{ij}^{(k)}\rightarrow\sum_{i}^{point}V_{i,\mathrm{QM}}\frac{\left(-1\right)^{k}}{\left(2k-1\right)!!}T_{ip}^{(k)} $$ 
+$$ B_{jn}=\sum_{i}^{point}V_{i,\mathrm{QM}}\frac{\left(-1\right)^{k}}{k!}T_{ij}^{(k)}\rightarrow\sum_{i}^{point}V_{i,\mathrm{QM}}\frac{\left(-1\right)^{k}}{\left(2k-1\right)!!}T_{ip}^{(k)} $$
 
 Thus also:
 

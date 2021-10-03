@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome! 
+title: Welcome!
 ---
 
 <style>
@@ -25,8 +25,6 @@ tbody tr:nth-child(odd) th {
 
 <p>Hi, I am Erik.</p>
 
-<p>Currently I am working on my PhD in Quantum Chemistry at <a href="https://www.SDU.dk/" target="_blank">SDU</a>.</p>
-
 <p>I like to use mathematical and nummerical tools to solve different problems or questions, which is what can be seen in the different posts on this blog.</p>
 
 <center>
@@ -37,4 +35,3 @@ tbody tr:nth-child(odd) th {
 <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="{{ site.data.social-media.linkedin.title }}"><i class="fa {{ site.data.social-media.linkedin.fa-icon }} fa-3x"></i></a>
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="{{ site.data.social-media.email.title }}"><i class="fa {{ site.data.social-media.email.fa-icon }} fa-3x"></i></a>
 </center>
-

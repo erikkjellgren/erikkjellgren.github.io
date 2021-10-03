@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+**Erik Rosendahl Kjellgren**, Hans Jørgen Aagaard Jensen, [Multi-configurational short-range density functional theory can describe spin–spin coupling constants of transition metal complexes](https://aip.scitation.org/doi/abs/10.1063/5.0059128), 2021, 155, 8, 084102.
+
+---
+
 Jógvan Magnus Haugaard Olsen, Simen Reine, Olav Vahtras, **Erik Kjellgren**, Peter Reinholdt, Karen Oda Hjorth Dundas, Xin Li, Janusz Cukras, Magnus Ringholm, Erik D Hedegård, Roberto Di Remigio, Nanna H List, Rasmus Faber, Bruno Nunes Cabral Tenorio, Radovan Bast, Thomas Bondo Pedersen, Zilvinas Rinkevicius, Stephan PA Sauer, Kurt V Mikkelsen, Jacob Kongsted, Sonia Coriani, Kenneth Ruud, Trygve Helgaker, Hans Jørgen Aa Jensen, Patrick Norman, [Dalton Project: A Python platform for molecular-and electronic-structure simulations of complex systems](https://aip.scitation.org/doi/full/10.1063/1.5144298), 2020, 152, 21, 214115
 
 ---
@@ -15,7 +19,7 @@ Peter Reinholdt, **Erik Rosendahl Kjellgren**, Casper Steinmann, Jógvan Magnus 
 
 ---
 
-Maximilian Scheurer, Peter Reinholdt, **Erik Rosendahl Kjellgren**, Jógvan Magnus Haugaard Olsen, Andreas Dreuw, Jacob Kongsted, [CPPE: An Open-Source C++ and Python Library for Polarizable Embedding](), 2019, 15, 11, 6154-6163.
+Maximilian Scheurer, Peter Reinholdt, **Erik Rosendahl Kjellgren**, Jógvan Magnus Haugaard Olsen, Andreas Dreuw, Jacob Kongsted, [CPPE: An Open-Source C++ and Python Library for Polarizable Embedding](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00758) 2019, 15, 11, 6154-6163.
 
 <p align="center">
   <img src="/assets/figures/ct9b00758_0011.gif"/>

@@ -132,8 +132,8 @@ plt.rc("ytick", labelsize=12)
 plt.rc("legend", fontsize=12)
 plt.rc("figure", titlesize=12)
 {% endhighlight %}
-   
-For de forskellige depoter og antal investerings år kan 
+
+For de forskellige depoter og antal investerings år kan
 fraktilerne af slut værdien af depotet plottes.
 
 {% highlight python %}
@@ -172,11 +172,11 @@ plt.savefig("fraktiler_lager_vs_real.svg")
 Dette giver følgende plot.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/fraktiler_lager_vs_real.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/fraktiler_lager_vs_real.svg">
 </p>
 
 I figuren kan den totale værdi af depotet opgjort som CAGR efter skat ses.
-For en investeringsperiode på under 5 år kan det ses at der stort set ingen forskel er 
+For en investeringsperiode på under 5 år kan det ses at der stort set ingen forskel er
 mellem at vælge en Dansk investeringsforening eller en ETF.
 For 1 år perioden kan det bemærkes at der er 30% risiko for at man har et tab!
 For investerings perioder længere end 10 år vil realisationsbeskatning give
@@ -209,7 +209,7 @@ plt.savefig("fraktiler_lager_vs_real_2.svg")
 Dette giver følgende plot.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/fraktiler_lager_vs_real_2.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/fraktiler_lager_vs_real_2.svg">
 </p>
 
 Det kan her tydeligt ses at jo længere investeringshorisonten er, jo bedre er realisationsbeskatning.

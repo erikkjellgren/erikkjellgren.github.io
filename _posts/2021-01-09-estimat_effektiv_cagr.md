@@ -6,7 +6,7 @@ lang-ref: Estimat-af-CAGR-efter-skat-og-ÅOP
 tag: dkfinance
 ---
 
-Givet at man har en idé om hvor meget ens strategi i gennemsnit giver per år, 
+Givet at man har en idé om hvor meget ens strategi i gennemsnit giver per år,
 kan det være brugbart at estimere hvor meget dette vil svare til efter skat og ÅOP.
 Dette estimat er forskelligt for lagerbeskatning og realisationsbeskatning.
 
@@ -133,7 +133,7 @@ Det kan ses at ligningen for den effektive CAGR efter skat for et realisationsbe
 Lad os se hvordan den effektive CAGR afhænger af antal år for et givent afkast før skat over skatteprocenter mellem 0% og 100%.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/cagr7.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/cagr7.svg">
 </p>
 
 Ovenstående graf viser ligningerne (\ref{eq3}) og (\ref{eq2}).
@@ -145,7 +145,7 @@ Dette er grundet *renters-rente* effekten man får ved realisationsbeskatning.
 Et lignende plot kan laves, men nu med CAGR før skat på 15%.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/cagr15.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/cagr15.svg">
 </p>
 
 Det kan bemærkes her at tendensen er den samme som for CAGR før skat på 7%,
@@ -153,7 +153,7 @@ men at den effektive CAGR hurtigere går mod CAGR før skat når antal år forø
 
 For et lagerbeskattet depot vil den effektive CAGR være skatteprocenten mindre end CAGR før skat.
 Hvor for et realisationsbeskattet depot vil den effektive CAGR afhænge af antal år der går,
-og over tid komme tættere på CAGR før skat. 
+og over tid komme tættere på CAGR før skat.
 Dette er accelereret af størrelse af CAGR før skat.
 
 <!-- python_split -->
@@ -256,4 +256,3 @@ plt.savefig("cagr15.svg")
 {% endhighlight %}
 
 Den fulde kode kan findes her: [estimat_effektiv_cagr.py]({{ site.baseurl }}/assets/python_scripts/estimat_effektiv_cagr.py)
-

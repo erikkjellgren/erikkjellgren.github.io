@@ -1,14 +1,13 @@
 from typing import List, Tuple
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 import dkfinance_modeller.aktieskat.depotmodel as depotmodel
 import dkfinance_modeller.aktieskat.kurtage as kurtage
 import dkfinance_modeller.aktieskat.skat as skat
 import dkfinance_modeller.aktieskat.vaerdipapirer as værdipapirer
 import dkfinance_modeller.aktieskat.valuta as valuta
 import dkfinance_modeller.utility.formler as formler
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def depoter() -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel]:
@@ -22,7 +21,9 @@ def depoter() -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel]:
     skatter = skat.Skat(beskatningstype="aktie")
     lagerbeskatning = depotmodel.DepotModel(
         kapital=300000.0,
-        kurtagefunktion=kurtage.saxo_kurtage_bygger(valuta="euro", valutakurs=7.44, underkonto=True),
+        kurtagefunktion=kurtage.saxo_kurtage_bygger(
+            valuta="euro", valutakurs=7.44, underkonto=True
+        ),
         skatteklasse=skatter,
         minimumskøb=5000,
         ETFer=[etf1],
@@ -56,12 +57,15 @@ for j, antal_år in enumerate([1, 5, 10, 20]):
             if i % 12 == 0:
                 effektivt_udbytte = udbytte_årlig + max(0, 0.3 * kursstigning_årlig)
                 realisationsdepot.afkast_månedlig(
-                    [udbytteafkast_real + kursafkast_real - effektivt_udbytte], [effektivt_udbytte]
+                    [udbytteafkast_real + kursafkast_real - effektivt_udbytte],
+                    [effektivt_udbytte],
                 )
                 udbytte_årlig = 0.0
                 kursstigning_årlig = 0.0
             else:
-                realisationsdepot.afkast_månedlig([udbytteafkast_real + kursafkast_real], [0.0])
+                realisationsdepot.afkast_månedlig(
+                    [udbytteafkast_real + kursafkast_real], [0.0]
+                )
             lagerdepot.afkast_månedlig([udbytteafkast_lager + kursafkast_lager], [0.0])
             udbytte_årlig += udbytteafkast_real
             kursstigning_årlig += kursafkast_real
@@ -106,7 +110,9 @@ for i in range(0, 101):
 
 fig, (ax1, ax2, ax3, ax4) = plt.subplots(4, 1, figsize=(6, 10), sharex=True)
 for i, ax in enumerate([ax1, ax2, ax3, ax4]):
-    ax.plot(np.linspace(0.0, 1, 101), q_real[i], label="Realisationsbeskatning", linewidth=3)
+    ax.plot(
+        np.linspace(0.0, 1, 101), q_real[i], label="Realisationsbeskatning", linewidth=3
+    )
     ax.plot(np.linspace(0.0, 1, 101), q_lager[i], label="Lagerbeskatning", linewidth=3)
 ax1.legend()
 for ax, år in zip([ax1, ax2, ax3, ax4], [1, 5, 10, 20]):
@@ -132,12 +138,20 @@ for i in range(0, 101):
 
 fig, ax1 = plt.subplots(1, 1, figsize=(6, 5))
 for i, år in enumerate([1, 5, 10, 20]):
-    ax1.plot(np.linspace(0.0, 1, 101), q[i], label=f"{år:1.0f} år", linewidth=4, alpha=0.7 + 0.1 * i)
+    ax1.plot(
+        np.linspace(0.0, 1, 101),
+        q[i],
+        label=f"{år:1.0f} år",
+        linewidth=4,
+        alpha=0.7 + 0.1 * i,
+    )
 ax1.legend()
 ax1.set_xticks(np.linspace(0.0, 1.0, 11))
 ax1.grid(which="minor")
 ax1.grid(which="major")
-ax1.set_ylabel(r"$\mathrm{CAGR_{realtionsbeskatning}} - \mathrm{CAGR_{lagerbeskatning}}$")
+ax1.set_ylabel(
+    r"$\mathrm{CAGR_{realtionsbeskatning}} - \mathrm{CAGR_{lagerbeskatning}}$"
+)
 ax1.set_ylim(-0.03, 0.03)
 ax1.set_xlabel("Fraktil")
 plt.tight_layout()

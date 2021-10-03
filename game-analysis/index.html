@@ -8,7 +8,8 @@ lang: en
 
 <hr>
 {% for post in site.posts %}
-  {% if post.tag contains "gaming" %}
+  {% if post.title contains "(OUT-DATED)" %}
+  {% elsif post.tag contains "gaming" %}
       <div class="post">
         <h1 class="post-title">
           <!a href="{{ site.baseurl }}/{{ post.url }}">
@@ -17,7 +18,7 @@ lang: en
           </a>
         </h1>
         {{ post.content | strip_html | truncatewords: 40 }}
-      
+
       <hr>
       </div>
       {{ post.aside }}
@@ -25,4 +26,3 @@ lang: en
   {% endif %}
 {% endfor %}
 </div>
-

@@ -78,7 +78,7 @@ Den nedre grænse er derfor 0 år, og derfor ikke særlig brugbar.
 Den øvre grænse fra ligning (\ref{eq1}) kan nu plottes.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/oevregraense_skatteoptimering.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/oevregraense_skatteoptimering.svg">
 </p>
 
 Ofte vil det ikke kunne betale sig at lave skatteoptimering hvis der er mere end 10 år til man skal bruge pengene.

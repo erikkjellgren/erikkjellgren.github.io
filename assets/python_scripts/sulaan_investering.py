@@ -1,14 +1,13 @@
 from typing import List, Tuple
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 import dkfinance_modeller.aktieskat.depotmodel as depotmodel
 import dkfinance_modeller.aktieskat.kurtage as kurtage
 import dkfinance_modeller.aktieskat.skat as skat
 import dkfinance_modeller.aktieskat.vaerdipapirer as værdipapirer
 import dkfinance_modeller.aktieskat.valuta as valuta
 import dkfinance_modeller.laan.laanmodel as laanmodel
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def depoter() -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel]:
@@ -24,7 +23,9 @@ def depoter() -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel]:
     skatter2.skatteprocenter = [0.42]
     normal_depot = depotmodel.DepotModel(
         kapital=0.0,
-        kurtagefunktion=kurtage.saxo_kurtage_bygger(valuta="euro", valutakurs=7.44, underkonto=True),
+        kurtagefunktion=kurtage.saxo_kurtage_bygger(
+            valuta="euro", valutakurs=7.44, underkonto=True
+        ),
         skatteklasse=skatter1,
         minimumskøb=1000,
         ETFer=[etf1],
@@ -33,7 +34,9 @@ def depoter() -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel]:
     )
     normal_worst_case = depotmodel.DepotModel(
         kapital=0.0,
-        kurtagefunktion=kurtage.saxo_kurtage_bygger(valuta="euro", valutakurs=7.44, underkonto=True),
+        kurtagefunktion=kurtage.saxo_kurtage_bygger(
+            valuta="euro", valutakurs=7.44, underkonto=True
+        ),
         skatteklasse=skatter2,
         minimumskøb=1000,
         ETFer=[etf2],
@@ -54,7 +57,10 @@ for k, uddannelse_længde in enumerate([3 * 12, 5 * 12]):
             sulån = laanmodel.SUlån(uddannelse_længde, 16, rente)
             i = start
             for afdrag, fradrag in sulån.propager_måned():
-                if depot.total_salgsværdi() >= -min(0, afdrag + fradrag) and tab[0] == 0.0:
+                if (
+                    depot.total_salgsværdi() >= -min(0, afdrag + fradrag)
+                    and tab[0] == 0.0
+                ):
                     if afdrag + fradrag < 0.0:
                         depot.frigør_kapital(-(afdrag + fradrag))
                     depot.kapital += afdrag + fradrag
@@ -64,11 +70,16 @@ for k, uddannelse_længde in enumerate([3 * 12, 5 * 12]):
                     if tab[0] == 0.0:
                         tab[0] = depot.total_salgsværdi()
                     tab[0] += afdrag + fradrag
-                if depot_worst_case.total_salgsværdi() >= -min(0, afdrag + fradrag) and tab[1] == 0.0:
+                if (
+                    depot_worst_case.total_salgsværdi() >= -min(0, afdrag + fradrag)
+                    and tab[1] == 0.0
+                ):
                     if afdrag + fradrag < 0.0:
                         depot_worst_case.frigør_kapital(-(afdrag + fradrag))
                     depot_worst_case.kapital += afdrag + fradrag
-                    kursafkast = depot_worst_case.ETFer[0].kurs * (data[i + 1, 4] + data[i + 1, 3])
+                    kursafkast = depot_worst_case.ETFer[0].kurs * (
+                        data[i + 1, 4] + data[i + 1, 3]
+                    )
                     depot_worst_case.afkast_månedlig([kursafkast], [0.0])
                 else:
                     if tab[1] == 0.0:
@@ -107,22 +118,46 @@ for i in range(8):
 
 fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(6, 10), sharex=True)
 ax1.plot(np.linspace(0.0, 1, 1001), normal_q[0], "tab:blue", label="1%", linewidth=3)
-ax1.plot(np.linspace(0.0, 1, 1001), worst_case_q[0], "tab:blue", linestyle="--", linewidth=3)
+ax1.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[0], "tab:blue", linestyle="--", linewidth=3
+)
 ax1.plot(np.linspace(0.0, 1, 1001), normal_q[1], "tab:orange", label="3%", linewidth=3)
-ax1.plot(np.linspace(0.0, 1, 1001), worst_case_q[1], "tab:orange", linestyle="--", linewidth=3)
+ax1.plot(
+    np.linspace(0.0, 1, 1001),
+    worst_case_q[1],
+    "tab:orange",
+    linestyle="--",
+    linewidth=3,
+)
 ax1.plot(np.linspace(0.0, 1, 1001), normal_q[2], "tab:green", label="5%", linewidth=3)
-ax1.plot(np.linspace(0.0, 1, 1001), worst_case_q[2], "tab:green", linestyle="--", linewidth=3)
+ax1.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[2], "tab:green", linestyle="--", linewidth=3
+)
 ax1.plot(np.linspace(0.0, 1, 1001), normal_q[3], "tab:red", label="7%", linewidth=3)
-ax1.plot(np.linspace(0.0, 1, 1001), worst_case_q[3], "tab:red", linestyle="--", linewidth=3)
+ax1.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[3], "tab:red", linestyle="--", linewidth=3
+)
 
 ax2.plot(np.linspace(0.0, 1, 1001), normal_q[4], "tab:blue", label="1%", linewidth=3)
-ax2.plot(np.linspace(0.0, 1, 1001), worst_case_q[4], "tab:blue", linestyle="--", linewidth=3)
+ax2.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[4], "tab:blue", linestyle="--", linewidth=3
+)
 ax2.plot(np.linspace(0.0, 1, 1001), normal_q[5], "tab:orange", label="3%", linewidth=3)
-ax2.plot(np.linspace(0.0, 1, 1001), worst_case_q[5], "tab:orange", linestyle="--", linewidth=3)
+ax2.plot(
+    np.linspace(0.0, 1, 1001),
+    worst_case_q[5],
+    "tab:orange",
+    linestyle="--",
+    linewidth=3,
+)
 ax2.plot(np.linspace(0.0, 1, 1001), normal_q[6], "tab:green", label="5%", linewidth=3)
-ax2.plot(np.linspace(0.0, 1, 1001), worst_case_q[6], "tab:green", linestyle="--", linewidth=3)
+ax2.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[6], "tab:green", linestyle="--", linewidth=3
+)
 ax2.plot(np.linspace(0.0, 1, 1001), normal_q[7], "tab:red", label="7%", linewidth=3)
-ax2.plot(np.linspace(0.0, 1, 1001), worst_case_q[7], "tab:red", linestyle="--", linewidth=3)
+ax2.plot(
+    np.linspace(0.0, 1, 1001), worst_case_q[7], "tab:red", linestyle="--", linewidth=3
+)
 
 ax1.legend()
 ax1.set_title("3 årig uddannelse")

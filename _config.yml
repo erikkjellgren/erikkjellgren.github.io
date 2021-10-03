@@ -1,26 +1,27 @@
+---
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               Erik Kjellgren
-url:                 http://erikkjellgren.com
-baseurl:             ''
-paginate:            5
-paginate_path:       "/blog/page:num"
-markdown:            kramdown 
+title: Erik Kjellgren
+url: http://erikkjellgren.com
+baseurl: ''
+paginate: 5
+paginate_path: "/blog/page:num"
+markdown: kramdown
 kramdown:
   parse_block_html: true
-highlighter:         rouge
+highlighter: rouge
 
 # Add pages here to add to header
 pages_list:
-  dkfinance-models: '/dkfinance-models/en'
-  game-analysis: '/game-analysis/'
+  dkfinance Models: '/dkfinance-models/en'
+  Game Analysis: '/game-analysis/'
+  Computational Methods: '/computational-methods/'
   Blog: '/blog'
 
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-

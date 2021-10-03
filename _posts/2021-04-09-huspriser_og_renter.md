@@ -10,7 +10,7 @@ Over de sidste 25 år har huspriserne i gennemsnit steget med en faktor 3.5.
 Men hvilke drivere har være de primære til denne prisstigning, og kan disse fortsætte fremadrettet.
 De primære drivere for stigning af huspriser er:
 
-* Renter på boliglån 
+* Renter på boliglån
 * Lønstigninger
 * Forøgelse af belåningsgrad
 * Geografiske forskelle
@@ -19,7 +19,7 @@ I denne model vil belåningsgraden være antaget til at være konstant.
 Givet at den er antaget at være konstant, så er den faktiske belåningsgrads ikke relevant.
 Geografiske forskelle vil i første omgang ikke blive taget højde for, men vil til sidst blive diskuteret.
 
-Modellen vil gøre brug af data fra 1994 og fremadrettet. 
+Modellen vil gøre brug af data fra 1994 og fremadrettet.
 Det er valgt at starte i 1994, da [mixlån](https://da.wikipedia.org/wiki/Mixl%C3%A5n), blev afskaffet i 1993, og lånestrukturen derefter blev den vi kender igennem realkreditten.
 
 ## Løn indeks konstruktion
@@ -55,7 +55,7 @@ Indekserne er normeret således at 1. kv. 1994 er defineret til at være 1.
 
 ## Huskøbsomkostninger indeks konstruktion
 
-Huskøbsomkostninger indekset er konstrueret med antagelse om 80% realkreditlån og 20% selvbetaling. 
+Huskøbsomkostninger indekset er konstrueret med antagelse om 80% realkreditlån og 20% selvbetaling.
 
 For lånet skal der beregnes en total omkostning (lån + renter).
 Der startes med at kigge hvor på hvor meget af lånet der er tilbage efter en måned:
@@ -110,7 +110,7 @@ $$ \begin{eqnarray}
 
 Indekset er herefter normeret således at det er 1, ved 1. kv. 1994.
 
-Til at estimere realkreditlåns renten er diskontoen brugt som proxy. 
+Til at estimere realkreditlåns renten er diskontoen brugt som proxy.
 Dataen for diskontoen er taget fra [nationalbanken.statistikbank.dk](https://nationalbanken.statistikbank.dk/nbf/98214).
 Den hentede data kan findes her [diskonto.txt]({{ site.baseurl }}/assets/python_scripts/data/diskonto.txt).
 
@@ -119,7 +119,7 @@ Den hentede data kan findes her [diskonto.txt]({{ site.baseurl }}/assets/python_
 Resultaterne af modellen kan ses i nedenstående graf, bemærk at basis huskøbsomkostninger indekset og huspris indekset er baseret på huspriserne for hele Danmark.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/huspris_indekser.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/huspris_indekser.svg">
 </p>
 
 Det kan ses med det samme at hus priserne er steget markant siden 1994.
@@ -131,13 +131,13 @@ Her skal det husket at renterne nu er så lave at de ikke kan forventes at falde
 
 Hvis renterne forventes at blive ved med at være tæt på nul det næste lange stykke tid, er der til gengæld heller ikke noget evidens for at boligmarkedet som aggregat er i en boble.
 
-En vigtig men skjult antagelse i modellen er at den indirekte antager at alting var korrekt prissat i 1. kv. 1994. 
+En vigtig men skjult antagelse i modellen er at den indirekte antager at alting var korrekt prissat i 1. kv. 1994.
 Denne antagelse er dog desværre svær at komme uden om.
 
 Indtil videre er der ikke taget højde for geografiske effekter i boligpriserne.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/geografiske_forskelle.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/geografiske_forskelle.svg">
 </p>
 
 Som det tydeligt kan ses har geografien kæmpe betydning for udviklingen af boligpriserne.
@@ -160,7 +160,7 @@ $$ k_{\mathrm{huspris}}=k_{\mathrm{omkostning}}\left(\frac{0.8\left(1+r\right)^{
 Dette kan nu plottes:
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/huspris_rente_funktion.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/huspris_rente_funktion.svg">
 </p>
 
 I ovenstående figur kan husprisernes afhængighed af renten ses, givet at man har et budget til alle omkostning på 1.

@@ -4,7 +4,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def fund_price(T: float, r: np.array, ks: List[float], b_case: int, k0: float = 100) -> np.ndarray:
+def fund_price(
+    T: float, r: np.array, ks: List[float], b_case: int, k0: float = 100
+) -> np.ndarray:
     """Calculates the fund price of a Danish investment fund.
 
     Args:
@@ -37,12 +39,18 @@ def fund_price(T: float, r: np.array, ks: List[float], b_case: int, k0: float = 
     return np.array(k_out)
 
 
-sparindex = np.array([100.5, 90.45, 115.2, 94.95, 116.10, 122.3, 126.45, 114.75, 151.55])
+sparindex = np.array(
+    [100.5, 90.45, 115.2, 94.95, 116.10, 122.3, 126.45, 114.75, 151.55]
+)
 danskeinv = np.array([342, 288.5, 338.1, 263.2, 254.5, 226.4, 213.4, 162.1, 242.2])
 # Last element in "old" is the first element in the above lists.
 sparindex_old = np.array([100, 96.85, 100.5])
-danskeinv_old = np.array([100, 135, 95.7, 135.5, 160.0, 251.8, 254, 225.6, 146.6, 277.8, 316.8, 332, 342])
-EM = np.array([1056.59, 970.26, 993.1, 826.63, 978.22, 1212.95, 1096.36, 1052.68, 1320.98])
+danskeinv_old = np.array(
+    [100, 135, 95.7, 135.5, 160.0, 251.8, 254, 225.6, 146.6, 277.8, 316.8, 332, 342]
+)
+EM = np.array(
+    [1056.59, 970.26, 993.1, 826.63, 978.22, 1212.95, 1096.36, 1052.68, 1320.98]
+)
 USDEURO = np.array([0.77, 0.72, 0.95, 0.91, 0.94, 0.80, 0.88, 0.89, 0.83])
 EM = EM * USDEURO
 EMp = (EM[1:] - EM[:-1]) / EM[:-1]
@@ -100,10 +108,42 @@ plt.tight_layout()
 plt.savefig("danskeinvest_em.svg")
 
 spar_growth = np.array(
-    [67.8, 59.3, 42.3, 60.5, 66, 77.15, 87.75, 100.6, 153.4, 134.6, 106.4, 97.65, 122.8, 134.3, 166.65]
+    [
+        67.8,
+        59.3,
+        42.3,
+        60.5,
+        66,
+        77.15,
+        87.75,
+        100.6,
+        153.4,
+        134.6,
+        106.4,
+        97.65,
+        122.8,
+        134.3,
+        166.65,
+    ]
 )
 USDEURO_long = np.array(
-    [0.76, 0.64, 0.77, 0.73, 0.71, 0.76, 0.77, 0.72, 0.95, 0.91, 0.94, 0.80, 0.88, 0.89, 0.83]
+    [
+        0.76,
+        0.64,
+        0.77,
+        0.73,
+        0.71,
+        0.76,
+        0.77,
+        0.72,
+        0.95,
+        0.91,
+        0.94,
+        0.80,
+        0.88,
+        0.89,
+        0.83,
+    ]
 )
 nasdaq = np.array(
     [
@@ -142,7 +182,23 @@ ax1.set_ylabel("Fund price [DKK]")
 ax1.set_xlabel("Year")
 ax1.set_xticks(range(15))
 ax1.set_xticklabels(
-    [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
+    [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+    ]
 )
 ax1.set_title("Sparinvest, INDEX USA Growth KL")
 for tick in ax1.get_xticklabels():
@@ -155,7 +211,11 @@ fig, ax1 = plt.subplots(1, 1, figsize=(6, 5))
 Ts = np.linspace(0, 0.2, 9)
 for t in Ts:
     ax1.plot(fund_price(t, [0.07] * 10, [100], 1), linewidth=3, label=f"T={t:2.2f}")
-ax1.plot(fund_price(1 - 1 / 1.07, [0.07] * 10, [100], 1), linewidth=3, label=f"T={1-1/1.07:2.2f}")
+ax1.plot(
+    fund_price(1 - 1 / 1.07, [0.07] * 10, [100], 1),
+    linewidth=3,
+    label=f"T={1-1/1.07:2.2f}",
+)
 ax1.grid(which="minor")
 ax1.grid(which="major")
 ax1.set_ylabel("Fund price [DKK]")

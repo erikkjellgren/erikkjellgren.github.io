@@ -6,7 +6,7 @@ lang-ref: overlap of danish funds
 tag: dkfinance
 ---
 
-Givet udvalget af Danske investeringsforeninger fra [Sparindex](https://sparindex.dk/) og [Danske Invest](https://www.danskeinvest.dk/w/show_pages.front?p_nId=75), 
+Givet udvalget af Danske investeringsforeninger fra [Sparindex](https://sparindex.dk/) og [Danske Invest](https://www.danskeinvest.dk/w/show_pages.front?p_nId=75),
 kan det være svært at overskue hvor forskellige fundene er.
 
 Som et mål for enshed kan man udregne overlappet mellem to fonde.
@@ -41,7 +41,7 @@ De udregnede overlap af fondene kan ses i nedenstående figur.
 Det skal bemærkes at de akkumulerende fonde der har en distribuerende version er ekskluderet fra figuren.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/overlap_of_danish_funds.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/overlap_of_danish_funds.svg">
 </p>
 
 I ovenstående figur kan fond-navnene være svære at læse.
@@ -52,7 +52,7 @@ Version af figuren der er farveblind venlig kan findes her: [Farveblind Version 
 Fondene er "clustered" via [linkage](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.linkage.html)
 Scriptet for figuren kan findes her: [overlap_of_danish_funds.py]({{ site.baseurl }}/assets/python_scripts/overlap_of_danish_funds.py)
 
-Man kan tydelig se den forventede struktur med grupper som Europa, Danmark, Japan og nye markeder. 
+Man kan tydelig se den forventede struktur med grupper som Europa, Danmark, Japan og nye markeder.
 Det er værd at bemærke at USA og de globale fonde generelt har meget stort overlap.
 
 Det er også værd at bemærke at Danske Invest har mange fonde der er næsten identiske!

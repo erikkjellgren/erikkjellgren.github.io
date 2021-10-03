@@ -2,7 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def effektiv_cagr_realisation(cagr: float, skatteprocent: float, åop: float, år: int) -> float:
+def effektiv_cagr_realisation(
+    cagr: float, skatteprocent: float, åop: float, år: int
+) -> float:
     """Udregn CAGR efter skat og ÅOP for et realisationsbeskattet depot.
 
     Args:
@@ -14,7 +16,9 @@ def effektiv_cagr_realisation(cagr: float, skatteprocent: float, åop: float, å
     Returns:
       Effektiv CAGR efter skat og ÅOP.
     """
-    return ((1 - skatteprocent) * (1 + cagr - åop) ** år + skatteprocent) ** (1 / år) - 1
+    return ((1 - skatteprocent) * (1 + cagr - åop) ** år + skatteprocent) ** (
+        1 / år
+    ) - 1
 
 
 def effektiv_cagr_lager(cagr: float, skatteprocent: float, åop: float) -> float:

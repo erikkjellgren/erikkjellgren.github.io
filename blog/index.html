@@ -16,7 +16,7 @@ title: Home
           </a>
         </h1>
         {{ post.content | strip_html | truncatewords: 40 }}
-        
+
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -29,11 +29,10 @@ title: Home
             {% endif %}
         {% endif %}
       {% endfor %}
-      
+
       <hr>
       </div>
       {{ post.aside }}
   {% endif %}
 {% endfor %}
 </div>
-

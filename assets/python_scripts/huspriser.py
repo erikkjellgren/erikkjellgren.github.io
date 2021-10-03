@@ -1,7 +1,6 @@
+import dkfinance_modeller.utility.formler as formler
 import matplotlib.pyplot as plt
 import numpy as np
-
-import dkfinance_modeller.utility.formler as formler
 
 huspris = np.genfromtxt("data/huspriser_danmark.txt")
 huspris_indeks = huspris / huspris[0]
@@ -25,10 +24,12 @@ husomkostninger = []
 husomkostninger_min = []
 for rente, rente_min, pris in zip(diskonto, diskonto_min, huspris):
     husomkostninger.append(
-        formler.afbetalling(klån=pris * 0.8, n=30, r=rente / 100 + 10 ** -6) * 30 + 0.2 * pris
+        formler.afbetalling(klån=pris * 0.8, n=30, r=rente / 100 + 10 ** -6) * 30
+        + 0.2 * pris
     )
     husomkostninger_min.append(
-        formler.afbetalling(klån=pris * 0.8, n=30, r=rente_min / 100 + 10 ** -6) * 30 + 0.2 * pris
+        formler.afbetalling(klån=pris * 0.8, n=30, r=rente_min / 100 + 10 ** -6) * 30
+        + 0.2 * pris
     )
 husomkostninger_indeks = husomkostninger / husomkostninger[0]
 husomkostninger_min_indeks = husomkostninger_min / husomkostninger_min[0]
@@ -42,7 +43,12 @@ plt.rc("legend", fontsize=12)
 plt.rc("figure", titlesize=12)
 
 fig, (ax2, ax1) = plt.subplots(2, 1, figsize=(6, 7), sharex=True)
-ax1.plot(labels, husomkostninger_min_indeks, "r--", label="Huskøbsomkostninger indeks (minimum diskonto)")
+ax1.plot(
+    labels,
+    husomkostninger_min_indeks,
+    "r--",
+    label="Huskøbsomkostninger indeks (minimum diskonto)",
+)
 ax1.plot(labels, husomkostninger_indeks, "k-", label="Huskøbsomkostninger indeks")
 ax1.plot(labels, huspris_indeks, "m-", label="Huspris indeks")
 ax1.plot(labels, løn_indeks, "g-", label="Løn indeks")
@@ -99,7 +105,8 @@ plt.savefig("geografiske_forskelle.svg")
 relativ_huspris = []
 for rente in np.linspace(0, 10, 1000):
     relativ_huspris.append(
-        (formler.afbetalling(klån=1, n=30, r=rente / 100 + 10 ** -6) * 30 * 0.8 + 0.2) ** (-1)
+        (formler.afbetalling(klån=1, n=30, r=rente / 100 + 10 ** -6) * 30 * 0.8 + 0.2)
+        ** (-1)
     )
 
 fig, ax1 = plt.subplots(1, 1, figsize=(6, 4))

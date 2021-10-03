@@ -97,7 +97,9 @@ for i, fond1 in enumerate(danish_fonds):
                 overlap += (all_fonds[fond1][key] * all_fonds[fond2][key]) ** 0.5
         S[i, j] = overlap
 
-flat_dist_mat = scipydistance.squareform(scipydistance.squareform(scipydistance.pdist(S)))
+flat_dist_mat = scipydistance.squareform(
+    scipydistance.squareform(scipydistance.pdist(S))
+)
 res_linkage = scipyhierarchy.linkage(flat_dist_mat, method="average")
 res_order = scipyhierarchy.leaves_list(res_linkage)
 
@@ -141,9 +143,13 @@ for i, item in enumerate(labels):
     labels[i] = item
 axis_ticks = labels
 axis_ticks.append(" ")
-ax1.set_xticks(ticks=np.linspace(0.5, len(all_fonds.keys()) + 0.5, len(all_fonds.keys()) + 1))
+ax1.set_xticks(
+    ticks=np.linspace(0.5, len(all_fonds.keys()) + 0.5, len(all_fonds.keys()) + 1)
+)
 ax1.set_xticklabels(axis_ticks, rotation=90)
-ax1.set_yticks(ticks=np.linspace(0.5, len(all_fonds.keys()) + 0.5, len(all_fonds.keys()) + 1))
+ax1.set_yticks(
+    ticks=np.linspace(0.5, len(all_fonds.keys()) + 0.5, len(all_fonds.keys()) + 1)
+)
 ax1.set_yticklabels(axis_ticks)
 ax1.set_xlim(0, len(all_fonds.keys()))
 ax1.set_ylim(0, len(all_fonds.keys()))

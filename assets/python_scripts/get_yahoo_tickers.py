@@ -3,7 +3,7 @@ from json import JSONDecodeError
 from typing import List
 
 import numpy as np
-import requests
+import requests  # type: ignore
 
 names = []
 danish_fonds = [

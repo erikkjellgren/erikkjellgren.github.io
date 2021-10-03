@@ -15,10 +15,10 @@ Dette vil blive undersøgt i den følgende model.
 For modellen er følger den underliggende historiske data S&P500, dataene er hentet fra, [www.econ.yale.edu](http://www.econ.yale.edu/~shiller/data/ie_data.xls), 16-11-2020.
 Se [SP500.csv]({{ site.baseurl }}/assets/python_scripts/data/SP500.csv) for den behandlede data.
 
-To forskellige længder optagelse af lån hver måned bliver simuleret, 3 år og 5 år. 
+To forskellige længder optagelse af lån hver måned bliver simuleret, 3 år og 5 år.
 5 år er repræsentativ for en bachelor + kandidat uddannelse.
-I praktisk er der 1 måned mellem bachelor og kandidat hvor man ikke er under uddannelse, og burde have en rente derefter. 
-Denne periode er negligeret i modellen, og det vil blive regnet som om at de 5 år er en lang uddannelse. 
+I praktisk er der 1 måned mellem bachelor og kandidat hvor man ikke er under uddannelse, og burde have en rente derefter.
+Denne periode er negligeret i modellen, og det vil blive regnet som om at de 5 år er en lang uddannelse.
 
 Under uddannelse er renten 4%, hvorefter den er X% i modellen.
 Lige nu er renten på SU lån efter uddannelse 1%, men lånet er ikke fast forrentet, så det kan i princippet ændre sig i fremtiden.
@@ -37,7 +37,7 @@ I modellen antages det at der bliver investeret i en lagerbeskattet ETF.
 Resultaterne af modellen kan ses i nedenstående graf.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/sulaan_profit.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/sulaan_profit.svg">
 </p>
 
 Ovenstående graf viser det forventede afkast efter tilbagebetaling af SU lånet.

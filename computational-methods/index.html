@@ -1,20 +1,15 @@
 ---
 layout: default
 title: Home
-lang: dk
+lang: en
 ---
 
 <div class="posts">
 
-<em>{{ site.data.translations['differentLanguage'][page.lang] }}:</em>
-<a title="{{ site.data.languages['dk'].label }}" class="{{'dk'}}" href="{{ site.base-url }}">{{ site.data.languages['dk'].icon }}</a>
-<a title="{{ site.data.languages['en'].label }}" class="{{'en'}}" href="{{ page.url | replace:'dk/','en/' }}">{{ site.data.languages['en'].icon }}</a>
-
 <hr>
 {% for post in site.posts %}
   {% if post.title contains "(OUT-DATED)" %}
-  {% elsif post.lang contains "en" %}
-  {% elsif post.tag contains "dkfinance" %}
+  {% elsif post.tag contains "computation" %}
       <div class="post">
         <h1 class="post-title">
           <!a href="{{ site.baseurl }}/{{ post.url }}">

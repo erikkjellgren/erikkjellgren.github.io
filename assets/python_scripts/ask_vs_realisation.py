@@ -1,18 +1,17 @@
 from typing import List, Tuple
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 import dkfinance_modeller.aktieskat.depotmodel as depotmodel
 import dkfinance_modeller.aktieskat.kurtage as kurtage
 import dkfinance_modeller.aktieskat.skat as skat
 import dkfinance_modeller.aktieskat.vaerdipapirer as værdipapirer
 import dkfinance_modeller.aktieskat.valuta as valuta
 import dkfinance_modeller.utility.formler as formler
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def depoter(
-    start_kapital: float
+    start_kapital: float,
 ) -> Tuple[depotmodel.DepotModel, depotmodel.DepotModel, depotmodel.DepotModel]:
     """Definere depoter.
 
@@ -39,7 +38,9 @@ def depoter(
     )
     normal = depotmodel.DepotModel(
         kapital=start_kapital,
-        kurtagefunktion=kurtage.saxo_kurtage_bygger(valuta="euro", valutakurs=7.44, underkonto=True),
+        kurtagefunktion=kurtage.saxo_kurtage_bygger(
+            valuta="euro", valutakurs=7.44, underkonto=True
+        ),
         skatteklasse=skatter2,
         minimumskøb=1000,
         ETFer=[etf2],
@@ -48,7 +49,9 @@ def depoter(
     )
     normal_worst_case = depotmodel.DepotModel(
         kapital=start_kapital,
-        kurtagefunktion=kurtage.saxo_kurtage_bygger(valuta="euro", valutakurs=7.44, underkonto=True),
+        kurtagefunktion=kurtage.saxo_kurtage_bygger(
+            valuta="euro", valutakurs=7.44, underkonto=True
+        ),
         skatteklasse=skatter3,
         minimumskøb=1000,
         ETFer=[etf3],
@@ -59,7 +62,7 @@ def depoter(
 
 
 def kør_model(  # pylint: disable=R0914
-    start_kapital: float
+    start_kapital: float,
 ) -> Tuple[List[List[float]], List[List[float]], List[List[float]]]:
     """Definere depoter.
 
@@ -122,7 +125,9 @@ plt.rc("figure", titlesize=12)
 
 ask_fraktil, mormal_fraktil, normal_worst_case_fraktil = kør_model(102300)
 fig, (ax1, ax2, ax3) = plt.subplots(3, 1, figsize=(6, 8), sharex=True)
-for depot, navn in zip([ask_fraktil, mormal_fraktil, normal_worst_case_fraktil], ["ASK", "27%/42%", "42%"]):
+for depot, navn in zip(
+    [ask_fraktil, mormal_fraktil, normal_worst_case_fraktil], ["ASK", "27%/42%", "42%"]
+):
     for ax, serie in zip([ax1, ax2, ax3], depot):
         ax.plot(np.linspace(0.0, 1, 1001), serie, label=navn, linewidth=3)
 ax1.legend()

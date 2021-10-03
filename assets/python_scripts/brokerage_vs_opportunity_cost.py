@@ -17,7 +17,7 @@ def N_opt(k: float, r_m: float, p: float) -> float:
 
 
 def k_min(r_m: float, p: float) -> float:
-    """Calculates minimum required capital 
+    """Calculates minimum required capital
     for return to outweigh brokerage.
 
     Args:

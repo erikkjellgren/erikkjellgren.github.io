@@ -5,7 +5,7 @@ import numpy as np
 from sympy import Rational
 
 
-def P(adapts: int, num_uniques: int) -> Union[Callable[int, int], float]:
+def P(adapts: int, num_uniques: int) -> Union[Callable[int, int], float]:  # type: ignore
     """Calculates the probability of getting a number of unique adapts, given a number of total adapts.
 
     Args:
@@ -80,11 +80,11 @@ def both(adapts: int) -> float:
 
 
 DSorP = np.zeros(16)
-DS = np.zeros(16)
+Poison = np.zeros(16)
 DSandP = np.zeros(16)
 for i in range(0, 16):
     DSorP[i] = either(i)
-    DS[i] = specific(i)
+    Poison[i] = specific(i)
     DSandP[i] = both(i)
 
 plt.rc("font", size=12)
@@ -97,9 +97,9 @@ plt.rc("figure", titlesize=12)
 
 fig, ax1 = plt.subplots(1, 1, figsize=(6, 4))
 
-ax1.plot(np.linspace(0, 15, 16), DSorP, "gD", label="DS or P", markersize=7)
-ax1.plot(np.linspace(0, 15, 16), DS, "bD", label="DS", markersize=7)
-ax1.plot(np.linspace(0, 15, 16), DSandP, "rD", label="DS and P", markersize=7)
+ax1.plot(np.linspace(0, 15, 16), DSorP, "go-", label="DS or P", markersize=7)
+ax1.plot(np.linspace(0, 15, 16), Poison, "bo-", label="P", markersize=7)
+ax1.plot(np.linspace(0, 15, 16), DSandP, "ro-", label="DS and P", markersize=7)
 
 ax1.set_xlim(0, 15.5)
 ax1.set_ylim(0, 1.05)

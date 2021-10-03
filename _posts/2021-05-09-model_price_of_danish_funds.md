@@ -55,13 +55,13 @@ The historical fund prices have been found through [saxotrader.com](saxotrader.c
 For the Sparinvest fund the result is:
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/sparinvest_em.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/sparinvest_em.svg">
 </p>
 
 and for the Danske Invest,
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/danskeinvest_em.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/danskeinvest_em.svg">
 </p>
 
 For both funds the ongoing costs have been subtracted from the return of the NASDAQ Emerging Markets, the baseline for model 1 (b_case=1) was picked to be 100 and the turnover rate was picked to be 0.09.
@@ -70,11 +70,11 @@ Clearly, none of the models gives a perfect match, but it is very notable that e
 Model 1 (b_case=1) seems to be best overall.
 
 As another test let us consider [Sparinvest, INDEX USA Growth](https://www.sparinvest.dk/afdelinger/indeks/index%20usa%20growth.aspx), again with prices taking from Saxo, but this time using NASDAQ-100 as the underlying index in EURO.
-Given this is a growth ETF a turnover rate of 0.25 will be used. 
+Given this is a growth ETF a turnover rate of 0.25 will be used.
 This gives:
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/sparinvest_growth.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/sparinvest_growth.svg">
 </p>
 
 Here the baseline for model 1 was picked to be 65, given the price at inception.
@@ -90,7 +90,7 @@ $$ k_{1} = k_{0}\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R $$
 
 After two years it will be:
 
-$$\begin{eqnarray} 
+$$\begin{eqnarray}
 k_{2} &=& k_{1}\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R \\
  &=& \left(k_{0}\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R\right)\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R \\
  &=& k_{0}\cdot\left(R-T\cdot R\right)^{2}+b\cdot T\cdot R\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R
@@ -98,7 +98,7 @@ k_{2} &=& k_{1}\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R \\
 
 And after three years:
 
-$$\begin{eqnarray} 
+$$\begin{eqnarray}
 k_{3} &=& k_{2}\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R \\
  &=& \left(k_{0}\cdot\left(R-T\cdot R\right)^{2}+b\cdot T\cdot R\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R\right)\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R \\
  &=& k_{0}\cdot\left(R-T\cdot R\right)^{3}+b\cdot T\cdot R\cdot\left(R-T\cdot R\right)^{2}+b\cdot T\cdot R\cdot\left(R-T\cdot R\right)+b\cdot T\cdot R
@@ -115,7 +115,7 @@ $$ k_N = k_{0}\cdot\left(\left(R-T\cdot R\right)^{N}+T\cdot R\cdot\sum_{i=0}^{N-
 Now let us examine how this model behaves:
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/model1_behaviour.svg"> 
+<img src="{{ site.baseurl }}/assets/plots/model1_behaviour.svg">
 </p>
 
 In the above, a yearly return of 7% is assumed.
@@ -132,7 +132,7 @@ $$ T = 1 - \frac{1}{R} $$
 might be a special case.
 Inserting this into the Eq. (\ref{model1}) we find,
 
-$$\begin{eqnarray} 
+$$\begin{eqnarray}
 \left.k_{N}\right|_{T=1-1/R} &=& k_{0}\cdot\left(1^{N}+\left(1-\frac{1}{R}\right)\cdot R\cdot\sum_{i=0}^{N-1}1^{i}\right) \\
  &=& k_{0}\cdot\left(1+\left(R-\frac{R}{R}\right)\cdot N\right) \\
  &=& k_{0}\cdot\left(1+R\cdot N-N\right) \\
@@ -142,7 +142,7 @@ $$\begin{eqnarray}
 Thus it can be seen that at this point the fund price is linear in time instead of exponential.
 Now below this point, and by letting time go to inifity we find that:
 
-$$\begin{eqnarray} 
+$$\begin{eqnarray}
 \lim_{N\rightarrow\infty}\left.k_{N}\right|_{T>1-1/R} &=& \lim_{N\rightarrow\infty}k_{0}\cdot\left(\left(R-T\cdot R\right)^{N}+T\cdot R\cdot\sum_{i=0}^{N-1}\left(R-T\cdot R\right)^{i}\right) \\
  &=& k_{0}\cdot T\cdot R\cdot\lim_{N\rightarrow\infty}\sum_{i=0}^{N-1}\left(R-T\cdot R\right)^{i}
 \end{eqnarray}$$

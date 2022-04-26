@@ -10,6 +10,7 @@ if __name__ == "__main__":
             continue
         isiner.append(line.strip("\n"))
     f.close()
+
     out = open("skat_positiv_liste_info.csv", "w")
     out.write("ISIN;Navn;Index;ÅOP;Replication;Domicil\n")
     infoer = webscrape.få_etf_info(isiner, 4)
@@ -22,7 +23,6 @@ if __name__ == "__main__":
         else:
             print(info)
     out.close()
-
     f = open("data/template_nordnet_liste.csv", "r")
     isiner = []
     skat = {}

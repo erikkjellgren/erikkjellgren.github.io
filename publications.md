@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+**Erik Rosendahl Kjellgren**, [Extending the capabilities of Multi-Configurational short-range Density Functional Theory based methods](https://portal.findresearcher.sdu.dk/en/publications/extending-the-capabilities-of-multi-configurational-short-range-d)
+
+---
+
 **Erik Rosendahl Kjellgren**, Hans Jørgen Aagaard Jensen, [Multi-configurational short-range density functional theory can describe spin–spin coupling constants of transition metal complexes](https://aip.scitation.org/doi/abs/10.1063/5.0059128), 2021, 155, 8, 084102.
 
 ---

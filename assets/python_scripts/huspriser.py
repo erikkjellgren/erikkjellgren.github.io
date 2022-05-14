@@ -24,11 +24,11 @@ husomkostninger = []
 husomkostninger_min = []
 for rente, rente_min, pris in zip(diskonto, diskonto_min, huspris):
     husomkostninger.append(
-        formler.afbetalling(klån=pris * 0.8, n=30, r=rente / 100 + 10 ** -6) * 30
+        formler.afbetalling(klån=pris * 0.8, n=30, r=rente / 100 + 10**-6) * 30
         + 0.2 * pris
     )
     husomkostninger_min.append(
-        formler.afbetalling(klån=pris * 0.8, n=30, r=rente_min / 100 + 10 ** -6) * 30
+        formler.afbetalling(klån=pris * 0.8, n=30, r=rente_min / 100 + 10**-6) * 30
         + 0.2 * pris
     )
 husomkostninger_indeks = husomkostninger / husomkostninger[0]
@@ -43,21 +43,21 @@ plt.rc("legend", fontsize=12)
 plt.rc("figure", titlesize=12)
 
 fig, (ax2, ax1) = plt.subplots(2, 1, figsize=(6, 7), sharex=True)
+ax1.plot(labels, huspris_indeks, "m-", label="Huspris indeks")
 ax1.plot(
     labels,
     husomkostninger_min_indeks,
     "r--",
-    label="Huskøbsomkostninger indeks (minimum diskonto)",
+    label="Huskøbsomkostninger indeks (minimum lang-rente)",
 )
 ax1.plot(labels, husomkostninger_indeks, "k-", label="Huskøbsomkostninger indeks")
-ax1.plot(labels, huspris_indeks, "m-", label="Huspris indeks")
 ax1.plot(labels, løn_indeks, "g-", label="Løn indeks")
 ax1.legend(frameon=False)
 
-ax2.plot(labels, diskonto_min, "r--", label="Diskonto minimum")
-ax2.plot(labels, diskonto, "k--", label="Diskonto")
-ax2.set_ylim(-0.2, 5.5)
-ax2.set_ylabel("Diskonto")
+ax2.plot(labels, diskonto_min, "r--", label="Lang-rente minimum")
+ax2.plot(labels, diskonto, "k--", label="Lang-rente")
+ax2.set_ylim(-1.0, 9.5)
+ax2.set_ylabel("Lang-rente")
 ax2.legend(frameon=False)
 
 for i, tick in enumerate(ax1.get_xticklabels()):
@@ -105,7 +105,7 @@ plt.savefig("geografiske_forskelle.svg")
 relativ_huspris = []
 for rente in np.linspace(0, 10, 1000):
     relativ_huspris.append(
-        (formler.afbetalling(klån=1, n=30, r=rente / 100 + 10 ** -6) * 30 * 0.8 + 0.2)
+        (formler.afbetalling(klån=1, n=30, r=rente / 100 + 10**-6) * 30 * 0.8 + 0.2)
         ** (-1)
     )
 

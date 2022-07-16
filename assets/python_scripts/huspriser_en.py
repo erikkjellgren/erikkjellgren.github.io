@@ -6,6 +6,8 @@ huspris = np.genfromtxt("data/huspriser_danmark.txt")
 huspris_indeks = huspris / huspris[0]
 
 labels = np.genfromtxt("data/labels.txt", dtype=str, delimiter=",")
+for i in range(len(labels)):
+    labels[i] = labels[i].replace("1. kv.", "Q1")
 
 langrente = np.genfromtxt("data/langrente.txt", delimiter=",")
 langrente_min = np.zeros(len(langrente))
@@ -48,7 +50,7 @@ ax1.plot(
     labels,
     husomkostninger_min_indeks,
     "r--",
-    label="House purchase costs index (minimum long interest rate)",
+    label="House purchase costs index (min. interest)",
 )
 ax1.plot(labels, husomkostninger_indeks, "k-", label="House purchase costs index")
 ax1.plot(labels, løn_indeks, "g-", label="Wage index")

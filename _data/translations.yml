@@ -9,3 +9,6 @@ givemeaCoffee:
 differentLanguage:
   en: "Change language"
   dk: "Change language"
+languageAvailability:
+  en: "Only selected posts available in Danish"
+  dk: "Kun udvalgte indlæg er tilgængelige på dansk"

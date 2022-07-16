@@ -117,57 +117,60 @@ The downloaded data can be found here [langrente.txt]({{ site.baseurl }}/assets/
 
 ## Discussion of results
 
-Resultaterne af modellen kan ses i nedenstående graf, bemærk at basis huskøbsomkostninger indekset og huspris indekset er baseret på huspriserne for hele Danmark.
+The results from the model kan be seen in the graph below.
+Note that the results are based on an average of the Danish market.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/huspris_indekser.svg">
+<img src="{{ site.baseurl }}/assets/plots/huspris_indekser_en.svg">
 </p>
 
-Det kan ses med det samme at hus priserne er steget markant siden 1994.
-Dog kan vi se at huskøbsomkostninger indekset følger løn indekset over hele perioden, undtaget omkring 2007, som vi nu ved var en boligboble.
-Modellen fanger altså boligpriserne var for høje i den periode.
+It can immediately be seen that the housing prices has increased by a significant amount since 1994.
+However, the house purchase costs index follows the wage index much more close over the periode, except during the housing bouble around 2007.
+The model thus captures that the housing prices were elevated in that periode.
 
-Forskellen mellem huskøbsomkostninger indekset og huspris indekset kan tolkes til at være den rente-drevne stigning af boligpriserne.
-Her skal det husket at renterne nu er så lave at de ikke kan forventes at falde fremadrette, så ud fra denne model kan det altså ikke forventes at boligpriserne vil fortsætte med at være så eksplosive.
+The difference between the house purchase costs index and the house price index kan be interpreted to be driven by falling interest rates.
+In this interpretation it can be expected that the housing prices will deaccelerate, since the interest rates are so low they cannot be expected to fall further.
 
-Hvis renterne forventes at blive ved med at være tæt på nul det næste lange stykke tid, er der til gengæld heller ikke noget evidens for at boligmarkedet som aggregat er i en boble.
+If the interest rates can be expected to stay close to zero for a prolonged periode, then the model suggests that the housing prices are not in a bouble but will just stay at the current levels.
 
-En vigtig men skjult antagelse i modellen er at den indirekte antager at alting var korrekt prissat i 1. kv. 1994.
-Denne antagelse er dog desværre svær at komme uden om.
+It should be remembered that a hidden but very important assumption in the model is that everything is corretly prices in Q1 1994.
+This assumption is very hard to circumvent.
 
-Indtil videre er der ikke taget højde for geografiske effekter i boligpriserne.
+So far the effect of geographical differences on the housing prices has not been considered.
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/geografiske_forskelle.svg">
+<img src="{{ site.baseurl }}/assets/plots/geografiske_forskelle_en.svg">
 </p>
 
-Som det tydeligt kan ses har geografien kæmpe betydning for udviklingen af boligpriserne.
-Områder som Lolland og Langeland, som generelt anses til at være udkants Danmark oplever stagnerede huspriser, hvor København til gengæld oplever meget hurtigt voksende boligpriser.
+As can clearly be seen the geographical location has a huge impact on the development of the housing prices.
+Areas such as Lolland and Langeland, remoate areas of Denmark, has completely stagnating housing prices.
+Whereas, the capital Copenhagen has had exploding housing prices.
 
-En mulig forklaring på dette kunne være affolkning af udkantsområderne og tilflytning til de stører byer.
-Om denne tese kan underbygges med data vil dog ikke undersøges i denne analyse.
+A possible explination of this could be urbanisation.
+If this hypothesis can be substantiated by data is out-of-scope for this analysis.
 
-En ting der kan bemærkes er dog at de tre næststørste byer (Aarhus, Aalborg og Odense), ligger omkring landsgennemsnittet i boligprisstigninger.
-Hvilket kan tolkes til at det kun er København der oplever urbaniserings-effekten, eller at huspriserne kunne være for høje i København.
-Den præsenterede model kan dog ikke sige noget specifikt om København.
+One thing to note, is that three largest cities after Copenhagen (Aarhus, Aalbrog and Odense), are all around the nation average.
+This can be interpreted in two ways.
+Firstly, mainly Copenhagen that is subjected to the positive side of the urbanisation-effect.
+Secondly, the housing prices in Copenhagen are in a bouble.
+These two different interpretations cannot be differentiated by the presented model in this post.
 
-I modellen er effekten af renter med taget eksplicit.
-Så til sidst lad os kigge på hvad rente-stigninger kunne betyde for boligpriserne.
+In the model the effect of interest rates are handled explicitly.
+As a final discussion point let us look at how sensitive the housing prices are to the interest rates accourding to the presented model.
 
-Ved at starte fra ligning (\ref{eq1}) kan det ses i modellen at huspriserne afhænger af renterne på følgende måde:
+By starting from equation (\ref{eq1}) it can be seen that the housing prices depends on the interest rates in the following way:
 
 $$ k_{\mathrm{housing\ price}}=k_{\mathrm{total\ costs}}\left(0.8\cdot \frac{r\cdot n}{1-\left(1+r\right)^{-n}}+0.2\right)^{-1} $$
 
-Dette kan nu plottes:
+This can now be graphed:
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/plots/huspris_rente_funktion.svg">
+<img src="{{ site.baseurl }}/assets/plots/huspris_rente_funktion_en.svg">
 </p>
 
-I ovenstående figur kan husprisernes afhængighed af renten ses, givet at man har et budget til alle omkostning på 1.
+In the above figure the housing prices dependence on the interest rate can be seen.
+This is then normalised to unity at an interest rate of zero percentage.
 
-Det kan ses at hvis renterne stiger "permanent" 2% vil priserne falde 20%, og hvis der er en "permanent" stigning på 4% vil priserne falde 35%.
+It can be seen if the interest rate increased "permantly" to 2% (from 0%) then the housing prices will fall ~20%, and if the interest increase "permantly" 4% then the housing prices will fall ~35%.
 
-Dette er selvfølgelig ikke overraskende, ved en beloaningsgrad på 80% har renterne stor indflydelse på hvor meget man har råd til at loane.
-
-Koden brugt til at lave graferne kan findes her: [huspriser.py]({{ site.baseurl }}/assets/python_scripts/huspriser.py)
+The code used to make the graphs can be found here: [huspriser_en.py]({{ site.baseurl }}/assets/python_scripts/huspriser_en.py)

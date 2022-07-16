@@ -20,7 +20,7 @@ def likelihood(runs: int, hits: int, p: float) -> float:
     return (
         factorial(runs)
         / (factorial(hits) * factorial(runs - hits))
-        * p ** hits
+        * p**hits
         * (1 - p) ** (runs - hits)
     )
 

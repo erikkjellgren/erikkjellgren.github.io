@@ -6,6 +6,8 @@ huspris = np.genfromtxt("data/huspriser_danmark.txt")
 huspris_indeks = huspris / huspris[0]
 
 labels = np.genfromtxt("data/labels.txt", dtype=str, delimiter=",")
+for i in range(len(labels)):
+    labels[i] = labels[i].replace("1. kv.", "Q1")
 
 langrente = np.genfromtxt("data/langrente.txt", delimiter=",")
 langrente_min = np.zeros(len(langrente))
@@ -43,21 +45,21 @@ plt.rc("legend", fontsize=12)
 plt.rc("figure", titlesize=12)
 
 fig, (ax2, ax1) = plt.subplots(2, 1, figsize=(6, 7), sharex=True)
-ax1.plot(labels, huspris_indeks, "m-", label="Huspris indeks")
+ax1.plot(labels, huspris_indeks, "m-", label="House price index")
 ax1.plot(
     labels,
     husomkostninger_min_indeks,
     "r--",
-    label="Huskøbsomkostninger indeks (minimum lang rente)",
+    label="House purchase costs index (min. interest)",
 )
-ax1.plot(labels, husomkostninger_indeks, "k-", label="Huskøb omkostninger indeks")
-ax1.plot(labels, løn_indeks, "g-", label="Løn indeks")
+ax1.plot(labels, husomkostninger_indeks, "k-", label="House purchase costs index")
+ax1.plot(labels, løn_indeks, "g-", label="Wage index")
 ax1.legend(frameon=False)
 
-ax2.plot(labels, langrente_min, "r--", label="Lang rente minimum")
-ax2.plot(labels, langrente, "k--", label="Lang rente")
+ax2.plot(labels, langrente_min, "r--", label="Long interest rate minimum")
+ax2.plot(labels, langrente, "k--", label="Long interest rate")
 ax2.set_ylim(-1.0, 9.5)
-ax2.set_ylabel("Lang rente")
+ax2.set_ylabel("Long interest rate")
 ax2.legend(frameon=False)
 
 for i, tick in enumerate(ax1.get_xticklabels()):
@@ -68,9 +70,9 @@ for i, tick in enumerate(ax1.get_xticklabels()):
 
 ax1.set_xlim(-1, len(labels) + 1)
 ax1.set_ylim(0.9, 4.0)
-ax1.set_ylabel("Indeks værdi")
+ax1.set_ylabel("Index value")
 plt.tight_layout()
-plt.savefig("huspris_indekser.svg")
+plt.savefig("huspris_indekser_en.svg")
 
 huspris = np.genfromtxt("data/huspriser_danmark.txt")
 københavn = np.genfromtxt("data/huspriser_koebenhavn.txt")
@@ -80,13 +82,13 @@ aalborg = np.genfromtxt("data/huspriser_aalborg.txt")
 langeland = np.genfromtxt("data/huspriser_langeland.txt")
 lolland = np.genfromtxt("data/huspriser_lolland.txt")
 fig, ax1 = plt.subplots(1, 1, figsize=(6, 4), sharex=True)
-ax1.plot(labels, huspris_indeks, "m-", label="Danmark indeks")
-ax1.plot(labels, københavn / københavn[0], "k--", label="København indeks")
-ax1.plot(labels, odense / odense[0], "b--", label="Odense indeks")
-ax1.plot(labels, aarhus / aarhus[0], "g--", label="Aarhus indeks")
-ax1.plot(labels, aalborg / aalborg[0], "r--", label="Aalborg indeks")
-ax1.plot(labels, langeland / langeland[0], "c--", label="Langeland indeks")
-ax1.plot(labels, lolland / lolland[0], "y--", label="Lolland indeks")
+ax1.plot(labels, huspris_indeks, "m-", label="Denmark index")
+ax1.plot(labels, københavn / københavn[0], "k--", label="Copenhagen index")
+ax1.plot(labels, odense / odense[0], "b--", label="Odense index")
+ax1.plot(labels, aarhus / aarhus[0], "g--", label="Aarhus index")
+ax1.plot(labels, aalborg / aalborg[0], "r--", label="Aalborg index")
+ax1.plot(labels, langeland / langeland[0], "c--", label="Langeland index")
+ax1.plot(labels, lolland / lolland[0], "y--", label="Lolland index")
 ax1.legend(frameon=False)
 
 for i, tick in enumerate(ax1.get_xticklabels()):
@@ -97,9 +99,9 @@ for i, tick in enumerate(ax1.get_xticklabels()):
 
 ax1.set_xlim(-1, len(labels) + 1)
 ax1.set_ylim(0.8, 9)
-ax1.set_ylabel("Indeks værdi")
+ax1.set_ylabel("Index value")
 plt.tight_layout()
-plt.savefig("geografiske_forskelle.svg")
+plt.savefig("geografiske_forskelle_en.svg")
 
 
 relativ_huspris = []
@@ -111,9 +113,9 @@ for rente in np.linspace(0, 10, 1000):
 
 fig, ax1 = plt.subplots(1, 1, figsize=(6, 4))
 ax1.plot(np.linspace(0, 10, 1000), relativ_huspris, linewidth=4)
-ax1.set_ylabel("Relativ huspris")
-ax1.set_xlabel("Rente %")
+ax1.set_ylabel("Relative house price")
+ax1.set_xlabel("Interest rate %")
 ax1.grid(which="minor")
 ax1.grid(which="major")
 plt.tight_layout()
-plt.savefig("huspris_rente_funktion.svg")
+plt.savefig("huspris_rente_funktion_en.svg")

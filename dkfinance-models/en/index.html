@@ -9,7 +9,7 @@ lang: en
 <em>{{ site.data.translations['differentLanguage'][page.lang] }}:</em>
 <a title="{{ site.data.languages['dk'].label }}" class="{{'dk'}}" href="{{ page.url | replace:'en/','dk/' }}">{{ site.data.languages['dk'].icon }}</a>
 <a title="{{ site.data.languages['en'].label }}" class="{{'en'}}" href="{{ site.base-url }}">{{ site.data.languages['en'].icon }}</a>
-
+<em><br>{{ site.data.translations['languageAvailability'][page.lang] }}</em>
 
 <hr>
 {% for post in site.posts %}

@@ -5,3 +5,4 @@ gem 'rspec'
 gem 'github-pages'
 gem 'jekyll-paginate'
 gem "kramdown", ">= 2.3.1"
+gem 'webrick'

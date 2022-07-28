@@ -214,4 +214,4 @@ Dette giver følgende plot.
 
 Det kan her tydeligt ses at jo længere investeringshorisonten er, jo bedre er realisationsbeskatning.
 
-Den fulde kode kan findes her: [investeringsforening_udbytte.py]({{ site.baseurl }}/assets/python_scripts/investeringsforening_udbytte.py)
+Den fulde kode kan findes her: [lager_vs_realisation.py]({{ site.baseurl }}/assets/python_scripts/lager_vs_realisation.py)

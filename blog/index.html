@@ -5,8 +5,7 @@ title: Home
 
 <div class="posts">
 {% for post in site.posts %}
-  {% if post.title contains "(OUT-DATED)" %}
-  {% elsif post.lang contains "dk" %}
+  {% if post.lang contains "dk" %}
   {% else %}
       <div class="post">
         <h1 class="post-title">

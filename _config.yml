@@ -6,7 +6,7 @@ permalink: pretty
 
 # Setup
 title: Erik Kjellgren
-url: http://erikkjellgren.com
+url: https://erikkjellgren.com
 baseurl: ''
 paginate: 5
 paginate_path: "/blog/page:num"

@@ -8,8 +8,7 @@ lang: en
 
 <hr>
 {% for post in site.posts %}
-  {% if post.title contains "(OUT-DATED)" %}
-  {% elsif post.tag contains "gaming" %}
+  {% if post.tag contains "gaming" %}
       <div class="post">
         <h1 class="post-title">
           <!a href="{{ site.baseurl }}/{{ post.url }}">

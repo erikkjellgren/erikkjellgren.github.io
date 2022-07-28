@@ -8,7 +8,6 @@ tag: dkfinance
 
 Nogen Danske investeringsforeninger er realisationsbeskattet givet at de udfylde kriterier
 vedrørende udbetaling af udbytte.
-Modellen for udbytte fra investeringsforeningerne kan ses i [Danske investeringsforeninger, signifikans af udbytte]({% post_url 2020-11-16-investeringsforening_udbytte %}).
 Denne sammenligning realisationsbeskattede investeringsforeninger ifht. ETFer bruger priser fra Saxo.
 Investeringsforening er antaget en ÅOP på 0.55%.
 ETFen er der antaget en ÅOP på 0.12% og brug af underkonto i Euro.

@@ -8,7 +8,7 @@ tag: computation
 
 Coming from a theoretical chemistry background, I have mostly learned second quantization from [Molecular Electronic-Structure Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119019572).
 
-From the algebra is taught with the ON vector, $$\left|10\right>$$ denoting the first orbital being occupied and the second orbital being unoccupied.
+From here the algebra is taught with the ON vector, $$\left|10\right>$$ denoting the first orbital being occupied and the second orbital being unoccupied.
 In the simplest form the algebra is defined as (for a single orbital state):
 
 $$ \begin{eqnarray}

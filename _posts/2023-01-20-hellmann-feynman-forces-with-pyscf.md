@@ -98,6 +98,11 @@ Calculating the forces using the previous shown code snippets can be achived as:
 
 And finally the forces can be applied to move the atoms.
 The algorithm used here is the (gradient descent)[https://en.wikipedia.org/wiki/Gradient_descent].
+Using gradient descent the coordinates are just updated with the size of the forces ($\gamma=1$):
+
+$$ x_{n+1} = x_n - \gamma F $$
+
+In code this can be implemented as:
 
 {% highlight python %}
     # Move atoms and reconstruct molecule
@@ -138,4 +143,5 @@ Calculating the forces like this, and calculating the Hellmann-Feynman forces, t
 
 Script to generate the plot can be found here: [pulay_forces.py]({{ site.baseurl }}/assets/python_scripts/pulay_forces.py)
 
-It can immidiately be seen from the plot that the Hellmann-Feynmann forces gets worse and worse the further away from equilibrium the molecule is.
+It can immidiately be seen from the plot that the Pulay forces are not always small compared to the Hellmann-Feynman forces.
+Even more worrying it can also be noted that the Hellmann-Feynman forces does not find the exact minima.

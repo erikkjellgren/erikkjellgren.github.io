@@ -58,8 +58,8 @@ As an example let us consider ground-state
 ($$\left|1100\right>$$) wih the ground-state, and use $$h_{22}a^\dagger_2 a_2$$ as the operator:
 
 $$ \begin{eqnarray}
-\left<1100\left|h_{22} a^\dagger_2 a_2\right|1100\right> &=& \left<vac\left|a_4 a_1 h_{22} a^\dagger_2 a_2 a^\dagger_1 a^\dagger_2\right|vac\right> \\
-&=& h_{22}\left<0000\left|a_4 a_1 a^\dagger_2 a_2 a^\dagger_1 a^\dagger_2\right|0000\right> \\
+\left<1100\left|h_{22} a^\dagger_2 a_2\right|1100\right> &=& \left<vac\left|a_2 a_1 h_{22} a^\dagger_2 a_2 a^\dagger_1 a^\dagger_2\right|vac\right> \\
+&=& h_{22}\left<0000\left|a_2 a_1 a^\dagger_2 a_2 a^\dagger_1 a^\dagger_2\right|0000\right> \\
 &=& h_{22}\left<0000\left|a_2 a_1 a^\dagger_2 a_2 a^\dagger_1\right|0100\right> \\
 &=& h_{22}\left<0000\left|a_2 a_1 a^\dagger_2 a_2\right|1100\right> \\
 &=& -h_{22}\left<0000\left|a_2 a_1 a^\dagger_2\right|1000\right> \\

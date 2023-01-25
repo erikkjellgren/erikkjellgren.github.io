@@ -98,7 +98,7 @@ Calculating the forces using the previous shown code snippets can be achived as:
 
 And finally the forces can be applied to move the atoms.
 The algorithm used here is the [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent).
-Using gradient descent the coordinates are just updated with the size of the forces ($\gamma=1$):
+Using gradient descent the coordinates are just updated with the size of the forces ($$\gamma=1$$):
 
 $$ x_{n+1} = x_n - \gamma F $$
 

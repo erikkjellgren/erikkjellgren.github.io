@@ -41,7 +41,7 @@ $$ a^\dagger_1\left|0\right> = 0  $$
 
 And the last of the basis algebraic rules, if there is an uneven number of occupied orbitals to the left of the orbital being worked on a sign change will happen:
 
-$$ a_4\left|1111\right> = \left|1110\right> $$
+$$ a_4\left|1111\right> = -\left|1110\right> $$
 
 To understand what is happening when evaluating something of the form
 $$\left<\Phi\left|O\right|\Phi\right>$$, I think it is good to remember that:
@@ -147,7 +147,7 @@ Here the integral elements are defined as:
 
 $$ h_{pq} = \int\phi^\dagger_p(1)\hat{h}(1)\phi_q(1)\mathrm{d}r_1 $$
 
-with th number indicating which electron the orbital is associted with and,
+with the number indicating which electron the orbital is associted with, and, the two-electron integral being,
 
 $$ g_{pqrs} = \int\phi^\dagger_p(1)\phi^\dagger_q(2)\hat{g}(1,2)\phi_r(1)\phi_s(2)\mathrm{d}r_1\mathrm{d}r_2 $$
 
@@ -237,9 +237,6 @@ The modified code that includes the integrals can be found here: [lazy_second_qu
 
 In the code top of the code the integrals are calculated using an external quantum chemistry program and then converted first converted to MO-basis and then afterwards converted to spin-basis.
 The details about this is out-of-scope for this.
-
-The coordinate file can be found here: [h2.xyz]({{ site.baseurl }}/assets/python_scripts/data/h2.xyz)
-
 
 Allready now Brillouin's theorem is recovered.
 

@@ -36,7 +36,7 @@ def Transform2eSPIN(int2e):
 
 
 A = sq.SlowQuant()
-A.set_molecule("data/h2.xyz", distance_unit="bohr")
+A.set_molecule("""H 0 0 0; H 1.401 0 0""", distance_unit="bohr")
 A.set_basis_set("sto-3g")
 A.init_hartree_fock()
 A.hartree_fock.run_restricted_hartree_fock()

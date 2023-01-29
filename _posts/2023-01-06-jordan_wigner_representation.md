@@ -6,9 +6,9 @@ lang-ref: Jordan-Wigner representation
 tag: computation
 ---
 
-Current quantum computers work with unitrary gates.
-In order to represent operators relevant for quantum chemistry on a quantum computer, unitrary operators are thus needed.
-The condition for a unitrary operator is:
+Current quantum computers work with unitary gates.
+In order to represent operators relevant for quantum chemistry on a quantum computer, unitary operators are thus needed.
+The condition for a unitary operator is:
 
 $$ UU^\dagger = I $$
 
@@ -37,7 +37,7 @@ a^\dagger \left(a^\dagger\right)^\dagger &=& \left(\begin{matrix}
 \end{matrix}\right) \neq I
 \end{eqnarray} $$
 
-It can thus be seen that the annihilation and creation operators are not unitrary.
+It can thus be seen that the annihilation and creation operators are not unitary.
 Instead we can consider the [Pauli operators](https://en.wikipedia.org/wiki/Pauli_matrices):
 
 $$ \begin{eqnarray}
@@ -55,7 +55,7 @@ Z &=& \left(\begin{matrix}
 \end{matrix}\right)
 \end{eqnarray} $$
 
-It can easily be verified that these operators are indeed unitrary:
+It can easily be verified that these operators are indeed unitary:
 
 $$ \begin{eqnarray}
 XX^\dagger &=& \left(\begin{matrix}
@@ -162,4 +162,4 @@ $$ a_2\left|11\right> = \left(\begin{matrix}
 \end{matrix}\right) = -\left|10\right>$$
 
 Which is the same as when using the phase-factor.
-The annihilation and creation operator has now been expressed in terms of unitrary matrices.
+The annihilation and creation operator has now been expressed in terms of unitary matrices.

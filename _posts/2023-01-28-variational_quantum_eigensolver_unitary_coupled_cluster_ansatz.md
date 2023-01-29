@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Variational quantum eigensolver unitrary coupled cluster ansatz
+title: Variational quantum eigensolver unitary coupled cluster ansatz
 lang: en
-lang-ref: Variational quantum eigensolver unitrary coupled cluster ansatz
+lang-ref: Variational quantum eigensolver unitary coupled cluster ansatz
 tag: computation
 ---
 
@@ -13,7 +13,7 @@ The method of explicit diagonalization quickly becomes computationally impossibl
 A scheme that can be utilized by quantum computers is the [variational quantum eigensolver](https://en.wikipedia.org/wiki/Variational_quantum_eigensolver) (VQE).
 The first requirement of VQE is that we have to represent the fermionic operators as Pauli operators, this is what was achived using the Jordan-Wigner representation.
 The second requirement is that an ansatz has to be defined.
-A choice of ansatz is the unitrary coupled cluster with singles and doubles (UCCSD).
+A choice of ansatz is the unitary coupled cluster with singles and doubles (UCCSD).
 The UCCSD ansatz is defined as:
 
 $$ \left|\Psi(\theta)\right> = U(\theta)\left|\psi\right> = \exp\left(T(\theta) - T^\dagger(\theta)\right)\left|\phi\right> $$

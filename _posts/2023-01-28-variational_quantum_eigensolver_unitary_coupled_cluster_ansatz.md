@@ -64,9 +64,10 @@ It should be noted that even for this small system, hydrogen in a minimal basis,
 All there is left to do is minimize the energy.
 The energy is given as:
 
-$$ E = \frac{\left<\psi\left|U(\theta)H^\mathrm{JW}U(\theta)\right|\psi\right>}{\left<\psi U^\dagger(\theta)\left|U(\theta)right. psi\right>} $$
+$$ E = \frac{\left<\psi\left|U(\theta)H^\mathrm{JW}U(\theta)\right|\psi\right>}{\left<\psi\left|U^\dagger(\theta)U(\theta)\right|\psi\right>} $$
 
-Since our ansatz for is unitray we know that $$\left<\psi U^\dagger(\theta)\left|U(\theta)right. psi\right>$$ for all possible $$\theta$$, thus expression for the energy simplifies to:
+Since our ansatz for is unitray we know that
+$${\left<\psi\left|U^\dagger(\theta)U(\theta)\right|\psi\right>}$$ for all possible $$\theta$$, thus expression for the energy simplifies to:
 
 $$ E = \left<\psi\left|U(\theta)H^\mathrm{JW}U(\theta)\right|\psi\right> $$
 
@@ -109,7 +110,7 @@ def total_energy(theta):
 {% endhighlight %}
 
 Putting it all together in a Python script and using 'scipy.minimize' to find the optimal parameters, it is found that the ground-state energy is indeed again -1.85105 Hartree (just as for FCI).
-The Python script can be found here: []()
+The Python script can be found here: [vqe_uccsd_hydrogen.py]({{ site.baseurl }}/assets/python_scripts/vqe_uccsd_hydrogen.py)
 
 Starting from $$\theta=0$$, the optimal $$\theta$$'s are found to be [ 0.       0.       0.       0.      -0.11306 -0.11306 -0.11306 -0.11306].
 Indeed as expected the first four parameters stayed zero.
@@ -121,4 +122,98 @@ In general it is a hard task to convert exponental to a quantum circuit with the
 This is the motivation for doing trotterization.
 To first order the trotterization is given as:
 
-$$ \exp(\sum_if_iP_i) \approx \prod_i\exp(f_iP_i) $$
+$$ \exp\left(\sum_if_iP_i\right) \approx \prod_i\exp(f_iP_i) $$
+
+Following this formula the trotterized form can now be implemented as:
+
+{% highlight python %}
+def uccsd_anzats_trotter(theta):
+    theta_31 = theta[0]
+    theta_32 = theta[1]
+    theta_41 = theta[2]
+    theta_42 = theta[3]
+    theta_4321 = theta[4]
+    theta_4312 = theta[5]
+    theta_3421 = theta[6]
+    theta_3412 = theta[7]
+
+    expT = scipy.linalg.expm(theta_31*(0.5j)*krons([Y, I, X, I]))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_31*(-0.5j)*krons([X, I, Y, I])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_32*(0.5j)*krons([I, Y, X, I])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_32*(-0.5j)*krons([I, X, Y, I])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_41*(0.5j)*krons([Y, I, I, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_41*(-0.5j)*krons([X, I, I, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_42*(0.5j)*krons([I, Y, I, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_42*(-0.5j)*krons([I, X, I, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(0.03125j)*krons([X, Y, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(-0.03125j)*krons([X, X, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(0.03125j)*krons([Y, X, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(0.03125j)*krons([Y, Y, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(-0.03125j)*krons([X, X, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(-0.03125j)*krons([X, Y, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(0.03125j)*krons([Y, Y, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4321*(-0.03125j)*krons([Y, X, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(0.03125j)*krons([Y, X, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(-0.03125j)*krons([X, X, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(0.03125j)*krons([X, Y, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(0.03125j)*krons([Y, Y, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(-0.03125j)*krons([X, X, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(-0.03125j)*krons([Y, X, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(0.03125j)*krons([Y, Y, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_4312*(-0.03125j)*krons([X, Y, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(0.03125j)*krons([X, Y, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(-0.03125j)*krons([X, X, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(0.03125j)*krons([Y, X, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(0.03125j)*krons([Y, Y, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(-0.03125j)*krons([X, X, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(-0.03125j)*krons([X, Y, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(0.03125j)*krons([Y, Y, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3421*(-0.03125j)*krons([Y, X, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(0.03125j)*krons([Y, X, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(-0.03125j)*krons([X, X, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(0.03125j)*krons([X, Y, X, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(0.03125j)*krons([Y, Y, Y, X])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(-0.03125j)*krons([X, X, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(-0.03125j)*krons([Y, X, Y, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(0.03125j)*krons([Y, Y, X, Y])))
+    expT = np.matmul(expT,scipy.linalg.expm(theta_3412*(-0.03125j)*krons([X, Y, Y, Y])))
+    return expT
+{% endhighlight %}
+
+Doing the minimization with this ansatz also gives -1.85105 Hartree.
+The script to do the minimization can be found here: [vqe_uccsd_hydrogen_trotter.py]({{ sit.baseurl }}/assets/python_scripts/vqe_uccsd_hydrogen_trotter.py)
+
+It should be noted that in general the trotterization might not give the same energy as the true ansatz.
+Further trotterization suffers from a worrying feature; the order of the terms might matter.
+
+If consider the term:
+
+$$ \exp\left(i(X\otimes X) - i(X\otimes Y)\right) =
+\left(\begin{matrix}
+0.156+0.000i & -0.000+0.000i & -0.000+0.000i & -0.698+0.698i\\
+0.000+0.000i & 0.156+0.000i & 0.698+0.698i & 0.000+0.000i\\
+0.000+0.000i & -0.698+0.698i & 0.156+0.000i & 0.000+0.000i\\
+0.698+0.698i & 0.000+0.000i & 0.000+0.000i & 0.156-0.000i
+\end{matrix}\right) $$
+
+The two different trotterized terms to first order will now be:
+
+$$ \exp\left(i(X\otimes X)\right)\exp\left(-i(X\otimes Y)\right) =
+\left(\begin{matrix}
+0.292+0.708i & 0.000+0.000i & 0.000+0.000i & -0.455+0.455i\\
+0.000+0.000i & 0.292-0.708i & 0.455+0.455i & 0.000+0.000i\\
+0.000+0.000i & -0.455+0.455i & 0.292+0.708i & 0.000+0.000i\\
+0.455+0.455i & 0.000+0.000i & 0.000+0.000i & 0.292-0.708i
+\end{matrix}\right) $$
+
+And,
+
+$$ \exp\left(-i(X\otimes Y)\right)\exp\left(i(X\otimes X)\right) =
+\left(\begin{matrix}
+0.292-0.708i & 0.000+0.000i & 0.000+0.000i & -0.455+0.455i\\
+0.000+0.000i & 0.292+0.708i & 0.455+0.455i & 0.000+0.000i\\
+0.000+0.000i & -0.455+0.455i & 0.292-0.708i & 0.000+0.000i\\
+0.455+0.455i & 0.000+0.000i & 0.000+0.000i & 0.292+0.708i
+\end{matrix}\right) $$
+
+As should be clear from this example, the order might matter, and the error might be large.

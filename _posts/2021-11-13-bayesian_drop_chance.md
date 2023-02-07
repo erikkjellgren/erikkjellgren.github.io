@@ -3,7 +3,7 @@ layout: post
 title: Estimating drop chances with Bayesian statistics
 lang: en
 lang-ref: Bayesian-Drop-Chances
-tag: gaming
+tag: computation
 ---
 
 In many games, different items or events have an associated chance to appear.

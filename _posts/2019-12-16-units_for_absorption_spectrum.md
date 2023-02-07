@@ -3,6 +3,7 @@ layout: post
 title: Unit for one-photon absorbtion spectrum
 lang: en
 lang-ref: Unit for one-photon absorbtion spectrum
+tag: quantum
 ---
 
 Following the source:

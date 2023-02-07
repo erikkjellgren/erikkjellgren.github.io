@@ -24,6 +24,19 @@ lang: en
         </h1>
         {{ post.content | strip_html | truncatewords: 40 }}
 
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} />
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+
       <hr>
       </div>
       {{ post.aside }}

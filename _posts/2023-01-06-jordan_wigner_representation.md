@@ -3,7 +3,7 @@ layout: post
 title: Jordan-Wigner representation
 lang: en
 lang-ref: Jordan-Wigner representation
-tag: computation
+tag: quantum
 ---
 
 Current quantum computers work with unitary gates.

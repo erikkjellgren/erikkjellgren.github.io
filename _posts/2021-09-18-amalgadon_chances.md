@@ -3,7 +3,7 @@ layout: post
 title: Perfect Amalgadon, exact chances
 lang: en
 lang-ref: Perfect-Amalgadon-exact-chances
-tag: gaming
+tag: computation
 ---
 
 In Hearthstone battlegrounds as of patch [18.6.1](https://playhearthstone.com/en-us/news/23554838) the [Amalgadon](https://hearthstone.fandom.com/wiki/Amalgadon) card have the following effect:

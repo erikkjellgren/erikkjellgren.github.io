@@ -3,7 +3,7 @@ layout: post
 title: Hellmann-Feynman forces with PySCF
 lang: en
 lang-ref: Hellmann-Feynman forces with PySCF
-tag: computation
+tag: quantum
 ---
 
 The [Hellmann-Feynman theorem](https://en.wikipedia.org/wiki/Hellmann%E2%80%93Feynman_theorem) states that:

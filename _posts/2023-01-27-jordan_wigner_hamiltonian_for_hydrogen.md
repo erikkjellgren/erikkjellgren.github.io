@@ -3,7 +3,7 @@ layout: post
 title: Jordan-Wigner Hamiltonian for H2
 lang: en
 lang-ref: Jordan-Wigner Hamiltonian for H2
-tag: computation
+tag: quantum
 ---
 
 The first step of using quantum computers to perform quantum chemical simulations is to translate the fermionic Hamiltonian to a qubit Hamiltonian (represented by Pauli operators).

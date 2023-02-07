@@ -3,7 +3,7 @@ layout: post
 title: Variational quantum eigensolver unitary coupled cluster ansatz
 lang: en
 lang-ref: Variational quantum eigensolver unitary coupled cluster ansatz
-tag: computation
+tag: quantum
 ---
 
 In a [previous post]({{ site.baseurl }}/2023/01/27/jordan_wigner_hamiltonian_for_hydrogen) the Jordan-Wigner representation of the molecular Hamiltonian for the hydrogen molecule was constructed.

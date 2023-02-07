@@ -3,7 +3,7 @@ layout: post
 title: Second quantization in matrix formulation
 lang: en
 lang-ref: Second quantization in matrix formulation
-tag: computation
+tag: quantum
 ---
 
 Coming from a theoretical chemistry background, I have mostly learned second quantization from [Molecular Electronic-Structure Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119019572).

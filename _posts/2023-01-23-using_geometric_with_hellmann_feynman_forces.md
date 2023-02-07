@@ -3,7 +3,7 @@ layout: post
 title: Using geomeTRIC with Hellmann-Feynman forces
 lang: en
 lang-ref: Using geomeTRIC with Hellmann-Feynman forces
-tag: computation
+tag: quantum
 ---
 
 In a [previous post]({{ site.baseurl }}/2023/01/20/hellmann_feynman_forces_with_pyscf/) the Hellmann-Feynman forces where calculated using [PySCF](https://github.com/pyscf/pyscf), and used [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) to optimize the geometry of the molecule.

@@ -3,7 +3,7 @@ layout: post
 title: Constructing FCI for H2 lazily
 lang: en
 lang-ref: Constructing FCI for H2 lazily
-tag: computation
+tag: quantum
 ---
 
 The hydrogen molecule in a minimal basis (STO-3G as an example) will have a full CI Hamiltonian that is only four by four (using determinants that are singlet).

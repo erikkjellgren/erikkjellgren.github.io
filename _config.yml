@@ -18,8 +18,8 @@ highlighter: rouge
 # Add pages here to add to header
 pages_list:
   dkfinance Models: '/dkfinance-models/en'
-  Game Analysis: '/game-analysis/'
-  Computational Methods: '/computational-methods/'
+  Computational: '/computational-methods/'
+  Quantum Chemistry: '/quantum-chemistry/'
   Blog: '/blog'
 
 plugins:

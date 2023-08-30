@@ -17,10 +17,10 @@ highlighter: rouge
 
 # Add pages here to add to header
 pages_list:
-  dkfinance Models: '/dkfinance-models/en'
+  dkfinance Models: '/dkfinance-models/en/'
   Computational Methods: '/computational-methods/'
   Quantum Chemistry: '/quantum-chemistry/'
-  Blog: '/blog'
+  Blog: '/blog/'
 
 plugins:
   - jekyll-seo-tag

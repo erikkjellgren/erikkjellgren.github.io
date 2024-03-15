@@ -89,3 +89,5 @@ It should be noted that the deviation from the benchmark from DKIGI is very clos
 
 As a retail investor, it is very hard to compare the benchmark tracking errors of different funds.
 Doing a simple average of the historical tracking error can often be very misleading because the average tracking can have a very large 95% confidence interval (this information is completely lost in a simple average).
+
+The code used to generate the plots can be found here: [bechmark_tracking_bayesian.py]({{ site.baseurl }}/assets/python_scripts/bechmark_tracking_bayesian.py)

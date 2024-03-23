@@ -7,7 +7,9 @@ tag: quantum
 ---
 
 I read a [paper](https://arxiv.org/abs/2302.11320) by [Keita Kanno](https://scholar.google.com/citations?user=O-T2BM8AAAAJ&hl=en&oi=ao) et al called *Quantum-Selected Configuration Interaction: classical diagonalization of Hamiltonians in subspaces selected by quantum computers*.
+In this work Kannon et al investigate the possibility to do a selected configuration interaction using a quantum device to select the determinants.
 
+With the knowledge that current quantum devices are very noisy, it got me wondering, how much better is qauntum selected configuration interaction (QSCI) than just picking determinants at random.
 
 
 

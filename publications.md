@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+Frederik Kamper Jørgensen, **Erik Rosendahl Kjellgren**, Hans Jørgen Aagaard Jensen, Erik Donovan Hedegård, [Multiconfigurational short-range density functional theory for nuclear magnetic resonance shielding constants with gauge-including atomic orbitals](https://aip.scitation.org/doi/full/10.1063/5.0106422), 2022, 157, 16, 164106
+
+---
+
 **Erik Rosendahl Kjellgren**, [Extending the capabilities of Multi-Configurational short-range Density Functional Theory based methods](https://portal.findresearcher.sdu.dk/en/publications/extending-the-capabilities-of-multi-configurational-short-range-d)
 
 ---
@@ -23,7 +27,7 @@ Peter Reinholdt, **Erik Rosendahl Kjellgren**, Casper Steinmann, Jógvan Magnus 
 
 ---
 
-Maximilian Scheurer, Peter Reinholdt, **Erik Rosendahl Kjellgren**, Jógvan Magnus Haugaard Olsen, Andreas Dreuw, Jacob Kongsted, [CPPE: An Open-Source C++ and Python Library for Polarizable Embedding](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00758) 2019, 15, 11, 6154-6163.
+Maximilian Scheurer, Peter Reinholdt, **Erik Rosendahl Kjellgren**, Jógvan Magnus Haugaard Olsen, Andreas Dreuw, Jacob Kongsted, [CPPE: An Open-Source C++ and Python Library for Polarizable Embedding](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00758), 2019, 15, 11, 6154-6163.
 
 <p align="center">
   <img src="/assets/figures/ct9b00758_0011.gif"/>

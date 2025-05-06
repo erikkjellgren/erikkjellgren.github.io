@@ -38,7 +38,6 @@ husomkostninger_min_indeks = husomkostninger_min / husomkostninger_min[0]
 
 plt.rc("font", size=12)
 plt.rc("axes", titlesize=12)
-plt.rc("axes", labelsize=12)
 plt.rc("xtick", labelsize=12)
 plt.rc("ytick", labelsize=12)
 plt.rc("legend", fontsize=12)

@@ -7,6 +7,10 @@ Frederik Kamper Jørgensen, **Erik Rosendahl Kjellgren**, Hans Jørgen Aagaard J
 
 ---
 
+**Erik Rosendahl Kjellgren**, Peter Reinholdt, Aaron Fitzpatrick, Walter N Talarico, Phillip WK Jensen, Stephan Sauer, Sonia Coriani, Stefan Knecht, Jacob Kongsted, [The variational quantum eigensolver self-consistent field method within a polarizable embedded framework](https://pubs.aip.org/aip/jcp/article/160/12/124114/3279486)
+
+---
+
 **Erik Rosendahl Kjellgren**, [Extending the capabilities of Multi-Configurational short-range Density Functional Theory based methods](https://portal.findresearcher.sdu.dk/en/publications/extending-the-capabilities-of-multi-configurational-short-range-d)
 
 ---

@@ -3,34 +3,28 @@ email:
   id: 'erikkjellgren@live.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope'
 
 github:
   id: 'erikkjellgren'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-github'
 
 twitter:
   id: 'Erik_Kjellgren'
-  href: 'https://twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  href: 'https://x.com/'
+  title: 'X'
+  fa-icon: 'fa-x-twitter'
 
-reddit:
-  id: 'ErikRK'
-  href: 'https://reddit.com/user/'
-  title: 'Reddit'
-  fa-icon: 'fa-reddit-square'
+bluesky:
+  id: 'erikkjellgren.bsky.social'
+  href: 'https://bsky.app/profile/'
+  title: 'Bluesky'
+  fa-icon: 'fa-bluesky'
 
 linkedin:
   id: 'erik-kjellgren-19108a184'
   href: 'https://linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin-square'
-
-stackexchange:
-  id: '5374673/erik-kjellgren'
-  href: 'https://stackexchange.com/users/'
-  title: 'StackExchange'
-  fa-icon: 'fa-stack-exchange'
+  fa-icon: 'fa-linkedin'

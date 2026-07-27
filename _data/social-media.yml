@@ -11,12 +11,6 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github'
 
-twitter:
-  id: 'Erik_Kjellgren'
-  href: 'https://x.com/'
-  title: 'X'
-  fa-icon: 'fa-x-twitter'
-
 bluesky:
   id: 'erikkjellgren.bsky.social'
   href: 'https://bsky.app/profile/'

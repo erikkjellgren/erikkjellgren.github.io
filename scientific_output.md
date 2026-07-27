@@ -19,6 +19,7 @@ title: Scientific Output
 
 # Peer-reviewed publications
 
+
 Peter Reinholdt, **Erik Kjellgren**, Karl Michael Ziems, Sonia Coriani, Stephan PA Sauer, Jacob Kongsted, [Self-consistent Quantum Linear Response with a Polarizable Embedding Environment](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c07534), *The Journal of Physical Chemistry A*, 2025.
 
 <p align="center">
@@ -32,6 +33,10 @@ Frederik Kamper Jørgensen, **Erik Rosendahl Kjellgren**, Hans Jørgen Aagaard J
 ---
 
 Karl Michael Ziems, **Erik Rosendahl Kjellgren**, Stephan PA Sauer, Jacob Kongsted, Sonia Coriani, [Understanding and mitigating noise in molecular quantum linear response for spectroscopic properties on quantum computers](https://pubs.rsc.org/en/content/articlehtml/2025/sc/d4sc05839a), *Chemical Science*, 2025.
+
+<p align="center">
+  <img src="/assets/figures/d4sc05839a-ga.png"/>
+</p>
 
 ---
 

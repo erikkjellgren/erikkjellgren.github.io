@@ -103,10 +103,6 @@ Theo Juncker von Buchwald, Karl Michael Ziems, **Erik Rosendahl Kjellgren**, Ste
 
 ---
 
-Sofie Martins, **Erik Kjellgren**, Emiliano Molinaro, Claudio Pica, Antonio Rago, [Scaling SU(2) to 1000 GPUs using HiRep](https://pos.sissa.it/466/453/pdf), *Proceedings of Science*, 2024.
-
----
-
 Dániel Nagy, Peter Reinholdt, Phillip WK Jensen, **Erik Rosendahl Kjellgren**, Karl Michael Ziems, Aaron Fitzpatrick, Stefan Knecht, Jacob Kongsted, Sonia Coriani, Stephan PA Sauer, [Electric Field Gradient Calculations for Ice VIII and IX Using Polarizable Embedding: A Comparative Study on Classical Computers and Quantum Simulators](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.4c02697), *The Journal of Physical Chemistry A*, 2024.
 
 <p align="center">
@@ -140,10 +136,6 @@ Karl Michael Ziems, **Erik Rosendahl Kjellgren**, Peter Reinholdt, Phillip WK Je
 ---
 
 **Erik Rosendahl Kjellgren**, Peter Reinholdt, Aaron Fitzpatrick, Walter N Talarico, Phillip WK Jensen, Stephan Sauer, Sonia Coriani, Stefan Knecht, Jacob Kongsted, [The variational quantum eigensolver self-consistent field method within a polarizable embedded framework](https://pubs.aip.org/aip/jcp/article/160/12/124114/3279486), *The Journal of Chemical Physics*, 2024.
-
----
-
-Sofie Martins, **Erik Kjellgren**, Emiliano Molinaro, Claudio Pica, Antonio Rago, [GPU-accelerated Higher Representations of Wilson Fermions with HiRep](https://pos.sissa.it/451/035/pdf), *Proceedings of Science*, 2023.
 
 ---
 
@@ -192,6 +184,16 @@ Maximilian Scheurer, Peter Reinholdt, **Erik Rosendahl Kjellgren**, Jógvan Mag
 <p align="center">
   <img src="/assets/figures/1-s2.0-S1093326315300140-fx1.jpg"/>
 </p>
+
+---
+
+# Conference proceedings
+
+Sofie Martins, **Erik Kjellgren**, Emiliano Molinaro, Claudio Pica, Antonio Rago, [Scaling SU(2) to 1000 GPUs using HiRep](https://pos.sissa.it/466/453/pdf), *Proceedings of Science*, 2024.
+
+---
+
+Sofie Martins, **Erik Kjellgren**, Emiliano Molinaro, Claudio Pica, Antonio Rago, [GPU-accelerated Higher Representations of Wilson Fermions with HiRep](https://pos.sissa.it/451/035/pdf), *Proceedings of Science*, 2023.
 
 ---
 

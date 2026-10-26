@@ -11,6 +11,11 @@ title: Scientific Output
 
 # Talks
 
+[Quantum Software and Quantum Programming](https://www.kvantify.com/news/quantum-software-and-quantum-programming) (invited talk), Quantum Circuits for Spin-Adapted Fermionic
+Operators, [qsqp\_presentation.pdf]({{ site.baseurl }}/assets/documents/qsqp_presentation.pdf)
+
+---
+
 [SQC25 - 2nd Annual DQC Scientific Quantum Conference](https://dqc.dk/event/2nd-annual-dqc-scientific-quantum-conference/) (invited talk), Enabling Quantum Chemistry Using Quantum Computers, [dqc\_presentation.pdf]({{ site.baseurl }}/assets/documents/dqc_presentation.pdf)
 
 ---
